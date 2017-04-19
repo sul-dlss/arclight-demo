@@ -11,8 +11,8 @@ bundle install
 Then, to run the server:
 
 ```
-bundle exec rake demo:server
-bundle exec rake demo:seed
+bundle exec rake demo:server  # runs both Rails and Solr
+bundle exec rake demo:seed    # to load data from data/ead folder
 ```
 
 ## Updating Arclight
