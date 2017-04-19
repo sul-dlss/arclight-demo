@@ -27,7 +27,7 @@ bundle update arclight
 
 ## Regenerating the application
 
-In the oft case that we need to re-run the rails generators, these are the basic steps for regenerating the demo application:
+In the oft case that we need to rebuild the demo application from scratch, these are the basic steps for regenerating the demo application:
 
 ```
 rails new arclight-demo -m https://raw.githubusercontent.com/sul-dlss/arclight/master/template.rb
