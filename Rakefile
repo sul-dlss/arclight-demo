@@ -5,7 +5,7 @@ require_relative 'config/application'
 
 Rails.application.load_tasks
 
-require 'solr_wrapper/rake_task' unless Rails.env.production?
+require 'solr_wrapper/rake_task'
 
 namespace :demo do
   desc 'Run Solr and Blacklight for interactive development'

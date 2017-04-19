@@ -54,9 +54,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'blacklight', github: 'projectblacklight/blacklight'
 gem 'arclight', github: 'sul-dlss/arclight'
-group :development, :test do
-  gem 'solr_wrapper', '>= 0.3'
-end
+gem 'solr_wrapper', '>= 0.3' # we use Puma/solr_wrapper in production
 
 gem 'rsolr', '~> 1.0'
 gem 'devise'
