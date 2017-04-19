@@ -28,4 +28,5 @@ These are the basic steps for regenerating the demo application:
 ```
 rails new arclight-demo -m https://raw.githubusercontent.com/sul-dlss/arclight/master/template.rb
 rm -rf solr && cp -r path/to/arclight/solr ./
+cp path/to/arclight/spec/fixtures/ead/* ./data/ead/
 ```
