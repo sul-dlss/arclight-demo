@@ -34,6 +34,5 @@ rails new arclight-demo -m https://raw.githubusercontent.com/sul-dlss/arclight/m
 rm -rf solr && cp -r path/to/arclight/solr ./
 cp path/to/arclight/spec/fixtures/ead/* ./data/ead/
 vi Rakefile # add demo:* tasks
-vi Gemfile Rakefile # enable solr_wrapper for production
 vi .travis.yml # add Travis configuration
 ```
