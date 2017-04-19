@@ -38,6 +38,7 @@ gem 'jbuilder', '~> 2.5'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
+  gem 'solr_wrapper', '>= 0.3'
 end
 
 group :development do
@@ -58,7 +59,6 @@ end
 
 gem 'blacklight', github: 'projectblacklight/blacklight'
 gem 'arclight', github: 'sul-dlss/arclight'
-gem 'solr_wrapper', '>= 0.3' # we use Puma/solr_wrapper in production
 
 gem 'rsolr', '~> 1.0'
 gem 'devise'
