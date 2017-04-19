@@ -23,7 +23,7 @@ To update to a new version of Arclight:
 bundle update arclight
 ```
 
-**NOTE** that if the solr configuration or the fixture data changes, you will need to copy those over manually.
+**NOTE** that if the solr configuration or the fixture data changes, you will need to copy those over manually. Same with the arclight generators (e.g., catalog_controller.rb), you will need to run the `arclight:install` again.
 
 ## Regenerating the application
 
