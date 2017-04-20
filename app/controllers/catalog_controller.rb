@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 class CatalogController < ApplicationController
 
+  include BlacklightRangeLimit::ControllerOverride
+
   include Blacklight::Catalog
 
   configure_blacklight do |config|
@@ -71,6 +73,7 @@ class CatalogController < ApplicationController
 
     config.add_facet_field 'collection_sim', label: 'Collection'
     config.add_facet_field 'creator_sim', label: 'Creator'
+    config.add_facet_field 'date_range_sim', label: 'Date range', range: true
     config.add_facet_field 'level_sim', label: 'Level'
     config.add_facet_field 'names_sim', label: 'Names'
     config.add_facet_field 'repository_sim', label: 'Repository'
@@ -96,17 +99,6 @@ class CatalogController < ApplicationController
 
     # solr fields to be displayed in the show (single result) view
     #   The ordering of the field names is the order of the display
-    config.add_show_field 'title_display', label: 'Title'
-    config.add_show_field 'unitid_ssm', label: 'Unit ID'
-    config.add_show_field 'repository_ssm', label: 'Repository'
-    config.add_show_field 'unitdate_ssm', label: 'Date'
-    config.add_show_field 'creator_ssm', label: 'Creator'
-    config.add_show_field 'language_ssm', label: 'Language'
-    config.add_show_field 'scopecontent_ssm', label: 'Scope Content'
-    config.add_show_field 'extent_ssm', label: 'Physical Description'
-    config.add_show_field 'accessrestrict_ssm', label: 'Conditions Governing Access'
-    config.add_show_field 'collection_ssm', label: 'Collection Title'
-    config.add_show_field 'geogname_ssm', label: 'Place'
 
     # "fielded" search configuration. Used by pulldown among other places.
     # For supported keys in hash, see rdoc for Blacklight::SearchFields
@@ -142,7 +134,24 @@ class CatalogController < ApplicationController
     config.autocomplete_path = 'suggest'
 
     ##
+    # Arclight Configurations
+
+    ##
     # Configuration for partials
     config.index.partials.insert(0, :index_breadcrumb)
+    
+    config.show.metadata_partials = [:summary_field, :access_field]
+    
+    # Collection Show Page - Summary Section
+    config.add_summary_field 'creator_ssm', label: 'Creator'
+    config.add_summary_field 'abstract_ssm', label: 'Abstract'
+    config.add_summary_field 'extent_ssm', label: 'Extent'
+    config.add_summary_field 'language_ssm', label: 'Language'
+    config.add_summary_field 'prefercite_ssm', label: 'Preferred citation'
+
+    # Collection Show Page - Access Section
+    config.add_access_field 'accessrestrict_ssm', label: 'Conditions Governing Access'
+    config.add_access_field 'userestrict_ssm', label: 'Terms Of Use'
+
   end
 end
