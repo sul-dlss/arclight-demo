@@ -78,6 +78,7 @@ class CatalogController < ApplicationController
     config.add_facet_field 'names_sim', label: 'Names'
     config.add_facet_field 'repository_sim', label: 'Repository'
     config.add_facet_field 'geogname_sim', label: 'Place'
+    config.add_facet_field 'access_subjects_sim', label: 'Subject'
 
     # Have BL send all facet field names to Solr, which has been the default
     # previously. Simply remove these lines if you'd rather use Solr request
@@ -136,12 +137,14 @@ class CatalogController < ApplicationController
     ##
     # Arclight Configurations
 
+    config.show.document_presenter_class = Arclight::ShowPresenter
+
     ##
     # Configuration for partials
     config.index.partials.insert(0, :index_breadcrumb)
-    
+
     config.show.metadata_partials = [:summary_field, :access_field]
-    
+
     # Collection Show Page - Summary Section
     config.add_summary_field 'creator_ssm', label: 'Creator'
     config.add_summary_field 'abstract_ssm', label: 'Abstract'
