@@ -12,11 +12,23 @@ GIT
       twitter-typeahead-rails (= 0.11.1.pre.corejavascript)
 
 GIT
+  remote: https://github.com/projectblacklight/blacklight_range_limit.git
+  revision: 47174bbb9f46cefb68c3d7cdd7cd4d2a6926e355
+  branch: blacklight-7
+  specs:
+    blacklight_range_limit (6.1.2)
+      blacklight
+      jquery-rails
+      rails (>= 3.0)
+      tether-rails
+
+GIT
   remote: https://github.com/sul-dlss/arclight.git
-  revision: a3636498d5b2a557e667df6a43e87cbd1f5c58a7
+  revision: 949b8ad7d620193aa11c7eca085734b291333978
   specs:
     arclight (0.0.1)
       blacklight
+      blacklight_range_limit
       rails (>= 4.2.6, < 6)
       solr_ead
 
@@ -192,7 +204,7 @@ GEM
       sprockets (>= 2.8, < 4.0)
       sprockets-rails (>= 2.0, < 4.0)
       tilt (>= 1.1, < 3)
-    solr_ead (0.7.3)
+    solr_ead (0.7.4)
       om (>= 3.0.0, < 4)
       rsolr
       sanitize
@@ -221,6 +233,8 @@ GEM
       sprockets (>= 3.0.0)
     sqlite3 (1.3.13)
     stomp (1.4.3)
+    tether-rails (1.4.0)
+      rails (>= 3.1)
     thor (0.19.4)
     thread_safe (0.3.6)
     tilt (2.0.7)
@@ -253,6 +267,7 @@ PLATFORMS
 DEPENDENCIES
   arclight!
   blacklight!
+  blacklight_range_limit!
   byebug
   coffee-rails (~> 4.2)
   devise
