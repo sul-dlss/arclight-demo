@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: 078d278c3cee233c8384a2ba08f322e0d519363f
+  revision: df877345587112dfc7b9cee7d0acef35744d661d
   specs:
     blacklight (7.0.0.alpha)
       bootstrap (>= 4.0.0.alpha5, < 5)
@@ -24,7 +24,7 @@ GIT
 
 GIT
   remote: https://github.com/sul-dlss/arclight.git
-  revision: 707bfeb66e3debc0ab37ef9976f105224ba33bdb
+  revision: 5485d79ef9c5efbfe384faa6a5d0694e64d64fab
   specs:
     arclight (0.0.1)
       blacklight
@@ -134,7 +134,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
     loofah (2.0.3)
       nokogiri (>= 1.5.9)
-    mail (2.6.4)
+    mail (2.6.5)
       mime-types (>= 1.16, < 4)
     method_source (0.8.2)
     mime-types (3.1)

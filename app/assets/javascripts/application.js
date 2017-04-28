@@ -17,6 +17,8 @@
 //= require tether
 // Required by Blacklight
 //= require blacklight/blacklight
+//= require bootstrap/scrollspy
+
 
 //= require_tree .
 
