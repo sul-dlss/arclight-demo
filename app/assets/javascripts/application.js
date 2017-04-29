@@ -19,6 +19,10 @@
 //= require blacklight/blacklight
 //= require bootstrap/scrollspy
 
+//= require bootstrap/tab
+
+//= require bootstrap/scrollspy
+
 
 //= require_tree .
 

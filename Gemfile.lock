@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: df877345587112dfc7b9cee7d0acef35744d661d
+  revision: f659b905af0eb3f05ab536fa32f36dad89a33a55
   specs:
     blacklight (7.0.0.alpha)
       bootstrap (>= 4.0.0.alpha5, < 5)
@@ -8,7 +8,7 @@ GIT
       globalid
       kaminari (>= 0.15)
       nokogiri (~> 1.6)
-      rails (>= 4.2, < 6)
+      rails (~> 5.0)
       twitter-typeahead-rails (= 0.11.1.pre.corejavascript)
 
 GIT
@@ -24,12 +24,12 @@ GIT
 
 GIT
   remote: https://github.com/sul-dlss/arclight.git
-  revision: 5485d79ef9c5efbfe384faa6a5d0694e64d64fab
+  revision: 1ca9d0888d1846fc0195b9523d4eb9b792943e8f
   specs:
     arclight (0.0.1)
       blacklight
       blacklight_range_limit
-      rails (>= 4.2.6, < 6)
+      rails (>= 4.2.6, < 5.1)
       solr_ead
 
 GEM

@@ -4,6 +4,7 @@ class CatalogController < ApplicationController
   include BlacklightRangeLimit::ControllerOverride
 
   include Blacklight::Catalog
+  include Arclight::Catalog
 
   configure_blacklight do |config|
     ## Class for sending and receiving requests from a search index
@@ -159,10 +160,8 @@ class CatalogController < ApplicationController
       :summary_field,
       :access_field,
       :background_field,
-      :scope_and_arrangement_field,
       :related_field,
       :indexed_terms_field,
-      :admin_info_field
     ]
 
     config.show.context_sidebar_items = [
@@ -189,11 +188,12 @@ class CatalogController < ApplicationController
     config.add_access_field 'userestrict_ssm', label: 'Terms Of Use'
 
     # Collection Show Page - Background Section
+    config.add_background_field 'scopecontent_ssm', label: 'Scope and Content'
     config.add_background_field 'bioghist_ssm', label: 'Biographical / Historical'
-
-    # Collection Show Page - Scope and Arrangement Section
-    config.add_scope_and_arrangement_field 'scopecontent_ssm', label: 'Scope and Content'
-    config.add_scope_and_arrangement_field 'arrangement_ssm', label: 'Arrangement'
+    config.add_background_field 'acqinfo_ssm', label: 'Acquisition information'
+    config.add_background_field 'appraisal_ssm', label: 'Appraisal information'
+    config.add_background_field 'custodhist_ssm', label: 'Custodial history'
+    config.add_background_field 'processinfo_ssm', label: 'Processing information'
 
     # Collection Show Page - Related Section
     config.add_related_field 'relatedmaterial_ssm', label: 'Related material'
@@ -209,13 +209,13 @@ class CatalogController < ApplicationController
       last_word_connector: '<br/>'
     }
 
-    # Collection Show Page - Administrative Information Section
-    config.add_admin_info_field 'acqinfo_ssm', label: 'Acquisition information'
-    config.add_admin_info_field 'appraisal_ssm', label: 'Appraisal information'
-    config.add_admin_info_field 'custodhist_ssm', label: 'Custodial history'
-    config.add_admin_info_field 'processinfo_ssm', label: 'Processing information'
-
     config.show.partials.insert(0, :arclight_online_content_indicator)
     config.show.partials.insert(0, :arclight_document_header)
+
+    ##
+    # Hierarchy Index View
+    config.view.hierarchy
+    config.view_config(:hierarchy).document_actions.delete(:bookmark)
+    config.view.hierarchy.display_control = false
   end
 end
