@@ -74,14 +74,14 @@ class CatalogController < ApplicationController
 
     config.add_facet_field 'collection_sim', label: 'Collection'
     config.add_facet_field 'creator_ssim', label: 'Creator'
+    config.add_facet_field 'creators_ssim', label: 'Creator', show: false
     config.add_facet_field 'date_range_sim', label: 'Date range', range: true
     config.add_facet_field 'level_sim', label: 'Level'
-    config.add_facet_field 'names_sim', label: 'Names'
+    config.add_facet_field 'names_ssim', label: 'Names'
     config.add_facet_field 'repository_sim', label: 'Repository'
     config.add_facet_field 'geogname_sim', label: 'Place'
-    # Temp disable access_subjects_ssim for later revision
-    #config.add_facet_field 'access_subjects_ssim', label: 'Subject'
-    config.add_facet_field 'all_subjects_ssim', label: 'All Subjects'
+    config.add_facet_field 'places_ssim', label: 'Places', show:false
+    config.add_facet_field 'access_subjects_ssim', label: 'Subject'
 
     # Have BL send all facet field names to Solr, which has been the default
     # previously. Simply remove these lines if you'd rather use Solr request
@@ -153,7 +153,7 @@ class CatalogController < ApplicationController
     # Configuration for partials
     config.index.partials.insert(0, :arclight_online_content_indicator)
     config.index.partials.insert(0, :index_breadcrumb)
-    config.index.partials.insert(0, :arclight_document_header)
+    config.index.partials.insert(0, :arclight_document_index_header)
 
 
     config.show.metadata_partials = [
@@ -170,7 +170,7 @@ class CatalogController < ApplicationController
     ]
 
     # Collection Show Page - Summary Section
-    config.add_summary_field 'creator_ssim', label: 'Creator', :link_to_facet => true
+    config.add_summary_field 'creators_ssim', label: 'Creator', :link_to_facet => true
     config.add_summary_field 'abstract_ssm', label: 'Abstract'
     config.add_summary_field 'extent_ssm', label: 'Extent'
     config.add_summary_field 'language_ssm', label: 'Language'
@@ -203,19 +203,40 @@ class CatalogController < ApplicationController
     config.add_related_field 'originalsloc_ssm', label: 'Location of originals'
 
     # Collection Show Page - Indexed Terms Section
-    config.add_indexed_terms_field 'all_subjects_ssim', label: 'Subjects', :link_to_facet => true, separator_options: {
+    config.add_indexed_terms_field 'access_subjects_ssim', label: 'Subjects', :link_to_facet => true, separator_options: {
       words_connector: '<br/>',
       two_words_connector: '<br/>',
       last_word_connector: '<br/>'
     }
 
+    config.add_indexed_terms_field 'names_ssim', label: 'Names', :link_to_facet => true, separator_options: {
+      words_connector: '<br/>',
+      two_words_connector: '<br/>',
+      last_word_connector: '<br/>'
+    }
+    config.add_indexed_terms_field 'places_ssim', label: 'Places', :link_to_facet => true, separator_options: {
+      words_connector: '<br/>',
+      two_words_connector: '<br/>',
+      last_word_connector: '<br/>'
+    }
+        
+    # Collection Show Page - Administrative Information Section
+    config.add_admin_info_field 'acqinfo_ssm', label: 'Acquisition information'
+    config.add_admin_info_field 'appraisal_ssm', label: 'Appraisal information'
+    config.add_admin_info_field 'custodhist_ssm', label: 'Custodial history'
+    config.add_admin_info_field 'processinfo_ssm', label: 'Processing information'
+
     config.show.partials.insert(0, :arclight_online_content_indicator)
-    config.show.partials.insert(0, :arclight_document_header)
+    config.show.partials.insert(0, :arclight_document_show_header)
+
+    # Remove unused show document actions
+    %i[citation email sms].each do |action|
+      config.view_config(:show).document_actions.delete(action)
+    end
 
     ##
     # Hierarchy Index View
     config.view.hierarchy
-    config.view_config(:hierarchy).document_actions.delete(:bookmark)
     config.view.hierarchy.display_control = false
   end
 end
