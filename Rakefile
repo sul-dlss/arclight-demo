@@ -12,6 +12,9 @@ require 'solr_wrapper/rake_task' unless Rails.env.production?
 solr_config = YAML.load(ERB.new(File.read('./config/blacklight.yml')).result)
 ENV['SOLR_URL'] = solr_config[Rails.env]['url']
 
+# Read the repository configuration
+repo_config = YAML.load(File.read('./config/repositories.yml'))
+
 namespace :demo do
   desc 'Run Solr and Rails'
   task :server, [:rails_server_args] do |_t, args|
@@ -24,6 +27,10 @@ namespace :demo do
 
   desc 'Seed fixture data to Solr'
   task :seed do
-    system('DIR=./data/ead rake arclight:index_dir')
+    # Identify the configured repos
+    repo_config.keys.map do |repository|
+      # Index a directory with a given repository ID that matches its filename
+      system("DIR=./data/ead/#{repository} REPOSITORY_ID=#{repository} rake arclight:index_dir")
+    end
   end
 end
