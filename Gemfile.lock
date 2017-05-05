@@ -24,7 +24,7 @@ GIT
 
 GIT
   remote: https://github.com/sul-dlss/arclight.git
-  revision: 733c4a566114fdd325099b29015f60fa3fc1d72a
+  revision: ed73b69696dd5f33ae8835b6fc9f802a9d1ea10f
   specs:
     arclight (0.0.1)
       blacklight
