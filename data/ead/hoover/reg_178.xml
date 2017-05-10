@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
-<ead>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
     <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-CSt-H" url="http://www.oac.cdlib.org/findaid/ark:/13030/tf5c600413/">reg_178.xml</eadid>
         <filedesc>
@@ -104,7 +103,7 @@
         <accruals id="ref7">
             <head>Accruals</head>
             <p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at 
-                <extref actuate="onrequest" show="new" href="http://searchworks.stanford.edu/"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+                <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://searchworks.stanford.edu/"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
         </accruals>
         <bioghist id="ref9">
             <head>Biographical Note</head>
@@ -8077,7 +8076,7 @@
                         <head>Access</head>
                         <p>Digital use copies of the ink sketches are available on workstations in the Archives reading room. In addition, the sketches have been published in 
                             <emph render="italic">Chang zheng hua ji</emph> by Zhen Huang, a copy of which is available in the Hoover Library: 
-                            <extref actuate="onrequest" show="new" href="http://searchworks.stanford.edu/view/6722695"> http://searchworks.stanford.edu/view/6722695</extref></p>
+                            <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://searchworks.stanford.edu/view/6722695">http://searchworks.stanford.edu/view/6722695</extref></p>
                     </accessrestrict>
                 </c02>
                 <c02 id="ref1141" level="file">

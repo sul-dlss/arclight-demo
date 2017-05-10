@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
-<ead>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
     <eadheader findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-CSt-H">reg_003.xml</eadid>
         <filedesc>
@@ -27,7 +26,7 @@
                 <date>2017-02-09T10:39-0800</date>
             </creation>
             <langusage>Description is in 
-                <language langcode="eng" scriptcode="latn">English.</language></langusage>
+                <language langcode="eng" scriptcode="Latn">English.</language></langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
@@ -121,7 +120,7 @@
                 <extent>(97.8 linear feet)</extent>
             </physdesc>           
             <abstract id="ref2" label="Abstract">Speeches and writings, correspondence, notes, statistics, printed matter, sound recordings, videotapes, and photographs relating to economic theory, economic conditions in the United States, and governmental economic policy. Digitized copies of many of the sound and video recordings in this collection, as well as some of Friedman's writings, are available at 
-                <extref actuate="onrequest" show="new" href="http://miltonfriedman.hoover.org">http://miltonfriedman.hoover.org</extref></abstract>
+                <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://miltonfriedman.hoover.org">http://miltonfriedman.hoover.org</extref></abstract>
             <physloc id="ref3" label="Physical Location">Hoover Institution Archives</physloc>
             <origination label="Creator">
                 <persname source="ingest">Friedman, Milton, 1912-2006</persname>
@@ -148,7 +147,7 @@
         <accruals id="ref9">
             <head>Accruals</head>
             <p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at 
-                <extref actuate="onrequest" show="new" href="http://searchworks.stanford.edu/"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+                <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://searchworks.stanford.edu/"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
         </accruals>
         <altformavail id="ref8">
             <head>Alternative Form Available</head>
@@ -157,7 +156,7 @@
         <relatedmaterial id="ref2976">
             <head>Related Collections</head>
             <p>Collected Works of Milton Friedman website, 
-                <extref actuate="onrequest" show="new" href="http://miltonfriedman.hoover.org">http://miltonfriedman.hoover.org</extref></p>
+                <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://miltonfriedman.hoover.org">http://miltonfriedman.hoover.org</extref></p>
             <p>Collected Works of Milton Friedman Project records, Hoover Institution Archives</p>
             <p>The Legacy of Milton and Rose Friedman's Free to Choose conference proceedings, 2003, Hoover Institution Archives</p>
             <p>Free to Choose: video tape, 1980, Hoover Institution Archives</p>
@@ -11374,7 +11373,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004950</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52386">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52386">
                         </dao>
                     </c03>
                     <c03 id="ref1598" level="item">
@@ -11388,7 +11387,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004951</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52387">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52387">
                         </dao>
                     </c03>
                     <c03 id="ref1601" level="item">
@@ -11402,7 +11401,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004952</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52388">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52388">
                         </dao>
                     </c03>
                     <c03 id="ref1604" level="item">
@@ -11416,7 +11415,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004953</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52389">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52389">
                         </dao>
                     </c03>
                     <c03 id="ref1607" level="item">
@@ -11430,7 +11429,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004954</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52390">                           
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52390">                           
                         </dao>
                     </c03>
                     <c03 id="ref1610" level="item">
@@ -11444,7 +11443,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004955</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52391">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52391">
                         </dao>
                     </c03>
                     <c03 id="ref1613" level="item">
@@ -11458,7 +11457,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004956</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52392">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52392">
                         </dao>
                     </c03>
                     <c03 id="ref1616" level="item">
@@ -11472,7 +11471,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004957</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52393">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52393">
                         </dao>
                     </c03>
                     <c03 id="ref1619" level="item">
@@ -11486,7 +11485,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004958</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52394">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52394">
                         </dao>
                     </c03>
                     <c03 id="ref1622" level="item">
@@ -11500,7 +11499,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004959</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52395">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52395">
                         </dao>
                     </c03>
                     <c03 id="ref1625" level="item">
@@ -11514,7 +11513,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004961</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52396">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52396">
                         </dao>
                     </c03>
                     <c03 id="ref1628" level="item">
@@ -11532,7 +11531,7 @@
                             <head>Scope and Contents note</head>
                             <p>William Clark joins the series for his first appearance and interviews Milton Friedman.</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52367">
+                        <dao xlink:actuate="onRequest" xlink:show="new" xlink:href="http://miltonfriedman.hoover.org/objects/52367">
 
                         </dao>
                     </c03>
@@ -11547,7 +11546,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004964</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52368">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52368">
 
                         </dao>
                     </c03>
@@ -11563,7 +11562,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004968</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52372">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52372">
 
                         </dao>
                     </c03>
@@ -11578,7 +11577,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004969</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52373">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52373">
 
                         </dao>
                     </c03>
@@ -11597,7 +11596,7 @@
                             <head>Scope and Contents note</head>
                             <p>Friedman discusses M1 and M2.</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52374">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52374">
 
                         </dao>
                     </c03>
@@ -11612,7 +11611,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004971</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52375">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52375">
 
                         </dao>
                     </c03>
@@ -11627,7 +11626,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004974</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52371">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52371">
 
                         </dao>
                     </c03>
@@ -11642,7 +11641,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004978</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52370">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52370">
 
                         </dao>
                     </c03>
@@ -11657,7 +11656,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004986</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52378">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52378">
 
                         </dao>
                     </c03>
@@ -11672,7 +11671,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004987</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52379">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52379">
 
                         </dao>
                     </c03>
@@ -11687,7 +11686,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004988</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52380">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52380">
 
                         </dao>
                     </c03>
@@ -11702,7 +11701,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004993</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52377">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52377">
 
                         </dao>
                     </c03>
@@ -11717,7 +11716,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0004999</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52376">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52376">
 
                         </dao>
                     </c03>
@@ -11732,7 +11731,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005002</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52366">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52366">
 
                         </dao>
                     </c03>
@@ -11747,7 +11746,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005004</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52365">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52365">
 
                         </dao>
                     </c03>
@@ -11762,7 +11761,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005009</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52364">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52364">
 
                         </dao>
                     </c03>
@@ -11781,7 +11780,7 @@
                             <head>Scope and Contents note</head>
                             <p>This recording also includes dictation about a trip to Israel.</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52308">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52308">
 
                         </dao>
                     </c03>
@@ -11796,7 +11795,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005012</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52363">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52363">
 
                         </dao>
                     </c03>
@@ -11811,7 +11810,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005284</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52309">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52309">
 
                         </dao>
                     </c03>
@@ -11826,7 +11825,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005285</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52310">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52310">
 
                         </dao>
                     </c03>
@@ -11841,7 +11840,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005290</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52315">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52315">
 
                         </dao>
                     </c03>
@@ -11856,7 +11855,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005294</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52314">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52314">
 
                         </dao>
                     </c03>
@@ -11871,7 +11870,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005298</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52312">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52312">
 
                         </dao>
                     </c03>
@@ -11886,7 +11885,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005299</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52313">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52313">
 
                         </dao>
                     </c03>
@@ -11901,7 +11900,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005305</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52311">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52311">
 
                         </dao>
                     </c03>
@@ -11916,7 +11915,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005311</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52318">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52318">
 
                         </dao>
                     </c03>
@@ -11931,7 +11930,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005312</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52319">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52319">
 
                         </dao>
                     </c03>
@@ -11950,7 +11949,7 @@
                             <head>Scope and Contents note</head>
                             <p>Milton Friedman and Paul Samuelson give economic forecasts for 1970 (Friedman part 1, Samuelson part 2).</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52320">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52320">
 
                         </dao>
                     </c03>
@@ -11965,7 +11964,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005321</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52316">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52316">
 
                         </dao>
                     </c03>
@@ -11980,7 +11979,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005322</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52317">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52317">
 
                         </dao>
                     </c03>
@@ -11995,7 +11994,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005327</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52321">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52321">
 
                         </dao>
                     </c03>
@@ -12010,7 +12009,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005433</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52299">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52299">
 
                         </dao>
                     </c03>
@@ -12025,7 +12024,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005434</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52300">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52300">
 
                         </dao>
                     </c03>
@@ -12040,7 +12039,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005436</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52301">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52301">
 
                         </dao>
                     </c03>
@@ -12055,7 +12054,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005437</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52302">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52302">
 
                         </dao>
                     </c03>
@@ -12070,7 +12069,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005439</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52303">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52303">
 
                         </dao>
                     </c03>
@@ -12085,7 +12084,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005440</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52304">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52304">
 
                         </dao>
                     </c03>
@@ -12100,7 +12099,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0002063</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52401">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52401">
 
                         </dao>
                     </c03>
@@ -12115,7 +12114,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0002066</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52400">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52400">
 
                         </dao>
                     </c03>
@@ -12130,7 +12129,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005441</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52305">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52305">
 
                         </dao>
                     </c03>
@@ -12145,7 +12144,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005443</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52306">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52306">
 
                         </dao>
                     </c03>
@@ -12160,7 +12159,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005445</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52307">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52307">
 
                         </dao>
                     </c03>
@@ -12175,7 +12174,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005599</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52322">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52322">
 
                         </dao>
                     </c03>
@@ -12190,7 +12189,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005600</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52323">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52323">
 
                         </dao>
                     </c03>
@@ -12205,7 +12204,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005601</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52324">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52324">
 
                         </dao>
                     </c03>
@@ -12220,7 +12219,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005602</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52325">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52325">
 
                         </dao>
                     </c03>
@@ -12235,7 +12234,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005603</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52326">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52326">
 
                         </dao>
                     </c03>
@@ -12250,7 +12249,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005604</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52327">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52327">
 
                         </dao>
                     </c03>
@@ -12265,7 +12264,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005605</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52328">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52328">
 
                         </dao>
                     </c03>
@@ -12280,7 +12279,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005606</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52329">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52329">
 
                         </dao>
                     </c03>
@@ -12295,7 +12294,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005607</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52330">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52330">
 
                         </dao>
                     </c03>
@@ -12310,7 +12309,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005608</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52331">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52331">
 
                         </dao>
                     </c03>
@@ -12325,7 +12324,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005609</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52332">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52332">
 
                         </dao>
                     </c03>
@@ -12340,7 +12339,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005610</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52333">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52333">
 
                         </dao>
                     </c03>
@@ -12355,7 +12354,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005611</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52334">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52334">
 
                         </dao>
                     </c03>
@@ -12370,7 +12369,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005612</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52335">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52335">
 
                         </dao>
                     </c03>
@@ -12385,7 +12384,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005613</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52336">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52336">
 
                         </dao>
                     </c03>
@@ -12400,7 +12399,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005614</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52337">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52337">
 
                         </dao>
                     </c03>
@@ -12415,7 +12414,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005616</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52338">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52338">
 
                         </dao>
                     </c03>
@@ -12430,7 +12429,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005617</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52339">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52339">
 
                         </dao>
                     </c03>
@@ -12445,7 +12444,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005618</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52340">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52340">
 
                         </dao>
                     </c03>
@@ -12460,7 +12459,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005619</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52341">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52341">
 
                         </dao>
                     </c03>
@@ -12475,7 +12474,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005620</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52342">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52342">
 
                         </dao>
                     </c03>
@@ -12490,7 +12489,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005621</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52343">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52343">
 
                         </dao>
                     </c03>
@@ -12505,7 +12504,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005622</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52344">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52344">
 
                         </dao>
                     </c03>
@@ -12520,7 +12519,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005723</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52347">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52347">
 
                         </dao>
                     </c03>
@@ -12535,7 +12534,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005726</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52345">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52345">
 
                         </dao>
                     </c03>
@@ -12550,7 +12549,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005727</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52346">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52346">
 
                         </dao>
                     </c03>
@@ -12565,7 +12564,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005730</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52348">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52348">
 
                         </dao>
                     </c03>
@@ -12580,7 +12579,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005732</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52350">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52350">
 
                         </dao>
                     </c03>
@@ -12595,7 +12594,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005735</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52349">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52349">
 
                         </dao>
                     </c03>
@@ -12610,7 +12609,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005738</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52351">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52351">
 
                         </dao>
                     </c03>
@@ -12625,7 +12624,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005739</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52352">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52352">
 
                         </dao>
                     </c03>
@@ -12640,7 +12639,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005740</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52353">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52353">
 
                         </dao>
                     </c03>
@@ -12655,7 +12654,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005754</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52354">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52354">
 
                         </dao>
                     </c03>
@@ -12670,7 +12669,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005755</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52355">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52355">
 
                         </dao>
                     </c03>
@@ -12685,7 +12684,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005758</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52356">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52356">
 
                         </dao>
                     </c03>
@@ -12700,7 +12699,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005759</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52357">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52357">
 
                         </dao>
                     </c03>
@@ -12715,7 +12714,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005762</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52180">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52180">
 
                         </dao>
                     </c03>
@@ -12730,7 +12729,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005765</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52181">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52181">
 
                         </dao>
                     </c03>
@@ -12745,7 +12744,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005766</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52182">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52182">
 
                         </dao>
                     </c03>
@@ -12760,7 +12759,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005767</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52183">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52183">
 
                         </dao>
                     </c03>
@@ -12775,7 +12774,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005768</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52184">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52184">
 
                         </dao>
                     </c03>
@@ -12790,7 +12789,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005769</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52185">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52185">
 
                         </dao>
                     </c03>
@@ -12805,7 +12804,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005774</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52200">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52200">
 
                         </dao>
                     </c03>
@@ -12820,7 +12819,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005775</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52201">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52201">
 
                         </dao>
                     </c03>
@@ -12835,7 +12834,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005776</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52202">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52202">
 
                         </dao>
                     </c03>
@@ -12850,7 +12849,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005777</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52203">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52203">
 
                         </dao>
                     </c03>
@@ -12865,7 +12864,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005778</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52204">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52204">
 
                         </dao>
                     </c03>
@@ -12880,7 +12879,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005779</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52205">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52205">
 
                         </dao>
                     </c03>
@@ -12895,7 +12894,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005780</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52206">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52206">
 
                         </dao>
                     </c03>
@@ -12910,7 +12909,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005781</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52207">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52207">
 
                         </dao>
                     </c03>
@@ -12925,7 +12924,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005782</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52208">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52208">
 
                         </dao>
                     </c03>
@@ -12940,7 +12939,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005783</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52209">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52209">
 
                         </dao>
                     </c03>
@@ -12955,7 +12954,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005784</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52210">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52210">
 
                         </dao>
                     </c03>
@@ -12970,7 +12969,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005785</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52211">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52211">
 
                         </dao>
                     </c03>
@@ -12985,7 +12984,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005786</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52212">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52212">
 
                         </dao>
                     </c03>
@@ -13000,7 +12999,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005787</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52213">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52213">
 
                         </dao>
                     </c03>
@@ -13015,7 +13014,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005788</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52214">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52214">
 
                         </dao>
                     </c03>
@@ -13030,7 +13029,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005789</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52215">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52215">
 
                         </dao>
                     </c03>
@@ -13045,7 +13044,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005790</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52216">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52216">
 
                         </dao>
                     </c03>
@@ -13060,7 +13059,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005791</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52217">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52217">
 
                         </dao>
                     </c03>
@@ -13075,7 +13074,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005792</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52218">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52218">
 
                         </dao>
                     </c03>
@@ -13090,7 +13089,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005793</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52219">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52219">
 
                         </dao>
                     </c03>
@@ -13105,7 +13104,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005794</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52220">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52220">
 
                         </dao>
                     </c03>
@@ -13120,7 +13119,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005795</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52221">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52221">
 
                         </dao>
                     </c03>
@@ -13135,7 +13134,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005796</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52222">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52222">
 
                         </dao>
                     </c03>
@@ -13150,7 +13149,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005797</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52223">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52223">
 
                         </dao>
                     </c03>
@@ -13165,7 +13164,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005798</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52224">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52224">
 
                         </dao>
                     </c03>
@@ -13180,7 +13179,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005799</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52225">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52225">
 
                         </dao>
                     </c03>
@@ -13195,7 +13194,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005800</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52226">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52226">
 
                         </dao>
                     </c03>
@@ -13210,7 +13209,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005801</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52227">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52227">
 
                         </dao>
                     </c03>
@@ -13225,7 +13224,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005802</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52228">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52228">
 
                         </dao>
                     </c03>
@@ -13240,7 +13239,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005803</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52229">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52229">
 
                         </dao>
                     </c03>
@@ -13255,7 +13254,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005804</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52230">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52230">
 
                         </dao>
                     </c03>
@@ -13270,7 +13269,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005832</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52186">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52186">
 
                         </dao>
                     </c03>
@@ -13285,7 +13284,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005833</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52187">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52187">
 
                         </dao>
                     </c03>
@@ -13300,7 +13299,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005834</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52188">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52188">
 
                         </dao>
                     </c03>
@@ -13315,7 +13314,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005835</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52189">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52189">
 
                         </dao>
                     </c03>
@@ -13330,7 +13329,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005836</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52190">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52190">
 
                         </dao>
                     </c03>
@@ -13345,7 +13344,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005837</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52191">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52191">
 
                         </dao>
                     </c03>
@@ -13360,7 +13359,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005838</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52192">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52192">
 
                         </dao>
                     </c03>
@@ -13375,7 +13374,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005839</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52193">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52193">
 
                         </dao>
                     </c03>
@@ -13390,7 +13389,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005840</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52194">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52194">
 
                         </dao>
                     </c03>
@@ -13405,7 +13404,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005841</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52195">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52195">
 
                         </dao>
                     </c03>
@@ -13420,7 +13419,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005842</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52196">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52196">
 
                         </dao>
                     </c03>
@@ -13435,7 +13434,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005843</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52197">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52197">
 
                         </dao>
                     </c03>
@@ -13450,7 +13449,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005847</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52198">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52198">
 
                         </dao>
                     </c03>
@@ -13465,7 +13464,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005848</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52199">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52199">
 
                         </dao>
                     </c03>
@@ -13480,7 +13479,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005894</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52231">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52231">
 
                         </dao>
                     </c03>
@@ -13495,7 +13494,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005895</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52232">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52232">
 
                         </dao>
                     </c03>
@@ -13510,7 +13509,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005896</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52233">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52233">
 
                         </dao>
                     </c03>
@@ -13525,7 +13524,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005897</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52234">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52234">
 
                         </dao>
                     </c03>
@@ -13540,7 +13539,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005900</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52235">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52235">
 
                         </dao>
                     </c03>
@@ -13555,7 +13554,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005901</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52236">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52236">
 
                         </dao>
                     </c03>
@@ -13570,7 +13569,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005902</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52237">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52237">
 
                         </dao>
                     </c03>
@@ -13585,7 +13584,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0005903</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52238">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52238">
 
                         </dao>
                     </c03>
@@ -13600,7 +13599,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006588</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52245">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52245">
 
                         </dao>
                     </c03>
@@ -13615,7 +13614,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006589</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52246">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52246">
 
                         </dao>
                     </c03>
@@ -13630,7 +13629,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006590</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52247">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52247">
 
                         </dao>
                     </c03>
@@ -13645,7 +13644,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006591</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52248">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52248">
 
                         </dao>
                     </c03>
@@ -13660,7 +13659,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006592</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52249">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52249">
 
                         </dao>
                     </c03>
@@ -13675,7 +13674,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006593</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52250">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52250">
 
                         </dao>
                     </c03>
@@ -13690,7 +13689,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006594</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52251">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52251">
 
                         </dao>
                     </c03>
@@ -13705,7 +13704,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006595</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52252">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52252">
 
                         </dao>
                     </c03>
@@ -13720,7 +13719,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006614</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52253">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52253">
 
                         </dao>
                     </c03>
@@ -13735,7 +13734,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006615</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52254">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52254">
 
                         </dao>
                     </c03>
@@ -13750,7 +13749,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006616</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52255">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52255">
 
                         </dao>
                     </c03>
@@ -13765,7 +13764,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006617</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52256">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52256">
 
                         </dao>
                     </c03>
@@ -13780,7 +13779,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006618</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52257">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52257">
 
                         </dao>
                     </c03>
@@ -13795,7 +13794,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006619</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52258">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52258">
 
                         </dao>
                     </c03>
@@ -13810,7 +13809,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006620</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52259">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52259">
 
                         </dao>
                     </c03>
@@ -13825,7 +13824,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006621</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52260">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52260">
 
                         </dao>
                     </c03>
@@ -13840,7 +13839,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006622</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52261">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52261">
 
                         </dao>
                     </c03>
@@ -13855,7 +13854,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006623</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52262">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52262">
 
                         </dao>
                     </c03>
@@ -13870,7 +13869,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006626</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52239">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52239">
 
                         </dao>
                     </c03>
@@ -13885,7 +13884,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006627</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52240">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52240">
 
                         </dao>
                     </c03>
@@ -13900,7 +13899,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006628</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52241">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52241">
 
                         </dao>
                     </c03>
@@ -13915,7 +13914,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006629</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52242">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52242">
 
                         </dao>
                     </c03>
@@ -13930,7 +13929,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006697</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52243">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52243">
 
                         </dao>
                     </c03>
@@ -13945,7 +13944,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006698</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52244">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52244">
 
                         </dao>
                     </c03>
@@ -13960,7 +13959,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006787</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52263">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52263">
 
                         </dao>
                     </c03>
@@ -13975,7 +13974,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006788</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52264">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52264">
 
                         </dao>
                     </c03>
@@ -13990,7 +13989,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006789</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52265">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52265">
 
                         </dao>
                     </c03>
@@ -14005,7 +14004,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006790</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52266">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52266">
 
                         </dao>
                     </c03>
@@ -14020,7 +14019,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006791</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52267">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52267">
 
                         </dao>
                     </c03>
@@ -14035,7 +14034,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006792</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52268">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52268">
 
                         </dao>
                     </c03>
@@ -14050,7 +14049,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006793</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52269">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52269">
 
                         </dao>
                     </c03>
@@ -14065,7 +14064,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006794</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52270">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52270">
 
                         </dao>
                     </c03>
@@ -14080,7 +14079,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006795</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52271">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52271">
 
                         </dao>
                     </c03>
@@ -14095,7 +14094,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006796</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52272">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52272">
 
                         </dao>
                     </c03>
@@ -14110,7 +14109,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006797</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52273">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52273">
 
                         </dao>
                     </c03>
@@ -14126,7 +14125,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006798</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52274">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52274">
 
                         </dao>
                     </c03>
@@ -14141,7 +14140,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006799</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52275">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52275">
 
                         </dao>
                     </c03>
@@ -14156,7 +14155,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006800</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52276">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52276">
 
                         </dao>
                     </c03>
@@ -14171,7 +14170,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006801</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52277">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52277">
 
                         </dao>
                     </c03>
@@ -14186,7 +14185,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006802</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52278">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52278">
 
                         </dao>
                     </c03>
@@ -14201,7 +14200,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006803</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52279">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52279">
 
                         </dao>
                     </c03>
@@ -14216,7 +14215,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006804</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52280">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52280">
 
                         </dao>
                     </c03>
@@ -14231,7 +14230,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006805</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52281">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52281">
 
                         </dao>
                     </c03>
@@ -14246,7 +14245,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006806</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52282">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52282">
 
                         </dao>
                     </c03>
@@ -14261,7 +14260,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006807</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52283">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52283">
 
                         </dao>
                     </c03>
@@ -14276,7 +14275,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006808</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52284">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52284">
 
                         </dao>
                     </c03>
@@ -14291,7 +14290,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006809</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52285">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52285">
 
                         </dao>
                     </c03>
@@ -14306,7 +14305,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006810</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52286">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52286">
 
                         </dao>
                     </c03>
@@ -14321,7 +14320,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006814</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52297">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52297">
 
                         </dao>
                     </c03>
@@ -14336,7 +14335,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006815</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52298">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52298">
 
                         </dao>
                     </c03>
@@ -14351,7 +14350,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006820</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52295">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52295">
 
                         </dao>
                     </c03>
@@ -14366,7 +14365,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006821</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52296">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52296">
 
                         </dao>
                     </c03>
@@ -14381,7 +14380,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006827</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52291">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52291">
 
                         </dao>
                     </c03>
@@ -14396,7 +14395,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006828</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52292">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52292">
 
                         </dao>
                     </c03>
@@ -14411,7 +14410,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006829</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52293">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52293">
 
                         </dao>
                     </c03>
@@ -14426,7 +14425,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006830</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52294">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52294">
 
                         </dao>
                     </c03>
@@ -14441,7 +14440,7 @@
                             <head>Access</head>
                             <p>Use copy reference number: 77011_a_0006835</p>
                         </accessrestrict>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52287">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52287">
 
                         </dao>
                     </c03>
@@ -14462,7 +14461,7 @@
                                 <title render="italic">Economics Cassette Series</title> by previewing Milton's upcoming video lecture series and the 
                                 <title render="italic">Free to Choose</title> television program. Following this, Milton gives his economic outlook.</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52288">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52288">
 
                         </dao>
                     </c03>
@@ -18646,7 +18645,7 @@
                 <scopecontent id="ref2966">
                     <head>Scope and Contents note</head>
                     <p>Boxes 235-236 CLOSED. Use the provided copy reference numbers to listen to recordings in the Archives reading room. Some recordings also available online at 
-                        <extref actuate="onrequest" show="new" href="miltonfriedman.hoover.org">miltonfriedman.hoover.org</extref>.</p>
+                        <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="miltonfriedman.hoover.org">miltonfriedman.hoover.org</extref>.</p>
                     <p>Sound cassettes of speeches, interviews, and travel.</p>
                 </scopecontent>
                 <c02 id="ref2848" level="file">
@@ -18687,7 +18686,7 @@
                             <p>Summary from brochure: Consumer legislation doesn't in the end protect the consumer; rather, it benefits the consumer advocates, including reformers, special interest groups, and regulatory agencies. What does protect the consumer? Alternative sources of supply at variable prices are the inevitable result of international competition--free trade.</p>
                             <p>"Let me emphasize: Competition does not protect the consumer because businessmen are more soft hearted than bureaucrats or because they are more altruistic or because they are more generous, but only because it is in the self-interest of the entrepreneur to protect the consumer."</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52289">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52289">
                         </dao>
                     </c03>
                     <c03 id="ref2853" level="item">
@@ -18708,7 +18707,7 @@
                             <p>Summary from brochure: The quality of public education in America today in many places is deplorable. Dr. Friedman identifies (1) the increasing centralization and bureaucratization of the educational establishment, which inhibits educators from seeing and responding to the needs of their "consumers"--parents and students; (2) our altered view of the relationship between the individual and society--the shift from seeing the individual as responsible for oneself to seeing the individual as someone controlled by social forces. An obvious solution is to give power back to the parents. The voucher system is an especially effective means of exercising that power; it can foster competition among public and private institutions and incite them to offer us a better quality educational "product."</p>
                             <p>"In the nineteenth century, the schools, even in crowded cities and in urban cities, might not have been affluent, they might not have had the best facilities, but they had an atmosphere in which the individual was made responsible for his own development and learning... In the twentieth century, the concept has been that the schools are an expression of society's values and interests which should be imposed upon the child."</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52290">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52290">
                         </dao>
                     </c03>
                     <c03 id="ref2856" level="item">
@@ -18730,7 +18729,7 @@
                             <p>"Capitalism has repelled people, it has driven them away from supporting it, because they have thought it emphasized self-interest in a narrow way. They were repelled by the idea of people pursuing their own interests rather than some broader interests. Yet it is clear that the results go the other way around. Only those countries in which capitalism has prevailed over long periods have experienced both freedom and prosperity."</p>
                             <p>Additional summary generated by Hoover: At the beginning, Friedman, clearly animated, responds to protestors criticizing his work in Chile. He also speaks about what freedom of speech means.</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52405">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52405">
                         </dao>
                     </c03>
                     <c03 id="ref2859" level="item">
@@ -18751,7 +18750,7 @@
                             <p>Unions offer protection to workers in some situations, but union membership represents only one fifth of the American labor force. And while some unions do benefit their members, it is generally at the expense of competing works and frequently at the expense of the consumer. Government? Government provides some protection, but its efforts are minor. Some workers with only one possible employer--or with no possible employer--enjoy very little protection. The right answer to the question "Who protects the worker?" is that the worker is protected by employers--by the existence of other employers who can and will compete for his or her services if a present employer fails to provide decent wages and working conditions. The only real way to protect the standard of living of the American worker is to preserve a freely competitive market.</p>
                             <p>"Workers are protected by employers. Not by [their] own employer[s], because the man who has only one possible employer has no protection. The employers who protect the worker are the people who would like to hire him but for whom he doesn't work. The real protection that a worker gets is the existence of more than one possible employer."</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52411">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52411">
                         </dao>
                     </c03>
                     <c03 id="ref2862" level="item">
@@ -18772,7 +18771,7 @@
                             <p>Summary from brochure: Is America still the land of opportunity, or is it a land worn thin, showing much bureaucracy and less freedom? Dr. Friedman's view of America's present situation is not sanguine. He identifies the chief problem and its corollary solution: We must restore the prestige and influence of the single mechanism most responsible for America's greatness--the free market. Our greatest defense against becoming over-governed is the free market.</p>
                             <p>"I believe very deeply that we are nearing the point of no return. We still have the choice, but if we continue much longer along the road that we have been going we no longer shall have the choice. We shall degenerate into a society which will lose that spark of creativity, that spark of independence, of freedom, that we have all loved in our country."</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52417">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52417">
                         </dao>
                     </c03>
                     <c03 id="ref2865" level="item">
@@ -18794,7 +18793,7 @@
                             <p>"The Great Depression was produced... by a failure of government, by a failure of monetary policy. It was produced by a failure of the Federal Reserve System to act in accordance with the intentions of those who established it. It was produced by a failure of the Federal Reserve System despite the presence of knowledge on the part of many of the people in the System about the right course of action."</p>
                             <p>An unrelated program is also on the third original cassette.</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52418">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52418">
                         </dao>
                     </c03>
                     <c03 id="ref2868" level="item">
@@ -18815,7 +18814,7 @@
                             <p>Summary from brochure: Inflation is blamed on many things. But it has only one cause: It is a monetary phenomenon. Inflation occurs when the quantity of money increases faster than the quantity of goods. Why does the money supply increase? Very often, it does so to enable the government to pay its bills without raising taxes. There's only one real cure for inflation. It is a cure that's easy to describe but difficult to apply: The government must reduce spending and print less money. The alternatives are both recession and double-digit inflation.</p>
                             <p>"Printing money is a very attractive device because inflation, from the point of view of a person sitting in Congress or in the Senate, is a wonderful tax. He doesn't have to vote for it. Have you ever known a congressman who got up and said, 'I vote to impose a tax in the form of inflation of 10 percent next year'?"</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52415">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52415">
                         </dao>
                     </c03>
                     <c03 id="ref2871" level="item">
@@ -18836,7 +18835,7 @@
                             <p>Summary from brochure: Why do Americans pay more in taxes than they really want to? Can they do anything about it? Americans must understand that their true tax burden is what the government spends--regardless of who that spending is financed--and that if government spending goes up faster than prices in general, the real tax burden increases. Simplifying the system is far from easy, but the real defect is not in the tax system, anyway, but in the budget structure. Our only hope for tax reduction is in establishing constitutional provisions that will set limits on government spending.</p>
                             <p>"In no way is anybody proposing to cut taxes because President Carter has proposed an increase in federal government spending, an increase which is larger than the anticipated increase in prices; so it's an increase in real terms and indeed a larger increase than that which appears in his official budget because of the continued use and invention of more and more sophisticated methods to conceal actual spending, the latest gimmick being to treat subsidies given by the government as refunds of taxes collected from somebody else."</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52406">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52406">
                         </dao>
                     </c03>
                     <c03 id="ref2874" level="item">
@@ -18857,7 +18856,7 @@
                             <p>Summary from brochure: John Stuart Mill said, in effect, that self-protection is the only legitimate reason for people to interfere with the freedom of others. If we are to define the role of government in a free society, we must first specify what we mean by self-protection. Defense from foreign enemies and protection of property, including the enforcement of private contracts, are clearly legitimate functions of government. But when we come to two other functions of government--providing a substitute for voluntary cooperation when it appears impossible to achieve, and providing for irresponsible individuals--the justification is much less clear-cut, because in a free society people should be able to take risks but should not be able to force others to pay the consequences. If the proper limitations of government action were observed, the government would not do many things it now does. We should not resort to government regulation until we have adequately explored the possibilities for coordinating our activities through voluntary means. If we understood the implications of our own values, we would not allow ourselves to be "front men" for values we oppose merely because we are confused about the meaning of freedom and the legitimate role of government in a free society.</p>
                             <p>"You and I as well-meaning people may say that government should step in to correct this or that market failure, but once we get the government into the act it's going to go according to its own rules, and those rules will mean that the ultimate results are very different than the initial intent. The will will be different than the deed. When the government steps in and make mistakes and has failures, they're going to be big failures and not little ones."</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52410">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52410">
                         </dao>
                     </c03>
                     <c03 id="ref2877" level="item">
@@ -18878,7 +18877,7 @@
                             <p>Summary from brochure: It's pointless to try to predict the availability of adequate sources of energy. What we need is an adjustable mechanism to enable us to adapt to whatever happens. We already have such a mechanism: The market helps us make transitions to the future--just as it has done in the past--if it is allowed to operate freely. Our present energy crisis exists because this crucial mechanism has not been allowed to function freely. Our prospects will be much improved if we can devise means to abolish--or at least work around--the government controls that interfere with the production and distribution and use of energy.</p>
                             <p>"We tend to forget that the price and wage control measures of 1971 bear a great deal of responsibility for our present oil problem. They have been eliminated on every other product but not on oil. The retention of price controls on oil has discouraged production, encouraged consumption, increased the fraction of our energy that comes from abroad, and established new vested interests in the maintenance of controls."</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52413">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52413">
                         </dao>
                     </c03>
                     <c03 id="ref2880" level="item">
@@ -18899,7 +18898,7 @@
                             <p>We live under a form of slavery--government domination of the market economy. We have come a long way from a truly free economy: consider the number of markets to which new firms do not have free access; consider the erosion of expression for business people; consider the plethora of government regulations American business must contend with. Can these trends be reversed? It is harder to repeal laws than pass them. Private business is unfortunately short-sighted when it turns to politics. But count among the favorable signs the very inefficiency of government--and the American public's growing recognition of this fact. Business qua business can do relatively little to reverse this trend (though it can at least become more sophisticated and farsighted in political planning), but business people as individuals, as citizens, must seek to persuade the public that we are already on the road to a collectivist state, that if we continue it, we will lose prosperity and liberty.</p>
                             <p>"If we continue the trend to a collectivist economy, continue the trend to a society controlled by government, we shall lose not only our economic advantages but also our political freedom. We cannot continue half slave and half free, and if we continue in the direction of slavery we shall end up as a collectivist totalitarian society."</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52407">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52407">
                         </dao>
                     </c03>
                     <c03 id="ref2883" level="item">
@@ -18919,7 +18918,7 @@
                             <head>Scope and Contents note</head>
                             <p>Friedman examines how the welfare state, though under "noble objectives," is not sustainable. He focuses not just on the United States since the New Deal, but taking the countries of Europe and New York City's city government into consideration as well.</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52408">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52408">
                         </dao>
                     </c03>
                     <c03 id="ref2886" level="item">
@@ -18940,7 +18939,7 @@
                             <p>Summary from brochure: If free trade is good, why is protectionism so popular? Part of the answer lies in a simple political principle--interests that are concentrated (those of the producer) are more politically effective than interests that are diffuse (those of the consumer). Protectionism does not create jobs or move goods; rather, it forces us to expend greater effort to get the goods we produce, since they cost more to produce at home than abroad. The balance of payments can take care of itself, provided we do not manipulate foreign exchange markets to put an artificial value on the dollar. The right solution is to dismantle systematically our own trade barriers and set an example for the rest of the world.</p>
                             <p>"The people who are harmed by [trade] protection are spread and diffused. Indeed the very language shows the political pressure. We call a tariff a protective measure. It does protect; it protects the consumer very well against one thing. It protects the consumer against low prices. And yet we call it protection."</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52416">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52416">
                         </dao>
                     </c03>
                     <c03 id="ref2889" level="item">
@@ -18961,7 +18960,7 @@
                             <p>Summary of brochure: If the government has the power and responsibility to promote equality of income, then how do we define the concept of equality? Jefferson, in his Declaration of Independence, meant equality before the law, a concept necessary precisely because people are not equal in tastes, values, or capacities. Later, equality came to mean equality of opportunity--the chance to run a fair race. Within a free market system, both definitions are consistent with other values: Efficiency, justice, and liberty. More recently, equality has come to mean equality of outcome. Equality of outcome cannot be mandated, cannot be insured. Any serious attempt to achieve it would destroy freedom.</p>
                             <p>"Any society that puts equality before freedom will end up with neither. On the other hand, a society that puts freedom first will, as a happy byproduct, end up with both greater freedom and greater equality."</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52412">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52412">
                         </dao>
                     </c03>
                     <c03 id="ref2892" level="item">
@@ -18982,7 +18981,7 @@
                             <p>Summary from brochure: Increasing government involvement in medical care will take us toward fully socialized medicine. This trend is clearly against the interests of patients, physicians, and other health care personnel. There is of course no such thing as free health care--you either pay for it directly, or via the tax system, with bureaucrats taking their usual cut along the way. The reality of the situation is that government involvement in the economics of medical care leads directly to higher costs for that care. There is no special role for government in medical care. Government should do there only what it does in other fields--enforce laws against fraud and deception, and offer some assistance (comparable to flood or tornado relief) to those in extreme medical distress.</p>
                             <p>"The major reason for the rise in the cost per day of hospital care is not a rise in prices in excess of inflation--not at all. The major reason is an increase in the number, variety, and complexity of the procedures that are being used, tests that are being made, services that are being rendered to the American citizen."</p>
                         </scopecontent>
-                        <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52414">
+                        <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52414">
                         </dao>
                     </c03>
                 </c02>
@@ -19003,7 +19002,7 @@
                         <head>Scope and Contents note</head>
                         <p>Conducted at the American Enterprise Institute for Public Policy Research "Conversation Series."</p>
                     </scopecontent>
-                    <dao actuate="onrequest" show="new"  href="http://miltonfriedman.hoover.org/objects/52409">
+                    <dao xlink:actuate="onRequest" xlink:show="new"  xlink:href="http://miltonfriedman.hoover.org/objects/52409">
                     </dao>
                 </c02>
                 <c02 id="ref2899" level="item">
@@ -19199,7 +19198,7 @@
                     <scopecontent id="ref2977">
                         <head>Scope and Content note</head>
                         <p>This item has been digitized as part of the Commonwealth Club of California records. Listen to the recording at: 
-                            <extref actuate="onrequest" show="new" href="http://miltonfriedman.hoover.org/objects/1847">http://miltonfriedman.hoover.org/objects/1847</extref></p>
+                            <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://miltonfriedman.hoover.org/objects/1847">http://miltonfriedman.hoover.org/objects/1847</extref></p>
                     </scopecontent>
                 </c02>
                 <c02 id="ref2931" level="item">
@@ -19246,7 +19245,7 @@
                     <scopecontent id="ref2978">
                         <head>Scope and Contents note</head>
                         <p>This item has been digitized as part of the Commonwealth Club of California records. Listen to the recording at: 
-                            <extref actuate="onrequest" show="new" href="http://miltonfriedman.hoover.org/objects/2059">http://miltonfriedman.hoover.org/objects/2059</extref></p>
+                            <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://miltonfriedman.hoover.org/objects/2059">http://miltonfriedman.hoover.org/objects/2059</extref></p>
                     </scopecontent>
                 </c02>
                 <c02 id="ref2939" level="item">

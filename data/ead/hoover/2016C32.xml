@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
-<ead>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
     <eadheader findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-CSt-H">2016C32.xml</eadid>
         <filedesc>
@@ -27,8 +26,8 @@
                 <date>2016-07-20T08:53-0700</date>
             </creation>
             <langusage>Finding aid is written in 
-                <language langcode="eng" scriptcode="latn">English</language> and 
-                <language langcode="ara" scriptcode="ar">Arabic</language></langusage>
+                <language langcode="eng" scriptcode="Latn">English</language> and 
+                <language langcode="ara" scriptcode="Arab">Arabic</language></langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
@@ -57,14 +56,14 @@
                 <extent>14 manuscript boxes, 24 oversize boxes</extent>
                 <extent>(53.8 linear feet)</extent>
             </physdesc>
-            <abstract id="ref13" label="Abstract">Consists of more than four thousand individual issues of twenty-nine newspapers, journals, and magazines published in Dari, Pushto, Arabic, and English by various Afghan organizations (political and other) relating to political conditions and warfare in Afghanistan. Afghanistan’s social and intellectual landscape is represented by the Taliban and anti-Soviet Mujaheddin groups; the communist People’s Democratic Party; exiled loyalists to the deposed Afghan monarchy; independent humanitarians and intellectuals; and minority political parties that emerged following the post-2001 transition toward democracy. The digital collection is accessible in the Archives' reading room or for Stanford affiliated users at <extref actuate="onrequest" href="http://aps.eastview.com/browse/udb/2331" show="new"> http://aps.eastview.com/browse/udb/2331/</extref>.</abstract>
+            <abstract id="ref13" label="Abstract">Consists of more than four thousand individual issues of twenty-nine newspapers, journals, and magazines published in Dari, Pushto, Arabic, and English by various Afghan organizations (political and other) relating to political conditions and warfare in Afghanistan. Afghanistan’s social and intellectual landscape is represented by the Taliban and anti-Soviet Mujaheddin groups; the communist People’s Democratic Party; exiled loyalists to the deposed Afghan monarchy; independent humanitarians and intellectuals; and minority political parties that emerged following the post-2001 transition toward democracy. The digital collection is accessible in the Archives' reading room or for Stanford affiliated users at <extref xlink:actuate="onRequest" xlink:href="http://aps.eastview.com/browse/udb/2331" xlink:show="new"> http://aps.eastview.com/browse/udb/2331/</extref>.</abstract>
             <physloc id="ref14" label="Physical Location">Hoover Institution Archives</physloc>
         </did>
         <accessrestrict id="ref6">
             <head>Access</head>
             <p>Originals closed; digital use copies available.</p> 
             <p>The digital collection is accessible in the Archives' reading room or for Stanford affiliated users at 
-                <extref actuate="onrequest" show="new" href=" http://aps.eastview.com/browse/udb/2331"> http://aps.eastview.com/browse/udb/2331</extref>.</p>
+                <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://aps.eastview.com/browse/udb/2331"> http://aps.eastview.com/browse/udb/2331</extref>.</p>
         </accessrestrict>
         <userestrict id="ref7">
             <head>Publication Rights</head>
@@ -81,7 +80,7 @@
         <accruals id="ref10">
             <head>Accruals</head>
             <p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at 
-                <extref actuate="onrequest" show="new" href="http://searchworks.stanford.edu/">http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the catalog is larger than the number of boxes listed in this finding aid.</p>
+                <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://searchworks.stanford.edu/">http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the catalog is larger than the number of boxes listed in this finding aid.</p>
         </accruals>
         <bioghist id="ref58">
             <head>Historical Note</head>
@@ -93,7 +92,7 @@
         <scopecontent id="ref1">
             <head>Scope and Contents of Collection</head>
             <p>The Afghan partisan serials collection consists of serials issued by various Afghan organizations (political and other) relating to political conditions and warfare in Afghanistan. The digital collection contains more than 4,000 individual issues of 29 newspapers, journals, and magazines published in Dari, Pushto, Arabic, and English and is accessible in the Archives' reading room or for Stanford affiliated users at 
-                <extref actuate="onrequest" show="new" href="http://aps.eastview.com/browse/udb/2331">http://aps.eastview.com/browse/udb/2331/</extref>.</p>
+                <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://aps.eastview.com/browse/udb/2331">http://aps.eastview.com/browse/udb/2331/</extref>.</p>
             <p>In the digital collection, each publication contains an English-language translation, as well as vernacular text and transliterations of all titles, subtitles and mastheads, and publishers. A holistic transliteration methodology was adopted which was informed through recourse to WorldCat references and other digital holdings, linguistic preference for Dari and Pushto words of Arabic origin (i.e. Hizb rather than Hezb, or Mujaheddin rather than Mojahedin), and finally, popular convention and deference to spellings preferred by the publication itself (Hewad rather than Haywad, for instance). Lastly, true to the intent of the media as a fluid medium that places a premium on communication and absorption of information, diacritical markings that are a mainstay in scholarly publications are largely absent.</p>
             <p>Discovery for newspapers is at the issue-page level; discovery for journals is at the article level (with a rich search discovery possible for key words and names in journal article titles and article authors). Presentation is in the form of scanned images in PDF format.</p>
         </scopecontent>
