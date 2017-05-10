@@ -34,6 +34,11 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 group :development, :test do
+  # Minitest 5.10.2 ran into a rails bug that is causing an error.
+  # We'll have to wait until either rails 5.0.3 or we can upgrade to 5.1
+  # https://github.com/seattlerb/minitest/issues/689
+  # https://github.com/rails/rails/pull/29022
+  gem 'minitest', '5.10.1'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
   # Use sqlite3 as the database for Active Record
