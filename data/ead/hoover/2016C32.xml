@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CSt-H">2016C32.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Inventory of the Afghan partisan serials collection
+                </titleproper>
+                <titleproper type="filing">Afghan partisan serials collection</titleproper>
+                <author>Finding aid prepared by Hoover Institution Archives Staff and F. A. Bernett Books</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Hoover Institution Archives</publisher>
+                <address>
+                    <addressline>434 Galvez Mall</addressline>
+                    <addressline>Stanford University</addressline>
+                    <addressline>Stanford, CA, 94305-6010</addressline>
+                    <addressline>(650) 723-3563</addressline>
+                    <addressline>hooverarchives@stanford.edu</addressline>
+                </address>
+                <date>© 2016</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2016-07-20T08:53-0700</date>
+            </creation>
+            <langusage>Finding aid is written in 
+                <language langcode="eng" scriptcode="Latn">English</language> and 
+                <language langcode="ara" scriptcode="Arab">Arabic</language></langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>July 20, 2016</date>
+                <item>Added descriptions of serials from vendor catalog.</item>
+            </change>
+            <change>
+                <date>July 13, 2016</date>
+                <item>Added additional s/c information and western dates.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Afghan partisan serials collection</unittitle>
+            <unitdate normal="1968/2011" type="inclusive">1968-2011</unitdate>
+            <unitid label="Collection Number" countrycode="US" repositorycode="CSt-H">2016C32</unitid>
+            <repository>
+                <corpname>Hoover Institution Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language>In Dari, Pushto (Pashto), Arabic, and English.</language>
+            </langmaterial>
+            <physdesc>
+                <extent>14 manuscript boxes, 24 oversize boxes</extent>
+                <extent>(53.8 linear feet)</extent>
+            </physdesc>
+            <abstract id="ref13" label="Abstract">Consists of more than four thousand individual issues of twenty-nine newspapers, journals, and magazines published in Dari, Pushto, Arabic, and English by various Afghan organizations (political and other) relating to political conditions and warfare in Afghanistan. Afghanistan’s social and intellectual landscape is represented by the Taliban and anti-Soviet Mujaheddin groups; the communist People’s Democratic Party; exiled loyalists to the deposed Afghan monarchy; independent humanitarians and intellectuals; and minority political parties that emerged following the post-2001 transition toward democracy. The digital collection is accessible in the Archives' reading room or for Stanford affiliated users at <extref xlink:actuate="onRequest" xlink:href="http://aps.eastview.com/browse/udb/2331" xlink:show="new"> http://aps.eastview.com/browse/udb/2331/</extref>.</abstract>
+            <physloc id="ref14" label="Physical Location">Hoover Institution Archives</physloc>
+        </did>
+        <accessrestrict id="ref6">
+            <head>Access</head>
+            <p>Originals closed; digital use copies available.</p> 
+            <p>The digital collection is accessible in the Archives' reading room or for Stanford affiliated users at 
+                <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://aps.eastview.com/browse/udb/2331"> http://aps.eastview.com/browse/udb/2331</extref>.</p>
+        </accessrestrict>
+        <userestrict id="ref7">
+            <head>Publication Rights</head>
+            <p>For copyright status, please contact the Hoover Institution Archives.</p>
+        </userestrict>
+        <prefercite id="ref8">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Afghan partisan serials collection, [Persistent URL], Hoover Institution Archives</p>
+        </prefercite>
+        <acqinfo id="ref9">
+            <head>Acquisition Information</head>
+            <p>Materials were acquired by the Hoover Institution Archives in 2016.</p>
+        </acqinfo>
+        <accruals id="ref10">
+            <head>Accruals</head>
+            <p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at 
+                <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://searchworks.stanford.edu/">http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the catalog is larger than the number of boxes listed in this finding aid.</p>
+        </accruals>
+        <bioghist id="ref58">
+            <head>Historical Note</head>
+            <p>The collection of newspapers, journals, and magazines in Dari, Pushto, Arabic, and English represent the viewpoints of diverse groups, including the leftist revolutionary People's Democratic Party of Afghanistan, Zahir Shah-loyalists, various factions of Afghan Mujaheddin and foreign-backed jihadists, the Taliban-led government of the Islamic Emirate of Afghanistan, as well as the Karzai regime, during a tumultuous period in the nation's history in which successive waves of foreign influence and invasion destabilized the region, resulting in more than three decades of armed struggle.</p>
+            <p>Print material in the collection covers events including the aftermath of the 1978 Saur revolution, the lives of political exiles and refugees in Pakistan, the complex interactions of anti-Soviet insurgency groups and their foreign backers in the U.S. and the Muslim world, the fall of Najibullah and civil war thereafter, the radicalization of foreign fighters in Kunar and Tora Bora, the rise and fall of the Taliban, the events of September 11, 2001, "Operation Enduring Freedom," the establishment of Hamid Karzai as president, and the continuing International Security Assistance Force (ISAF) coalition occupation. Ranging from radical Islamists in favor of global jihad to cautious social democrats in support of civil society, the collection demonstrates the extraordinary range of ideologies and voices competing for mindshare in modern Afghanistan.</p>
+            <p>Many of the serials are vividly illustrated with reproductions of photographic portraits, battlefield scenes, cityscapes, and martyrs fallen to various causes, while others, in accordance with strict interpretation of Sharia law, eschew visual imagery altogether.</p>
+            <p></p>
+        </bioghist>
+        <scopecontent id="ref1">
+            <head>Scope and Contents of Collection</head>
+            <p>The Afghan partisan serials collection consists of serials issued by various Afghan organizations (political and other) relating to political conditions and warfare in Afghanistan. The digital collection contains more than 4,000 individual issues of 29 newspapers, journals, and magazines published in Dari, Pushto, Arabic, and English and is accessible in the Archives' reading room or for Stanford affiliated users at 
+                <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://aps.eastview.com/browse/udb/2331">http://aps.eastview.com/browse/udb/2331/</extref>.</p>
+            <p>In the digital collection, each publication contains an English-language translation, as well as vernacular text and transliterations of all titles, subtitles and mastheads, and publishers. A holistic transliteration methodology was adopted which was informed through recourse to WorldCat references and other digital holdings, linguistic preference for Dari and Pushto words of Arabic origin (i.e. Hizb rather than Hezb, or Mujaheddin rather than Mojahedin), and finally, popular convention and deference to spellings preferred by the publication itself (Hewad rather than Haywad, for instance). Lastly, true to the intent of the media as a fluid medium that places a premium on communication and absorption of information, diacritical markings that are a mainstay in scholarly publications are largely absent.</p>
+            <p>Discovery for newspapers is at the issue-page level; discovery for journals is at the article level (with a rich search discovery possible for key words and names in journal article titles and article authors). Presentation is in the form of scanned images in PDF format.</p>
+        </scopecontent>
+        <controlaccess>
+            <geogname source="lcsh">Afghanistan--History.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref59" level="series">
+                <did>
+                    <unittitle>The People's Democratic Party of Afghanistan (PDPA) Publications,</unittitle>
+                    <unitdate>1968-1991</unitdate>
+                </did>
+                <scopecontent><p>Before and after Daoud Khan's 1973 coup, various leftist revolutionaries and reformists sought a presence in the nation's political consciousness. From Babrak Karmal's Parcham ("Flag”) party and its eponymous newspaper to <emph render="italic">Akhbar Hafta,</emph> a popular weekly magazine published during the final days of Najibullah's regime, print newspapers and magazines helped Afghan leftists communicate their ideas to literate audiences in urban centers.</p></scopecontent>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle><emph render="italic">پرچم (Parcham, Banner)</emph>, حوت 1346 (Hut) 23 - حوت 1347 (Hut) 26</unittitle>
+                        <unitdate>(1968 March 13 - 1969 March 17)</unitdate>
+                    </did>
+                    <scopecontent id="ref60">
+                        <head>Scope and Contents note</head>
+                        <p>No. 1 through no. 52 (complete first year). 52 issues (circa 4 pages each, with duplication of no. 49), comprising what appears to be a complete run of the first year of Babrak Karmal's Parcham communist party (PDPA) newspaper, edited by Sulaiman Laiq and alternately issued in Dari and Pushto, covering cultural and political life in Afghanistan, largely text, illustrated with a few photographs. Significant mold and mildew damage, which, according to a source, occurred due to the volume's burial in a cellar during Taliban times when ownership of Parchamite political materials was illegal. Published in Kabul, Afghanistan from 1968-1969 (1346-1347).</p>
+                        <p>Founded by Babrak Karmal, the Parcham party and its newspaper promoted a more democratic version of socialist ideology than other factions of the PDPA, focusing on women's rights, social justice, youth participation, and broad economic interests. This serial was published during the transitional years between Mohammad Zahir Shah’s rule and the establishment of Sardar Mohammed Daoud Khan’s revolutionary government; the party and its serial promoted wider unity between Afghanistan's ethnicities. The newspaper continued for four additional months, through July 1969; those issues are not present in this collection.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle><emph render="italic">کمک (Kumak, Help)</emph>, اسد 1347 (Asad) 10</unittitle>
+                        <unitdate>(1968 August 1)</unitdate>
+                    </did>
+                    <scopecontent id="ref61">
+                        <head>Scope and Contents note</head>
+                        <p>No. 1 (all published?). A single issue comprising what an expert source says is a complete run of M. Yaqub Kurnak's banned and confiscated publication covering social and political issues of national relevance, including articles on the struggle for authentic democracy in Afghanistan, the importance of an independent media, the rule of law, economic independence, and equal rights for all and peace between ethnic enclaves, among other topics, illustrated with two anti-U.S. editorial cartoons. Published in Kabul, Afghanistan (Kumak) in 1968 (1347).</p>
+                        <p>In an editorial manifesto printed in both Dari and Pushto, the editor invites all the people of Afghanistan to join him in a progressive nationalist program to defend the country against invaders and preserve national unity.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle><emph render="italic">خلق (Khalq, People)</emph>, حمل 1358 (Hamal) 22 - جد 1358 (Jadi) 3</unittitle>
+                        <unitdate>(1979 April 11 - 1979 December 24)</unitdate>
+                    </did>
+                    <scopecontent id="ref62">
+                        <head>Scope and Contents note</head>
+                        <p>Vol. 2, no. 1 (issue 7) through Vol. 2, no. 40 (issue 45) (complete second series; numbering erratic). 40 issues, circa 4-12 pages each (some double number issues), comprising what appears to be a complete run of the second series of Noor Mohammad Taraki's <emph render="italic">Khalq (Masses)</emph> communist party newspaper edited by Abdul Qayum Nauroozi, alternately issued in Dari and Pushto, illustrated with photographs of industrial, social, and scientific progress in Afghanistan, as well as political cartoons criticizing imperialists and foreigners bent on interfering in the country's affairs. Published in Kabul, Afghanistan (Khana Khalq, Qasr Dilkusha) in 1979 (1358).</p> 
+                        <p>This serial served as the official organ of the Khalq party, the Pashtun majority faction of the PDPA. The present collection covers the period directly after the assassination of Mohammad Daoud Khan during the 1978 Saur revolution, from Taraki’s presidency through Hafizullah Amin's September 1979 coup and the Soviet invasion only three months after.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle><emph render="italic">اخبار هفته (Akhbar-e Haftah, Weekly News)</emph>, حمل 1369 (Hamal) 1 - عقرب 1370 (Aqrab) 30</unittitle>
+                        <unitdate>(1990 March 21 - 1991 November 21)</unitdate>
+                    </did>
+                    <scopecontent id="ref63">
+                        <head>Scope and Contents note</head>
+                        <p>Year 2, no. 12 (also called no. 64) through Year 3, no. 45 (incomplete run, inconsistently numbered; serial numbers do not coincide with year or issue). 81 consecutive issues of the popular weekly news magazine, circa 16-32 pages each, in Dari and Pushto (edited by Abdullah Bashir Shor), published by the Soviet-supported government of Mohammad Najibullah during the last two years of his reign (after the USSR had left Afghanistan, but prior to the Mujaheddin control of Kabul) covering Afghan culture and politics, entertainment, cinema, pop music, world events, and the ongoing struggle against the Mujaheddin through the end of PDPA rule, illustrated throughout with reproductions of satirical cartoons and photographs. Issue no. 68 lacks pages 5-6. Published in Kabul, Afghanistan (Akhbar Halla) from 1990-1991 (1369-1370).</p> 
+                        <p>In general, the publication reflects PDPA party line politics, attacking U.S leadership under George Bush, criticizing the first Gulf War, praising Gorbachev, and evaluating the revolutionary events in Eastern Europe. Despite its ideological prejudices, the journal provides a fascinating window into Afghan views of sweeping changes in the region and wider global power structures during the 1990s.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref64" level="series">
+                <did>
+                    <unittitle>Exile Publications,</unittitle>
+                    <unitdate>1991-2001</unitdate>
+                </did>
+                <scopecontent id="ref65">
+                    <head>Scope and Contents note</head>
+                    <p>Throughout the Soviet occupation and the Taliban era, various Afghan political and social welfare groups based their operations in Peshawar, Pakistan. From Zahir Shah-loyalists to women’s aid organizations, a number of them published magazines and newspapers for Afghan refugees, as well as their countrymen at home.</p>
+                </scopecontent>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle><emph render="italic">وفا (Wafa, Loyalty)</emph>, Kabul, Afghanistan, عقرب 1370 (Aqrab) 16 - جدی 1372 (Jadi) 10</unittitle>
+                        <unitdate>(1991 November 7 - 1993 December 31)</unitdate>
+                    </did>
+                    <scopecontent id="ref66">
+                        <head>Scope and Contents note</head>
+                        <p>Year 1, no. 1 through Year 2, no. 79 [Alternate English title: <emph render="italic">WAFA (Loyalty) Fortnightly Paper.</emph>] Approximately 75 issues, circa 4-30 pages each, of the Zahir Shah-loyalist newspaper, published in Dari and Pushto by Afghan exiles in Pakistan (edited by Prof. A. Rasul Amin, Amin Panjshiri, Mirza M. Kunari, and Pir M. Karwan), including articles on the continuing Jihad in post-Soviet Afghanistan, Pakistan's support for the Mujaheddin, Afghan nationalism and national identity, the return of refugees after the defeat of Najibullah, the reconstruction of free mass media, and the future of the region in general, illustrated throughout with reproductions of photographs and a few political cartoons. Published in Peshawar, Pakistan (Writers Union of Free Afghanistan) from 1991-1993 (1370-1372).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle><emph render="italic">کوثر (Kausar, Abundance)</emph>, قوس 1370 (Qaus) 23 - جوزا 1371 (Jauza) 28</unittitle>
+                        <unitdate>(1991 December 14 - 1992 June 18)</unitdate>
+                    </did>
+                    <scopecontent id="ref67">
+                        <head>Scope and Contents note</head>
+                        <p>Year 3, no. 166 through Year 3, no. 216 (unbroken run, partial year). [Alternative title: <emph render="italic">Kawsar.</emph>] 51 issues, circa 8 pages each, comprising a substantial run of Al Haj Mohammad Amin Frotan's semi-weekly Dari-language Zahir Shah-loyalist newspaper, with coverage of world events from the Nashiratii Azad lslami Afghanistan (Free Islamic Party of Afghanistan) party's perspective, including the war in Bosnia, the fall of Soviet socialism, the first Gulf war, Boris Yeltsin, Salman Rushdie, and the Palestinian uprising, illustrated throughout with reproductions of photographs and satirical political cartoons. Published in Peshawar, Pakistan (Urgan Nashiratii Azad lslami Afghanistan) from 1991-1992 (1370-1371).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle><emph render="italic">ایمان (Eiman, Faith)</emph>, سرطان 1372 (Saratan) 9 - جدی 1377 (Jadi) 10</unittitle>
+                        <unitdate>(1993 June 30 - 1998 December 31)</unitdate>
+                    </did>
+                    <scopecontent id="ref68">
+                        <head>Scope and Contents note</head>
+                        <p>Year 1, no. 3 through Year 5, no. 1 (all published). 11 issues in 10 fascicules, circa 50-60 pages each, of the Pushto-Dari educational magazine of the Al-Dawa Islamic Cultural Center, edited by Nuhzat Farahi, Mohibullah Wahdati, and Zabihullah Sharifi, including numerous articles about proper religious education for the young, as well as strongly worded anti-Semitic content, illustrated throughout with reproductions of historical and contemporary photographs. Published in Peshawar, Pakistan (Markaz Da'wat wa Saqafat) from 1993-1997 (1372-1376).</p>
+                        <p>This serial is notable for its coverage of religious educational training at madrassas in Pakistan during the years of the Afghan civil war in Afghanistan.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle><emph render="italic">افغانستان (Afghanistan)</emph>, ثور 1373 (Hamal) 10 - سنبله 1380 (Sonbola) 9</unittitle>
+                        <unitdate>(1994 April 30 - 2001 August 31)</unitdate>
+                    </did>
+                    <scopecontent id="ref69">
+                        <head>Scope and Contents note</head>
+                        <p>Year 1, no. 1 through Year 8, no. 25 (all published). Complete run in 25 issues, circa 68-90 pages each, of the Dari and Pushto-language publication of the Afghan Information Center, edited by Sayed Naim Majrooh and Zarghoon Shah Shinwari, funded by Freedom House in New York to provide independent journalistic news and information about Afghanistan, covering history, culture, and current events, including the refugee crisis in Pakistan during the civil war and the time of the Taliban, including pro-Zahir Shah articles and features, largely lslamist, but moderate in tone, illustrated throughout with reproductions of historical and modern photographs. Published in Peshawar, Pakistan (Afghan lnformation Center) from 1994-2001 (1373-1380).</p>
+                        <p>The editor’s father, Syed Bahauddin Majrooh, a founder of the Afghan lnformation Center and publisher of its respected <emph render="italic">News Bulletin,</emph> was executed in 1988 at his home in exile in Peshawar, possibly by allies of Hekmatyar, for writing articles critical of Mujaheddin corruption. The present serial tended toward a royalist or perhaps Pashtun nationalist tone, in one article going so far as to suggest that the Taliban consider supporting the return of Zahir Shah, given his descent from the Durrani line of Pashtun kings.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle><emph render="italic">خواهران (Khaharan, Sisters)</emph>, جدی 1375 (Jadi) 11 - حوت 1377 (Hut) 9</unittitle>
+                        <unitdate>(1996 December 31 - 1999 February 28)</unitdate>
+                    </did>
+                    <scopecontent id="ref70">
+                        <head>Scope and Contents note</head>
+                        <p>Vol. 1, no. 1 through Vol. 2, no. 12 (near complete, lacks vol. 1, no. 7). [Alternate English title: <emph render="italic">Sisters - Women's Journal.</emph>] 12 issues of the magazine published in Dari and Pushto by Homa Zaafer, Sajeda Milad, and Belqis Baluch on behalf of the A.O.R.O.W. (Afghan Organization for Relief of Orphans and Widows), with articles concerning the importance of hijab in Islamic societies, poems, the personal stories of women in Afghanistan and around the world, role models, literacy, and refugee life in Peshawar, including articles and interviews with Nancy Hatch Dupree. Illustrated throughout with reproductions of modern and historical photographs and cartoons. Published in Kabul, Afghanistan and Peshawar, Pakistan (A. O. R.O. W.) from 1996-1999 (1375-1377).</p>
+                        <p>This serial devoted significant coverage to Afghan women's history, from the promotion of equal rights and education rights under Amir Amanullah Khan through women’s lives during the civil war of the 1990s.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref71" level="series">
+                <did>
+                    <unittitle>Mujaheddin-era Publications,</unittitle>
+                    <unitdate>1984-2001</unitdate>
+                </did>
+                <scopecontent><p>Islamists in Afghanistan began to resist PDPA social reforms long before the Soviet invasion. But when Moscow sent troops to Kabul to prop up the failing communist government in 1979, their resistance swiftly escalated into full-scale insurgency. Well-funded, often foreign-backed jihadists hounded Soviet forces throughout the country, leading Mikhail Gorbachev to order their withdrawal in 1989. Various Mujaheddin factions continued the struggle against Mohammad Najibullah's tottering regime until it fell in 1992, when they turned their weapons against one another. Throughout the conflict, many of the parties (including Jamiat-i Islami, Hezb-e Islami, and others) published newspapers and magazines to record their accomplishments and seek greater legitimacy. Foreign governments, including Iran, contributed pro-Mujaheddin literature, as did pan-Arab Islamist organizations, which published their own magazines to encourage jihad and solicit donations at home and abroad.</p></scopecontent>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle><emph render="italic">حبلو الله (Hablu Allah, Rope of Allah)</emph>, اسد 1363 (Asad) 30 - ثور 1369 (Saur) 10</unittitle>
+                        <unitdate>(1984 August 21 - 1990 April 30)</unitdate>
+                    </did>
+                    <scopecontent id="ref73">
+                        <head>Scope and Contents note</head>
+                        <p>No. 2 through no. 68 (six year run, near complete, lacking 12 nos.: 1, 3-4, 8-10, 12, 28, 56). [Alternate title: <emph render="italic">Habluallah.</emph>] 56 issues (with duplicate copies of nos. 13-27 bound in), circa 64-128 pages each, comprising a significant run of the historical, religious, and political magazine published in Dari/Farsi by the government of Iran to support global Jihad and Islamic revolution, with a primary focus on the Mujaheddin effort to expel the Soviets from Afghanistan, each issue including Khomeni's thoughts on world matters of importance to Muslims (and examples of his poetry), as well as topical articles on leading jihadists, with detailed histories of the Shia groups who travelled from Iran to fight in Afghanistan, etc., illustrated throughout with photographs of martyrs, historical figures, religious leaders, and battle scenes. Published in Tehran, Iran (Seyyed Jamal Husayni) from 1984-1990 (1363-1369).</p>
+                        <p>Discontinued shortly after Khomeni's death, the serial provided broad coverage of the Iranian perspective on Islamic jihad and regional history, including the fatwa against Salman Rushdie, and the continuation of global jihad after the Soviet defeat in Afghanistan.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle><emph render="italic">الجهاد (Al-Jihad, The Jihad)</emph>, ربيع الثاني 1405 (Rabi' al-thani) 8 - المحرّم 1416 (Muharram) 2</unittitle>
+                        <unitdate>(1984 December 31 - 1995 May 31)</unitdate>
+                    </did>
+                    <scopecontent id="ref74">
+                        <head>Scope and Contents note</head>
+                        <p>Vol. 1, no. 1 (Jadi 1363) through no. 12 (Mizan 1364); and Vol. 4, no. 61 (Aqrab 1368) through Vol. 10, no. 120 (Saur 1374) (lacking nos. 13-60, else complete). 72 issues, comprising the head of series and significant run of later issues of the Arabic-language magazine for foreign fighters in Afghanistan and their supporters at home, founded by radical cleric Al-Shaikh Mullah Azzam Abdullah, who, prior to his assassination in 1989, exerted a significant influence on Osama Bin Laden and aided in the development of Al Qaeda (after his death, the serial was continued by Mohammad Yousaf Abbas), focusing first on the military struggle in Afghanistan and later on opportunities for global Jihad throughout the Arab world and beyond; some issues include anti-Jewish and anti-American material. Illustrated throughout with photographs of martyrs and jihadists, weapons, and training facilities. Published in Peshawar, Pakistan (Dar-ul Jihad) from 1984-1995 (1363-1374).</p>
+                        <p><emph render="italic">Al-Jihad,</emph> particularly in later issues, provides a chilling view of the strain of Islamic extremism which has inspired Al Qaeda and the larger project of global Jihad.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>میثاق خون <emph render="italic">(Mithaq-e Khun, A Promise of Blood)</emph>, حمل 1365 (Hamal) 11 - حوت 1370 (Hut) 10</unittitle>
+                        <unitdate>(1986 March 31 - 1992 February 29)</unitdate>
+                    </did>
+                    <scopecontent id="ref75">
+                        <head>Scope and Contents note</head>
+                        <p>Vol. 2 [i.e., series 2] Year 1, no. 1 (also called no. 19) through Year 6, no. 12 (also called no. 90) (near complete; second series lacking only nos. 28-30). 53 issues, circa 80 pages each, comprising a near complete run of the second series of the Dari and Pushto monthly magazine from Jamiat-i Islami, edited by F. Fazil, Emad-u-din "Waseeq," and Naseer-u-din "Jamal," including extensive coverage of the Mujaheddin group's military and political activities of the time, alongside a special series promoting the writings of Egyptian Islamists Imam Hasan Albana and Sayyid Qutb (the latter of whom was virulently anti-American), as well as prominent coverage of the deaths of Jamiat commander Zabiullah and Pakistani General Zia-ul-Haq, illustrated throughout with startling battlefield photography and other imagery. Published in Peshawar, Pakistan (Organ-i Nasharati Komita Farhangi Jamiat-i-Islami Afghanistan) from 1986-1992 (1365-1370).</p>
+                        <p>The publication was probably disbanded when the members of Jamiat-i Islami returned to Kabul in 1992 after the death of Najibullah in the attempt to form a Mujaheddin government. The serial provides an extraordinary inside view of the Jamiat organization's priorities, displaying a deep seated anti-Western viewpoint at the same time they received weapons and financing from Washington and courted favorable American and European media coverage.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle><emph render="italic">المجاهد (Al-Mujahid, The Mujahid)</emph>, جمادى الثانية 1408 (Jumada al-thani) 12 - جمادى الأولى 1411 (Jumada al-awwal) 13</unittitle>
+                        <unitdate>(1988 January 31 - 1990 November 30)</unitdate>
+                    </did>
+                    <scopecontent id="ref76">
+                        <head>Scope and Contents note</head>
+                        <p>No. 1 (Jadi 1368) through no. 24 (Qaus 1369) (all published). 24 issues, circa 50-65 pages each, of the Arabic-language monthly magazine of Jihad in Afghanistan published by Mujalat-u-lslamia-tu-Shahriayat-o-Jam'a, edited by Jamil ur-Rehman and Al-Walid Bin Mohammad, including articles describing actions against the Soviets by Mujaheddin forces in Kunar, Jalalabad, and elsewhere, alongside articles on battlefield medicine and military tactics, Islamic education, and abuses of Muslims within the Islamic territories of the Soviet Union, illustrated throughout with photographs of the battle sites, etc. Published in Peshawar, Pakistan (Jama-at-u-Dawa Elal-Qur'an wa-Sunnah) from 1988-1990 (1368-1369).</p>
+                        <p>The periodical chronicles the activities of Arab jihadist groups that went on to become members of Al Qaeda, among them the Bin Laden organization.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle><emph render="italic">ارشاد (Irshad, Guidance)</emph>, حوت 1367 (Hut) 9 - قوس 1369 (Qaus) 9</unittitle>
+                        <unitdate>(1989 February 28 - 1990 November 30)</unitdate>
+                    </did>
+                    <scopecontent id="ref77">
+                        <head>Scope and Contents note</head>
+                        <p>Year 1, no. 1 through Year 2, no. 10 (all published?). Ten issues, circa 95-158 pages each, comprising what an expert source says is a complete run of the proto-governmental Mujaheddin publication in Pushto and Dari, edited by Shah Agha Mojaddedi, including articles on the political goals of the insurgency after the withdrawal of the Soviets, and plans for an allied Mujaheddin government in Kabul to replace Najibullah, illustrated throughout with reproductions of historical and contemporary photographs of fighters and warlords, including Sibghatullah Mojaddedi, Adbul Rab Saiyaf, Ahmad Shah Masood, Burhanudin Rabbani, and others. Published in Peshawar, Pakistan (Wizarat Dawat-o lrshad) in 1990 (1368-1369).</p>
+                        <p>Contains a fascinating look at the doomed attempt to form a Mujaheddin government in exile after the Soviet withdrawal and prior to the fall of Najibullah.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle><emph render="italic">دعوت (Da’wat, Invitation)</emph>, ذو القعدة 1411 (Dhu al-Qi'dah) 18 - صفر 1416 (Safar) 2</unittitle>
+                        <unitdate>(1991 May 31 - 1995 June 30)</unitdate>
+                    </did>
+                    <scopecontent id="ref78">
+                        <head>Scope and Contents note</head>
+                        <p>No. 13 (Jauza 1370) through no. 40 (Saratan 1374) (incomplete). 28 consecutive issues in 22 fascicules, circa 48-80 pages each, of Al-Shaikh Jamil ur-Rehman's Jamiat-u Da'wat monthly magazine (largely in Pushto with some Dari), edited by Al-Shaikh Samiullah, covering military and political advances of the Jamiat-u Da'wat fighters in the region of Kunar during the civil war, including reproductions of numerous signed agreements between Rehman's party and Hekmatyar's Hezb-e Islami party, documenting their shared control of Kunar and Nangarhar, as well as extensive articles detailing the group's religious beliefs, including the limits of women's rights under Islam, and later, a detailed account of Jamil ur-Rehman's murder by a rival Arab fighter at his home in Barbur, sparsely illustrated in keeping with the party's extremist beliefs. Published in Peshawar, Pakistan (De Afghanistan Jamiat-Da'wat Elal Qur'an wa Sunnah) from 1991-1995 (1370-1374).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle><emph render="italic">شهادت (Shahadat, Martyrdom)</emph>, حمل 1371 (Hamal) 2 - عقرب 1371 (Aqrab) 7</unittitle>
+                        <unitdate>(1992 March 22 - 1992 October 29)</unitdate>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Contents note</head>
+                        <p>No. 1 through no. 99 (single year). 157 issues (numbering irregular) of the Pushto-Dari daily newspaper, which at the time served as the official organ of Gulbuddin Hekmatyar's faction of the Mujaheddin, covering a pivotal year in the post-Soviet power struggle from the time of Najibullah's fall through the transitional government of Sibghatullah Mojaddedi, with articles accusing Ahmad Shah Masood of collaboration with the Russians and allied Afghan groups, illustrated throughout with reproductions of photographs and satirical cartoons. Published in Peshawar, Pakistan (Urgan-i-Markazi, Hezb-e Islami Afghanistan) from 1992-1993 (1371).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle><emph render="italic">سیمای وحدت (Sima-ye Wahdat, Portrait of Unity)</emph>, حوت 1375 (Hut) 6 - اسد 1377 (Asad) 8</unittitle>
+                        <unitdate>(1997 February 24 - 1998 July 30)</unitdate>
+                    </did>
+                    <scopecontent id="ref80">
+                        <head>Scope and Contents note</head>
+                        <p>Year 1, no. 2 through Year 2, no. 58 (near complete, lacking first issue). 57 issues (with no. 48 provided in duplicate), circa 4-6 pages each, of Mohammad Akbari's Pasdaran faction Hizb-e Wahdat Dari-language newspaper, largely addressing an Hazara audience, including regular features on women's rights under the rule of Islam. Published in Peshawar, Pakistan (Urgan-i Nasharati Hezb-i Wahdat lslami Afghanistan - Pakistan Branch) from 1997-1998 (1375-1377).</p>
+                        <p>This serial is considerably more moderate than the Taliban hard-line position, although Akbari joined the Taliban in September 1998 following conflicts with rival Hazara leader Abdul Ali Mazari.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle><emph render="italic">مستقبال (Mustaqbal, Future)</emph>, جوزا 1378 (Jausa) 10 - جدی 1380 (Jadi) 10</unittitle>
+                        <unitdate>(1999 May 31 - 2001 December 31)</unitdate>
+                    </did>
+                    <scopecontent id="ref81">
+                        <head>Scope and Contents note</head>
+                        <p>Year 1, no. 1 through Year 3, nos. 6-7 (all published). 19 issues, circa 65-125 pages each, comprising a complete run of Jamiat-i Islami's social, cultural, and political magazine discussing the future of Afghanistan, published in Dari and Pushto from exile in Peshawar by Nasir Ahmad Nawidi and Mohammad Aajan Haqpal under the supervision of Sifatullah Qanet during the time of the Taliban takeover, presenting a more moderate vision of Islamic governance, including articles on the unity of science and religion, profiles of historical figures, and anti-PDPA texts, illustrated throughout with reproductions of contemporary and historical photographs. Published in Peshawar, Pakistan from 1999-2001 (1378-1380).</p>
+                        <p>This serial provides a look at the political and cultural vision of Ahmad Shah Masood's Jamiat-i lslami party in the last years of his life, up until his murder by the Taliban, the events of 9/11, and subsequent U.S. invasion.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref82" level="series">
+                <did>
+                    <unittitle>Taliban-era Publications,</unittitle>
+                    <unitdate>1995-2001</unitdate>
+                </did>
+                <scopecontent><p>Arising in response to the brutality and lawlessness of the Afghan civil war, the Taliban consolidated forces under the leadership of Mullah Omar in Kandahar circa 1994. Extolling strict adherence to the Koran as the key to social order, the group successfully fought the remaining Mujaheddin factions for control of the country in 1996. Until they were toppled by American forces in December 2001, the Taliban regularly issued newspapers and magazines that chronicled their military and political ascent, promoted Islamic virtue, and reinforced Sharia law. </p></scopecontent>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle><emph render="italic">طلوع افغان (Tolu’-e Afghan, Dawn of Afghanistan)</emph>, حمل 1374 (Hamal) 1 - میزان 1380 (Mizan) 14</unittitle>
+                        <unitdate>(1995 March 21 - 2001 October 6)</unitdate>
+                    </did>
+                    <scopecontent id="ref83">
+                        <head>Scope and Contents note</head>
+                        <p>Year 1374, no. 1 (also called issue 10) through year 1380, no. 390 (near complete run of issues published under the Taliban, lacking approximately 23 numbers). [Alternate title: <emph render="italic">Tolo-e-Afghan.</emph>] Approximately 415 issues, circa 4 pages each, of the semi-weekly (note: while the subtitle describes it as a daily, publication dates reflect a less frequent delivery schedule; numbering erratic) Pushto and Dari newspaper, edited by Maulavi Ahmad Jan Ahmadi and published by the Taliban’s Ministry of Information and Culture in Khandahar, largely broadcasting the group's Islamist principles, with statements attributed to Mullah Omar concerning the role of women in Islamic societies, governance by Islamic teachers and intellectuals, warnings to rival warlords and Islamist groups, etc., alongside some coverage of national and international affairs, as well as poetry and other cultural writings. Chiefly text. Published in Kandahar, Afghanistan (Da Etla'ato Aw Kultur Riyasat) from 1995-2001 (1374-1380).</p>
+                        <p>The serial presents the Taliban's political and social self-presentation from the time of their military ascendance through the post-9/11 period. Includes articles about the Clinton-era attacks on Tora Bora and the Taliban's protection of Osama Bin Laden.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle><emph render="italic">شریعت (Shari'at, Sharia)</emph>, Kandahar, Afghanistan, قوس 1374 (Qaus) 27 - قوس 1379 (Qaus) 29</unittitle>
+                        <unitdate>(1995 December 18 - 2000 December 19)</unitdate>
+                    </did>
+                    <scopecontent id="ref84">
+                        <head>Scope and Contents note</head>
+                        <p>Year 1, no. 1 through Year 5, no. 93 (inconsistently numbered, some issues bound out of sequence). [Alternate title in English from year two: <emph render="italic">Shariat Weekly.</emph>] 384 issues, comprising a near complete collection (lacking only year 1, no. 3) of the official weekly (later semi-weekly) newspaper of the Taliban movement, largely in Pushto with some Dari, edited by Maulavi Ahmad Jan Ahmadi, Mullah Asadullah Hanifi, Maulavi Abdul Rahman Ahmad Hotaki, and others, covering Afghan and Islamic history and governance, Afghan and international news, and official decrees, alongside extensive anti-Rabbani, anti-communist, and anti-Western writings, sparsely illustrated in accordance with strict Sharia law prohibiting graven images. Occasional special issues in color ink. Published in Kabul, Afghanistan and Peshawar, Pakistan (Islamic Emirate of Afghanistan) from 1995-2000 (1374-1379).</p>
+                        <p>Established prior to the group’s control of the Afghan government under Mullah Omar (who was declared Amir-ul-Mumineen, or Supreme Caliph of Islam, in April 1996), <emph render="italic">Shari'at</emph> charts the rise of the Taliban from its earliest influence through the apex of its rule. Specific topics include the corruption of the Rabbani government, reports linking Iran with Ahmad Shah Masood and the Northern Alliance, condemnations of Israel, Osama Bin Laden's alliance with the Taliban and international efforts to prosecute him, limits to the opium trade, India and Pakistan, Chechnaya, and the Clinton sex scandal.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle><emph render="italic">خلافت (Khilafat, Caliphate)</emph>, Kabul, Afghanistan, جوزا 1375 (Jauza) 11 - دلو 1379 (Asad) 12</unittitle>
+                        <unitdate>(1996 May 31 - 2001 January 31)</unitdate>
+                    </did>
+                    <scopecontent id="ref85">
+                        <head>Scope and Contents note</head>
+                        <p>Year 1, no. 1 through Year 5, no. 21 (all published). 26 issues in 18 fascicules, circa 64-86 pages each, comprising what an expert source says is a complete run of the monthly Dari-Pushto magazine of the Islamic Emirate of Afghanistan under the Taliban, edited by Maulavi Faqir Mohammad Khanjari (founded by Tarik Islami Taliban Afghanistan under the supervision of Shuray-e Farhangi), including direct statements by Mullah Omar, Koranic citations and teachings, articles on the proper role of women in an Islamic society, and the differentiation of jihad terrorism. Chiefly text. Published in Kandahar, Afghanistan (Islamic Emirate of Afghanistan-Taliban) from 1996-2001 (1375-1380).</p>
+                        <p>The articles included are reflective of the hard-line Kandahar branch of the Taliban, where Mullah Omar resided during his governance of Afghanistan.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle><emph render="italic">اتفاق اسلام (Ittifaq-e Islam, Union of Islam)</emph>, ثور 1375 (Saur) 23 - 19 سنبله 1380 (Sonbola) 19</unittitle>
+                        <unitdate>(1996 May 12 - 2001 September 10)</unitdate>
+                    </did>
+                    <scopecontent id="ref86">
+                        <head>Scope and Contents note</head>
+                        <p>Collation of erratically numbered issues (scattered numbers, largely incomplete). Approximately 86 issues, circa 4 pages each, of the major Dari and Pushto-language daily newspaper of Herat, edited by Ghulam Hazrat "Jaheed" and Mohammad Qazi Zada and authorized by the Taliban's Ministry of Information and Culture, showing some nuances and differences with the more hard-line Taliban newspapers of Kabul from the same period, but also emphasizing the rule of Islamic law and the military and civil accomplishments of the Taliban. Chiefly text, illustrated with sparse graphic flourishes and images of mosques. Published in Herat, Afghanistan (Dawlati Matbaah-Riyasat-e Etla'at Wa Kultur, Herat) from 1996-2001 (1375-1380).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle><emph render="italic">هيواد (Hewad, Homeland)</emph>, میزان 1375 (Mizan) 21 - میزان 1380 (Mizan) 12</unittitle>
+                        <unitdate>(1996 October 12 - 2001 October 4)</unitdate>
+                    </did>
+                    <scopecontent id="ref87">
+                        <head>Scope and Contents note</head>
+                        <p>Issues incomplete. [Alternate English title: <emph render="italic">Hewad Daily.</emph>] 262 issues, circa 4-8 pages each, of the semi-weekly Taliban newspaper published in Pushto (with some Dari) by the Ministry of Defense under the editorship of Abdul Hanan "Himmat," Abdul Hadi "Rawan," Ilhaj Mullah Asadullah "Hanifi," and Mullah Mohammad lbrahim "Nabil" during the occupation of Kabul, including direct statements from Taliban commanders to the people of Afghanistan explaining the group's policies and agendas, coverage of its struggle against the Northern Alliance, statements and decrees by Amir-ul-Mumineen Mullah Muhammad Omar Mujahid (Mullah Omar), as well as poetry, articles on Islamic faith, and some local and international news. Published in Kabul, Afghanistan (De Urdu de Matbe'a Chaap) from 1996-2001 (1375-1380).</p>
+                        <p>The collection of issues documents the Taliban's self-presentation of its military achievements and philosophy of Islamic jihad. Also contains news coverage of the events of September 11, 2001 from the Taliban point of view.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle><emph render="italic">انیس (Anis, Companion)</emph>, میزان 1375 (Mizan) 26 - میزان 1380 (Mizan) 14</unittitle>
+                        <unitdate>(1996 October 17 - 2001 October 6)</unitdate>
+                    </did>
+                    <scopecontent id="ref88">
+                        <head>Scope and Contents note</head>
+                        <p>No. 18754 through no. 19345 (incomplete). [Alternate English title: <emph render="italic">Anis Daily Newspaper.</emph>] Approximately 600 issues (lacking circa 180 issues from the stated date range; numbering erratic) of the Dari and Pushto-language daily newspaper published by the Afghan Ministry of lnformation and Culture (est. 1927), comprising an incomplete though substantial run covering the five years of Taliban governance in Afghanistan, from the group's capture of Kabul in 1996 through the U.S. bombardment and invasion in 2001, offering an officially sanctioned view of daily life, culture, politics, current events, international affairs, and religious propriety in the Islamic Emirate of Afghanistan under the leadership of Mullah Omar. Some issues illustrated with bold graphic art showing the military prowess of the Taliban as a warning to foreign invaders. Published in Kabul, Afghanistan (Dawlati Matbaah) from 1996-2001 (1375-1380).</p> 
+                        <p>Articles include direct statements from the Taliban leadership and former Mujaheddin commanders from before and after the events of September 11, 2001, as well as a defiant statement from Osama Bin Laden concerning the attacks.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle><emph render="italic">سنگر (Sangar, Trench)</emph>, جدی 1375 (Jadi) 3 - دلو 1377 (Dalw) 26</unittitle>
+                        <unitdate>(1996 December 23 - 1999 February 15)</unitdate>
+                    </did>
+                    <scopecontent id="ref89">
+                        <head>Scope and Contents note</head>
+                        <p>Vol. 1, no. 1 through no. 60 (partial year, lacking 6 nos.: 6, 9, 14, 17, 28, 32; inconsistently numbered). 54 issues, circa 4 pages each, of the militant newspaper published in Dari and Pushto by the Defense Ministry of the Islamic Emirate of Afghanistan under the Taliban (edited by Maulavi Hamdullah Hamid) in support of the policies of Mullah Omar, covering the war efforts against the Northern Alliance and other topics related to religion and warfare. Published in Kabul, Afghanistan (Nasharia-i Wizarat Defa-i Mili Emarat Islami Afghanistan) from 1996-1997 (1375-1377).</p>
+                        <p>This series was launched immediately after the Taliban takeover of Kabul and seemingly discontinued shortly thereafter.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle><emph render="italic">The Islamic Emirate</emph>, ربيع الثاني 1421 (Rabi' al-thani) 29 - صفر 1422 (Safar) 7</unittitle>
+                        <unitdate>(2000 July 31 - 2001 April 30) </unitdate>
+                    </did>
+                    <scopecontent id="ref90">
+                        <head>Scope and Contents note</head>
+                        <p>No. 1 through no. 7 (all published). Seven issues, circa 33-45 pages each, comprising a complete run of the official English-language publication of the lslamic Emirate of Afghanistan under Amir-ul-Mumineen Mullah Muhammad Omar Mujahid (Mullah Omar), edited by Maulavi Ahmad Jan Ahmadi, including translations of decrees and fatwas, broad and specific refutations of Western media reports concerning the Taliban, statements concerning the origins and objectives of the Islamic Emirate, discussions of the Ministry for the Promotion of Virtue and Prevention of Vice, interviews with Jalaluddin Haqqani and Osama Bin Laden, and coverage of the Taliban's efforts to stop the trade of narcotics in Afghanistan, etc., chiefly text. Published in Kandahar, Afghanistan (Information Centre of the Islamic Emirate of Afghanistan) from 2000-2001.</p>
+                        <p>As the official English-language organ of the Taliban, it reflects the hard-line anti-Western views of its publishers in the months directly prior to the events of September 11, 2001 and the American invasion.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref91" level="series">
+                <did>
+                    <unittitle>Karzai-era Publications,</unittitle>
+                    <unitdate>2002-2009</unitdate>
+                </did>
+                <scopecontent><p>After the events of September 11, 2001, American-led coalition forces invaded Afghanistan and deposed the Taliban, making way for the presidency of Hamid Karzai. In the decade since his initial appointment, the government has progressively restored civil rights that were restricted under the Taliban, including freedom of the press. In addition to pro-government newspapers and magazines, a variety of critical voices can be found among the emerging print media outlets of the Karzai era.</p></scopecontent>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle><emph render="italic">پلوشه (Palwashah, Clarity)</emph>, عقرب 1381 (Aqrab) 20 - حوت 1385 (Hut) 20</unittitle>
+                        <unitdate>(November 11, 2002-March 11, 2007)</unitdate>
+                    </did>
+                    <scopecontent id="ref92">
+                        <head>Scope and Contents note</head>
+                        <p>Vol. 3, no. 1 through Vol. 3, year 4, no. 79 (complete run of stated date range; numbering erratic). 75 issues of the semi-monthly Pashtun nationalist magazine published in Dari and Pushto under the editorship of Dr. Akmal Ghilgi Skwandi, including articles on the social and political situation in Afghanistan during the early Karzai period, moderately Islamist and pro-Sardar Daoud Khan in tendency, but anti-communist. Published in Kabul, Afghanistan (Matba'a Ghazali) from 2002-2007 (1381-1385).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle><emph render="italic">ویسا (Weesa, Trust)</emph>, ثور 1385 (Saur) 5 - حمل 1389 (Hamal) 30</unittitle>
+                        <unitdate>(2006 April 25 - 2010 April 19)</unitdate>
+                    </did>
+                    <scopecontent id="ref93">
+                        <head>Scope and Contents note</head>
+                        <p>Year 1, no. 1 through Year 4, no. 1186 (complete head of series through fourth year of publication). [Alternate title in Library of Congress listings: <emph render="italic">Visa.</emph>] Approximately 1180 issues, circa 4 pages each, comprising an unbroken head-of-series run (slight numbering irregularities and minor date gaps throughout, which an expert source says is consistent with the serial's publishing history) of one of the major Karzai-era newspapers, published daily (except Thursdays and Fridays) in Dari and Pushto under the pro-coalition editorship of Mohib Bizar, including reports on the armed struggle against the Taliban (as well as early indications of peace negotiations), national and international politics and current affairs, entertainment, sports, development, and foreign aid. Published in Kabul, Afghanistan (Mohib Bizar) from 2006-2010 (1385-1389).</p> 
+                        <p>Later issues, as security in Kabul deteriorated, show public service announcements for the prevention of suicide attacks, as well as a proliferation of advertisements for internet and cell phone companies.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle><emph render="italic">اسلام غږ (Islam Ghagh, Voice of Islam)</emph>, سرطان 1387 (Saratan) 10 - سرطان 1388 (Saratan) 29</unittitle>
+                        <unitdate>(2008 June 30 - 2009 July 20)</unitdate>
+                    </did>
+                    <scopecontent id="ref94">
+                        <head>Scope and Contents note</head>
+                        <p>No. 1 through no. 4 (all published). [Alternate English title: <emph render="italic">Voice of Islam Monthly Publication.</emph>] Four issues, circa 48 pages each, comprising a complete run of the political, cultural, and social monthly magazine published mainly in Pushto (and some Dari) by Mishr Maulavi Sayeb Saeedullah Saeed under the editorship of Habib Shah Ansari and Sada Haider Kheil, with articles concerning the unchanging nature of Islam even under chaotic political and national events, the difficulties of life in Kabul under the Russians and Americans, statements against the Taliban massacres and suicide attacks, calls to end ethnic divisions and unite the nation, condemnations of civilian casualties by occupation forces, etc., illustrated throughout with reproductions of photographs and desktop publishing clipart. Published in Kabul and Khost, Afghanistan (De Mujahideno Mili Yawali lslami Tahrik Mishr, Maulavi Saeedullah Saeed) from 2008-2009 (1387-1388).</p>
+                        <p>This serial provides a perspective from Khost province on topics of national and international concern, as well as household matters, from the evils of drugs and alcohol to childhood education, and the importance of hijab for Afghan women.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref52" level="file">
+                <did>
+                    <unittitle>Other Materials,</unittitle>
+                    <unitdate>1991, 2011</unitdate>
+                </did>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle><emph render="italic">تقویم (Taqvim, Calendar)</emph>, Kabul, Afghanistan, in Dari, number of issues: 1,</unittitle>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle><emph render="italic">سراج التواریخ (Siraj al-Tavarikh, Lamp of Chronicles: The History of Afghanistan)</emph>, کابل :‏ ‏متبعه حروفى دار السلطنه،, Kabul, Afghanistan, in Dari and Pushto, number of issues: 1,</unittitle>
+                        <unitdate>2011</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

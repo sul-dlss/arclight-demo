@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CSt-H">2013C4.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Inventory of the Song Feiqing papers
+                </titleproper>
+                <titleproper type="filing">Song Feiqing papers</titleproper>
+                <author>Finding aid prepared by Hoover Institution Archives Staff</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Hoover Institution Archives</publisher>
+                <address>
+                    <addressline>434 Galvez Mall</addressline>
+                    <addressline>Stanford University</addressline>
+                    <addressline>Stanford, CA, 94305-6010</addressline>
+                    <addressline>(650) 723-3563</addressline>
+                    <addressline>hooverarchives@stanford.edu</addressline>
+                </address>
+                <date>© 2013</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2016-05-09T15:24-0700</date>
+            </creation>
+            <langusage>Finding aid is written in Finding aid is written in 
+                <language langcode="eng" scriptcode="Latn">English</language> and <language langcode="chi" >Chinese</language></langusage>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>2015</date>
+                <item>2015 February 23: Revised after edits
+2014 December 19: Edited finding aid;
+2014 August 21 - Added motion picture information</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Song Feiqing (宋棐卿) papers</unittitle>
+            <unitdate normal="1926/2009" type="inclusive">1926-2009</unitdate>
+            <unitid label="Collection Number" countrycode="US" repositorycode="CSt-H">2013C4</unitid>
+            <repository>
+                <corpname>Hoover Institution Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="chi">Chinese</language> and <language langcode="eng">English</language>
+            </langmaterial>
+            <physdesc>
+                <extent>8 manuscript boxes, 1 motion picture film reel</extent>
+                <extent>(4 linear feet)</extent>
+            </physdesc>
+            <abstract id="ref2" label="Abstract">Correspondence, writings, legal and financial records, printed matter, motion picture film, and audiovisual material relating to operations of the Oriental Corporation in Tianjin, China and subsequently in Hong Kong.</abstract>
+            <physloc id="ref3" label="Physical Location">Hoover Institution Archives</physloc>
+            <origination label="Creator">
+                <persname source="ingest">Song, Feiqing, 1898-1955.</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref4">
+            <head>Access</head>
+            <p>The collection is open for research.</p>
+            <p>The Hoover Institution Archives only allows access to 
+                <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+        </accessrestrict>
+        <acqinfo id="ref86">
+            <head>Acquisition Information</head>
+            <p>Materials were acquired by the Hoover Institution Archives in 2013.</p>
+        </acqinfo>
+        <userestrict id="ref82">
+            <head>Publication Rights</head>
+            <p>For copyright status, please contact the Hoover Institution Archives.</p>
+        </userestrict>
+        <prefercite id="ref84">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Song Feiqing papers, [Box no.], Hoover Institution Archives</p>
+        </prefercite>
+        <accruals id="ref85">
+            <head>Accruals</head>
+            <p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at 
+                <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://searchworks.stanford.edu/">http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the catalog is larger than the number of boxes listed in this finding aid.</p>
+        </accruals>
+        <bioghist id="ref9">
+            <head>Biographical Note</head>
+            <p>Born in 1898, the Chinese businessman Song Feiqing is best known for his role in modern China's industrialization and promoting the spirit of entrepreneurship in China. 
+                Born into a Christian family in Shandong Province, in the early 1920s Song went to Chicago to study business management at Northwestern University. 
+                In 1925, he returned to China and spent the next several years working in his father's business in Tianjin. 
+                Seeing that China's industry was lacking entrepreneurship, especially in the textile market where foreign countries were profiting at China's expense, in 1932 Song established the Oriental Corporation (Dongya) in Tianjin. 
+                That corporation became China's first textile company to use Chinese wool to produce its yarn and to sell its products both domestically and internationally. 
+                By the 1940s, the corporation had become the largest yarn production company in China, having garnered more than 80 percent of the domestic Chinese market.</p>
+            <p>Song's entrepreneurship transformed the business environment in modern China. 
+                In addition, Song brought his religious beliefs into his management style and enterprise culture, as well as forming a social communication network that relied on the Christian spirit to serve his entrepreneurial purposes. 
+                After the Chinese Communists won the civil war and established the People's Republic in 1949, Song struggled to keep his enterprises intact but was unable to do so. 
+                In 1950, he moved his company to Hong Kong and later immigrated to Argentina. He died in Buenos Aires in 1955.</p>
+        </bioghist>
+        <scopecontent id="ref10">
+            <head>Scope and Content of Collection</head>
+            <p>The papers of Song Feiqing include correspondence, writings, legal and financial records, printed matter, motion picture film, and audiovisual material relating to the operations of the Oriental Corporation in Tianjin, China and then in Hong Kong, including what part Christian beliefs played in Song's management practices. The papers also provide a rare glimpse into the formation of industrialization and entrepreneurship in China’s recent past.</p>
+        </scopecontent>
+        <controlaccess>
+            <corpname source="ingest">Oriental Corporation.</corpname>
+            <subject source="lcsh">Business enterprises--China--Hong Kong.</subject>
+            <subject source="lcsh">Business enterprises--China.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Biographical and historical information on Song Feiqing and the Oriental Corporation 宋棐卿生平和东亚毛纺织公司历史资料,</unittitle>
+                    <container id="cid3590400" type="Box" label="Box">1-2</container>
+                    <unitdate>1965-2009</unitdate>
+                </did>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Articles and reports on the Oriental Corporation and Song Feiqing in newspapers, magazines and the internet 近期在报纸、杂志和网络上有关东亚公司和宋棐卿的文章和新闻报道,</unittitle>
+                        <container id="cid3590408" type="Box-folder" label="Box/Folder ">1:1-2</container>
+                        <unitdate>after 1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings 代较为久远的剪报,</unittitle>
+                        <container id="cid3590407" type="Box-folder" label="Box/Folder ">1:3-5</container>
+                        <unitdate>before 1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Biographical article on Song Feiqing by Wang Weigang, "Dong Ya Fang Zhi Da Wang Song Feiqing," originally published in the book <title render="italic">Biographies of Chinese Capitalists</title> in Taiwan 收录于《中国大资本家》一书中由王维刚撰写的“东亚纺织大王宋棐卿”，最早在台湾出版,</unittitle>
+                        <container id="cid3590406" type="Box-folder" label="Box/Folder ">1:6</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Biography of Song Feiqing authored by his daughter Song Yunzhang 由宋棐卿之女宋允璋撰写的《我国著名的民族纺织工业家—宋棐卿先生传记,</unittitle>
+                        <container id="cid3590405" type="Box-folder" label="Box/Folder ">1:7</container>
+                        <unitdate>2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Biographical article on Song Feiqing and the Oriental Corporation in the book <title render="italic">Chinese Business Giants in the Century,</title> with English translation《中国百年商业巨子（下）》一书中“宋棐卿和东亚毛纺织股份有限公司”一文及其英文翻译,</unittitle>
+                        <container id="cid3590404" type="Box-folder" label="Box/Folder ">1:8</container>
+                        <unitdate>1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Biographical article on Song Feiqing and the Oriental Corporation by Li Jingshan and three others in the collection of Tianjin Wen Shi Zi Liao Xuan Ji, with English translation 收录于《天津文史资料选辑》中由李静山等人撰写的“宋棐卿与天津东亚企业公司”一文及其英文翻译,</unittitle>
+                        <container id="cid3590403" type="Box-folder" label="Box/Folder ">1:9</container>
+                        <unitdate>1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Academic papers on the Oriental Corporation written by professors in the United States 美国教授撰写的关于东亚纺织公司的学术文章,</unittitle>
+                        <container id="cid3590402" type="Box-folder" label="Box/Folder ">2:1</container>
+                        <unitdate>2009</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Publications that include articles on the Oriental Corporation and Song Feiqing 收录东亚纺织公司和宋棐卿相关文章的出版物,</unittitle>
+                        <container id="cid3590401" type="Box" label="Box">2-3</container>
+                        <unitdate>1965-2005</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref20" level="series">
+                <did>
+                    <unittitle>The Oriental Corporation records 东亚公司的相关资料,</unittitle>
+                    <container id="cid3590386" type="Box" label="Box">3-4</container>
+                    <unitdate>1932-2000</unitdate>
+                </did>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Company ordinances 东亚企业的企业条例</unittitle>
+                        <container id="cid3590399" type="Box-folder" label="Box/Folder ">3:1</container>
+                        <unitdate>1932-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Employee handbook 东亚公司职工手册,</unittitle>
+                        <container id="cid3590398" type="Box-folder" label="Box/Folder ">3:2</container>
+                        <unitdate>1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Song Feiqing’s participation in the Tianjin Guo Min Da Hui and his proposal to the government 宋棐卿参加国民大会并提交提案,</unittitle>
+                        <container id="cid3590397" type="Box-folder" label="Box/Folder ">3:3</container>
+                        <unitdate>1935-1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>“The Spirit of the Oriental” 东亚公司出版物《东亚精神》,</unittitle>
+                        <container id="cid3590396" type="Box-folder" label="Box/Folder ">3:4</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Employees' leisure activities and welfare in the Oriental Corporation 东亚公司职工娱乐活动和福利手册,</unittitle>
+                        <container id="cid3590395" type="Box-folder" label="Box/Folder ">3:5</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Research materials on Brazil and Australia’s wool industry 对巴西和澳大利亚羊毛工业的研究资料,</unittitle>
+                        <container id="cid3590394" type="Box-folder" label="Box/Folder ">3:6</container>
+                        <unitdate>1948-1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Sewing machine history and a book list 纺织机历史及书单,</unittitle>
+                        <container id="cid3590393" type="Box-folder" label="Box/Folder ">3:7</container>
+                        <unitdate>1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Business and trade with Japan and Germany 东亚公司的日本和德国合作伙伴,</unittitle>
+                        <container id="cid3590392" type="Box-folder" label="Box/Folder ">3:8</container>
+                        <unitdate>1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Rules on training execution 训练实施办法,</unittitle>
+                        <container id="cid3590391" type="Box-folder" label="Box/Folder ">4:1</container>
+                        <unitdate>1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Argentina business name list 阿根廷生意伙伴名单,</unittitle>
+                        <container id="cid3590390" type="Box-folder" label="Box/Folder ">4:2</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>A collection of the corporation’s songs 东亚歌集,</unittitle>
+                        <container id="cid3590389" type="Box-folder" label="Box/Folder ">4:3</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>The establishment of Tianjin Oriental Corporation in 1978 有关年天津东亚毛纺针织联合公司成立的文件,</unittitle>
+                        <container id="cid3590388" type="Box-folder" label="Box/Folder ">4:4</container>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Brochures on the history and products of Tianjin Oriental Worsted Mill Group 天津东亚毛纺织集团有限公司产品与历史宣传资料,</unittitle>
+                        <container id="cid3590387" type="Box-folder" label="Box/Folder ">4:5</container>
+                        <unitdate>2000</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref34" level="series">
+                <did>
+                    <unittitle>Documents for pretrial and trial on factory ownership in Hong Kong 有關香港工廠所有權問題的开庭相关文件,</unittitle>
+                    <container id="cid3590375" type="Box" label="Box">4</container>
+                    <unitdate>1952-1963</unitdate>
+                </did>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Copies of pretrial documents 庭审前预备会议的文件复印件,</unittitle>
+                        <container id="cid3590385" type="Box-folder" label="Box/Folder ">4:6</container>
+                        <unitdate>1952-1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>English translation of the tape recording for pretrial 庭审前预备会议录音的英文翻译,</unittitle>
+                        <container id="cid3590384" type="Box-folder" label="Box/Folder ">4:7</container>
+                        <unitdate>1952-1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Miscellaneous documents, including letters and recordings, regarding legal actions 其他文件（信件、谈话记录和诉讼回复）,</unittitle>
+                        <container id="cid3590383" type="Box-folder" label="Box/Folder ">4:8</container>
+                        <unitdate>1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Letters exchanged with lawyer Alfredo Barry 与Alfredo Barry 律师的信件交流,</unittitle>
+                        <container id="cid3590382" type="Box-folder" label="Box/Folder ">4:9</container>
+                        <unitdate>1955-1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Documents relating to preparation for trial 开庭的准备材料,</unittitle>
+                        <container id="cid3590381" type="Box-folder" label="Box/Folder ">4:10</container>
+                        <unitdate>1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Pretrial with lawyers,</unittitle>
+                        <container id="cid3590380" type="Box-folder" label="Box/Folder ">4:11</container>
+                        <unitdate>1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Correspondence between Harvey Sung and Attorney Currie 宋宇涵和律师Currie 之间的通信往来,</unittitle>
+                        <container id="cid3590379" type="Box-folder" label="Box/Folder ">4:12</container>
+                        <unitdate>1957-1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Pretrial account of what happened with Hong Kong office 审前预备会议关于香港公司发生情况的叙述,</unittitle>
+                        <container id="cid3590378" type="Box-folder" label="Box/Folder ">4:13</container>
+                        <unitdate>1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Letters between Hong Kong and California 年审前预备会议之后的香港和加州两地的通信摘要,</unittitle>
+                        <container id="cid3590377" type="Box-folder" label="Box/Folder ">4:14</container>
+                        <unitdate>1961-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Correspondence with lawyer, friends, and Song Yuhan before and after the trial 打官司前后与律师、朋友以及宋宇涵来往信件,</unittitle>
+                        <container id="cid3590376" type="Box-folder" label="Box/Folder ">4:15</container>
+                        <unitdate>1962-1963</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref45" level="series">
+                <did>
+                    <unittitle>Correspondence 通信,</unittitle>
+                    <container id="cid3590355" type="Box" label="Box">5-6</container>
+                    <unitdate>1951-1961</unitdate>
+                </did>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Notes on the exchange with Song Yuhan, Xianmin, Xianyong, and Du Zhishen 与宋宇涵、显勇、显民和杜之绅交流的条目记录,</unittitle>
+                        <container id="cid3590374" type="Box-folder" label="Box/Folder ">5:1</container>
+                        <unitdate>1951 December 3 - 1952 November 28</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Between Du Zhishen, Shi Shaodong, and Song Xianmin discussing the business plan for the Hong Kong office 杜之绅、石少东和宋显民谈香港公司业务的通信往来,</unittitle>
+                        <container id="cid3590373" type="Box-folder" label="Box/Folder ">5:2</container>
+                        <unitdate>1951-1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Relating to Draper Corporation in Brazil 有关巴西Draper公司的信件,</unittitle>
+                        <container id="cid3590372" type="Box-folder" label="Box/Folder ">5:3</container>
+                        <unitdate>1951-1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Relating to trading with Japanese companies 与日本公司贸易往来的信件,</unittitle>
+                        <container id="cid3590371" type="Box-folder" label="Box/Folder ">5:4</container>
+                        <unitdate>1951-1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Between Du Zhishen, Song Xianmin, and Song Feiqing 东亚企业公司香港分公司杜之绅、宋显民与宋棐卿的通信摘要,</unittitle>
+                        <container id="cid3590370" type="Box-folder" label="Box/Folder ">5:5</container>
+                        <unitdate>1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Exchanged with Song Yunhua 与宋允华的通信,</unittitle>
+                        <container id="cid3590369" type="Box-folder" label="Box/Folder ">5:6</container>
+                        <unitdate>1952-1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Between Song Yuhan, Song Xianmin, and Li Jingfang 宋雨涵和宋显民与李景芳的通讯往来,</unittitle>
+                        <container id="cid3590368" type="Box-folder" label="Box/Folder ">5:7-8</container>
+                        <unitdate>1952-1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Du Zhishen and Li Jingfang (copies) 杜之绅与李景芳的原始信件复印件,</unittitle>
+                        <container id="cid3590367" type="Box-folder" label="Box/Folder ">5:9</container>
+                        <unitdate>1952-1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Li Jingfang with Xianmin and Cunzhen (copies) 李景芳与显民存贞信件存底,</unittitle>
+                        <container id="cid3590366" type="Box-folder" label="Box/Folder ">5:10</container>
+                        <unitdate>1953-1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Family members,</unittitle>
+                        <container id="cid3590365" type="Box-folder" label="Box/Folder ">5:11</container>
+                        <unitdate>1955-1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>From Xianmin and Xianzhi to Jiangfang (copies) 显智显民写给景芳信件存底,</unittitle>
+                        <container id="cid3590364" type="Box-folder" label="Box/Folder ">6:1</container>
+                        <unitdate>1956-1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Family letters 家信,</unittitle>
+                        <container id="cid3590363" type="Box-folder" label="Box/Folder ">6:2</container>
+                        <unitdate>1956-1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>With Yuzhen and other friends in Hong Kong 从1955来与玉珍等香港同仁的通信,</unittitle>
+                        <container id="cid3590362" type="Box-folder" label="Box/Folder ">6:3</container>
+                        <unitdate>1957-1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>With Jingbo 与泾波夫妇的通信,</unittitle>
+                        <container id="cid3590361" type="Box-folder" label="Box/Folder ">6:4</container>
+                        <unitdate>1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>With friends and families,</unittitle>
+                        <container id="cid3590360" type="Box-folder" label="Box/Folder ">6:5</container>
+                        <unitdate>1958-1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>From Bo Yixiang to Li Jingfang 博义祥写给李景芳的信件,</unittitle>
+                        <container id="cid3590359" type="Box-folder" label="Box/Folder ">6:6</container>
+                        <unitdate>1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Jingfang and Xianyong 年后景芳和显勇之间的通信,</unittitle>
+                        <container id="cid3590358" type="Box-folder" label="Box/Folder ">6:7</container>
+                        <unitdate>after 1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>With the Oriental Corporation (after Song Feiqing‘s death) 棐卿去世后宋家与东亚的通信,</unittitle>
+                        <container id="cid3590357" type="Box-folder" label="Box/Folder ">6:8</container>
+                        <unitdate>after 1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Recent years and eulogy scripts for Mrs. Song 近些年的信件和对宋夫人的慰词,</unittitle>
+                        <container id="cid3590356" type="Box-folder" label="Box/Folder ">6:9</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref65" level="series">
+                <did>
+                    <unittitle>Other materials 其他文件（财务记录、经营计划和家庭事务）,</unittitle>
+                    <container id="cid3590349" type="Box" label="Box">6</container>
+                    <unitdate>1947-1961</unitdate>
+                </did>
+                <scopecontent>
+                    <head>Scope and Content note</head>
+                    <p>Includes financial records, business plan, and family documents.</p>
+                </scopecontent>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Reports for chicken raising 关于建养鸡场的研究报告,</unittitle>
+                        <container id="cid3590354" type="Box-folder" label="Box/Folder ">6:10</container>
+                        <unitdate>1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Documents relating to the deposit in the New York Bank 有关在纽约银行存款的文件,</unittitle>
+                        <container id="cid3590353" type="Box-folder" label="Box/Folder ">6:11</container>
+                        <unitdate>1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Documents relating to insurance claim 有关保险赔付的文件,</unittitle>
+                        <container id="cid3590352" type="Box-folder" label="Box/Folder ">6:12</container>
+                        <unitdate>1958-1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>Expenses at Berkeley 在伯克利的开销,</unittitle>
+                        <container id="cid3590351" type="Box-folder" label="Box/Folder ">6:13</container>
+                        <unitdate>1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Signature book for Yuntai and Jingshu’s wedding 允泰和泾淑婚礼签名纪念册,</unittitle>
+                        <container id="cid3590350" type="Box-folder" label="Box/Folder ">6:14</container>
+                        <unitdate>1947-1948</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref71" level="series">
+                <did>
+                    <unittitle>Personal materials 宋棐卿的私人资料,</unittitle>
+                    <container id="cid3590341" type="Box" label="Box">7-8</container>
+                    <unitdate>1951-1954</unitdate>
+                </did>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Diary 1951年到1952年的日记,</unittitle>
+                        <container id="cid3590348" type="Box-folder" label="Box/Folder ">7:1</container>
+                        <unitdate>1951 December 1 - 1952 January 22</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Original correspondence to Song Feiqing relating to Hong Kong office 寄给宋棐卿有关香港公司的信件原件,</unittitle>
+                        <container id="cid3590347" type="Box-folder" label="Box/Folder ">7:2</container>
+                        <unitdate>1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Bank account statement 宋棐清的银行对账单,</unittitle>
+                        <container id="cid3590346" type="Box-folder" label="Box/Folder ">7:3</container>
+                        <unitdate>1952-1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>Correspondence received and sent (personal, business) 宋棐卿的信件,</unittitle>
+                        <container id="cid3590345" type="Box-folder" label="Box/Folder ">7:4-10</container>
+                        <unitdate>1953-1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Photocopy of Song Feiqing’s industrial plan “My Dream” 宋棐卿的工业计划《我的梦》复印件,</unittitle>
+                        <container id="cid3590344" type="Box-folder" label="Box/Folder ">7:11</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Sound recordings of Song Feiqing’s funeral and obituaries 宋棐卿追悼会录音资料和讣告剪报,</unittitle>
+                        <container id="cid3590343" type="Box" label="Box">8</container>
+                        <unitdate>1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="item">
+                    <did>
+                        <unittitle>16mm motion picture film</unittitle>
+                        <container id="cid3590342" type="Film" label="Motion picture film">shelf</container>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
