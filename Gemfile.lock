@@ -141,7 +141,7 @@ GEM
       mime-types-data (~> 3.2015)
     mime-types-data (3.2016.0521)
     mini_portile2 (2.1.0)
-    minitest (5.10.2)
+    minitest (5.10.1)
     multi_json (1.12.1)
     multipart-post (2.0.0)
     mysql2 (0.4.5)
@@ -275,6 +275,7 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   jquery-rails
   listen (~> 3.0.5)
+  minitest (= 5.10.1)
   mysql2
   puma (~> 3.0)
   rails (~> 5.0.2)
