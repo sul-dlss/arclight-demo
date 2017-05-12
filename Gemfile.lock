@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: a9baa1463af5c065782acdd600357151c28c7d85
+  revision: 5b1a46c6bf419f960d9333492c8ba3c97b2f436e
   specs:
     blacklight (7.0.0.alpha)
       bootstrap (>= 4.0.0.alpha5, < 5)
@@ -24,7 +24,7 @@ GIT
 
 GIT
   remote: https://github.com/sul-dlss/arclight.git
-  revision: db2d4238bb21f3fa5a503ce8fecbf4f0e1d5ff74
+  revision: 8e88e34b7ab42359a95da4adaffcbadd5a159986
   specs:
     arclight (0.0.1)
       blacklight
