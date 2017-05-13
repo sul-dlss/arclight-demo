@@ -26,7 +26,7 @@ namespace :demo do
   end
 
   desc 'Seed fixture data to Solr'
-  task :seed do
+  task seed: [:'arclight:destroy_index_docs'] do
     # Identify the configured repos
     repo_config.keys.map do |repository|
       # Index a directory with a given repository ID that matches its filename
