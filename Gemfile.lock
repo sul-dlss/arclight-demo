@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: b12a7d12baac0a0cbfac590d828b83628d216eb7
+  revision: 610310f89e0763d7632f861328c3828139415bc3
   specs:
     blacklight (7.0.0.alpha)
       bootstrap (>= 4.0.0.alpha5, < 5)
@@ -24,12 +24,12 @@ GIT
 
 GIT
   remote: https://github.com/sul-dlss/arclight.git
-  revision: 5bd5c3409d619f351cc77563cfbb642dc93929e5
+  revision: d869517bbc3696a6a248ee7d3421daa5ea706b3a
   specs:
     arclight (0.0.1)
       blacklight
       blacklight_range_limit
-      rails (>= 4.2.6, < 5.1)
+      rails (~> 5.0)
       solr_ead
 
 GEM
@@ -73,7 +73,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     arel (7.1.4)
-    autoprefixer-rails (7.0.1)
+    autoprefixer-rails (7.1.0)
       execjs
     bcrypt (3.1.11)
     bindex (0.5.0)
@@ -157,7 +157,7 @@ GEM
       solrizer (~> 3.3)
     orm_adapter (0.5.0)
     puma (3.8.2)
-    rack (2.0.2)
+    rack (2.0.3)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (5.0.3)

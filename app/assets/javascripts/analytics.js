@@ -6,5 +6,4 @@ Blacklight.onLoad(function() {
 
   ga('create', 'UA-7219229-32', 'auto');
   ga('send', 'pageview');
-  console.log('load')
 });
