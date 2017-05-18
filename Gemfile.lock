@@ -24,7 +24,7 @@ GIT
 
 GIT
   remote: https://github.com/sul-dlss/arclight.git
-  revision: 340d4ab00423267534138a089cc4574c2dac3633
+  revision: 7d2f042531dd3650e189edcc72c843f151795232
   specs:
     arclight (0.0.1)
       blacklight
@@ -148,7 +148,7 @@ GEM
     nio4r (2.0.0)
     nokogiri (1.7.2)
       mini_portile2 (~> 2.1.0)
-    nokogumbo (1.4.10)
+    nokogumbo (1.4.11)
       nokogiri
     om (3.1.1)
       activemodel
