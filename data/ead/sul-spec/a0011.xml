@@ -32,7 +32,7 @@
 <p>Images of students and student activities including track meets, women basketball players, dormitory rooms, picnics and off-campus excursions, commencement activities (including decoration of the arcades as parlors), and theatricals; there are also photographs of campus buildings before and after the 1906 earthquake and of Leland Stanford Jr.'s railroad track on campus. Non-Stanford images include Yosemite and scenes from a European trip.</p>  </scopecontent>
   <altformavail id="aspace_f5e39e1b559bc7a1cdd35101e7415efe">
     <head>Existence and Location of Copies</head>
-<p>The entire album has been digitized and is available online here: http://purl.stanford.edu/kc844kt2526</p>  </altformavail>
+<p>The entire album has been digitized and is available online here: https://purl.stanford.edu/kc844kt2526</p>  </altformavail>
   <controlaccess>
     <genreform source="aat">Photoprints.</genreform>
     <geogname source="lcsh">Yosemite National Park (Calif.)</geogname>
@@ -41,6 +41,6 @@
     <persname rules="aacr" source="naf">Stanford, Leland</persname>
     <corpname role="oth" rules="dacs" source="naf">Stanford University</corpname>
   </controlaccess>
-  <dsc><c01 id="aspace_ref6_lx4" level="file"><did><unittitle>Photograph Album</unittitle><dao audience="internal" xlink:actuate="onRequest" xlink:href="http://purl.stanford.edu/kc844kt2526" xlink:show="new" xlink:title="Photograph Album"><daodesc><p>Photograph Album</p></daodesc></dao><container id="aspace_76137544d2e63550e7a7ef7cf2168c48" label="Mixed Materials" type="box">1</container></did></c01></dsc>
+  <dsc><c01 id="aspace_ref6_lx4" level="file"><did><unittitle>Photograph Album</unittitle><dao audience="internal" xlink:actuate="onRequest" xlink:href="https://purl.stanford.edu/kc844kt2526" xlink:show="new" xlink:title="Photograph Album"><daodesc><p>Photograph Album</p></daodesc></dao><container id="aspace_76137544d2e63550e7a7ef7cf2168c48" label="Mixed Materials" type="box">1</container></did></c01></dsc>
 </archdesc>
 </ead>
