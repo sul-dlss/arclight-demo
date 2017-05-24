@@ -180,7 +180,6 @@ class CatalogController < ApplicationController
     config.index.partials.insert(0, :index_breadcrumb)
     config.index.partials.insert(0, :arclight_document_index_header)
 
-
     config.show.metadata_partials = [
       :summary_field,
       :access_field,
@@ -200,8 +199,21 @@ class CatalogController < ApplicationController
       :component_field
     ]
 
+    config.show.component_sidebar_items = [
+      :online_field,
+      :in_person_field,
+      :component_terms_field,
+      :cite_field
+    ]
+    
     # Component Show Page - Metadata Section
-    config.add_component_field 'containers_ssim', label: 'Containers'
+    config.add_component_field 'containers', label: 'Containers', accessor: 'containers', separator_options: {
+      words_connector: ', ',
+      two_words_connector: ', ',
+      last_word_connector: ', '
+    }, if: lambda { |_context, _field_config, document|
+      document.containers.present?
+    }
     config.add_component_field 'abstract_ssm', label: 'Abstract'
     config.add_component_field 'extent_ssm', label: 'Extent'
     config.add_component_field 'scopecontent_ssm', label: 'Scope and Content'
@@ -212,6 +224,10 @@ class CatalogController < ApplicationController
       two_words_connector: '<br/>',
       last_word_connector: '<br/>'
     }
+    
+    # Component Show Page Sidebar - Terms and Condition Section
+    config.add_component_terms_field 'parent_access_restrict_ssm', label: 'Restrictions'
+    config.add_component_terms_field 'parent_access_terms_ssm', label: 'Terms of Access'
 
     # Collection Show Page - Summary Section
     config.add_summary_field 'creators_ssim', label: 'Creator', :link_to_facet => true
