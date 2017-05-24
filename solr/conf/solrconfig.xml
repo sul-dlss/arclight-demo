@@ -85,9 +85,11 @@
        -->
 
        <str name="qf">
-         text
+         title_teim^100
+         text^10
        </str>
        <str name="pf">
+         title_teim^100
          text^10
        </str>
 
@@ -101,6 +103,7 @@
          accessrestrict_ssm,
          child_component_count_isim,
          collection_ssm,
+         containers_ssim,
          creator_ssm,
          extent_ssm,
          geogname_ssm,
@@ -117,7 +120,9 @@
          parent_unittitles_ssm,
          ead_ssi,
          ref_ssm,
-         component_level_isim
+         component_level_isim,
+         parent_access_restrict_ssm,
+         parent_access_terms_ssm
        </str>
 
        <str name="facet">true</str>
