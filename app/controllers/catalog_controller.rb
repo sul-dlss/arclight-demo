@@ -159,7 +159,13 @@ class CatalogController < ApplicationController
     # label in pulldown is followed by the name of the SOLR field to sort by and
     # whether the sort is ascending or descending (it must be asc or desc
     # except in the relevancy case).
-    config.add_sort_field 'score desc, title_filing_si asc', label: 'relevance'
+    config.add_sort_field 'score desc, title_sort asc', label: 'relevance'
+    config.add_sort_field 'date_sort asc', label: 'date (ascending)'
+    config.add_sort_field 'date_sort desc', label: 'date (descending)'
+    config.add_sort_field 'creator_sort asc', label: 'creator (A-Z)'
+    config.add_sort_field 'creator_sort desc', label: 'creator (Z-A)'
+    config.add_sort_field 'title_sort asc', label: 'title (A-Z)'
+    config.add_sort_field 'title_sort desc', label: 'title (Z-A)'
 
     # If there are more than this many search results, no spelling ("did you
     # mean") suggestion is offered.
@@ -277,11 +283,11 @@ class CatalogController < ApplicationController
       last_word_connector: '<br/>'
     }
 
-    config.add_indexed_terms_field 'names_coll_ssim', label: 'Names', :link_to_facet => true, separator_options: {
+    config.add_indexed_terms_field 'names_coll_ssim', label: 'Names', separator_options: {
       words_connector: '<br/>',
       two_words_connector: '<br/>',
       last_word_connector: '<br/>'
-    }
+    }, helper_method: :link_to_name_facet
 
     config.add_indexed_terms_field 'places_ssim', label: 'Places', :link_to_facet => true, separator_options: {
       words_connector: '<br/>',
