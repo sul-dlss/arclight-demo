@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://www.oac.cdlib.org/findaid/ark:/13030/tf9w1007sf">m0085.xml</eadid><filedesc><titlestmt><titleproper>Guide to the Lucena Pfuffer Parsons journal: The woman in the sunbonnet: typescript, <date calendar="gregorian" era="ce">1850-1851, 1928</date> <num>M0085</num></titleproper><author>Processed by Special Collections staff; machine-readable finding aid created by C. Del Anderson</author></titlestmt><publicationstmt><publisher>Department of Special Collections and University Archives</publisher><p><date>1998</date></p><address><addressline>Green Library</addressline><addressline>557 Escondido Mall</addressline><addressline>Stanford 94305-6064</addressline><addressline>specialcollections@stanford.edu</addressline><addressline>URL: <extptr xlink:href="http://library.stanford.edu/spc" xlink:show="new" xlink:title="http://library.stanford.edu/spc" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 14:53:04 -0700</date>.</creation><langusage>Finding aid is written in <language>English.</language></langusage></profiledesc></eadheader><archdesc audience="internal" level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Department of Special Collections and University Archives</corpname>
+    </repository>
+    <unittitle>Lucena Pfuffer Parsons journal: The woman in the sunbonnet: typescript</unittitle>
+    <unitid>M0085</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 item(s)</extent>
+      <extent altrender="carrier">58 pages</extent>
+    </physdesc>
+    <unitdate normal="1850/1928" type="inclusive">1850-1851, 1928</unitdate>
+  </did>
+  <scopecontent id="aspace_3022a8548ab448bdaf27d2238f506b1c">
+    <head>SCOPE AND CONTENT</head>
+<p>Summary: An edited version of the journal kept by Parsons during her trip overland from Wisconsin to California in 1850, edited with an introduction by Elene and Elizabeth Wilbur. The journal is the chronology of a trip undertaken by a young woman and her husband as they travelled from Janesville, Wisconsin to what was to become Oakland, California.</p>  </scopecontent>
+  <bioghist id="aspace_8ba51ba83e0538d0980b0ac067451a49">
+    <head>BIOGRAPHY</head>
+<p>Lucena Parsons was born in August, 1821 in the state of New York. Before marrying George Washington Parsons in March 1850, Lucena was a schoolteacher in Wisconsin. In the spring of 1850, Lucena and her husband started a cross country journey. They arrived in California one year later and settled in Oakland where they took up farming.</p>  </bioghist>
+  <prefercite id="aspace_344b9153069239e3d7cf75a317a72da4">
+    <head>Preferred Citation:</head>
+<p>[Identification of item] Lucena Pfuffer Parsons journal: The woman in the sunbonnet: typescript, M0085, Dept. of Special Collections, Stanford University Libraries, Stanford, Calif.</p>  </prefercite>
+  <custodhist id="aspace_72d787af3461e57a72200bdbd90fd27b">
+    <head>Provenance:</head>
+<p>Gift of Elizabeth Wilbur.</p>  </custodhist>
+  <userestrict id="aspace_f401ea1775c5f901bd26c3d6667b9f2f">
+    <head>Publication Rights:</head>
+<p>Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Public Services Librarian of the Dept. of Special Collections.</p>  </userestrict>
+  <accessrestrict id="aspace_6362ee863ce729936cbbf16618b4c627">
+    <head>Access Restrictions:</head>
+<p>None.</p>  </accessrestrict>
+  <dsc/>
+</archdesc>
+</ead>
