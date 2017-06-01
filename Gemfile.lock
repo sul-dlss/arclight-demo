@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: 908c55c8288f290b949c76079c8d0716eb8124f7
+  revision: ea7596041fa1f4a37e92796aa6ba8c8fdc0fa2be
   specs:
     blacklight (7.0.0.alpha)
       bootstrap (>= 4.0.0.alpha5, < 5)
@@ -24,7 +24,7 @@ GIT
 
 GIT
   remote: https://github.com/sul-dlss/arclight.git
-  revision: 2f5f2b843de552bab437abe4f682bd3d266ec0b6
+  revision: f9059191b19f216fb175417ff60174510e807ba8
   specs:
     arclight (0.0.1)
       blacklight
@@ -148,7 +148,7 @@ GEM
     nio4r (2.1.0)
     nokogiri (1.7.2)
       mini_portile2 (~> 2.1.0)
-    nokogumbo (1.4.11)
+    nokogumbo (1.4.12)
       nokogiri
     om (3.1.1)
       activemodel
