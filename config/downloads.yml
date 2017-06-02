@@ -11,3 +11,15 @@ sample_unitid:
   ead:
     href: 'http://example.com/sample.xml'
     size: 123456
+
+umich-bhl-0234:
+  ead:
+    href: 'https://github.com/sul-dlss/arclight-demo/raw/master/data/ead/umich-bhl/umich-bhl-0234.xml'
+    size: 91781
+2016C32-xml:
+  ead:
+    href: 'https://github.com/sul-dlss/arclight-demo/raw/master/data/ead/hoover/2016C32.xml'
+    size: 60212
+  pdf:
+    href: 'http://pdf.oac.cdlib.org/pdf/hoover/2016C32.pdf'
+    size: '141.75 KB'
