@@ -63,7 +63,7 @@ group :production do
 end
 
 gem 'blacklight', github: 'projectblacklight/blacklight'
-gem 'arclight', github: 'sul-dlss/arclight'
+gem 'arclight'
 gem 'blacklight_range_limit', github: 'projectblacklight/blacklight_range_limit', branch: 'blacklight-7'
 
 gem 'rsolr', '~> 1.0'
