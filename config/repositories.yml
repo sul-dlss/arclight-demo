@@ -28,6 +28,21 @@ nlm:
   google_request_url: 'https://docs.google.com/a/stanford.edu/forms/d/e/1FAIpQLSeOamhY_IcFw4sPnz0ddwWWkrPaHbM5wp7JVbOLOL_mIusEyw/viewform'
   google_request_mappings: "document_url=entry.1980510262&collection_name=entry.619150170&collection_creator=entry.14428541&eadid=entry.996397105&containers=entry.1125277048&title=entry.862815208"
 
+sul-ars:
+  name: 'Stanford University Libraries. Archive of Recorded Sound'
+  visit_note: 'The Archive’s materials are for on-site use only. It is advised that visitors contact the Archive in advance so that required materials can be prepared.'
+  description: 'The Archive of Recorded Sound’s collection contains over 400,000 items that span sound recording history--from its beginnings to the present day. Nearly all formats ever developed to record sound are represented: piano rolls; wax cylinders; shellac, acetate, aluminum, and vinyl discs; magnetic wire and tape recordings; compact discs. Collections are particularly strong in the areas of jazz and opera.'
+  building: 'Braun Music Center'
+  address1: '541 Lasuen Mall'
+  address2: ''
+  city: 'Stanford'
+  state: 'CA'
+  zip: '94305-3076'
+  country: 'USA'
+  phone: ''
+  contact_info: 'soundarchive@stanford.edu'
+  thumbnail_url: 'https://library.stanford.edu/sites/default/files/styles/150x150/public/branch/image/Edison_002LowRes.jpg'
+
 sul-spec:
   name: 'Stanford University Libraries. Special Collections and University Archives'
   visit_note: 'Special Collections and University Archives materials are stored offsite and must be paged 36 hours in advance.'
