@@ -24,7 +24,7 @@
 <p>Gift of Edward A. Feigenbaum.</p>  </acqinfo>
   <accessrestrict id="aspace_cdb1187fc7e9370d95d8b58e7c92da26">
     <head>Information about Access</head>
-<p>The collection is open for research. The first two accessions have been digitized and are available online here: <extref actuate="onRequest" href="http://saltworks.stanford.edu/" show="new" title="SALTWorks">http://saltworks.stanford.edu/</extref>.
+<p>The collection is open for research. The first two accessions have been digitized and are available online here: <extref xlink:actuate="onRequest" xlink:href="http://saltworks.stanford.edu/" xlink:show="new" xlink:title="SALTWorks">http://saltworks.stanford.edu/</extref>.
 For use of paper materials, requests must be made at least 48 hours in advance of intended use.</p>  </accessrestrict>
   <userestrict id="aspace_d23ede1c7292c930e793359b77302130">
     <head>Ownership &amp; Copyright</head>
@@ -37,10 +37,10 @@ For use of paper materials, requests must be made at least 48 hours in advance o
 <p>Computer scientist. Feigenbaum received his B.S., 1956, and his Ph.D., 1959, in electrical engineering from Carnegie Institute of Technology. He completed a Fulbright Fellowship at the National Physics Laboratory and in 1960 went to the University of California, Berkeley, to teach in the School of Business Administration. He joined the Stanford faculty in 1965 in the Dept. of Computer Science; he served as Director of the Stanford Computation Center from 1965 to 1968 and as chairman of the Department from 1976 to 1981. Feigenbaum is a leading national figure in artificial intelligence and has developed computer resources for interactive research between medical and scientific collaborators on a national and global scale.</p>  </bioghist>
   <scopecontent id="aspace_0a2e3e9bc2c79a0889a46305fb150569">
     <head>Scope and Content of Collection</head>
-<p>Collection primarily concerns his work in artificial intelligence at Stanford University and includes administrative files, correspondence, project files, trip files, proposals, reports, reprints, Artificial Intelligence Lab memos, audio tapes, video tapes, and files on computer programs, mainly DENDRAL, MOLGEN, EPAM, and SUMEX. Also includes manuscript and published editions of his work <title render="italic">Computers and Thought</title>.</p><p>Audio recordings of Professor Feigenbaum discussing portions of the collection are available <extref actuate="onRequest" href="http://purl.stanford.edu/nk784qn9320" show="new" title="Project documentation">online:</extref>.</p>  </scopecontent>
+<p>Collection primarily concerns his work in artificial intelligence at Stanford University and includes administrative files, correspondence, project files, trip files, proposals, reports, reprints, Artificial Intelligence Lab memos, audio tapes, video tapes, and files on computer programs, mainly DENDRAL, MOLGEN, EPAM, and SUMEX. Also includes manuscript and published editions of his work <title render="italic">Computers and Thought</title>.</p><p>Audio recordings of Professor Feigenbaum discussing portions of the collection are available <extref xlink:actuate="onRequest" xlink:href="http://purl.stanford.edu/nk784qn9320" xlink:show="new" xlink:title="Project documentation">online:</extref>.</p>  </scopecontent>
   <altformavail id="aspace_169bf02e0a8fead148361a92459c7907">
     <head>Existence and Location of Copies</head>
-<p>The first two accessions of the collection have been digitized and are available online here: <extref actuate="onRequest" href="http://saltworks.stanford.edu/" show="new" title="SALTWorks">http://saltworks.stanford.edu/</extref>.</p>  </altformavail>
+<p>The first two accessions of the collection have been digitized and are available online here: <extref xlink:actuate="onRequest" xlink:href="http://saltworks.stanford.edu/" xlink:show="new" xlink:title="SALTWorks">http://saltworks.stanford.edu/</extref>.</p>  </altformavail>
   <controlaccess>
     <subject source="lcsh">Expert systems (Computer science)</subject>
     <subject source="local">ARPA computer network.</subject>
