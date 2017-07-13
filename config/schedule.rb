@@ -1,6 +1,6 @@
 set :output, 'log/seed_cron.log'
 
-# EC2 servers default to UTC. 9:15 PM UTC = 2:15 PM PDT/1:15 PM PST 
-every :day, at: '9:15 pm' do
+# EC2 servers default to UTC. 10:00 PM UTC = 3:00 PM PDT/2:00 PM PST
+every :day, at: '10:00 pm' do
   rake 'demo:seed'
 end
