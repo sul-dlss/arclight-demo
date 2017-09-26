@@ -12,5 +12,5 @@ before_script:
   - find data/ead -name '*.xml' | xargs xmllint --noout --schema data/xsd/ead.xsd
 addons:
   apt:
-    sources:
-      - libxml2-utils
+    packages:
+    - libxml2-utils
