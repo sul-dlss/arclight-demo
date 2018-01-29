@@ -43,6 +43,21 @@ sul-ars:
   contact_info: 'soundarchive@stanford.edu'
   thumbnail_url: 'https://library.stanford.edu/sites/default/files/styles/150x150/public/branch/image/Edison_002LowRes.jpg'
 
+sul-cubb:
+  name: 'Stanford University Libraries. Cubberley Education Library'
+  visit_note: ''
+  description: 'Cubberley Education Library supports the research and teaching needs of those interested in education at all levels with a collection of over 170,000 volumes and some 1100 journals. Part of this collection is stored off campus in SAL3 for preservation and must be paged to campus. We have a current curriculum collection (including children’s books), plus historical collections of textbooks and college catalogs.'
+  building: 'Education Building'
+  address1: '485 Lasuen Mall'
+  address2: ''
+  city: 'Stanford'
+  state: 'CA'
+  zip: '94305-3076'
+  country: 'USA'
+  phone: ''
+  contact_info: 'cubberley@stanford.edu'
+  thumbnail_url: 'http://library.stanford.edu/sites/default/files/styles/150x150/public/branch/image/ed%20main.jpg'
+
 sul-spec:
   name: 'Stanford University Libraries. Special Collections and University Archives'
   visit_note: 'Special Collections and University Archives materials are stored offsite and must be paged 36 hours in advance.'
