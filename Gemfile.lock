@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: 82c0d5a4cc6979f57b8071c7da2a20d5e2a09394
+  revision: 194689972567bedebee372af2eaff1ba377219af
   specs:
     blacklight (7.0.0.rc1)
       deprecation
@@ -94,7 +94,7 @@ GEM
       devise
     erubi (1.7.1)
     execjs (2.7.0)
-    faraday (0.15.0)
+    faraday (0.15.1)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.23)
     globalid (0.4.1)
