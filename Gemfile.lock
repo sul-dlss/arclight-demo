@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: 194689972567bedebee372af2eaff1ba377219af
+  revision: efe3d8f8eab23045e7f53feb21fad08a8c83ae51
   specs:
     blacklight (7.0.0.rc1)
       deprecation
@@ -90,13 +90,13 @@ GEM
       railties (>= 4.1.0, < 6.0)
       responders
       warden (~> 1.2.3)
-    devise-guests (0.6.0)
+    devise-guests (0.6.1)
       devise
     erubi (1.7.1)
     execjs (2.7.0)
     faraday (0.15.2)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.23)
+    ffi (1.9.25)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
     honeybadger (3.3.0)
@@ -241,7 +241,7 @@ GEM
     turbolinks-source (5.1.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    uglifier (4.1.10)
+    uglifier (4.1.11)
       execjs (>= 0.3.0, < 3)
     warden (1.2.7)
       rack (>= 1.0)
@@ -288,4 +288,4 @@ DEPENDENCIES
   whenever
 
 BUNDLED WITH
-   1.16.1
+   1.16.2
