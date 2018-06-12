@@ -1,11 +1,11 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: efe3d8f8eab23045e7f53feb21fad08a8c83ae51
+  revision: 8b9041544553ce0dd0d979f9f39f78d94b30b46d
   specs:
     blacklight (7.0.0.rc1)
       deprecation
       globalid
-      jbuilder
+      jbuilder (~> 2.7)
       kaminari (>= 0.15)
       nokogiri (~> 1.6)
       rails (~> 5.0)
@@ -181,7 +181,7 @@ GEM
     responders (2.4.0)
       actionpack (>= 4.2.0, < 5.3)
       railties (>= 4.2.0, < 5.3)
-    retriable (3.1.1)
+    retriable (3.1.2)
     rsolr (1.1.2)
       builder (>= 2.1.2)
     ruby-progressbar (1.9.0)
