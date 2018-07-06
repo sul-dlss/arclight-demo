@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: 8b9041544553ce0dd0d979f9f39f78d94b30b46d
+  revision: a9cc987852c6fd53439b9320ed1b2ef395c4bbf8
   specs:
     blacklight (7.0.0.rc1)
       deprecation
@@ -135,9 +135,9 @@ GEM
     minitest (5.11.3)
     multi_json (1.13.1)
     multipart-post (2.0.0)
-    mysql2 (0.5.1)
+    mysql2 (0.5.2)
     nio4r (2.3.1)
-    nokogiri (1.8.3)
+    nokogiri (1.8.4)
       mini_portile2 (~> 2.3.0)
     nokogumbo (1.5.0)
       nokogiri
@@ -206,7 +206,7 @@ GEM
       rsolr
       sanitize
       solrizer (>= 3.1.0, < 4)
-    solr_wrapper (1.2.0)
+    solr_wrapper (2.0.0)
       faraday
       retriable
       ruby-progressbar
@@ -241,7 +241,7 @@ GEM
     turbolinks-source (5.1.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    uglifier (4.1.12)
+    uglifier (4.1.14)
       execjs (>= 0.3.0, < 3)
     warden (1.2.7)
       rack (>= 1.0)
