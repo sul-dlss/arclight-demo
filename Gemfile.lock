@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: a9cc987852c6fd53439b9320ed1b2ef395c4bbf8
+  revision: fed468512829c7790740d60347df7f9e21361ac6
   specs:
     blacklight (7.0.0.rc1)
       deprecation
@@ -147,7 +147,7 @@ GEM
       nokogiri (>= 1.4.2)
       solrizer (~> 3.3)
     orm_adapter (0.5.0)
-    puma (3.11.4)
+    puma (3.12.0)
     rack (2.0.5)
     rack-test (1.0.0)
       rack (>= 1.0, < 3)
@@ -241,7 +241,7 @@ GEM
     turbolinks-source (5.1.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    uglifier (4.1.14)
+    uglifier (4.1.15)
       execjs (>= 0.3.0, < 3)
     warden (1.2.7)
       rack (>= 1.0)
