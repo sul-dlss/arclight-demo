@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: fed468512829c7790740d60347df7f9e21361ac6
+  revision: 99878d412c85c8225d6a1cb4a64f3ccb49fa2fe3
   specs:
     blacklight (7.0.0.rc1)
       deprecation
@@ -149,7 +149,7 @@ GEM
     orm_adapter (0.5.0)
     puma (3.12.0)
     rack (2.0.5)
-    rack-test (1.0.0)
+    rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rails (5.1.6)
       actioncable (= 5.1.6)
@@ -186,11 +186,11 @@ GEM
       builder (>= 2.1.2)
     ruby-progressbar (1.9.0)
     rubyzip (1.2.1)
-    sanitize (4.6.5)
+    sanitize (4.6.6)
       crass (~> 1.0.2)
       nokogiri (>= 1.4.4)
       nokogumbo (~> 1.4)
-    sass (3.5.6)
+    sass (3.5.7)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -241,7 +241,7 @@ GEM
     turbolinks-source (5.1.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    uglifier (4.1.15)
+    uglifier (4.1.17)
       execjs (>= 0.3.0, < 3)
     warden (1.2.7)
       rack (>= 1.0)
@@ -288,4 +288,4 @@ DEPENDENCIES
   whenever
 
 BUNDLED WITH
-   1.16.2
+   1.16.3
