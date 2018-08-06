@@ -59,7 +59,7 @@ end
 
 gem 'blacklight', github: 'projectblacklight/blacklight'
 gem 'arclight'
-gem 'blacklight_range_limit', github: 'projectblacklight/blacklight_range_limit', branch: 'blacklight-7'
+gem 'blacklight_range_limit', '~> 7.0.0.rc2'
 
 gem 'rsolr', '~> 1.0'
 gem 'devise'

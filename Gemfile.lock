@@ -10,17 +10,6 @@ GIT
       nokogiri (~> 1.6)
       rails (~> 5.0)
 
-GIT
-  remote: https://github.com/projectblacklight/blacklight_range_limit.git
-  revision: 9b1d1664167fd2d673f5e4f8eeb042e75129167c
-  branch: blacklight-7
-  specs:
-    blacklight_range_limit (6.1.2)
-      blacklight
-      jquery-rails
-      rails (>= 3.0)
-      tether-rails
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -69,6 +58,11 @@ GEM
     arel (8.0.0)
     bcrypt (3.1.12)
     bindex (0.5.0)
+    blacklight_range_limit (7.0.0.rc2)
+      blacklight
+      jquery-rails
+      rails (>= 3.0)
+      tether-rails
     builder (3.2.3)
     byebug (10.0.2)
     chronic (0.10.2)
@@ -263,7 +257,7 @@ PLATFORMS
 DEPENDENCIES
   arclight
   blacklight!
-  blacklight_range_limit!
+  blacklight_range_limit (~> 7.0.0.rc2)
   byebug
   coffee-rails (~> 4.2)
   devise
