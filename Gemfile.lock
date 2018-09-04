@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: c435caddf14af6aa36c1428995b8cc52d76d4bf2
+  revision: 4d69ccb186fdfc6aa411d8b43fe93ea977452303
   specs:
     blacklight (7.0.0.rc1)
       deprecation
@@ -179,7 +179,7 @@ GEM
     rsolr (1.1.2)
       builder (>= 2.1.2)
     ruby-progressbar (1.10.0)
-    rubyzip (1.2.1)
+    rubyzip (1.2.2)
     sanitize (4.6.6)
       crass (~> 1.0.2)
       nokogiri (>= 1.4.4)
@@ -239,7 +239,7 @@ GEM
       execjs (>= 0.3.0, < 3)
     warden (1.2.7)
       rack (>= 1.0)
-    web-console (3.6.2)
+    web-console (3.7.0)
       actionview (>= 5.0)
       activemodel (>= 5.0)
       bindex (>= 0.4.0)
