@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: 4d69ccb186fdfc6aa411d8b43fe93ea977452303
+  revision: dabb2e75e9ef991b0d0d34b743c4949fcb4d1254
   specs:
     blacklight (7.0.0.rc1)
       deprecation
@@ -235,7 +235,7 @@ GEM
     turbolinks-source (5.2.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    uglifier (4.1.18)
+    uglifier (4.1.19)
       execjs (>= 0.3.0, < 3)
     warden (1.2.7)
       rack (>= 1.0)
