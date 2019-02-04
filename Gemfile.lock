@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: eaba6193a75b353a7868809690e30edef952f328
+  revision: 5a62a9a852c7f164fd0f7e988b24afb60e9fba0a
   specs:
     blacklight (7.0.1)
       deprecation
@@ -99,7 +99,7 @@ GEM
     ffi (1.10.0)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
-    honeybadger (4.1.0)
+    honeybadger (4.2.1)
     i18n (1.5.3)
       concurrent-ruby (~> 1.0)
     jbuilder (2.8.0)
