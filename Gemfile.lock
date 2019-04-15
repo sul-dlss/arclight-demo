@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: 1c8084cfb00d51f869c985947f7bd6bab5e59afc
+  revision: d27946c0005145f612824c367d41423763f0dda5
   specs:
     blacklight (7.1.0.alpha)
       deprecation
@@ -60,13 +60,13 @@ GEM
       solr_ead
     arel (9.0.0)
     bcrypt (3.1.12)
-    bindex (0.6.0)
+    bindex (0.7.0)
     blacklight_range_limit (7.0.0)
       blacklight
       jquery-rails
       rails (>= 3.0)
       tether-rails
-    bootsnap (1.4.2)
+    bootsnap (1.4.3)
       msgpack (~> 1.0)
     builder (3.2.3)
     byebug (11.0.1)
