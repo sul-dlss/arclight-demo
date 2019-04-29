@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: d27946c0005145f612824c367d41423763f0dda5
+  revision: 55e748dd3465b9e2781d4def04b912fcbfb1b231
   specs:
     blacklight (7.1.0.alpha)
       deprecation
@@ -66,7 +66,7 @@ GEM
       jquery-rails
       rails (>= 3.0)
       tether-rails
-    bootsnap (1.4.3)
+    bootsnap (1.4.4)
       msgpack (~> 1.0)
     builder (3.2.3)
     byebug (11.0.1)
@@ -98,7 +98,7 @@ GEM
     ffi (1.10.0)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
-    honeybadger (4.2.1)
+    honeybadger (4.2.2)
     i18n (1.6.0)
       concurrent-ruby (~> 1.0)
     jbuilder (2.8.0)
@@ -140,7 +140,7 @@ GEM
     multipart-post (2.0.0)
     mysql2 (0.5.2)
     nio4r (2.3.1)
-    nokogiri (1.10.2)
+    nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
     nokogumbo (2.0.1)
       nokogiri (~> 1.8, >= 1.8.4)
@@ -257,7 +257,7 @@ GEM
     websocket-driver (0.7.0)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.3)
-    whenever (0.10.0)
+    whenever (0.11.0)
       chronic (>= 0.6.3)
     xml-simple (1.1.5)
 
