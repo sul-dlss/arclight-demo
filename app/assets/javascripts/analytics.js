@@ -5,5 +5,6 @@ Blacklight.onLoad(function() {
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-7219229-32', 'auto');
+  ga('set', 'anonymizeIp', true);
   ga('send', 'pageview');
 });
