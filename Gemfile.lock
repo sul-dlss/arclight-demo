@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: 55e748dd3465b9e2781d4def04b912fcbfb1b231
+  revision: 984feb9a7291fcea17d21d6edc70cd226a7c53ce
   specs:
     blacklight (7.1.0.alpha)
       deprecation
@@ -95,7 +95,7 @@ GEM
     execjs (2.7.0)
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
-    ffi (1.11.0)
+    ffi (1.11.1)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
     honeybadger (4.3.0)
@@ -187,7 +187,7 @@ GEM
     rsolr (1.1.2)
       builder (>= 2.1.2)
     ruby-progressbar (1.10.0)
-    rubyzip (1.2.2)
+    rubyzip (1.2.3)
     sanitize (5.0.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.8.0)
