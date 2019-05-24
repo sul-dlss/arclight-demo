@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: 55e748dd3465b9e2781d4def04b912fcbfb1b231
+  revision: 984feb9a7291fcea17d21d6edc70cd226a7c53ce
   specs:
     blacklight (7.1.0.alpha)
       deprecation
@@ -71,13 +71,6 @@ GEM
     builder (3.2.3)
     byebug (11.0.1)
     chronic (0.10.2)
-    coffee-rails (4.2.2)
-      coffee-script (>= 2.2.0)
-      railties (>= 4.0.0)
-    coffee-script (2.4.1)
-      coffee-script-source
-      execjs
-    coffee-script-source (1.12.2)
     concurrent-ruby (1.1.5)
     crass (1.0.4)
     daemons (1.3.1)
@@ -95,7 +88,7 @@ GEM
     execjs (2.7.0)
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
-    ffi (1.11.0)
+    ffi (1.11.1)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
     honeybadger (4.3.0)
@@ -187,7 +180,7 @@ GEM
     rsolr (1.1.2)
       builder (>= 2.1.2)
     ruby-progressbar (1.10.0)
-    rubyzip (1.2.2)
+    rubyzip (1.2.3)
     sanitize (5.0.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.8.0)
@@ -231,7 +224,7 @@ GEM
       actionpack (>= 4.0)
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
-    sqlite3 (1.3.13)
+    sqlite3 (1.4.1)
     stomp (1.4.8)
     tether-rails (1.4.0)
       rails (>= 3.1)
@@ -268,7 +261,6 @@ DEPENDENCIES
   blacklight_range_limit (~> 7.0.0.rc2)
   bootsnap
   byebug
-  coffee-rails (~> 4.2)
   devise
   devise-guests (~> 0.5)
   honeybadger
@@ -283,7 +275,7 @@ DEPENDENCIES
   solr_wrapper (>= 0.3)
   spring
   spring-watcher-listen (~> 2.0.0)
-  sqlite3 (~> 1.3.13)
+  sqlite3
   turbolinks (~> 5)
   tzinfo-data
   uglifier (>= 1.3.0)
