@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: 5bfe38d973faeeb4eaca5014165b6bd424154258
+  revision: b1503ffd6fc25455c46804fc0d3d0202b773a082
   specs:
     blacklight (7.1.0)
       deprecation
@@ -245,9 +245,9 @@ GEM
       activemodel (>= 5.0)
       bindex (>= 0.4.0)
       railties (>= 5.0)
-    websocket-driver (0.7.0)
+    websocket-driver (0.7.1)
       websocket-extensions (>= 0.1.0)
-    websocket-extensions (0.1.3)
+    websocket-extensions (0.1.4)
     whenever (0.11.0)
       chronic (>= 0.6.3)
     xml-simple (1.1.5)
