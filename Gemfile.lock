@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: 984feb9a7291fcea17d21d6edc70cd226a7c53ce
+  revision: 5bfe38d973faeeb4eaca5014165b6bd424154258
   specs:
-    blacklight (7.1.0.alpha)
+    blacklight (7.1.0)
       deprecation
       globalid
       jbuilder (~> 2.7)
