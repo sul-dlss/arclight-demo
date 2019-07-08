@@ -6,7 +6,7 @@ notifications:
 rvm:
   - 2.4.1
 jdk:
-  - oraclejdk8
+  - oraclejdk9
 cache: bundler
 
 before_script:
