@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: 5a0e229b68d3a853e7dce7f477d777336ac7f63a
+  revision: 3e6cb292e0a7de606ec73b568292a6e170bc8cb6
   specs:
     blacklight (7.1.0)
       deprecation
@@ -60,7 +60,7 @@ GEM
       solr_ead
     arel (9.0.0)
     bcrypt (3.1.13)
-    bindex (0.7.0)
+    bindex (0.8.1)
     blacklight_range_limit (7.0.0)
       blacklight
       jquery-rails
@@ -124,7 +124,7 @@ GEM
       mimemagic (~> 0.3.2)
     method_source (0.9.2)
     mimemagic (0.3.3)
-    mini_mime (1.0.1)
+    mini_mime (1.0.2)
     mini_portile2 (2.4.0)
     minitest (5.11.3)
     msgpack (1.3.0)
