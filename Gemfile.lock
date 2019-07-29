@@ -91,7 +91,7 @@ GEM
     ffi (1.11.1)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
-    honeybadger (4.3.1)
+    honeybadger (4.4.0)
     i18n (1.6.0)
       concurrent-ruby (~> 1.0)
     jbuilder (2.9.1)
