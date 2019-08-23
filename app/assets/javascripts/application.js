@@ -10,18 +10,17 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require jquery
-//= require jquery_ujs
-//= require turbolinks//
-
-//= require tether
+//= require rails-ujs
+//= require activestorage
+//= require turbolinks
+//
 // Required by Blacklight
+//= require jquery
+//= require popper
+// Twitter Typeahead for autocomplete
+//= require twitter/typeahead
+//= require bootstrap
 //= require blacklight/blacklight
-//= require bootstrap/scrollspy
-
-//= require bootstrap/tab
-
-//= require bootstrap/scrollspy
 
 
 //= require_tree .
@@ -30,4 +29,3 @@
 // For blacklight_range_limit built-in JS, if you don't want it you don't need
 // this:
 //= require 'blacklight_range_limit'
-
