@@ -59,6 +59,9 @@ end
 gem 'blacklight', '~> 7.0'
 gem 'arclight', github: 'projectblacklight/arclight'
 gem 'blacklight_range_limit', '~> 7.1'
+gem 'bootstrap', '~> 4.0'
+gem 'popper_js'
+gem 'twitter-typeahead-rails', '0.11.1.pre.corejavascript'
 
 gem 'rsolr', '~> 1.0'
 gem 'devise'
