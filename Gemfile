@@ -56,9 +56,9 @@ group :production do
   gem 'mysql2'
 end
 
-gem 'blacklight', github: 'projectblacklight/blacklight'
-gem 'arclight'
-gem 'blacklight_range_limit', '~> 7.0.0.rc2'
+gem 'blacklight', '~> 7.0'
+gem 'arclight', github: 'projectblacklight/arclight'
+gem 'blacklight_range_limit', '~> 7.1'
 
 gem 'rsolr', '~> 1.0'
 gem 'devise'
