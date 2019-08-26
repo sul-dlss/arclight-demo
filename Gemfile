@@ -57,7 +57,7 @@ group :production do
 end
 
 gem 'blacklight', '~> 7.0'
-gem 'arclight', github: 'projectblacklight/arclight'
+gem 'arclight', github: 'projectblacklight/arclight', branch: 'master'
 gem 'blacklight_range_limit', '~> 7.1'
 gem 'bootstrap', '~> 4.0'
 gem 'popper_js'
