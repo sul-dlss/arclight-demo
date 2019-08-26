@@ -70,3 +70,4 @@ gem 'devise-guests', '~> 0.5'
 gem 'whenever'
 
 gem 'honeybadger'
+gem 'mini_racer'
