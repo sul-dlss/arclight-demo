@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/arclight.git
-  revision: 607bdff6039770075526b272c0682dc1c62874e9
+  revision: e6bc080914fe91a2a9bfc83ba0b3606ec07347e9
   branch: master
   specs:
     arclight (0.1.4)
@@ -166,7 +166,7 @@ GEM
     multi_json (1.13.1)
     multipart-post (2.1.1)
     mysql2 (0.5.2)
-    nio4r (2.4.0)
+    nio4r (2.5.1)
     nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
     nokogumbo (2.0.1)
