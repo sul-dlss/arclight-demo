@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/projectblacklight/arclight.git
-  revision: e6bc080914fe91a2a9bfc83ba0b3606ec07347e9
+  revision: 392a17d39280afd7aa606892d5494ec676a0c47f
   branch: master
   specs:
-    arclight (0.1.4)
+    arclight (0.2.0)
       blacklight (~> 7.0, >= 7.0.1)
       blacklight_range_limit (~> 7.1)
       rails (~> 5.0)
