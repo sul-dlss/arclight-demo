@@ -1,3 +1,33 @@
+duke-rubenstein:
+  name: 'David M. Rubenstein Rare Book and Manuscript Library'
+  description: "The holdings of the Rubenstein Rare Book & Manuscript Library range from ancient papyri to records of modern advertising. They number more than 300,000 printed volumes and more than 20 million items in manuscript and archival collections."
+  building: 'Rubenstein Library'
+  address1: '411 Chapel Drive'
+  address2: ''
+  city: 'Durham'
+  state: 'NC'
+  zip: '27708'
+  country: 'USA'
+  phone: '919-660-5822'
+  contact_info: 'special-collections@duke.edu'
+  thumbnail_url: 'https://library.duke.edu/sites/default/files/rubenstein/arclight/duke-rubenstein.jpg'
+  url: 'https://library.duke.edu/rubenstein/'
+
+duke-ua:
+  name: 'Duke University Archives'
+  description: "The Duke University Archives is the official repository for records of Duke University and the gateway to its past. The role of the University Archives is to identify, acquire, manage, and preserve university records of enduring value and make them available for use in accordance with policies approved by Duke University's Board of Trustees, administration, and faculty."
+  building: 'Rubenstein Library'
+  address1: '411 Chapel Drive'
+  address2: 'Box 90185'
+  city: 'Durham'
+  state: 'NC'
+  zip: '27708'
+  country: 'USA'
+  phone: '919-660-5822'
+  contact_info: 'https://library.duke.edu/rubenstein/uarchives/ask'
+  thumbnail_url: 'https://library.duke.edu/sites/default/files/rubenstein/arclight/duke-ua.jpg'
+  url: 'https://library.duke.edu/rubenstein/uarchives'
+
 hoover:
   name: 'Hoover Institution Archives'
   description: 'Founded by Herbert Hoover in 1919, the Hoover Institution Library & Archives are dedicated to documenting war, revolution, and peace in the twentieth and twenty-first centuries. With nearly one million volumes and more than six thousand archival collections from 171 countries, Hoover supports a vibrant community of scholars and a broad public interested in the meaning and role of history.'
