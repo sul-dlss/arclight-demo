@@ -1,0 +1,2070 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- AAAMC, Indiana University EAD template draft: 2010-Apr-2, 
+    last revised 2010-04-2 JLR; 
+    revised fall 2006 and spring/summer 2007 JLR w/ EAD Working Group  
+    added repository code to /ead/archdesc/did/repository/@id, 4/1/09 JLR
+    added repository web address and changed form of collection title in eadheader, June 2009, Valerie Higgins
+-->
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader repositoryencoding="iso15511"
+              langencoding="iso639-2b"
+              audience="external"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              scriptencoding="iso15924"
+              relatedencoding="dublincore"
+              findaidstatus="edited-full-draft">
+      <eadid countrycode="US"
+             encodinganalog="identifier"
+             mainagencycode="US-InU"
+             identifier="VAB9846">VAB9846</eadid>
+      <!-- The value of eadid should be a DLP-assigned ID, of the form VAA1234. Put this full identifier both in the identifier attribute and in the value of the eadid element. -->
+      <!-- Generate a unique number for the collection at http://www.dlib.indiana.edu/cgi-bin/testtrackedit/filename.pl -->
+      <filedesc><!-- This is a description of the electronic finding aid, not the original finding aid or the collection --><!-- Make title "The John Doe Papers, 1919-1965" rather than "The Papers of John Doe, 1919-1965" to eliminate potential confusion about the meaning of the dates -->
+         <titlestmt>
+            <titleproper encodinganalog="title">Reclaiming the Right to Rock : Black Experiences
+                    in Rock Music Collection, <date normal="2008/2010" type="inclusive">2008-2010</date>
+            </titleproper>
+            <subtitle> A Guide to the Collection at the Indiana University Archives of African
+                    American Music and Culture</subtitle>
+            <author encodinganalog="creator">Finding aid prepared by Ronda L. Sewald</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="publisher"> Indiana University Digital Library Program </publisher>
+            <date encodinganalog="date" normal="2010" type="publication">© 2010</date>
+         </publicationstmt>
+         <notestmt><!-- Change date to date of first publication, change rights statement if other entity claims rights over the finding aid (not the collection) -->
+            <note encodinganalog="rights">
+               <p>
+                  <date normal="2010">© 2010</date> Trustees of Indiana University. All rights
+                        reserved. </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation><!-- description of how the finding aid was created, for example: -->
+                Machine-readable finding aid derived from Excel spreadsheet by rekeying <lb/> date
+                of source: <date normal="2010-08-26" type="source">2010 August 26</date>
+            <lb/> Finding aid encoded by Ronda L. Sewald, Archives of African American Music and
+                Culture, Indiana University, <date normal="2010-08-26">2010 August 26</date>
+         </creation>
+         <langusage> Description is in <language encodinganalog="language" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <!-- revisiondesc is required -->
+      <!-- record when the finding aid is completed in first change element, with subsequent changes listed below the first -->
+      <revisiondesc>
+         <change audience="internal">
+            <date normal="2010-08-26">2010 August 26</date>
+            <item>Finding aid created by Ronda L. Sewald</item>
+         </change>
+         <change audience="internal">
+            <date normal="2010-12">2010 December</date>
+            <item>Capitalization updated from AACR2 to MLA rules and general typo correction by
+                    Ronda L. Sewald</item>
+         </change>
+         <change>
+            <date normal="2011-01-11">2011 January 11</date>
+            <item>Additional items added to finding by Ronda L. Sewald</item>
+         </change>
+         <change audience="internal">
+            <date normal="2014-03-05">2014 March 5</date>
+            <item>Finding aid revised by Ronda L. Sewald to incorporate in-house best practices,
+                    RDA, links, etc.</item>
+         </change>
+         <change audience="internal">
+            <date normal="20160810">2016 August 10</date>
+            <item>Finding aid revised by William R. Vanden Dries. Date type added to
+                    titleproper.</item>
+         </change>
+         <change audience="internal">
+            <date normal="2017-12-01">December 1, 2017</date>
+            <item>Batch update to change subject links.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc audience="external"
+             level="collection"
+             type="inventory"
+             relatedencoding="marc21">
+      <did>
+         <head>Summary Information</head>
+         <repository id="aaamc" encodinganalog="850" label="Repository">
+            <corpname source="lcnaf"
+                      normal="Indiana University, Bloomington. Archives of African American Music and Culture">Indiana University, Archives of African American Music and Culture
+                    (AAAMC)</corpname>
+            <address>
+               <addressline>Smith Research Center, Rooms 180-181</addressline>
+               <addressline>2805 E. 10th St.</addressline>
+               <addressline>Bloomington, IN 47408-2601</addressline>
+               <addressline>Phone: 812-855-8547</addressline>
+               <addressline>Fax: 812-856-0333</addressline>
+               <addressline>Email: aaamc@indiana.edu</addressline>
+            </address>
+            <lb/>
+            <extref xlink:href="http://www.indiana.edu/~aaamc">http://www.indiana.edu/~aaamc</extref>
+         </repository>
+         <origination label="Creator"><!-- Or <corpname encodinganalog="110"> --><!-- Remove source="lcnaf" if person/corporate body is not in the authority file -->
+            <corpname encodinganalog="110" source="lcnaf">Indiana University, Archives of
+                    African American Music and Culture (AAAMC)</corpname>
+         </origination>
+         <unittitle encodinganalog="245$a" label="Title">Reclaiming the Right to Rock : Black
+                Experiences in Rock Music Collection</unittitle>
+         <unitdate encodinganalog="245$f" normal="2008/2010" type="inclusive">2008-2010</unitdate>
+         <!-- do not include separating punctuation between the unit title and the unit date.  The stylesheets will supply a comma where appropriate. -->
+         <!-- unitdate may be repeated if both bulk and inclusive dates are recorded -->
+         <!-- record the type of date - bulk or inclusive - in the type attribute. if date is bulk, change encodinganalog to 245$g -->
+         <!-- recommended -->
+         <unitid repositorycode="US-InBloAAA"
+                 encodinganalog="099"
+                 label="Collection No.">SC
+                151</unitid>
+         <physdesc encodinganalog="300" label="Extent">
+            <extent>46 video files (HD QuickTime) (21 hours, 45 minutes)</extent>
+            <physfacet> :
+                    sound, color ; 1440 x 1080, 35 MBps, 29.97 fps + 28 videocassettes (miniDV)
+                    (circa 21 hours), 1 box documentation, assorted audio, video, and image
+                    files</physfacet>
+         </physdesc>
+         <!-- if collection includes significant non-english material edit this element -->
+         <langmaterial encodinganalog="546" label="Language"> Materials are in <language langcode="eng">English</language>. </langmaterial>
+         <abstract encodinganalog="520" label="Abstract">This collection consists of
+                documentation and one-on-one interviews from the AAAMC's two-day conference on Black
+                rock hosted on the Indiana University-Bloomington campus on November 13-14, 2009.
+                The conference and related activities were open to local and regional musicians,
+                scholars, students, and brought together Black rock musicians from different
+                generations and regions with music critics and scholars to discuss the
+                socio-political history, musical developments, and the future of Black rock.
+            </abstract>
+      </did>
+      <!-- required even if unrestricted -->
+      <!-- this text relevant for collections with audiovisual materials; edit as necessary for other types -->
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is open to the public. MiniDV videocassettes require the creation of
+                reference copies. If you are interested in viewing the contents of the miniDVs,
+                please contact the AAAMC staff well in advance of your visit for details.</p>
+      </accessrestrict>
+      <!-- required; can be short -->
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p>
+            <emph render="bold">Kandia Crazy Horse (panelist/interviewee):</emph> Raised on a
+                variety of music, from P-Funk to Supertramp, electric guitar evangelism to country
+                and western, D.C. native Kandia Crazy Horse has worked as a rock critic for over a
+                decade. Crazy Horse began writing, in her words, "simply because I could ‘speak so
+                well’ like Colin Powell; read and write; and had a favorite band throughout the '90s
+                that got awful press and a lot of disdain: the Black Crowes. As a New Southerner
+                with a brain, I figured it was my job to champion them because they made great Black
+                music." The Brooklyn-based writer was formerly the music editor at Creative Loafing
+                in Charlotte, N.C., and has contributed to numerous publications, including <title render="italic">Paper</title>, <title render="italic">Harp</title>, <title render="italic">Village Voice</title>, <title render="italic">Popmatters.com</title>, and the <title render="italic">San Francisco Bay
+                    Guardian</title>. She supported Afrofuturism by editing <title render="italic">Rip It Up : The Black Experience in Rock 'n' Roll</title> (2004), noted for
+                being "an eclectic mix of interviews and essays on Black rock 'n' roll--filled with
+                fascinating information and provocative ideas." Crazy Horse was the 2008-2009
+                Anschutz Distinguished Fellow in American Studies at Princeton University, where she
+                taught the course "Roll over Beethoven : Black Rock &amp; Cultural Revolt," and
+                organized and mounted a Southern rock symposium titled <title render="italic">Radio
+                    Free Dixie-- or, De Dirty South Brokedown</title>. Crazy Horse challenges Black
+                readers to take pride in the history of Black rock, to "attempt to conserve it,
+                don't just fritter it away and then lament it being lost forever after."</p>
+         <p>
+            <emph render="bold">Rob Fields (panelist/interviewee):</emph> Self-described "Black
+                rock evangelist" Rob Fields writes about Black rock and Black culture on his blog
+                    <title render="italic">Bold as Love</title>, which focuses on exploring,
+                celebrating and evangelizing the growing music genre known as Black rock, Afro-punk
+                or urban alternative (URB ALT). In conjunction with his blog, he runs a live event
+                series, <title render="italic">Bold as Live</title>, which creates new opportunities
+                for audiences to discover Black rock through shows, lectures, and discussions. He
+                has worked professionally in the Black rock scene since the early 1990s, when he
+                became Director of PR for the Black Rock Coalition. Following this, he went into
+                artist management, working for Capitol Records and representing alternative Black
+                artists such as trombonist Josh Roseman and M-Base cofounder Graham Haynes. With his
+                background in marketing, Rob's interest lies in providing context for audiences
+                (particularly Black audiences) to understand and enjoy what they're hearing in Black
+                rock, and to help Black rock artists find ways to make Black rock matter in the
+                marketplace. Rob has been a guest several times on NPR, and was a panelist at the
+                2009 SXSW Music Conference. </p>
+         <p>
+            <emph render="bold">Reebee Garofalo (moderator/interviewer)</emph> is author of
+                    <title render="italic">Rockin Out : Popular Music in the USA</title> and has
+                been a professor at the College of Public and Community Service at U Mass Boston
+                since 1978. He is also affiliated with the American Studies Program. Professor
+                Garofalo is an internationally known scholar of popular music studies who has
+                written numerous articles on music and politics, racism, censorship, and the
+                globalization of the music industry and has lectured widely on a broad range of
+                subjects relating to the operations of the music industry. At CPCS he has been
+                spearheading the Community Media and Technology Major—a cutting edge media and
+                technology program designed to encourage a combination of technical proficiency and
+                social vision. </p>
+         <p>
+            <emph render="bold">Andy Hollinden (moderator/interviewer)</emph> teaches at the
+                Jacobs School of Music at Indiana University, where he has developed several courses
+                on popular music that have become widely favored by students on the campus. Such
+                courses include the history of blues, rock, Frank Zappa, and Jimi Hendrix. In
+                addition to Hollinden's professorial duties, he composes and produces music for
+                videos and has performed and recorded with numerous rock bands. So far, he has
+                written and produced seven CDs of his own music: <title render="italic">Moving Earth
+                    from There to Here</title> (1994), <title render="italic">Boot rouge et
+                    swabs</title> (1996), <title render="italic">Heat to Fragrance</title> (2000),
+                    <title render="italic">Begging's Not Endearing</title> (2002), <title render="italic">Stick It in Your Sound Hole</title> (2004), <title render="italic">Trust Yourself</title> (2006), and <title render="italic">Grieve
+                    for the Living</title> (2008). As one of the moderators for this conference,
+                Hollinden brings a broad historical awareness of the roots of rock music, which is
+                centered in the African American cultural tradition, along with the understanding of
+                musical, racial and political negotiations between Black and White musicians who
+                have been associated with the genre. </p>
+         <p>
+            <emph render="bold">Maureen Mahon (moderator/interviewer)</emph> is an associate
+                professor in the Department of Music at New York University. A cultural
+                anthropologist, her research interests include African American history and culture;
+                the construction and performance of race and gender in music; and the relationship
+                between race, class, generation, and culture. She is the author of <title render="italic">Right to Rock : The Black Rock Coalition and the Cultural
+                    Politics of Race</title> (Duke University Press, 2004) and has published
+                articles on African Americans and rock music in academic venues and at <title render="italic">EbonyJet.com</title>. Her current research on the music and
+                legacy of Black women in rock examines the intersection of gender, race, sexuality,
+                and music production. She has held fellowships from the National Science Foundation,
+                the Ford Foundation, and the American Association of University Women and has taught
+                at Wesleyan University and UCLA. </p>
+         <p>
+            <emph render="bold">Moe Mitchell (panelist/interviewee):</emph> A graduate of Howard
+                University, Moe Mitchell has established himself as an activist and musician in the
+                underground punk scene. His band Cipher, founded in 1996, is committed to opening
+                critical spaces in underground music to reawaken the legacy of dissent in today's
+                hardcore, weaving together elements of hardcore and metal with melodicism and
+                politically radical lyrics to form a provocative, probing treatment of race, gender,
+                and class. Mitchell was one of the four artists profiled in James Spooner's 2003
+                documentary <title render="italic">Afro-punk</title>, which explored issues of race
+                identity within the punk scene. Cipher was formed in 1996 by longtime friends who
+                wanted to bring something new to underground music. Elements of hardcore and metal
+                are woven with politically radical lyrics to form a provocative, probing treatment
+                of race, gender, and class. Cipher's most recent album, <title render="italic">Children of God's Fire</title> (2005), was released to critical acclaim as "an
+                unrelenting, neo-revolutionary musical statement, transcending genres and provoking
+                thoughts." As one reviewer put it, "In front of ambitiously bruising slabs of
+                hardcore, Cipher front man Moe Mitchell ponders everything from patriarchy to the
+                pharmaceutical industry." Cipher released their second album, <title render="italic">The Joyous Collapse</title>, in late 2009. </p>
+         <p>
+            <emph render="bold">Netic (panelist/interviewee)</emph> is one of the founders as
+                well as the lead vocalist of the Brooklyn-born band Game Rebellion. Before rhyming
+                with Game Rebellion, he was a brain and cognitive sciences major at Massachusetts
+                Institute of Technology (MIT) in Cambridge, Massachusetts, where he enrolled at the
+                age of sixteen. Game Rebellion is an all-Black, all-outta-Brooklyn band whose metal,
+                punk, and rudeboy skanking licks sound as credible and crunchy as their hip-hop
+                lyrics and head nodding bounce. The lyrical prowess and production of Netic provide
+                an unobstructed view of the angst of young rebels everywhere. Game Rebellion has
+                been making big waves on the New York scene for about three years. In that short
+                time they've ventured out even further to slam heads, rock houses and muddy the lily
+                white waters of hip-hop and rock from NYC and Cali to Puerto Rico and the UK. They
+                just may be the best-kept secret in music right now. Their album <title render="italic">Searching for Rick Rubin</title> (2008) explores classic hip-hop
+                songs originally produced by studio legend Rick Rubin, re-imagined in Game
+                Rebellion’s own style and mixed by J.period. </p>
+         <p>
+            <emph render="bold">James Spooner (panelist/interviewee)</emph> is a filmmaker and
+                fine artist. His award-winning debut feature documentary <title render="italic">Afro-punk</title> has screened at festivals in the U.S. and abroad, including
+                the Toronto International Film Festival, New York's Urbanworld Film Festival, the
+                American Black Film Festival, Mar del Plata International Film Festival (Argentina),
+                and the London Lesbian and Gay Film Festival. The film has been incorporated in a
+                program for high school students on race identity by the New Museum in New York, and
+                has inspired an Afro-Punk Film Festival at the Brooklyn Academy of Music, which he
+                has been co-curating. He was Resident Video Installation Artist at the Ase Dance
+                Theatre Collective in New York, where he created new media works with a
+                choreographer. Prior to working in film, he was a sculptor, whose work showed in
+                galleries in New York and Seattle. He has also been an editor and an editing
+                consultant. More recently, Spooner made his narrative film debut with <title render="italic">White Lies, Black Sheep</title> (2007). </p>
+         <p>
+            <emph render="bold">Stew (panelist/interviewee)</emph> is a Tony Award-winning
+                singer/songwriter/playwright from Los Angeles. Together with his collaborator Heidi
+                Rodewald, Stew leads two critically acclaimed bands: The Negro Problem and Stew,
+                both of which were formed in the early 1990s. By the turn of the millennium, The
+                Negro Problem was enjoying considerable success, receiving <title render="italic">Entertainment Weekly</title>'s Album of the Year award in both 2000 and 2002.
+                In 2004, Stew and Heidi Rodewald received the support of the Sundance Institute and
+                The Public Theater to produce the musical <title render="italic">Passing
+                    Strange</title>, which has had successful runs at the Berkeley Repertory
+                Theater, The Public Theater (NYC), and the Belasco Theatre on Broadway. More
+                recently, Spike Lee directed a film version of <title render="italic">Passing
+                    Strange</title>, which is receiving glowing praise at film festivals and aired
+                on PBS in the spring of 2010. As a result of his various creative ventures, Stew has
+                been the recipient of numerous awards, including a 2008 Tony for Best Book of a
+                Musical, two Obie awards for Best New Theater Piece and Best Ensemble as a cast
+                member, and is a four-time Tony nominee. Stew was also the recipient of a 2009 Meet
+                the Composer grant for a new multi-media work <title render="italic">Making
+                    It</title>, commissioned by St. Ann’s Warehouse in New York and scheduled for
+                performance in 2010. Stew’s recorded output includes <title render="italic">Post
+                    Minstrel Syndrome</title> (1997), <title render="italic">Joys and
+                    Concerns</title> (1999), <title render="italic">Guest Host</title> (2000),
+                    <title render="italic">The Naked Dutch Painter</title> (2002), <title render="italic">Welcome Black</title> (2002), <title render="italic">Something
+                    Deeper than these Changes</title> (2003), and the cast album of <title render="italic">Passing Strange</title> (2008). </p>
+         <p>
+            <emph render="bold">Tamar-kali (panelist/interviewee):</emph>
+                Songwriter-vocalist-guitarist Tamar-kali came on the New York rock scene around 1993
+                while performing with the band Funkface. Shortly thereafter, she became the front
+                woman for Song of Seven, another New York-based rock band. Eventually, Tamar-kali's
+                strength as a woman in a male-dominated genre led to creative conflict and compelled
+                her toward her own expression as a songwriter and vocalist, which resulted into her
+                eclectic musical style. Her band 5ive Piece incorporates hard-core funk, melodic
+                guitar riffs, dissonant harmonies, even and odd-metered grooves and unorthodox song
+                forms. In addition to the instrumental styles of 5ive Piece, Tamar-kali's diverse
+                vocal range allows her to execute warm, round, dark and raspy tones from low to high
+                registers upon demand. She also performs with the string quartet Psycho Chamber
+                Ensemble, which performs renditions of songs by 5ive Piece as well as those arranged
+                and composed specifically for strings by Tamar-kali. Along with leading her diverse
+                ensembles and heading up her own production company, Flaming Yoni Productions,
+                Tamar-kali has worked with other artists in hip-hop and rock such as Outkast and
+                Fishbone. In addition to appearing in the film <title render="italic">Afro-punk</title>, Tamar-kali has been featured in <title render="italic">Vibe</title>, <title render="italic">Fader</title> and <title render="italic">Village Voice</title> magazines. </p>
+         <p>
+            <emph render="bold">Greg Tate (panelist)</emph> is an American author who has spent
+                the last two decades formulating a critical language that has redefined African
+                American cultural theory and writing. An essayist and long time staff writer for
+                    <title render="italic">Village Voice</title>, Tate has published widely, with
+                writings on art, music, and culture appearing in <title render="italic">The New York
+                    Times</title>, <title render="italic">Rolling Stone</title>, <title render="italic">The Washington Post</title>, <title render="italic">Spin</title>, <title render="italic">Artforum</title>, <title render="italic">The
+                    Nation</title>, <title render="italic">DownBeat</title>, and Africa-based
+                magazines such as <title render="italic">Glendora Review</title> and <title render="italic">Chimurenga</title>. The impact of Tate's writing lies in the
+                seminal productive tensions he navigates between post-structural theory and Black
+                cultural nationalism, academia and street culture. Tate has been inspired by Black
+                innovators such as Miles Davis, Jimi Hendrix, Sly Stone, George Clinton, and the
+                artist Jean-Michel Basquiat. Furthermore, Tate has defied fixed notions about what
+                constitutes authentic Black culture, and has inscribed a new radical trajectory that
+                is simultaneously rebellious yet intelligently written. Now in his 50s, Tate
+                continues to challenge cultural hegemony, writing on everything from hip-hop to
+                    <title render="italic">YouTube</title>. His books include <title render="italic">Flyboy in the Buttermilk</title> (1992), <title render="italic">Midnight
+                    Lightning : Jimi Hendrix and the Black Experience</title> (2003), and <title render="italic">Everything but the Burden : What White People Are Taking from
+                    Black Culture</title> (2003). He is also a founding member of the Black Rock
+                Coalition and the conductor and music director of Burnt Sugar, a band that fuses
+                jazz, rock, funk, and African music in a lyrical, exploratory and improvisational
+                manner. </p>
+         <p>
+            <emph render="bold">Kamara Thomas (panelist/interviewee),</emph> along with Matt
+                Whyte, is one of the founding members of the band Earl Greyhound. Living and working
+                in New York City, the pair began performing regularly as a duo. All along, they were
+                crafting the sound and songs that would form the foundation for a colossal rock band
+                influenced by the strident English three- and four-pieces of the '70s, the dark pop
+                and heavy grooves of the '90s, and the transcendental, noisy acid sounds of modern
+                rock. The band's first full-length album, <title render="italic">Soft
+                    Targets</title>, was recorded in Los Angeles and Brooklyn in 2005 and earned the
+                group many fans and critical acclaim from publications including <title render="italic">The New Yorker</title>, <title render="italic">Spin</title>,
+                    <title render="italic">Rolling Stone</title>, <title render="italic">Brooklyn
+                    Vegan</title>, and <title render="italic">Pitchfork</title>. Even more so, the
+                band's live show quickly drew heaps of attention and gained a steady reputation
+                among critics and fans alike as a veritable rock-n-roll wrecking ball. Earl
+                Greyhound toured relentlessly for the next two years all over the U.S., Canada, and
+                Japan, and autumn 2007 was spent playing theatres as openers for the band's good
+                friend Shooter Jennings, as well as for Soundgarden and Audioslave's Chris Cornell.
+                In spring 2010 Earl Greyhound released their sophomore album <title render="italic">Suspicious Package</title>. </p>
+         <p>
+            <emph render="bold">Suzanne Thomas (panelist/interviewee):</emph> A real deal blues
+                guitarist and vocalist, Suzanne Thomas no stranger to the blues. Life for Thomas
+                started out as an abandoned biracial child in South Korea, where she lived in an
+                orphanage until an American family adopted her into the States at five. She began
+                studying organ at the age of six and, as fate would have it, Thomas was given her
+                first music lessons and introduction to the organ by the great Jimmy Smith. Thomas
+                abandoned dental school at Ohio State to attend music school in Los Angeles. After
+                time in all-female groups such as School Boy Crush, Software, and PMS, Thomas formed
+                Crank, a 3-piece hard rock band that shared the stage with Ice T and Body Count,
+                Fishbone, and Macy Gray. Thomas has also been hired out as a guitarist to several
+                funk and R&amp;B bands, notably doubling on guitar and bass in the Grammy-winning
+                band A Taste of Honey. She took second place in the 7th annual Jimi Hendrix contest,
+                and played in Japan, France, and New York at various music festivals and events
+                including the Manhattan Music Center. Thomas currently performs with her band The
+                Blues Church. </p>
+         <p>
+            <emph render="bold">Linda Tillery (panelist/interviewee):</emph> Before becoming a
+                prominent figure in women's music in the 1990s, San Francisco native Linda Tillery
+                began her singing career in the 1960s with the gender and racially integrated
+                psychedelic/soul band The Loading Zone, which was modeled somewhat after Sly &amp;
+                the Family Stone. After two albums with that band, Tillery released her solo debut,
+                    <title render="italic">Sweet Linda Divine</title>, on CBS in 1970 to
+                enthusiastic reviews and high praise. She spent most of the 1970s singing and
+                playing drums on over forty albums, including those by Mary Watkins and Teresa
+                Trull. Having become a staff musician and producer at Olivia Records, Tillery
+                released her second solo album, a self-titled effort, on the label in 1978,
+                garnering a Bay Area Music Award for Best Independently Produced Album. Tillery has
+                twice gone on to win Bay Area Jazz awards for Outstanding Female Vocalist. In
+                subsequent years, Tillery collaborated with female musical powerhouses including
+                June Millington, Deidre McCalla, Barbara Higbie, and Margie Adam, as well as on the
+                Olivia Records 10th anniversary album, <title render="italic">Meg/Cris Live at
+                    Carnegie</title> (1983). In 1985, Tillery released <title render="italic">Secrets</title> on her own 411 label which returned her to center stage. In
+                recent years, she has assembled a large band, Skin Tight, which plays jazzy, funky
+                blues. She has also performed with the ZaSu Pitts Memorial Orchestra and has
+                branched out into radio, film, theater, and television commercials. She has worked
+                for the National Endowment for the Arts and appeared with artists ranging from
+                Santana, Kenny Loggins, and Huey Lewis to the Turtle Island String Quartet, Bobby
+                McFerrin, and Holly Near. In 1992, Tillery created the Cultural Heritage Choir as an
+                outlet for her desire to perform the traditional spiritual music of African American
+                slaves and their descendants. </p>
+         <p>
+            <emph render="bold">Ike Willis (panelist/interviewee)</emph> first met Frank Zappa
+                while studying political science at Washington University. Willis volunteered to
+                help with the concert committee just so he could get a backstage pass to meet Frank
+                Zappa. As a result of this meeting in 1978, Willis became Zappa's lead singer and
+                rhythm guitarist for nearly fifteen years. In addition to touring, Willis performed
+                on Zappa's albums <title render="italic">Joe's Garage</title>, <title render="italic">Tinsel Town Rebellion</title>, and <title render="italic">You
+                    Are What You Is</title>. He also played the title character and narrator in
+                Zappa's off-Broadway musical, <title render="italic">Thing-Fish</title>. Willis'
+                distinct baritone vocals coupled with his melodic guitar style continues to solidify
+                the musical legacy of Frank Zappa, which Willis promotes not only through his own
+                music, but also via performances with ensembles around the world that perform Frank
+                Zappa's music, such as Bogus Pomp, Project/Object, Ugly Radio Rebellion, and The
+                Central Scrutinizer Band. </p>
+      </bioghist>
+      <!-- optional -->
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Arranged in five series: <list type="marked">
+               <item>Series 1. Conference Sessions</item>
+               <item>Series 2. One-on-One Interviews</item>
+               <item>Series 3. Conference-Related Events</item>
+               <item>Series 4. Miscellaneous Audiovisual Materials</item>
+               <item>Series 5. AAAMC Production Materials</item>
+            </list>
+         </p>
+      </arrangement>
+      <!-- optional - tends to be an expanded version of the abstract -->
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content Note</head>
+         <p>On November 13th and 14th, the Archives of African American Music and Culture (AAAMC)
+                hosted a two-day conference on Black rock on the Indiana University-Bloomington
+                campus. The conference and related activities were open to local and regional
+                musicians, scholars, students, and the general public.</p>
+         <p>
+            <title render="italic">Reclaiming the Right to Rock : Black Experiences in Rock
+                    Music</title> brought together Black rock musicians from different generations
+                and regions with music critics and scholars to discuss the socio-political history,
+                musical developments, and the future of Black rock. The main component of the
+                conference was a set of three panels, each exploring one of the following topics: 1)
+                the conceptualization and origins of Black rock; 2) the politics of Black rock; 3)
+                the face of Black rock in the 21st century.</p>
+         <p>The core panelists were those artists considered to be innovators and practitioners
+                of Black rock in the United States, including representatives from the East and West
+                Coasts such as Linda Tillery, Ike Willis, Tamar-kali, and Netic. The conference also
+                celebrated the 25th anniversary of the Black Rock Coalition, which was founded to
+                create "a united atmosphere conducive to the maximum development, exposure, [and]
+                acceptance of Black alternative music."</p>
+         <p>In conjunction with the conference, the AAAMC also collaborated with a number of
+                units and organizations at Indiana University to arrange a series of film
+                screenings, concerts, and workshops, which were hosted on the Bloomington campus
+                during the conference weekend and throughout the Fall 2009 semester.</p>
+         <p>In addition to professionally videotaped footage of the three conference sessions,
+                the IU Union Board Concert, and one-on-one interviews with each of the panelists
+                (minus Greg Tate), a number of volunteers assisted with documenting the conference
+                and conference-related events. The professionally videotaped footage consists of
+                high definition QuickTime files provided by IU's Radio and Television Services
+                (RTVS). Conference volunteers produced miniDVs as well as image, audio, and video
+                files in a variety of formats. Also included in the collection are a number of
+                internal documents produced by AAAMC staff members during the production of the
+                conference, including publicity materials, contract templates, grant materials, and
+                planning documents. </p>
+      </scopecontent>
+      <!-- at least one term is required -->
+      <!-- should include all personal and corporate names, and subject headings - see DLP Wiki document "EAD Controlled Access Terms" for instructions and additional 
+terminology tagging options -->
+      <controlaccess>
+         <head>Indexing Terms</head>
+         <p> The following terms have been used to index the description of this collection in
+                    <extref xlink:href="http://www.iucat.iu.edu">IUCAT</extref>, the IU Libraries'
+                online catalog. Materials about related topics, persons or places can be found by
+                searching the catalog using these terms. </p>
+         <controlaccess>
+            <head>Names</head>
+            <list>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;Crazy+Horse+Kandia&#34;&amp;search_field=subject_link">
+                     <persname encodinganalog="700" authfilenumber="n2003080877" source="lcnaf">Crazy Horse, Kandia</persname>
+                  </extref>
+               </item>
+               <item>
+                  <persname encodinganalog="700">Fields, Rob</persname>
+               </item>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;Garofalo+Reebee&#34;&amp;search_field=subject_link">
+                     <persname encodinganalog="700" authfilenumber="n92023913" source="lcnaf">Garofalo, Reebee</persname>
+                  </extref>
+               </item>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;Hollinden+Andy+1961-&#34;&amp;search_field=subject_link">
+                     <persname encodinganalog="700" authfilenumber="no2001089358" source="lcnaf">Hollinden, Andy, 1961-</persname>
+                  </extref>
+               </item>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;Mahon+Maureen&#34;&amp;search_field=subject_link">
+                     <persname encodinganalog="700" authfilenumber="no99063253" source="lcnaf">Mahon, Maureen</persname>
+                  </extref>
+               </item>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;Mitchell+Moe&#34;&amp;search_field=subject_link">
+                     <persname encodinganalog="700" authfilenumber="no2006119925" source="lcnaf">Mitchell, Moe</persname>
+                  </extref>
+               </item>
+               <item>
+                  <persname encodinganalog="700">Netic</persname>
+               </item>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;Spooner+James&#34;&amp;search_field=subject_link">
+                     <persname encodinganalog="700" authfilenumber="no2005092232" source="lcnaf">Spooner, James</persname>
+                  </extref>
+               </item>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;&#34;&amp;search_field=subject_link">
+                     <persname encodinganalog="700" authfilenumber="no2005027338" source="lcnaf">Stew, 1961-</persname>
+                  </extref>
+               </item>
+               <item>
+                  <corpname encodinganalog="710">Blues Church (Musical group)</corpname>
+               </item>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;Tamar-kali&#34;&amp;search_field=subject_link">
+                     <persname encodinganalog="700" authfilenumber="no2005092293" source="lcnaf">Tamar-kali</persname>
+                  </extref>
+               </item>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;Tate+Greg&#34;&amp;search_field=subject_link">
+                     <persname encodinganalog="700" authfilenumber="n91108040" source="lcnaf">Tate, Greg</persname>
+                  </extref>
+               </item>
+               <item>
+                  <persname encodinganalog="700">Thomas, Kamara</persname>
+               </item>
+               <item>
+                  <persname encodinganalog="700">Thomas, Suzanne</persname>
+               </item>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;Tillery+Linda&#34;&amp;search_field=subject_link">
+                     <persname encodinganalog="700" authfilenumber="n95009898" source="lcnaf">Tillery, Linda</persname>
+                  </extref>
+               </item>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;Willis+Ike&#34;&amp;search_field=subject_link">
+                     <persname encodinganalog="700" authfilenumber="no98028215" source="lcnaf">Willis, Ike</persname>
+                  </extref>
+               </item>
+            </list>
+         </controlaccess>
+         <controlaccess>
+            <head>Topics</head>
+            <list>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;African+American+rock+musicians+interviews&#34;&amp;search_field=subject_link">
+                     <subject encodinganalog="650">African American rock
+                                musicians--Interviews</subject>
+                  </extref>
+               </item>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;Music+and+race&#34;&amp;search_field=subject_link">
+                     <subject encodinganalog="650" authfilenumber="sh85088890" source="lcsh">Music and race</subject>
+                  </extref>
+               </item>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;Rock+music+history+and+criticism&#34;&amp;search_field=subject_link">
+                     <subject encodinganalog="650" authfilenumber="sh2008110977" source="lcsh">Rock music--History and criticism</subject>
+                  </extref>
+               </item>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;Sound+recording+industry&#34;&amp;search_field=subject_link">
+                     <subject encodinganalog="650" authfilenumber="sh85125388" source="lcsh">Sound recording industry</subject>
+                  </extref>
+               </item>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;African+Americans+music&#34;&amp;search_field=subject_link">
+                     <subject encodinganalog="650" authfilenumber="sh85001968" source="lcsh">African Americans--Music</subject>
+                  </extref>
+               </item>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;Rock+concerts&#34;&amp;search_field=subject_link">
+                     <subject encodinganalog="650" authfilenumber="sh00000569" source="lcsh">Rock concerts</subject>
+                  </extref>
+               </item>
+               <item>
+                  <extref xlink:href="https://iucat.iu.edu/?q=&#34;Racism+United+States&#34;&amp;search_field=subject_link">
+                     <subject encodinganalog="650" authfilenumber="sh2008110339" source="lcsh">Racism--United States</subject>
+                  </extref>
+               </item>
+            </list>
+         </controlaccess>
+         <!-- repeat for each labeled section needed -->
+      </controlaccess>
+      <!-- required, if appropriate -->
+      <descgrp>
+         <head>Administrative Information</head>
+         <!-- recommended -->
+         <acqinfo encodinganalog="541">
+            <head>Acquisition Information</head>
+            <p>All education rights for conference session footage and one-on-one interviews
+                    with the panelists was released to the Indiana University Board of Trustees in
+                    November 2009. </p>
+         </acqinfo>
+         <!-- required even if unrestricted -->
+         <userestrict encodinganalog="540">
+            <head>Usage Restrictions</head>
+            <p>All requests for copying and publishing materials must be submitted in writing to
+                    the Archives of African American Music and Culture. Some publication requests
+                    may also require the written permission of the interviewer, interviewees, and/or
+                    performers. </p>
+         </userestrict>
+         <!-- required -->
+         <prefercite encodinganalog="524">
+            <head>Preferred Citation</head>
+            <p>Reclaiming the Right to Rock: Black Experiences in Rock Music Collection, SC 151,
+                    Archives of African American Music and Culture, Indiana University, Bloomington.
+                </p>
+         </prefercite>
+         <!-- optional -->
+         <processinfo encodinganalog="583">
+            <head>Processing Information</head>
+            <p>Processed by Ronda L. Sewald.</p>
+            <p> Completed in <date normal="2010">2010</date>
+            </p>
+         </processinfo>
+      </descgrp>
+      <dsc type="combined">
+         <head>Collection Inventory</head>
+         <!-- unittitle is the only required element within component -->
+         <c01 id="VAB9846-00001" level="series">
+            <did>
+               <unittitle>1. Conference Sessions, <unitdate normal="2009-11-13/2009-11-14" type="inclusive">2009 November 13 and 14</unitdate>
+               </unittitle>
+               <!-- physdesc optional -->
+               <note label="Alternate formats available">
+                  <p>All HD QuickTime files have the following derivative copies: <list type="marked">
+                        <item>Online streaming access is available for some items with IU
+                                    log in credentials. Researchers in need of streaming access can
+                                    contact the AAAMC to request an IU guest account. Links to
+                                    streaming content, when available, are included in each item's
+                                    description below.</item>
+                        <item>Medium resolution QuickTime files (video: 960 x 540,
+                                    deinterlaced, 29.97 fps, codec h.264 ; audio: linear PCM,
+                                    stereo, 16-bit/48 kHz)</item>
+                        <item>Low resolution QuickTime files w/embedded timecode windows
+                                    (video: 480 x 270, deinterlaced, 29.97 fps, codec h.264 ; audio:
+                                    linear PCM, stereo, 16-bit/48 kHz)</item>
+                        <item>Video discs (DVD)</item>
+                     </list>
+                  </p>
+                  <p>Copies of the digital image files are available on DVDR 15 and include
+                            deaccessioned items (e.g., photos that were blurry, underexposed,
+                            redundant, etc.</p>
+               </note>
+            </did>
+            <c02 id="VAB9846-00002" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Session 1. "What Is Rock? Definition and Roots," <unitdate normal="2009-11-13">2009 November 13</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1039--DVF 1041; DIF 2133--DIF
+                            2171; MDV 16--MDV 17</unitid>
+                  <!-- physdesc optional -->
+                  <physdesc label="Physical Description">
+                     <extent>3 video files (HD QuickTime) (3 hours, 54
+                                minutes)</extent>
+                     <physfacet> : sound, color ; 60.75 GB + 1
+                                transcript (24 pages), 39 digital photographs (color), 2
+                                videocassettes (HD miniDV, 107 minutes : sound, color)</physfacet>
+                  </physdesc>
+                  <origination label="Moderator">
+                     <persname role="moderator">Hollinden, Andy</persname>
+                  </origination>
+                  <origination label="Panelists">
+                     <persname role="panelist">Crazy Horse, Kandia</persname>
+                     <persname role="panelist">Stew</persname>
+                     <persname role="panelist">Willis, Ike</persname>
+                  </origination>
+                  <origination label="Videographers">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                     <persname role="videographer">McAlpin, Michael</persname>
+                  </origination>
+                  <origination label="Photographer">
+                     <persname role="photographer">Batcheller, Anna</persname>
+                  </origination>
+               </did>
+               <scopecontent>
+                  <head>Description</head>
+                  <p>This panel examines the following broad areas: (1) the ways in which
+                            African American rock musicians conceive of and define rock as a musical
+                            genre; (2) how rock is situated within the broader spectrums of African
+                            American music and American popular music; (3) the social and political
+                            context for the emergence of this music; and (4) the role of rock in
+                            African American community life. Video files consist of 14 sec.
+                            calibration pattern and 117 minutes of footage from main camera and 117
+                            minutes of simultaneously recorded footage from side camera.</p>
+               </scopecontent>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/6537034f9s">http://purl.dlib.indiana.edu/iudl/media/6537034f9s</extref>
+                     </item>
+                  </list>
+               </altformavail>
+               <phystech>
+                  <head>Technical Note</head>
+                  <p>File DVF 1039 contains a test pattern/calibration screen for the panel.
+                            One file each created by main and side cameras.</p>
+               </phystech>
+            </c02>
+            <c02 id="VAB9846-00003" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Session 2. "The Politics of Rock : Race, Class, Gender,
+                            Generation," <unitdate normal="2009-11-13">2009 November 14</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1049--DVF 1052; DIF 2048--DIF
+                            2085</unitid>
+                  <!-- physdesc optional -->
+                  <physdesc label="Physical Description">
+                     <extent>4 video files (HD QuickTime) (3 hours, 51
+                                minutes)</extent>
+                     <physfacet> : sound, color ; 63.06 GB + 1
+                                transcript (33 pages), 38 digital photographs (color)</physfacet>
+                  </physdesc>
+                  <origination label="Moderator">
+                     <persname role="moderator">Garofalo, Reebee</persname>
+                  </origination>
+                  <origination label="Panelists">
+                     <persname role="panelist">Mitchell, Moe</persname>
+                     <persname role="panelist">Tamar-kali</persname>
+                     <persname role="panelist">Tate, Greg</persname>
+                     <persname role="panelist">Tillery, Linda</persname>
+                  </origination>
+                  <origination label="Videographer">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                  </origination>
+                  <origination label="Photographer">
+                     <persname role="photographer">Sewald, Ronda L.</persname>
+                  </origination>
+               </did>
+               <scopecontent>
+                  <head>Description</head>
+                  <p>This panel explores the role of race, class, gender, and generation in
+                            shaping the multiple identities of participants in rock, as well as the
+                            ways that African American rock musicians have negotiated these
+                            identities within the context of the music industry, mainstream society,
+                            and African American communities. Video files consist of 29 sec.
+                            calibration pattern and 115 minutes of footage from main camera and two
+                            files totaling 115 minutes of simultaneously recorded footage from side
+                            camera.</p>
+               </scopecontent>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/6537034g2w">http://purl.dlib.indiana.edu/iudl/media/6537034g2w</extref>
+                     </item>
+                  </list>
+               </altformavail>
+               <phystech>
+                  <head>Technical Note</head>
+                  <p>File DVF 1049 contains a test pattern/calibration screen for the panel
+                            and DVF 1051 contains no useable content. One file each created by main
+                            and side cameras.</p>
+               </phystech>
+            </c02>
+            <c02 id="VAB9846-00004" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Session 3. "Face of Rock in the 21st Century," <unitdate normal="2009-11-13">2009 November 14</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1053--DVF 1055; DIF 2086--DIF
+                            2132</unitid>
+                  <!-- physdesc optional -->
+                  <physdesc label="Physical Description">
+                     <extent>3 video files (HD QuickTime) (4 hours, 27
+                                minutes)</extent>
+                     <physfacet> : sound, color ; 70.94 GB + 47 image
+                                files (jpeg : color)</physfacet>
+                  </physdesc>
+                  <origination label="Moderator">
+                     <persname role="moderator">Mahon, Maureen</persname>
+                  </origination>
+                  <origination label="Panelists">
+                     <persname role="panelist">Fields, Rob</persname>
+                     <persname role="panelist">Netic</persname>
+                     <persname role="panelist">Thomas, Kamara</persname>
+                     <persname role="panelist">Thomas, Suzanne</persname>
+                  </origination>
+                  <origination label="Videographer">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                  </origination>
+                  <origination label="Photographers">
+                     <persname role="photographer">Batcheller, Anna</persname>
+                     <persname role="photographer">Sewald, Ronda L.</persname>
+                  </origination>
+               </did>
+               <scopecontent>
+                  <head>Description</head>
+                  <p>This panel explores the status of rock in the 21st century—how rock is
+                            conceptualized/defined and how has it been transformed and
+                            reinterpreted; the role of African American musicians in this process;
+                            current trends in rock; the use of technology for creative, marketing
+                            and distribution approaches; the reception of Black rockers by the music
+                            industry, mainstream, underground, and international audiences; and
+                            African American communities, etc. Video files consist of 34 sec.
+                            calibration pattern and 134 minutes of footage from main camera and 133
+                            minutes of simultaneously recorded footage from side camera.</p>
+               </scopecontent>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/6537034g5t">http://purl.dlib.indiana.edu/iudl/media/6537034g5t</extref>
+                     </item>
+                  </list>
+               </altformavail>
+               <phystech>
+                  <head>Technical Note</head>
+                  <p>File DVF 1053 contains a test pattern/calibration screen for the panel.
+                            One file each created by main and side cameras.</p>
+               </phystech>
+            </c02>
+            <c02 id="VAB9846-00005" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Man on the Street Interviews, <unitdate normal="2009-11-13">2009
+                                November 14</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1042--DVF 1048</unitid>
+                  <!-- physdesc optional -->
+                  <physdesc label="Physical Description">
+                     <extent>7 video files (HD QuickTime) (14 minutes)</extent>
+                  </physdesc>
+                  <origination label="Interviewees">
+                     <persname role="interviewee">Allbrittin, Deanna</persname>
+                     <persname role="interviewee">Berry, William</persname>
+                     <persname role="interviewee">Brown, Clayton</persname>
+                     <persname role="interviewee">Ford, Starla</persname>
+                     <persname role="interviewee">Rizzi, Jessica</persname>
+                     <persname role="interviewee">Rowley, Ariel</persname>
+                  </origination>
+                  <origination label="Interviewer">
+                     <persname role="interviewer">Williams, Lorrin[?]</persname>
+                  </origination>
+                  <origination label="Videographer">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                  </origination>
+               </did>
+               <scopecontent>
+                  <head>Description</head>
+                  <p>Brief interviews with audience members attending Saturday conference
+                            sessions. Due to technical problems, an additional interview with an
+                            unidentified informant was not recorded and a second interview with
+                            another unidentified informant was recorded without audio.</p>
+               </scopecontent>
+               <phystech>
+                  <head>Technical Note</head>
+                  <p>File DVF 1042 contains no useable content.</p>
+               </phystech>
+            </c02>
+         </c01>
+         <c01 id="VAB9846-00006" level="series">
+            <did>
+               <unittitle>2. One-on-One Interviews, <unitdate normal="2009-11-12/2009-11-14" type="inclusive">2009 November 12-14</unitdate>
+               </unittitle>
+               <!-- physdesc optional -->
+               <note label="Alternate formats available:">
+                  <p>All HD QuickTime files have the following derivative copies: <list type="marked">
+                        <item>Online streaming access is available for some items with IU
+                                    log in credentials. Researchers in need of streaming access can
+                                    contact the AAAMC to request an IU guest account. Links to
+                                    streaming content, when available, are included in each item's
+                                    description below.</item>
+                        <item>Medium resolution QuickTime files (video: 960 x 540,
+                                    deinterlaced, 29.97 fps, codec h.264 ; audio: linear PCM,
+                                    stereo, 16-bit/48 kHz)</item>
+                        <item>Low resolution QuickTime files w/embedded timecode windows
+                                    (video: 480 x 270, deinterlaced, 29.97 fps, codec h.264 ; audio:
+                                    linear PCM, stereo, 16-bit/48 kHz)</item>
+                        <item>Video discs (DVD)</item>
+                     </list>
+                  </p>
+                  <p>File DVF 1019 contains a test pattern/calibration screen for the
+                            panel.</p>
+               </note>
+            </did>
+            <c02 id="VAB9846-00007" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Crazy Horse, Kandia, <unitdate normal="2009-11-13">2009 November
+                                13</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1027; MDV 13</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>1 video file (HD QuickTime) (34 minutes)</extent>
+                     <physfacet> :
+                                sound, color ; 8.88 GB + 1 transcript (8 pages), 1 videocassette (HD
+                                miniDV : sound, color)</physfacet>
+                  </physdesc>
+                  <origination label="Interviewer">
+                     <persname role="interviewer">Garofalo, Reebee</persname>
+                  </origination>
+                  <origination label="Videographers">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                     <persname role="videographer">McAlpin, Michael</persname>
+                  </origination>
+               </did>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/653703487s">http://purl.dlib.indiana.edu/iudl/media/653703487s</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+            <c02 id="VAB9846-00008" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Douglas, Jr., Earl, <unitdate normal="2009-11-13">2009 November
+                                13</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1025--DVF 1026; MDV
+                            13</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>2 video files (HD QuickTime) (38 minutes)</extent>
+                     <physfacet> :
+                                sound, color ; 9.97 GB + 1 transcript (8 pages), 1 videocassette (HD
+                                miniDV) (sound, color)</physfacet>
+                  </physdesc>
+                  <origination label="Interviewer">
+                     <persname role="interviewer">Garofalo, Reebee</persname>
+                  </origination>
+                  <origination label="Videographers">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                     <persname role="videographer">McAlpin, Michael</persname>
+                  </origination>
+               </did>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/653703484v">http://purl.dlib.indiana.edu/iudl/media/653703484v</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+            <c02 id="VAB9846-00009" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Fields, Rob, <unitdate normal="2009-11-13">2009 November
+                                13</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1035--DVF 1037</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>3 video files (HD QuickTime) (36 minutes)</extent>
+                     <physfacet> :
+                                sound, color ; 9.30 GB + 1 transcript (8 pages)</physfacet>
+                  </physdesc>
+                  <origination label="Interviewer">
+                     <persname role="interviewer">Orjuela, Fernando[?]</persname>
+                  </origination>
+                  <origination label="Videographer">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                  </origination>
+               </did>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/6537034c3c">http://purl.dlib.indiana.edu/iudl/media/6537034c3c</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+            <c02 id="VAB9846-00010" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Mitchell, Moe, <unitdate normal="2009-11-13">2009 November
+                                13</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1029--DVF 1031; MDV
+                            13</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>3 video files (HD QuickTime) (39 minutes)</extent>
+                     <physfacet> :
+                                sound, color ; 10.33 GB + 1 transcript (9 pages), 1 videocassette
+                                (HD miniDV : sound, color)</physfacet>
+                  </physdesc>
+                  <origination label="Interviewer">
+                     <persname role="interviewer">Garofalo, Reebee</persname>
+                  </origination>
+                  <origination label="Videographers">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                     <persname role="videographer">McAlpin, Michael</persname>
+                  </origination>
+               </did>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/653703489d">http://purl.dlib.indiana.edu/iudl/media/653703489d</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+            <c02 id="VAB9846-00011" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Netic, <unitdate normal="2009-11-13">2009 November 13</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1033--DVF 1034; MDV
+                            14</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>2 video files (HD QuickTime) (24 minutes)</extent>
+                     <physfacet> :
+                                sound, color ; 5.30 GB + 1 transcript (5 pages), 1 videocassette (HD
+                                miniDV : sound, color)</physfacet>
+                  </physdesc>
+                  <origination label="Interviewer">
+                     <persname role="interviewer">Mahon, Maureen</persname>
+                  </origination>
+                  <origination label="Videographers">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                     <persname role="videographer">McAlpin, Michael</persname>
+                  </origination>
+               </did>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/6537034972">http://purl.dlib.indiana.edu/iudl/media/6537034972</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+            <c02 id="VAB9846-00012" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Spooner, James, <unitdate normal="2009-11-13">2009 November
+                                13</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1032; MDV 13</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>1 video file (HD QuickTime) (27 minutes)</extent>
+                     <physfacet> :
+                                sound, color ; 7.00 GB + 1 transcript (5 pages), 1 videocassette (HD
+                                miniDV : sound, color)</physfacet>
+                  </physdesc>
+                  <origination label="Interviewer">
+                     <persname role="interviewer">Mahon, Maureen</persname>
+                  </origination>
+                  <origination label="Videographers">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                     <persname role="videographer">McAlpin, Michael</persname>
+                  </origination>
+               </did>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/653703493t">http://purl.dlib.indiana.edu/iudl/media/653703493t</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+            <c02 id="VAB9846-00013" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Stew, <unitdate normal="2009-11-12">2009 November 12</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1023--DVF 1024; MDV 1</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>2 video files (HD QuickTime) (53 minutes)</extent>
+                     <physfacet> :
+                                sound, color ; 13.99 GB + 1 transcript (15 pages), 1 videocassette
+                                (HD miniDV : sound, color)</physfacet>
+                  </physdesc>
+                  <origination label="Interviewer">
+                     <persname role="interviewer">Hollinden, Andy</persname>
+                  </origination>
+                  <origination label="Videographers">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                     <persname role="videographer">McAlpin, Michael</persname>
+                  </origination>
+               </did>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/6537034630">http://purl.dlib.indiana.edu/iudl/media/6537034630</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+            <c02 id="VAB9846-00014" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Tamar-kali, <unitdate normal="2009-11-14">2009 November
+                                14</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1038</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>1 video file (HD QuickTime) (29 minutes)</extent>
+                     <physfacet> :
+                                sound, color ; 7.74 GB + 1 transcript (9 pages)</physfacet>
+                  </physdesc>
+                  <origination label="Interviewer">
+                     <persname role="interviewer">Garofalo, Reebee</persname>
+                  </origination>
+                  <origination label="Videographer">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                  </origination>
+               </did>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/6537034c1r">http://purl.dlib.indiana.edu/iudl/media/6537034c1r</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+            <c02 id="VAB9846-00015" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Thomas, Kamara, <unitdate normal="2009-11-13">2009 November
+                                13</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1028; MDV 13</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>1 video file (HD QuickTime) (36 minutes)</extent>
+                     <physfacet> :
+                                sound, color ; 9.44 GB + 1 transcript (6 pages), 1 videocassette (HD
+                                miniDV : sound, color)</physfacet>
+                  </physdesc>
+                  <origination label="Interviewer">
+                     <persname role="interviewer">Mahon, Maureen</persname>
+                  </origination>
+                  <origination label="Videographers">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                     <persname role="videographer">McAlpin, Michael</persname>
+                  </origination>
+               </did>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/653703495f">http://purl.dlib.indiana.edu/iudl/media/653703495f</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+            <c02 id="VAB9846-00016" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Thomas, Suzanne, <unitdate normal="2009-11-12">2009 November
+                                12</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1020</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>1 video file (HD QuickTime) (25 minutes)</extent>
+                     <physfacet> :
+                                sound, color ; 6.50 GB + 1 transcript (7 pages)</physfacet>
+                  </physdesc>
+                  <origination label="Interviewer">
+                     <persname role="interviewer">Burnim, Mellonee</persname>
+                  </origination>
+                  <origination label="Videographer">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                  </origination>
+               </did>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/653703440h">http://purl.dlib.indiana.edu/iudl/media/653703440h</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+            <c02 id="VAB9846-00017" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Tillery, Linda, <unitdate normal="2009-11-12">2009 November
+                                12</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1021</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>1 video file (HD QuickTime) (36 minutes)</extent>
+                     <physfacet> :
+                                sound, color ; 9.46 GB + 1 transcript (9 pages)</physfacet>
+                  </physdesc>
+                  <origination label="Interviewer">
+                     <persname role="interviewer">Hollinden, Andy</persname>
+                  </origination>
+                  <origination label="Videographer">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                  </origination>
+               </did>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/653703426t">http://purl.dlib.indiana.edu/iudl/media/653703426t</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+            <c02 id="VAB9846-00018" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Willis, Ike, <unitdate normal="2009-11-12">2009 November
+                                12</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1022; MDV 1</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>1 video file (HD QuickTime) (36 minutes)</extent>
+                     <physfacet> :
+                                sound, color ; 9.63 GB + 1 transcript (9 pages), 1 videocassette (HD
+                                miniDV : (sound, color)</physfacet>
+                  </physdesc>
+                  <origination label="Interviewer">
+                     <persname role="interviewer">Hollinden, Andy</persname>
+                  </origination>
+                  <origination label="Videographers">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                     <persname role="videographer">McAlpin, Michael</persname>
+                  </origination>
+               </did>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/653703422k">http://purl.dlib.indiana.edu/iudl/media/653703422k</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+         </c01>
+         <c01 id="VAB9846-00019" level="series">
+            <did>
+               <unittitle>3. Conference-Related Events, <unitdate normal="2009-10-19/2009-11-20" type="inclusive">2009 October 19-November
+                            20</unitdate>
+               </unittitle>
+            </did>
+            <note label="Alternate formats available:">
+               <p>All HD QuickTime files have the following derivative copies: <list type="marked">
+                     <item>Online streaming access is available for some items with IU log in
+                                credentials. Researchers in need of streaming access can contact the
+                                AAAMC to request an IU guest account. Links to streaming content,
+                                when available, are included in each item's description
+                                below.</item>
+                     <item>Medium resolution QuickTime files (video: 960 x 540, deinterlaced,
+                                29.97 fps, codec h.264 ; audio: linear PCM, stereo, 16-bit/48
+                                kHz)</item>
+                     <item>Low resolution QuickTime files w/embedded timecode windows (video:
+                                480 x 270, deinterlaced, 29.97 fps, codec h.264 ; audio: linear PCM,
+                                stereo, 16-bit/48 kHz)</item>
+                     <item>Video discs (DVD)</item>
+                  </list>
+               </p>
+               <p>Copies of the digital image files are available on DVDR 15 and include
+                        deaccessioned items (e.g., photos that were blurry, underexposed, redundant,
+                        etc.</p>
+            </note>
+            <c02 id="VAB9846-00020" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>
+                     <title render="italic">Reclaiming the Right to Rock : Black
+                                Experiences in Rock Music</title> Exhibit, <unitdate normal="2009-10-19/2009-11-20" type="inclusive">2009 October
+                                19-November 20</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DIF 1984--DIF 2001; CDR 24--CDR
+                            25</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>18 image files (jpeg)</extent>
+                     <physfacet> : color + 2 audio
+                                discs (CD)</physfacet>
+                  </physdesc>
+                  <origination label="Curators:">
+                     <persname role="curators">Wilkins, Langston</persname>
+                     <persname role="curators">Nelson-Strauss, Brenda</persname>
+                  </origination>
+                  <origination label="Photographer">
+                     <persname role="photographer">Batcheller, Anna</persname>
+                  </origination>
+               </did>
+            </c02>
+            <c02 id="VAB9846-00021" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Film Screening of <title render="italic">Passing Strange</title>
+                            followed by Q&amp;A Session with Stew, <unitdate normal="2009-11-11">2009 November 11</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DAF 289; DIF 2172--DIF
+                            2212</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>1 audio file (33 minutes)</extent>
+                     <physfacet> : stereo ;
+                                24-bit/44.1 kHz, 501.11 MB + 41 image files (jpeg :
+                                color)</physfacet>
+                  </physdesc>
+                  <origination label="Presenter">
+                     <persname role="presenter">Stew</persname>
+                  </origination>
+                  <origination label="Audiographer">
+                     <persname role="audiographer">Estrada, Zilia C.</persname>
+                  </origination>
+                  <origination label="Photographer">
+                     <persname role="photographer">Estrada, Zilia C.</persname>
+                  </origination>
+               </did>
+               <note label="Note:">
+                  <p>Audio recording is of Q&amp;A session only.</p>
+               </note>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/6537034f00">http://purl.dlib.indiana.edu/iudl/media/6537034f00</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+            <c02 id="VAB9846-00022" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Ike Willis Classroom Lecture to Andy Hollinden's Frank Zappa
+                            Class, <unitdate normal="2009-11-12">2009 November 12</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">MDV 2--MDV3; DAF 286--DAF 287; DIF
+                            1519--DIF 1654</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>2 videocassettes (HD miniDV) (65 minutes)</extent>
+                     <physfacet> :
+                                sound, color + 1 audio file (101 minutes : mono ; 24-bit/48 kHz,
+                                1.62 GB), 1 audio file (104 minutes : stereo ; 24-bit/44.1 kHz, 967
+                                MB), 136 image files (jpeg : color)</physfacet>
+                  </physdesc>
+                  <origination label="Presenter">
+                     <persname role="presenter">Willis, Ike</persname>
+                  </origination>
+                  <origination label="Videographer">
+                     <persname role="videographer">Estrada, Zilia C.</persname>
+                  </origination>
+                  <origination label="Audiographers:">
+                     <persname role="audiographer">Estrada, Zilia C.</persname>
+                     <persname role="audiographer">Walter, Rich</persname>
+                  </origination>
+                  <origination label="Photographer">
+                     <persname role="photographer">Estrada, Zilia C.</persname>
+                  </origination>
+               </did>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/6537034f6v">http://purl.dlib.indiana.edu/iudl/media/6537034f6v</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+            <c02 id="VAB9846-00023" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Suzanne Thomas Workshop/Rehearsal with the IU Soul Revue,
+                                <unitdate normal="2009-11-12">2009 November 12</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">MDV 7--MDV 11</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>5 videocassettes (HD miniDV) (197 minutes)</extent>
+                     <physfacet> :
+                                sound, color</physfacet>
+                  </physdesc>
+                  <origination label="Performers">
+                     <persname role="performer">Thomas, Suzanne</persname>
+                     <corpname role="performer">IU Soul Revue</corpname>
+                  </origination>
+                  <origination label="Videographers">
+                     <persname role="videographer">Kreiger, Meryl</persname>
+                     <persname role="videographer">McAlpin, Michael</persname>
+                  </origination>
+               </did>
+               <scopecontent>
+                  <head>Description</head>
+                  <p>In addition to workshop/rehearsal, the videocassettes contain footage of
+                            three brief man on the street interviews with IU Soul Revue members
+                            recorded by Michael McAlpin.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="VAB9846-00024" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Kandia Crazy Horse and Kamara Thomas Dinner/Discussion at Hutton
+                            Honors College, <unitdate normal="2009-11-12">2009 November
+                                12</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DIF 1839--DIF 1870</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>32 image files (jpeg)</extent>
+                     <physfacet> : color</physfacet>
+                  </physdesc>
+                  <origination label="Presenters:">
+                     <persname role="presenter">Crazy Horse, Kandia</persname>
+                     <persname role="presenter">Thomas, Kamara</persname>
+                  </origination>
+                  <origination label="Photographer">
+                     <persname role="photographer">Estrada, Zilia C.</persname>
+                  </origination>
+               </did>
+            </c02>
+            <c02 id="VAB9846-00025" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Linda Tillery Workshop/Demonstration on Negro Spirituals at
+                            Collins Living-Learning Center, <unitdate normal="2009-11-12">2009
+                                November 12</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DIF 2002--DIF 2047</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>46 image files (jpeg)</extent>
+                     <physfacet> : color + 6 audio
+                                files (wav, 18 minutes : mono ; 16-bit/44.1 kHz)</physfacet>
+                  </physdesc>
+                  <origination label="Presenter">
+                     <persname role="presenter">Tillery, Linda</persname>
+                  </origination>
+                  <origination label="Audiographer">
+                     <persname role="audiographer">Unidentified student from Paul Mahern's
+                                "Audio production" course</persname>
+                  </origination>
+                  <origination label="Photographer">
+                     <persname role="photographer">Estrada, Zilia C.</persname>
+                  </origination>
+               </did>
+            </c02>
+            <c02 id="VAB9846-00026" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Ike Willis Lecture/Workshop at Foster International
+                            Living-Learning Center, <unitdate normal="2009-11-12">2009 November
+                                12</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">MDV 4--MDV 6; DAF 288; DIF
+                            1655--DIF 1838</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>3 videocassettes (HD miniDV) (127 minutes)</extent>
+                     <physfacet> :
+                                sound, color + 1 audio file (wav, 96 minutes : stereo ; 24-bit/48
+                                kHz), 184 image files (jpeg : color)</physfacet>
+                  </physdesc>
+                  <origination label="Presenter">
+                     <persname role="presenter">Willis, Ike</persname>
+                  </origination>
+                  <origination label="Videographers">
+                     <persname role="videographer">Wallner, Jessie</persname>
+                     <persname role="videographer">McAlpin, Michael</persname>
+                  </origination>
+                  <origination label="Audiographer">
+                     <persname role="audiographer">Walter, Rich</persname>
+                  </origination>
+                  <origination label="Photographer">
+                     <persname role="photographer">Ozdegirmenci, Izlem</persname>
+                  </origination>
+               </did>
+               <scopecontent>
+                  <head>Description</head>
+                  <p>Includes two brief man on the street interviews with audience members in
+                            addition to lecture/workshop footage.</p>
+               </scopecontent>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/6537034f47">http://purl.dlib.indiana.edu/iudl/media/6537034f47</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+            <c02 id="VAB9846-00027" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Suzanne Thomas Lecture to Professor Mellonee Burnim's Class "From
+                            Juke Joint to Choir Loft," <unitdate normal="2009-11-13">2009 November
+                                13</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">MDV 12; DIF 2340--DIF
+                            2402</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>1 videocassette (miniDV) (50 minutes)</extent>
+                     <physfacet> :
+                                sound, color + 63 image files (jpeg : color)</physfacet>
+                  </physdesc>
+                  <origination label="Presenter">
+                     <persname role="presenter">Thomas, Suzanne</persname>
+                  </origination>
+                  <origination label="Videographer">
+                     <persname role="videographer">Cooper, Kailee</persname>
+                  </origination>
+                  <origination label="Photographer">
+                     <persname role="photographer">Ozdegirmenci, Izlem</persname>
+                  </origination>
+               </did>
+            </c02>
+            <c02 id="VAB9846-00028" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>"Who Are Asian Pacific Americans?" Luncheon Talk Series at Asian
+                            Culture Center, Featuring Suzanne Thomas, <unitdate normal="2009-11-13">2009 November 13</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">MDV 15; DAF 290 (copy on CDR 84);
+                            DIF 2277--DIF 2307 (copies on CDR 83)</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>1 videocassette (HD miniDV) (45 minutes)</extent>
+                     <physfacet> :
+                                sound, color + 1 audio file (wav, 55 minutes : stereo ; 16-bit/44.1
+                                kHz), 31 image files (jpeg : color)</physfacet>
+                  </physdesc>
+                  <origination label="Presenter">
+                     <persname role="presenter">Thomas, Suzanne</persname>
+                  </origination>
+                  <origination label="Videographer">
+                     <persname role="videographer">Fales, Cornelia</persname>
+                  </origination>
+                  <origination label="Audiographer">
+                     <persname role="audiographer">Lee, Mike</persname>
+                  </origination>
+                  <origination label="Photographer">
+                     <persname role="photographer">Lee, Mike</persname>
+                  </origination>
+               </did>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/6537034f2m">http://purl.dlib.indiana.edu/iudl/media/6537034f2m</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+            <c02 id="VAB9846-00029" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>
+                     <title render="italic">Afro-punk</title> Film Screening Followed
+                            by Question and Answer Session with Director and Co-Producer James
+                            Spooner, <unitdate normal="2009-11-13">2009 November 13</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DIF 2308--DIF 2323 (copies on CDR
+                            83)</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>6 audio files (wav) (approximately 24 minutes)on DVDR
+                                9</extent>
+                     <physfacet> : mono ; 16-bit/44.1 kHz) + 16 digital
+                                photographs (color)</physfacet>
+                  </physdesc>
+                  <origination label="Presenter">
+                     <persname role="presenter">Spooner, James</persname>
+                  </origination>
+                  <origination label="Audiographer">
+                     <persname role="audiographer">Unidentified student from Paul Mahern's
+                                "Audio Production" course</persname>
+                  </origination>
+                  <origination label="Photographer">
+                     <persname role="photographer">Lee, Mike</persname>
+                  </origination>
+               </did>
+            </c02>
+            <c02 id="VAB9846-00030" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Union Board Concert Featuring the IU Soul Revue, Suzanne &amp;
+                            The Blues Church, and Tamar-kali, <unitdate normal="2009-11-14">2009
+                                November 14</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVF 1056--DVF 1064; DVDR 10--DVDR
+                            14; DIF 1456--DIF 1518; DIF 2213--DIF 2276; MDV 18--MDV 25</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>9 video files (HD QuickTime) (2 hours, 51
+                                minutes)</extent>
+                     <physfacet> : sound, color ; 44.6 GB + 1 videodisc
+                                (DVD : sound, color), 4 videodiscs (DVD with AVCHD files : sound,
+                                color), 8 videocassettes (HD miniDV, 448 minutes : sound, color),
+                                240 image files (jpeg : color)</physfacet>
+                  </physdesc>
+                  <origination label="Performers">
+                     <corpname role="performer">IU Soul Revue</corpname>
+                     <persname role="performer">Thomas, Suzanne</persname>
+                     <corpname role="performer">Blues Church (Musical group)</corpname>
+                     <persname role="performer">Tamar-kali</persname>
+                  </origination>
+                  <origination label="Videographers">
+                     <corpname role="videographer">Indiana University, Radio and Television
+                                Services</corpname>
+                     <corpname role="videographer">Monroe County Public Library, Community
+                                Access Television Services</corpname>
+                     <persname role="videographer">Guest-Scott, Anthony</persname>
+                     <persname role="videographer">Wallner, Jessie</persname>
+                     <persname role="videographer">Hatlen, Merrill</persname>
+                  </origination>
+                  <origination label="Photographers">
+                     <persname role="photographer">Hsu, Hsin-Wen</persname>
+                     <persname role="photographer">Batcheller, Anna</persname>
+                     <persname role="photographer">Lee, Mike</persname>
+                  </origination>
+               </did>
+               <phystech>
+                  <head>Techincal Note</head>
+                  <p>File DVF 1056 contains a test pattern/calibration screen for the
+                            concert.</p>
+               </phystech>
+               <altformavail>
+                  <head>Online Streaming in Media Collections Online</head>
+                  <list>
+                     <item>
+                        <extref xlink:href="http://purl.dlib.indiana.edu/iudl/media/6537034g8r">http://purl.dlib.indiana.edu/iudl/media/6537034g8r</extref>
+                     </item>
+                  </list>
+               </altformavail>
+            </c02>
+         </c01>
+         <c01 id="VAB9846-00031" level="series">
+            <did>
+               <unittitle>4. Miscellaneous Audiovisual Materials, <unitdate normal="2009-11/2009-12" type="inclusive">2009
+                            November-December</unitdate>
+               </unittitle>
+            </did>
+            <c02 id="VAB9846-00032" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Appreciation Banquet Photographs, <unitdate normal="2009-11-14">2009 November 14</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DIF 2324--DIF 2339 (copies on CDR
+                            83)</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>16 image files (jpeg)</extent>
+                     <physfacet> : color</physfacet>
+                  </physdesc>
+                  <origination label="Photographer">
+                     <persname role="photographer">Lee, Mike</persname>
+                  </origination>
+               </did>
+            </c02>
+            <c02 id="VAB9846-00033" level="otherlevel" otherlevel="file">
+               <did>
+                  <unittitle>Suzanne Thomas Luncheon and Union Board Concert Volunteer
+                            Footage, <unitdate normal="2009-11-13/2009-11-14" type="inclusive">2009
+                                November 13-14</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">MDV 26--MDV 27</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>2 videocassettes (HD miniDV) (122 minutes)</extent>
+                     <physfacet> :
+                                sound, color</physfacet>
+                  </physdesc>
+                  <origination label="Presenter/performer">
+                     <persname role="performer">Thomas, Suzanne</persname>
+                  </origination>
+                  <origination label="Videographer">
+                     <persname role="videographer">Teo, Bertrand</persname>
+                  </origination>
+               </did>
+               <scopecontent>
+                  <head>Description</head>
+                  <p>Additional footage recorded by journalism student for use in a classroom
+                            podcast project.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="VAB9846-00034" level="otherlevel" otherlevel="file">
+               <did>
+                  <unittitle>Portia Maultsby Interview ; Suzanne Thomas Interview, <unitdate normal="2009-11-12/2009-11-14" type="inclusive">approximately 2009
+                                November 13</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s)">MDV 28</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>1 videocassette (HD miniDV) (52 minutes)</extent>
+                     <physfacet> :
+                                sound, color</physfacet>
+                  </physdesc>
+                  <origination label="Interviewer">
+                     <persname role="interviewer">Teo, Bertrand</persname>
+                  </origination>
+                  <origination label="Videographer">
+                     <persname role="videographer">Teo, Bertrand</persname>
+                  </origination>
+               </did>
+               <scopecontent>
+                  <head>Description</head>
+                  <p>Footage recorded by journalism student for use in classroom podcast
+                            project; also includes three "man on the street" interviews with
+                            conference attendees.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="VAB9846-00035" level="otherlevel" otherlevel="file">
+               <did>
+                  <unittitle>Podcast Project Files for Paul Mahern's "Audio Production" Class,
+                                <unitdate normal="2009-11-11/2009-11-14" type="inclusive">2009
+                                November 11-14</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">DVDR 9</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>35 audio files (wav) (approximately 29
+                                minutes)</extent>
+                     <physfacet> : mono ; 16-bit/44.1 kHz on
+                                DVD-R.</physfacet>
+                  </physdesc>
+                  <origination label="Audiographer">
+                     <corpname role="audiographer">Students enrolled in Telecommunications
+                                T-353</corpname>
+                  </origination>
+               </did>
+               <scopecontent>
+                  <head>Description</head>
+                  <p>Brief, edited audio clips recorded by volunteer journalism student for
+                            use in final classroom podcast project for Paul Mahern's "Audio
+                            production" course. Consist primarily of man on the street interviews
+                            recorded with audience members attending the film screening of <title render="italic">Passing Strange</title>, the Union Board concert, as
+                            well as clips from a one-on-one interview with AAAMC director Portia K.
+                            Maultsby and <title render="italic">Afro-punk</title> director and
+                            co-producer James Spooner. Original audio recordings no longer
+                            exists.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="VAB9846-00036" level="otherlevel" otherlevel="event">
+               <did>
+                  <unittitle>Final Podcast Projects from Paul Mahern's "Audio Production"
+                            Class, <unitdate normal="2009-12">circa 2009 December</unitdate>
+                  </unittitle>
+                  <unitid type="shelf" label="Shelf No(s).">CDR 20--CDR 23</unitid>
+                  <physdesc label="Physical Description">
+                     <extent>4 audio files (wav) (approximately 19 minutes) on 4 data
+                                CDs</extent>
+                     <physfacet> : mono ; 16-bit/44.1 kHz</physfacet>
+                  </physdesc>
+                  <origination label="Creator">
+                     <persname role="creator">Kilpin, Jordan</persname>
+                     <persname role="creator">Powell, Gary</persname>
+                     <persname role="creator">Lamping, Nicholas</persname>
+                     <persname role="creator">Davis, Gareth</persname>
+                  </origination>
+               </did>
+               <scopecontent>
+                  <head>Description</head>
+                  <p>Four of the final classroom podcast projects created for Paul Mahern's
+                            "Audio Production" course created from interviews and audio from various
+                            panels and related events recorded by Mahern's T-353 students throughout
+                            the course of the conference.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="VAB9846-00037" level="series">
+            <did>
+               <unittitle>5. AAAMC Production Materials, <unitdate normal="2009-03/2010-01" type="inclusive">2009 March-2010 January</unitdate>
+               </unittitle>
+            </did>
+            <c02 id="VAB9846-00038" level="subseries">
+               <did>
+                  <unittitle>Event and Volunteer Schedules</unittitle>
+               </did>
+               <c03 id="VAB9846-00039" level="file">
+                  <did>
+                     <unittitle>Summary of Conference Week Events</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00040" level="file">
+                  <did>
+                     <unittitle>RTVS Filming Schedule</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00041" level="file">
+                  <did>
+                     <unittitle>Volunteer and Staff Schedules/Itineraries</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="VAB9846-00042" level="subseries">
+               <did>
+                  <unittitle>Panelist/Moderator Itineraries</unittitle>
+               </did>
+               <c03 id="VAB9846-00043" level="file">
+                  <did>
+                     <unittitle>The Blues Church</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00044" level="file">
+                  <did>
+                     <unittitle>Crazy Horse, Kandia</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00045" level="file">
+                  <did>
+                     <unittitle>Fields, Rob</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00046" level="file">
+                  <did>
+                     <unittitle>Garofalo, Reebee</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00047" level="file">
+                  <did>
+                     <unittitle>Hollinden, Andy</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00048" level="file">
+                  <did>
+                     <unittitle>Mahon, Maureen</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00049" level="file">
+                  <did>
+                     <unittitle>Mitchell, Moe</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00050" level="file">
+                  <did>
+                     <unittitle>Netic</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00051" level="file">
+                  <did>
+                     <unittitle>Spooner, James</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00052" level="file">
+                  <did>
+                     <unittitle>Stew</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00053" level="file">
+                  <did>
+                     <unittitle>Tamar-kali</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00054" level="file">
+                  <did>
+                     <unittitle>Tate, Greg</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00055" level="file">
+                  <did>
+                     <unittitle>Thomas, Kamara</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00056" level="file">
+                  <did>
+                     <unittitle>Thomas, Suzanne</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00057" level="file">
+                  <did>
+                     <unittitle>Tillery, Linda</unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00058" level="file">
+                  <did>
+                     <unittitle>Willis, Ike</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="VAB9846-00059" level="subseries">
+               <did>
+                  <unittitle>Publicity Materials</unittitle>
+               </did>
+               <c03 id="VAB9846-00060" level="file">
+                  <did>
+                     <unittitle>Information for Event Calendar Postings, <unitdate normal="2009-09-28">2009 September 28</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00061" level="file">
+                  <did>
+                     <unittitle>Conference Website, <unitdate normal="2009-10">2009
+                                    October</unitdate>
+                     </unittitle>
+                     <note>
+                        <p>
+                           <extref xlink:href="http://www.indiana.edu/~aaamc/br/brconf_2009.html">http://www.indiana.edu/~aaamc/br/brconf_2009.html</extref>
+                        </p>
+                     </note>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00062" level="file">
+                  <did>
+                     <unittitle>Conference Website (pdf version), <unitdate normal="2009-10" type="inclusive">2009 October</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00063" level="file">
+                  <did>
+                     <unittitle>AAAMC Black Rock Discography/Filmography, <unitdate normal="2009-10" type="inclusive">2009
+                                October</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00064" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Liner Notes</title> (no. 13),
+                                    <unitdate normal="2008/2009" type="inclusive">2008-2009</unitdate>
+                     </unittitle>
+                     <note>
+                        <p>
+                           <extref xlink:href="http://www.indiana.edu/~aaamc/PDFs/linernotes13.pdf">http://www.indiana.edu/~aaamc/PDFs/linernotes13.pdf</extref>
+                        </p>
+                     </note>
+                  </did>
+                  <scopecontent>
+                     <head>Description</head>
+                     <p>Contains edited version of pre-conference interview with Linda
+                                Tillery and a description of the upcoming conference.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="VAB9846-00065" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic">Liner Notes</title> (no. 14),
+                                    <unitdate normal="2009/2010" type="inclusive">2009-2010</unitdate>
+                     </unittitle>
+                     <note>
+                        <p>
+                           <extref xlink:href="http://www.indiana.edu/~aaamc/PDFs/linernotes14.pdf">http://www.indiana.edu/~aaamc/PDFs/linernotes14.pdf</extref>
+                        </p>
+                     </note>
+                  </did>
+                  <scopecontent>
+                     <head>Description</head>
+                     <p>Contains extensive conference coverage and edited interviews with
+                                Stew, Ike Willis, Earl Douglas, and Tamar-kali.</p>
+                  </scopecontent>
+               </c03>
+            </c02>
+            <c02 id="VAB9846-00066" level="subseries">
+               <did>
+                  <unittitle>Administrative documents</unittitle>
+               </did>
+               <c03 id="VAB9846-00067" level="otherlevel" otherlevel="event">
+                  <did>
+                     <unittitle>Linda Tillery Pre-Conference Interview, <unitdate normal="2009-09-08">2008 September 8</unitdate>
+                     </unittitle>
+                     <physdesc label="Physical Description">
+                        <extent>1 audio disc (CD)</extent>
+                        <physfacet> : stereo ; 4 3/4 in. +
+                                    1 transcript (15 pages)</physfacet>
+                     </physdesc>
+                     <origination label="Interviewer">
+                        <persname role="interviewer">Cooper, Tyron</persname>
+                     </origination>
+                     <origination label="Interviewee">
+                        <persname role="interviewee">Tillery, Linda</persname>
+                     </origination>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00068" level="otherlevel" otherlevel="event">
+                  <did>
+                     <unittitle>Maureen Mahon Pre-Conference Interview, <unitdate normal="2009-09-08">2009 September 8</unitdate>
+                     </unittitle>
+                     <physdesc label="Physical Description">
+                        <extent>1 audio disc (CD)</extent>
+                        <physfacet> : stereo ; 4 3/4 in. +
+                                    1 transcript (12 pages)</physfacet>
+                     </physdesc>
+                     <origination label="Interviewer">
+                        <persname role="interviewer">Cooper, Tyron</persname>
+                     </origination>
+                     <origination label="Interviewee">
+                        <persname role="interviewee">Mahon, Maureen</persname>
+                     </origination>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00069" level="file">
+                  <did>
+                     <unittitle>New Frontiers Grant Proposal, <unitdate normal="2009-01-19">2009 January 19</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00070" level="file">
+                  <did>
+                     <unittitle>Panelist Invitation Letters, <unitdate normal="2009-03-27">2009 March 27</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00071" level="file">
+                  <did>
+                     <unittitle>Purchasing Contract Template for Panelists'/Moderators'
+                                Services, <unitdate normal="2009-05-12">2009 May
+                                12</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00072" level="file">
+                  <did>
+                     <unittitle>Themester Funding Proposal, <unitdate normal="2009-05-24">2009 May 24</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00073" level="file">
+                  <did>
+                     <unittitle>Participants' Acceptance of Conference Invitation
+                                Confirmation Letter, <unitdate normal="2009-06-12">2009 June
+                                    12</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00074" level="file">
+                  <did>
+                     <unittitle>Travel Information Form, <unitdate normal="2009-07-21">2009
+                                    July 21</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00075" level="file">
+                  <did>
+                     <unittitle>Panel Descriptions and Proposed Interview/Panel Questions,
+                                    <unitdate normal="2009-07" type="inclusive">2009
+                                July</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00076" level="file">
+                  <did>
+                     <unittitle>Information Request for IU-AAAMC Purchasing Contract,
+                                    <unitdate normal="2009-07-22">2009 July
+                                22</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00077" level="file">
+                  <did>
+                     <unittitle>Material Donation Request Letter and Response Form, <unitdate normal="2009-07-22">2009 July 22</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00078" level="file">
+                  <did>
+                     <unittitle>Revised Purchasing Contract Templates, <unitdate normal="2009-08-07">2009 August 7</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00079" level="file">
+                  <did>
+                     <unittitle>Conference Registration Form, <unitdate normal="2009-09-22">2009 September 22</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00080" level="file">
+                  <did>
+                     <unittitle>Travel and Hotel Summaries for Conference Participants,
+                                    <unitdate normal="2009-09/2009-11" type="inclusive">2009
+                                    September-November</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00081" level="file">
+                  <did>
+                     <unittitle>Documenter and Audience Member Release Form Templates,
+                                    <unitdate normal="2009-11" type="inclusive">2009
+                                    November</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00082" level="file">
+                  <did>
+                     <unittitle>Conference Program, <unitdate normal="2009-11" type="inclusive">2009 November</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00083" level="file">
+                  <did>
+                     <unittitle>CD of Introductory Music for Conference Sessions, <unitdate normal="2009-11" type="inclusive">2009
+                                November</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="VAB9846-00084" level="file">
+                  <did>
+                     <unittitle>New Frontiers Final Grant Report, <unitdate normal="2009-01-27">2010 January 27</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>
