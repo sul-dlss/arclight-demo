@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/arclight.git
-  revision: 8117240af7929dfee8c44c47fa9b0d41525c42a1
+  revision: fb12fa4f06670cd6b0fcb8a7ae73a9bd9c6c57f4
   branch: master
   specs:
     arclight (0.2.0)
@@ -252,7 +252,7 @@ GEM
     thread_safe (0.3.6)
     tilt (2.0.9)
     to_regexp (0.2.1)
-    traject (3.1.0)
+    traject (3.2.0)
       concurrent-ruby (>= 0.8.0)
       dot-properties (>= 0.1.1)
       hashie (~> 3.1)
