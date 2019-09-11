@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+   <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+      <eadid countrycode="us" mainagencycode="MiU-C" publicid="us//::miu-c//TXT us::miu-c::wayne-county.xml//EN" encodinganalog="Identifier">umich-wcl-G-tind-0083</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="Title">Finding Aid for  David V. Tinder Collection of Michigan Photography, County File, Wayne County, 1865-1985</titleproper>
+            <author encodinganalog="Creator">Collection processed and finding aid created by  May Oyler</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="Publisher">William L. Clements Library, University of Michigan</publisher>
+            <date encodinganalog="Date" normal="2009">2012</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Encoded finding aid created by  May Oyler,  <date>2012</date>
+         . Revised and updated by Louie Miller, <date>2017</date></creation>
+         <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="UTF-8">English</language>
+         </langusage>
+         <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2017-03-01</date>
+            <item> Original encoding from Word 2007 file using Word macros and XMetaL.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <frontmatter>
+      <titlepage>
+         <publisher>Graphics Division<lb/>William L. Clements Library<lb/>University of Michigan</publisher>
+         <titleproper>Finding aid for<lb/>David V. Tinder Collection of Michigan Photography, County File, Wayne County, 1865-1985</titleproper>
+         <author>Finding aid created by<lb/>  May Oyler, March 2012.<lb/> Finding aid revised and updated by<lb/>Louie Miller, March 2017</author>
+      </titlepage>
+   </frontmatter>
+   <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+      <did>
+         <origination>
+            <persname source="lcnaf" encodinganalog="100">Tinder, David V.</persname>
+         </origination>
+         <unittitle encodinganalog="245" type="main">  David V. Tinder Collection of Michigan Photography, County File, Wayne County<unitdate type="inclusive" encodinganalog="245$f">1865-1985</unitdate>
+         </unittitle>
+         <unittitle type="sort">Tinder, David V., Collection of Michigan Photography, County File, Wayne County</unittitle>
+         <physdesc>
+            <extent encodinganalog="300">1,937 photographs, 16 real photo stamps, 6 booklets, 101 pages, clippings and ephemera</extent>
+         </physdesc>
+         <unitid type="identifier">wclgrfx000200</unitid>
+         <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language>.</langmaterial>
+         <abstract>The collection contains photographs of Wayne County, Michigan. Included are numerous urban scenes and images of everyday life, primarily in the Metropolitan Detroit area between 1860 and the mid-20th century. The bulk of the photographs were taken between 1890 and 1930. A very wide range of topics is represented, among them commercial and residential architecture, urban infrastructure, public and private spaces, civic and domestic activities, individual and group portraits, and events from across the social spectrum.</abstract>
+         <repository>
+            <corpname encodinganalog="852">
+               <subarea>William L. Clements Library</subarea>, University of Michigan</corpname>
+            <extptr href="wcladd" show="embed" actuate="onload"/>
+         </repository>
+      </did>
+      <descgrp type="admin">
+         <acqinfo encodinganalog="541">
+            <p>
+               <num type="accession">F-832, F-860, F-861, F-891, F-892, F-893, F-898, F-909, F-911, F-914, F-922, F-938, F-940, F-945, F-961, F-980, F-987, F-1004, F-1005, F-1014,  F-1017, F-1027, F-1028, F-1033, F-1054, F-1066, F-1067, F-1074, F-1076, F-1077, F-1113, F-1114</num>.</p>
+         </acqinfo>
+         <processinfo>
+            <p>Cataloging funded in part by the Michigan Photographic Historical Society. This collection has been processed according to minimal processing procedures and may be revised, expanded, or updated in the future.</p>
+         </processinfo>
+         <accessrestrict encodinganalog="506">
+            <p>The collection is open to research. </p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>Copyright status is unknown. </p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <p> David V. Tinder Collection of Michigan Photography, County File, Wayne County, William L. Clements Library, The University of Michigan. The majority portion donated by David B. Walters in honor of Harold L. Walters, UM class of 1947 and Marilyn S. Walters, UM class of 1950.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist encodinganalog="545"><head>History</head><p>The city of Detroit and its vast metropolitan area has dominated the Wayne County area for centuries. Detroit was founded in 1701 as a French settlement with access to the Great Lakes and Canada and quickly became a strategic military post and trade center. It transferred to British control in 1760 during the Seven Years War and to United States governance in 1796. It became a chartered city in 1802, the capitol of the Michigan Territory in 1805, and Michigan’s first State Capital from 1837 to 1847. The city grew with an economy based largely on agriculture and trade in the early 19th century, becoming one of the nation’s prime manufacturing and cultural centers after the Civil War. Large industries based in the region included railroad equipment manufacturing, ship building, iron and steel production, stoves, pharmaceuticals, brewing, wagon making, and many others.</p>
+		<p>The industrial strength of Detroit created a large middle-class society as well as vast wealth. In turn, this affluence supported cultural advancement, education, and the arts. Commercial photography studios thrived in this environment. Many prize-winning portrait photographers were based in Detroit, as were those specializing in architecture, and the documentation of industry and commerce.</p>
+		<p>The diversity of industry of late 19th century Detroit gave way to automobile centered growth in the mid-20th century. The boom in wartime production during World War Two attracted workers from around the country and shifted the racial demographics of the city.</p>
+		<p>The collapse of manufacturing industries, the disappearance of public transportation, and massive population shifts to the suburbs were factors in the decline of Detroit in the mid to late 20th century.</p></bioghist>
+		
+		<scopecontent><p>Included in the Wayne County file of the David V. Tinder Collection of Michigan Photography are images of urban Detroit, people in their places of work, at home, at leisure, and participating in social activities and in fraternal and religious organizations. Numerous images show industrial manufacturing, urban transportation, and civic infrastructure. Activities related to entertainment, sports, parades, and the arts are well represented. The many portraits photographs include formal posed images, casual snapshots, workplace groups and fraternal organizations.</p>
+		<p>A vast majority of the photographs are the work of commercial photographers, with some amateurs. A significant number of photos were taken by Detroit News and Detroit Free Press photographers. Almost all the images present would be considered vernacular photos rather than fine art; however, many are carefully composed with strong aesthetic characteristics.</p>
+		<p>Although the photos have been largely sorted by subject, related materials may be present outside of the subject categories, i.e., images of transportation can also be found in the categories Architecture, Business and Commerce, Group Portraits, and in other sections outside of Transportation.</p>
+		<p>The bulk of the photos in this collection were taken in Detroit during the era of rapid population growth and industrial development around the turn of the century. The diversity of industry that appears in the late 19th century images can be seen giving way to automobile centered growth in the mid-20th century. Evidence of the rich residential lifestyles and multi-ethnic cultures of the Detroit area appear in many images.</p>
+		<p>At the fringe of the collection’s scope are images of the demolition of factories, the disappearance of public transportation, and racial unrest during the decline of Detroit in the mid to late 20th century.</p>
+		<p>It should be noted that while most of the collection are mounted and unmounted photographic prints, there are a few bound items as well as printed ephemera.</p>
+		<p>The collection has been organized into various categories by subject. The first group of photos is comprised of those that did not fit neatly under other categories. These include views of military encampments, disasters and firefighting, civic unrest, commercial product promotions, and other miscellaneous topics. Of particular note is a charming outdoor children’s party scene by amateur photographer Robert R. Oesterreich (no. 9); a double portrait montage by Tony Spina of John F. Kennedy and Robert F. Kennedy, both speaking at Campus Martius (no. 14); the high quality photomechanical prints of Detroit scenes and architecture in the <emph render="italic">Detroit Illustrated.</emph> (no. 16); and a collection of 28 miscellaneous nightclub souvenir photographs dating from the 1940s-1980s (no. 20). The rest of the material falls under the following categories:</p>
+		<p><emph render="underline">Transportation:</emph><lb/>243 photographs. Material is divided between the following sub-categories: Automobiles and Trucks (56 photographs), Aircraft (18 photographs), Railroads and Trains (58 photographs), Streetcars and Trolleys (20 photographs), Roads and Infrastructure (33 photographs), Wagons (20 photographs), Maritime (38 photographs).</p>
+		<p>Of note are a photograph of an African American couple posed with a new V-8 Ford (no. 71.3); construction photos of the Detroit River railroad tunnel (no. 95); Goebel’s Brewing Co. delivery wagons (no. 98); and a view of the steamboat <emph render="italic">Tashmoo</emph> at speed on the Detroit River (no. 110).</p>
+		<p><emph render="underline">Performers:</emph><lb/>107 photographs, most of which (113 photographs) are contained in the sub-category Music and Musicians. Of particular note are numerous photos of community brass bands, a photo of John Philip Sousa and his band at Grand Circus Park (no. 122); an image of the inventor Charles Crawford and his patented "Pickaphone" mechanism for playing stringed instruments, ca. 1888 (no. 123); and copy prints of two important early jazz bands, Finney’s Orchestra (no. 131) and McKinney’s Cotton Pickers (no. 132).</p>
+		<p><emph render="underline">Portraits:</emph><lb/>505 photographs. Material is divided into the following sub-categories: Individuals (172 photographs), Groups (133 photographs), Children (97 photographs), Weddings (64 photographs), Confirmation and Communion (41 photographs). Of particular interest are a photograph of Joan Baxter and her Hot Dog Cooker (no. 137); three 1860's portraits of members of the Hawley family of Detroit (no. 141), one of which is inscribed with enlargement instructions ca.1901 on its verso; and a portrait of politician and founder of the Republican Party Zachariah Chandler, taken by Benjamin Powelson ca. 1880 (no. 142).</p>
+		<p>Of the many notable images within the Groups category are an outstanding image of sixteen Packard Motor Car Company employees piled onto a 1911 Packard in front of the then new Packard factory on West Grand Blvd. (no. 144.9); a group of African American women engaged in a ceremonial burning of the mortgage of the Phyllis Wheatley Home for Aged Colored Ladies (no. 162); and a portrait of members of the Direct Credits Society, a Great Depression-era wealth redistribution movement founded by Alfred Lawson (no. 166).</p>
+		
+		<p><emph render="underline">Parades:</emph><lb/>54 photographs. Many scenes of massive parades in Detroit. Of note is a series of photographs of women marching in a racially-integrated United Spanish War Veterans Parade, ca.1940 (no. 179); and a view of five young women in a florally decorated early automobile (no. 180.11).</p>
+		<p><emph render="underline">Business &amp; Commerce:</emph><lb/>319 photographs. Where possible, material has been divided into the following sub-categories: Business Exteriors (52 photographs), Business Interiors (125 photographs), Construction (22 photographs), Ford Motor Company (19 photographs). Of note is an image of a group of brewers tapping a keg at the Marx Brewing Co. (no. 186.1); Candler Dock &amp; Dredge Co. workers and surveyors building a dock, taken by the Manning Bros. ca 1920s (no. 192); women rolling cigars at the R.G. Dunn factory, 1909 (no. 204); workers fabricating automobile bodies at the Briggs Manufacturing Co. ca. 1910s (no. 206);interior view of the Burroughs Adding Machine factory (no 209.11); the Penobscot Building construction in three stages ca 1928 (no. 217); and two fold-out panoramic photos of the Ford complex at River Rouge taken by Otto Rotch in 1925 (no. 218).</p>
+		<p><emph render="underline">Views:</emph><lb/>86 photographs. Material is divided into Street Views (28 photographs), Residential Views (51 photographs), and Aerial Views (7 photographs).</p>
+		<p><emph render="underline">Architecture:</emph><lb/>69 photographs. Of particular note is a charming view of a small inn at Springwells, Mich., the International Exposition House ca. 1889 (no. 235); an 1870's print of the large Russell House Hotel in Detroit (no. 238); and a panoramic view of downtown Detroit at its peak, taken by the Murray Studio in the 1920s (no. 240.18).</p>
+		<p><emph render="underline">Labor &amp; Unemployment:</emph><lb/>8 photographs primarily focused on unemployment during the Great Depression. Of note is a group photo of the striking Journeyman Bakers International Union in 1902 (no. 248).</p>
+		<p><emph render="underline">Athletes &amp; Athletics:</emph><lb/>58 photographs. Of particular note are a copy-print of a 1910 Detroit Tigers team photo featuring Hall of Famer Ty Cobb (no. 261); a series of 3 group photographs of an early soccer team, Michigan Alkali F.C. in 1923 (no. 265); Wyandotte baseball teams (no. 266);. The Slocum’s Island baseball champions of 1882 (no. 272.4); and a 1943 curling team (no. 273).</p>
+		<p><emph render="underline">Classrooms &amp; Schools:</emph><lb/>38 photographs. Of particular interest are a student group in front of a one-room schoolhouse at Cherry Hill in 1934 (no. 280.11); a kindergarten band at Clippert School taken by the Manning Bros. (no. 280.20); and a ca.1936 Lincoln Park High School album with personal snapshots and autographs of classmates (no. 279).</p>
+		<p><emph render="underline">Places of Worship &amp; Religious Activities:</emph><lb/>43 photographs. One of several images related to African American church congregations shows members of an A.M.E. church dressed in "traditional" African garb ca.1920-1930 (no. 284).</p>
+		<p><emph render="underline">Parks:</emph><lb/>112 photographs. Of particular focus is Belle Isle (approx. 50 photographs) and Waterworks Park. A series of Belle Isle views taken in 1889 by Holcombe &amp; Metzen is particularly picturesque (no. 297.1-9).</p>
+		<p><emph render="underline">Funerals &amp; Postmortem Photography:</emph><lb/>14 photographs. These photographs date from the 1910s-1930s and are mostly photographs of open caskets surrounded by the deceased's family.</p></scopecontent>
+		
+<dsc type="combined"><c01 level="series"><did><container type="box" label="Box">1</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 1</unittitle><dao actuate="onrequest" show="new" href="dao-wcl-grfx27"><daodesc><p>[view selected images]</p></daodesc></dao></did>
+<c02 level="file"><did><unittitle>1. [X-ray of teeth, ca. 1930]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>2. [16 real photo stamps]</unittitle><physdesc><extent>16 real photo stamps</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>3. [Bartell residence and family photos, ca. 1950s]</unittitle><physdesc><extent>9 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>4. The Stratosphere Gondola [movie prop, ca. 1934, NOTE: see image #31 for related content]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>5. Wyandotte 75 years of good clean living [booklet]</unittitle><physdesc><extent>1 booklet</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>6. Souvenir of Detroit, the convention city ca. 1905</unittitle><physdesc><extent>1 booklet, photomechanical prints</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>7. Detroit in 1898</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>8. [Firefighters fighting a fire at the Sparling Plastic Industries building, ca. 1961]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>9. [Children's party, ca. 1890s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>10. Reversible Ventura Fan and adjustable frame [woman cooking in kitchen ca. 1920s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>11. [Detroit snapshot photo albums, ca. 1950s]</unittitle><physdesc><extent>36 photographs in 4 booklets</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>12. [Miscellaneous Detroit snapshots, ca. 1950s]</unittitle><physdesc><extent>35 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>13. [Knights of Pythias encampment, Detroit, August 1900]</unittitle><physdesc><extent>3 photographs [2 additional photos of Indiana encampment]</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>14. [John F. Kennedy-Robert F. Kennedy composite photo in Detroit by Tony Spina, ca. 1960s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>15. [Dr. Rydzewski collection, appears to be family photographs ca. 1905-1961 also 1921 letter from Lithuania written in Polish]</unittitle><physdesc><extent>37 photographs, 4 ephemera</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>16. Detroit Illustrated [published by H. R. Page &amp; Co., 1889]</unittitle><physdesc><extent>101 pages, photomechanical prints</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>17. Detroit Journal explosion [November 1895]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>18. [Michigan infantry unit in park, ca. 1890s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>19. [Woman demonstrating range and stove ca. 1900-1910]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>20. [Miscellaneous nightclub souvenir photos]</unittitle><physdesc><extent>28 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>21. [Panorama of Grand Circus Park, ca. 1925]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>22. [1967 Detroit Riot, copy prints of Associated Press photographs]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>23. [Soap Box Derby competition]</unittitle><physdesc><extent>11 photographs</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">2</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 2</unittitle><dao actuate="onrequest" show="new" href="dao-wcl-grfx28"><daodesc><p>[view selected images]</p></daodesc></dao></did>
+<c02 level="file"><did><unittitle>24. [Two women standing next to rock sculpture; view of boarding house(?), ca. 1890-1910]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>25. [Women eating outside on picnic table, ca. 1920s-1930s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>26. [Livestock at the Detroit stockyards, ca. 1920s]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>27. [Photographs taken by Edison Institute student, possibly Louis Ives, showing basketball game, school dance, and group portrait ca. 1946-47]</unittitle><physdesc><extent>4 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>28. [Full-sized replica of Naval ship on display in Grand Circus Park, ca. 1942 (see image 36.16 for different angle of same replica ship)]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>29. [Snapshots of Detroit freeway construction, ca. 1957]</unittitle><physdesc><extent>52 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>30. [Miscellaneous Detroit architecture (incl. Temple Beth El, Detroit City Hall, Waterworks Park), shipping on the Detroit river, street scenes, and transportation, ca. 1900-1910]</unittitle><physdesc><extent>16 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>31. [Henry Ford with stratosphere scientists Jean Picard and Jeanette Picard, ca. 1934, NOTE: see image #4 for related content]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>32. [President of Suburban Goodfellows selling papers to make food baskets for the poor, 1927]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>33. [Detroit policeman directing traffic on Woodward Ave, ca. 1918]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>34. [Collection of photographs by Brown City photographer Clarence L. Hoffman, miscellaneous subjects including a street view of Jefferson Ave in Detroit, ca. 1900-10]</unittitle><physdesc><extent>12 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>35. [Collection of photographs by unidentified photographer, ca. 1905, only one is from Detroit, a photograph of the Majestic Building, the rest are identified as being from Brown City, Mich.]</unittitle><physdesc><extent>7 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>36. [Detroit snapshots ca. 1942 including photograph (36.16) from different angle of same replica ship as in item #28, also one picture (36.1) of Burton Memorial Tower in Ann Arbor, Mich.]</unittitle><physdesc><extent>16 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>37. [Miscellaneous Detroit street views, groups of people and architecture, appear to have once been pasted in a scrapbook, ca. 1910s]</unittitle><physdesc><extent>13 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>38. ["Standard" Jacks and garage equipment, ca. 1929]</unittitle><physdesc><extent>4 photographs, 1 ephemera</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>39. [Researchers in the Reference Room at the old Detroit Public Library, ca. 1910]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>40. [Two male laboratory workers working on experiment, ca. 1950s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>41. [Fred A. Anstie Collection, mostly of Anstie and railroad coworkers, trains, and a retirement party for Anstie ca. 1970]</unittitle><physdesc><extent>35 photographs, 5 ephemera</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>42. [Interior of Greenfield Village tintype studio ca. 1980(?)]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>43. [1898 group portrait of Company C, 35th Regiment Michigan Volunteers, woman seated with regiment]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>44. [Aftermath of fire at unidentified automobile factory, ca. 1900-10]</unittitle><physdesc><extent>6 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>45. [Aftermath of fire at Saxon Motor Car Company, February 1917]</unittitle><physdesc><extent>10 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>46. [Detroit News photographers and photographic equipment]</unittitle><physdesc><extent>25 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>47. [Misc. Detroit views ca. 1920]</unittitle><physdesc><extent>8 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>48. [Two portraits of Dr. Jonathan R. Bowers, ca. 1870s]</unittitle><physdesc><extent>2 photographs, 5 ephemera</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>49. [WWJ Radio equipment and staff]</unittitle><physdesc><extent>6 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>50. [Copy prints, panorama of Detroit riverfront ca. 1880]</unittitle><physdesc><extent>5 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>51. [Detroit News photographic equipment, demonstrated by John Orris, ca. 1957]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>52. [View of Detroit River with Ambassador Bridge in the distance]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>53. [Razing of Uniroyal Tire plant, ca. 1985]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>54. [Detroit News executive office, ca. 1922]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>55. [Firefighters battle fire at the corner of Campus Martius and Monroe, 1897]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">3</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 3</unittitle><dao actuate="onrequest" show="new" href="dao-wcl-grfx29"><daodesc><p>[view selected images]</p></daodesc></dao></did>
+<c02 level="file"><did><unittitle><emph render="bold">Transportation -- Automobiles &amp; Trucks</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>56. [1952 city of Dearborn taxi driver license]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>57. [Armored truck or tank, Army recruitment ca. 1918]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>58. [City Treasurer pay car]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>59. [Geml-McGrath Dairy Inc. trucks]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>60. [Auto rally, ca. 1911]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>61. [Gardner-White Co. delivery truck, ca. 1930]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>62. [Advertisement "Important Cadillac Firsts"]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>63. [Carter Automobile, ca. 1910]</unittitle><physdesc><extent>3 photographs, 1 newspaper article</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>64. [Sauer Cooperage delivery truck]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>65. [Booth Insulation Co. delivery trucks]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>66. [Miscellaneous automobile businesses]</unittitle><physdesc><extent>6 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>67. [Wayne Creamery delivery truck, July 12, 1928]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>68. [Delivery trucks for Marcel Blomme Butter, Eggs &amp; Cheese]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>69. [Trucks and automobiles]</unittitle><physdesc><extent>25 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>70. [Enlargement of automobile stereographs]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>71. [Individuals and families posed with cars, incl. African-American couple]</unittitle><physdesc><extent>5 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Transportation -- Aircraft</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>72. [Mary Elizabeth Von Mach, first Detroit women to own and operate her own airplane, ca. 1920s]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>73. [Aircraft]</unittitle><physdesc><extent>10 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>74. [Miscellaneous images of hot air balloons at Detroit News race, ca. 1926-27]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>75. [Planes on display at the National Aircraft Show at Detroit City Airport ca. 1931]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>76. [Panorama of Stout Airplane Co. and Henry Ford Airport]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>77. Helicopter delivering film to the Detroit News</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Transportation -- Railroads &amp;Trains</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>78. [Railroad at Wyandotte, ca. 1920s]</unittitle><physdesc><extent>8 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>79. Electrification of Ford's Detroit, Toledo and Ironton Railroad</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>80. [Michigan Central Terminal, Detroit under construction]</unittitle><physdesc><extent>2 identical digital copy prints</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>81. [Locomotives, railroads and depots]</unittitle><physdesc><extent>23 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>82. [Miscellaneous locomotives, railroads, depots, and offices, ca. 1920s-1970s]</unittitle><physdesc><extent>24 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Transportation -- Streetcars &amp; Trolleys</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>83. [Miscellaneous street railroads, ca. 1890s-1930s]</unittitle><physdesc><extent>16 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>84. [Grosse Pointe-Waterworks Park streetcar line, ca. 1891]</unittitle><physdesc><extent>4 photographs</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">4</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 4</unittitle></did><c02><did><unittitle><emph render="bold">Transportation -- Roads &amp; Infrastructure</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>85. [Towers used in construction of Livingstone Canal, ca. 1912]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>86. [Copy photograph of 19th century toll road, Jefferson at Baldwin]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>87. [Cars and bike on Tireman Ave east of what is now Greenfield Rd, ca. 1920s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>88. [Bridge over Connor Creek on Gratiot Ave, ca. 1913]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>89. [Aerial view of Fort Street Highway, ca. 1930]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>90. [Traffic signal proposal at Gratiot and Van Dyke ca. 1930s-1940s]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>91. Michigan Ave at Scotten before widening [ca. 1940]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>92. [Woodward Avenue between Six and Seven Mile Road, before and after paving, ca. 1909]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>93. [West Jefferson Avenue-Rouge River Bridge]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>94. [Bridge at Grand Lawn Cemetery, ca. 1921]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>95. [Detroit-Windsor Michigan Central Railroad tunnel construction]</unittitle><physdesc><extent>19 photographs, 1 ephemera</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Transportation -- Wagons</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>96. [Alfred Easter City Creamery delivery wagons and workers, ca. 1893]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>97. [F.M. Sibley Lumber Co. wagon and worker]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>98. [Goebel's Brewing Co. horse-drawn delivery wagons ca. 1900-1910]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>99. [Miscellaneous horse-drawn delivery wagons]</unittitle><physdesc><extent>14 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Transportation -- Maritime</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>100. [10th district light house depot, ca. 1890s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>101. [Crowd onboard railroad ferry, ca. 1930s]</unittitle><physdesc><extent>1 photograph, 1 negative</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>102 [Ship launching-<emph render="italic">Yosemite</emph>, ca. 1901]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>103. [Woman onboard railroad ferry, ca. 1902]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>104. [Worker group on unidentified dredge]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>105. [Aerial view of the Detroit Yacht Club]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>106. [Men onboard <emph render="italic">City of Cleveland III</emph>, ca. 1910s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>107. [Worker group on dredge, <emph render="italic">Hercules</emph>, Dunbar Sullivan Dredging Co.]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>108. [Photograph of painting of <emph render="italic">City of Detroit</emph> steamboat, ca. 1880s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>109. [Ship launching-<emph render="italic">Merton E. Farr</emph>, ca. 1920]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>110. [Steamboat <emph render="italic">Tashmoo</emph> in Detroit River, ca. 1900]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>111. [Speed boat races, ca. 1945-1955]</unittitle><physdesc><extent>6 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>112. [Steamboats-<emph render="italic">Greyhound</emph> and <emph render="italic">Eastern States</emph>, ca. 1910s]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>113. [Steamboat-<emph render="italic">Western States</emph>, photographs are taken over a range of dates]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>114. [Miscellaneous boats]</unittitle><physdesc><extent>13 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Performers</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>115. [Circus performers, ca. 1930s]</unittitle><physdesc><extent>4 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>116. Pike Theatre Co. [composite group portrait, ca. 1902]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>117. [Sonny Elliot and chimpanzee, ca. 1960s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>118. Earl Yoke [entertainer, ca. 1910s]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>119. [Miscellaneous individual performers]</unittitle><physdesc><extent>8 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>120. [Miscellaneous costumed groups and portraits]</unittitle><physdesc><extent>13 photographs</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">5</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 5</unittitle><dao actuate="onrequest" show="new" href="dao-wcl-grfx30"><daodesc><p>[view selected images]</p></daodesc></dao></did>
+<c02 level="file"><did><unittitle><emph render="bold">Performers -- Music &amp; Musicians</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>121. Non-Partisan Progressive Band [ca. 1930s-1940s]</unittitle><physdesc><extent>4 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>122. [John Philip Sousa at Grand Circus Park, ca. 1928]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>123. [Charles Crawford and his "pickaphone", mechanism for playing stringed instruments, ca. 1888]</unittitle><physdesc><extent>1 photograph, 1 ephemera</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>124. [Miscellaneous individual musicians]</unittitle><physdesc><extent>7 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>125. Leonard B. Smith with Philco Band, December 13, 1944</unittitle><physdesc><extent>5 photographs and ephemera</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>126. [Detroit Symphony woodwind ensemble]</unittitle><physdesc><extent>16 photographs, 5 booklets and clippings</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>127. [Miscellaneous band groups]</unittitle><physdesc><extent>37 photographs, 1 ephemera</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>128. African-American junior choir and orchestra, Second Baptist Church, September 14, 1923</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>129. [Portrait of Benjamin Shook, African-American jazz band leader, ca. 1920]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>130. Ypsilanti Normal Choir, Frederick Alexander Conductor, at Detroit Symphony Christmas Concert, December 15, 1929</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>131. [Copy print of African-American jazz band Finney's Orchestra, Fred S. Stone Manager]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>132. [Copy prints of African-American jazz band McKinney's Cotton Pickers, ca. 1926]</unittitle><physdesc><extent>14 photographs</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">6</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 6</unittitle><dao actuate="onrequest" show="new" href="dao-wcl-grfx31"><daodesc><p>[view selected images]</p></daodesc></dao></did>
+<c02 level="file"><did><unittitle><emph render="bold">Portraits -- Individuals</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>133.1-133.68 [Misc. portraits-women]</unittitle><physdesc><extent>68 of 80 photographs</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">7</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 7</unittitle><dao actuate="onrequest" show="new" href="dao-wcl-grfx32"><daodesc><p>[view selected images]</p></daodesc></dao></did>
+<c02 level="file"><did><unittitle><emph render="bold">Portraits -- Individuals (cont.)</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>133.69-133.80 [Misc. portraits-women]</unittitle><physdesc><extent>12 of 80 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>134.1-134.52 [Misc. portraits-men]</unittitle><physdesc><extent>52 of 78 photographs</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">8</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 8</unittitle><dao actuate="onrequest" show="new" href="dao-wcl-grfx33"><daodesc><p>[view selected images]</p></daodesc></dao></did>
+<c02 level="file"><did><unittitle><emph render="bold">Portraits -- Individuals (cont.)</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>134.53-134.78 [Misc. portraits-men]</unittitle><physdesc><extent>26 of 78 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>135. [Portrait Carte De Visite-G. S. Lyons, ca. 1870s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>136. [Jesse Lynn McKee, General Manager, Michigan Central Railroad, ca. 1925]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>137. [Joan Baxter and her hot dog cooker]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>138. [Unidentified man on horse, appears to be 20th century enlargement of earlier image]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>139. [Frank D. Fitzgerald, Michigan Secretary of State, ca. 1933 also a photocopy of tintype of his mother as a young child housed with cased images]</unittitle><physdesc><extent>1 photograph, 1 photocopy</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>140. [Hand-painted albumen portraits]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>141. [1860s Hawley family portraits including Detroit resident Elijah Hawley, also portrait of Giles Hawley Collins with written enlargement instructions ca. 1901]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>142. [Studio portrait of Zachariah Chandler, ca. 1880]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>143. [Knights Templar portraits]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Portraits -- Groups</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>144. [Worker group portraits]</unittitle><physdesc><extent>21 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>145.1-145.11 [Miscellaneous family groups]</unittitle><physdesc><extent>11 of 19 photographs</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">9</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 9</unittitle><dao actuate="onrequest" show="new" href="dao-wcl-grfx3"><daodesc><p>[view selected images]</p></daodesc></dao></did>
+<c02 level="file"><did><unittitle><emph render="bold">Portraits -- Groups (cont.)</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>145.12-145.19 [Miscellaneous family groups]</unittitle><physdesc><extent>8 of 19 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>146. [Three different years of women at Christmas party, possibly Ford Motor Company secretaries, ca. 1939-1941]</unittitle><physdesc><extent>4 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>147. [Miscellaneous portraits-couples]</unittitle><physdesc><extent>15 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>148. [Firefighters with horse drawn wagon, ca. 1890]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>149. City Council of Hamtramck 1922-23</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>150. [Michigan Photographic Historical Society members, ca. 1970s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>151. [Farm workers with steam threshing machine, ca. 1900-1910]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>152. [General Motors, wives Christmas party, December 21, 1944]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>153. Nut Club of Detroit, August 1909</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>154. [German Club members, ca. 1910s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>155. [Unidentified African-American man with Paul Robeson; and with "Detroit's first black judge"]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>156. Susterka Lake [ca. 1900-1910]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>157. [Business and fraternal groups]</unittitle><physdesc><extent>12 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>158. [African American group in Scott Auditorium, ca. 1941]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>159. Paramount Club, November 26, 1931 [African American society]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>160. [Banquet-Wolverine Consistory, S.P.R.S., African-American group, October 28, 1922]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>161. "The Bachelors" at the Oriental [African-American group dinner, December 24, 1917]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>162. Burning the mortgage of the Phyllis Wheatley Home, Detroit, January 4, 1915 [Phyllis Wheatley home for aged colored ladies]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>163. American Red Cross Society [African-American group, ca. 1918]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>164. Wallis-Wainwright Hack Post no.314 Past Commanders [Composite portrait, ca. 1940]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>165. A conference beginning of Older Boys and Older Girls in Detroit auspices of Y.W.C.A. and Y.M.C.A. March 23-35, 1923 [African-American group]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>166. [Direct Credits Society 1st Economic District of Michigan, ca. 1930s]</unittitle><physdesc><extent>1 photograph, 1 ephemera</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>167.1-167.23 [Miscellaneous groups]</unittitle><physdesc><extent>23 of 39 photographs</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">10</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 10</unittitle><dao actuate="onrequest" show="new" href="dao-wcl-grfx34"><daodesc><p>[view selected images]</p></daodesc></dao></did>
+<c02 level="file"><did><unittitle><emph render="bold">Portraits -- Groups (cont.)</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>167.24-167.39 [Miscellaneous groups]</unittitle><physdesc><extent>16 of 39 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Portraits -- Children</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>168. [Portrait of boy on pony, ca. 1920]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>169. [Caucasian girl with African-American doll, ca. 1940s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>170. [Miscellaneous portraits-infants]</unittitle><physdesc><extent>31 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>171.1-171.26 [Miscellaneous portraits-children]</unittitle><physdesc><extent>26 of 64 photographs</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">11</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 11</unittitle><dao actuate="onrequest" show="new" href="dao-wcl-grfx35"><daodesc><p>[view selected images]</p></daodesc></dao></did>
+<c02 level="file"><did><unittitle><emph render="bold">Portraits -- Children (cont.)</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>171.27-171.64 [Miscellaneous portraits-children]</unittitle><physdesc><extent>38 of 64 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Portraits -- Weddings</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>172.1-172.30. [Wedding portraits]</unittitle><physdesc><extent>30 of 64 photographs</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">12</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 12</unittitle></did>
+<c02 level="file"><did><unittitle><emph render="bold">Portraits -- Weddings (cont.)</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>172.31-172.64. [Wedding portraits]</unittitle><physdesc><extent>34 of 64 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Portraits -- Confirmation &amp; Communion</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>173.1-173.13 [Confirmation and Communion portraits]</unittitle><physdesc><extent>13 of 41 photographs</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">13</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 13</unittitle><dao actuate="onrequest" show="new" href="dao-wcl-grfx36"><daodesc><p>[view selected images]</p></daodesc></dao></did>
+<c02 level="file"><did><unittitle><emph render="bold">Portraits -- Confirmation &amp; Communion (cont.)</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>173.14-173.41 [Confirmation and Communion portraits]</unittitle><physdesc><extent>28 of 41 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Parades</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>174. [American Legion parade, ca. 1951]</unittitle><physdesc><extent>9 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>175. [Republican parade, ca. 1890s]</unittitle><physdesc><extent>4 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>176. [Grand Army of the Republic Parade, ca. 1891]</unittitle><physdesc><extent>4 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>177. [Shriner's Parade, ca. 1890s]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>178. [Knights Templar parade, ca. 1910s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>179. [United Spanish War Veterans Parade ca. 1940]</unittitle><physdesc><extent>19 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>180. [Miscellaneous parades]</unittitle><physdesc><extent>14 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Business &amp; Commerce</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>181. [Nicolai family collection, business exteriors (horse shoeing, blacksmith, and real estate) and automobiles, ca. 1880s-1920s]</unittitle><physdesc><extent>6 photographs, 1 ephemera)</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>182. [Improved Cummer engine, ca. 1883]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>183. Boat Transit Company [ca. 1930s-1940s]</unittitle><physdesc><extent>4 photographs, 1 ephemera</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>184. [Jacob F. Meier Co, factory and automobile, ca. 1910]</unittitle><physdesc><extent>7 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>185. [D.H. Burrell &amp; Co.-Hoop cutting]</unittitle><physdesc><extent>10 photographs</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container label="Box" type="box">14</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 14</unittitle></did>
+<c02 level="file"><did><unittitle><emph render="bold">Business &amp; Commerce (cont.)</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>186. [Marx Brewing Co.]</unittitle><physdesc><extent>3 photographs, 1 booklet</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>187. [Turbine engine-Pennsylvania Salt Manufacturing Co., ca. 1925-27]</unittitle><physdesc><extent>4 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>188. [Dodge Brothers employee rallies, ca. 1917-1920]</unittitle><physdesc><extent>10 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>189. [Detroit Dredging Co.]</unittitle><physdesc><extent>4 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>190. [Miscellaneous commercial photos, products, buildings, equipment, interiors]</unittitle><physdesc><extent>37 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>191. [Paired photographs showing both exteriors and interiors of miscellaneous businesses]</unittitle><physdesc><extent>13 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>192. [Candler Dock &amp; Dredge Co. Workers, ca.1920s-1930s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>193. C.M. Nichols, Honey Producer [display booth, ca. 1910]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Business &amp; Commerce -- Business Exteriors</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>194. [Display window at Hudson's, September 15, 1953]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>195. [Woodworth's and S.S. Kresge Co. storefronts in Plymouth, Mich, ca. 1950-51]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>196. [Exterior of W. E. Barker &amp; Co ca. 1890s, December 19, 1914 newspaper clipping concerning store of H. B. Barker &amp; Sons]</unittitle><physdesc><extent>2 photographs, 1 ephemera</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>197. David Stott's flour mill [ca. 1890-95]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>198. [Miscellaneous business exteriors]</unittitle><physdesc><extent>46 photographs</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">15</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 15</unittitle><dao actuate="onrequest" show="new" href="dao-wcl-grfx37"><daodesc><p>[view selected images]</p></daodesc></dao></did>
+<c02 level="file"><did><unittitle><emph render="bold">Business &amp; Commerce -- Business Interiors</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>199. Leon G. Nahnikian Expert Shoe Repairing shop [Hat cleaning and shoe repair shop, ca. 1919]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>200. [Unidentified shoe repair shop and employee, ca. 1922]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>201. [Sharpe's Cafeteria interiors, ca. 1938]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>202. [Hoffman's store, Detroit, Mich. ca. 1925-1935]</unittitle><physdesc><extent>5 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>203. [Candy aisle at Kresge's, ca. 1950]</unittitle><physdesc><extent>4 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>204. [Women in R.G. Dunn cigar factory, ca. 1909]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>205. [Factory interior-women workers, ca. 1920s-1930s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>206. [Briggs Manufacturing-auto bodies, George Slauson foreman, ca. 1920s]</unittitle><physdesc><extent>4 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>207. [Miscellaneous store interiors, incl. African-American grocery store]</unittitle><physdesc><extent>31 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>208. [Misc. interior views of businesses, incl. African-American restaurant]</unittitle><physdesc><extent>21 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>209. [Miscellaneous industrial interiors]</unittitle><physdesc><extent>53 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Business &amp; Commerce -- Construction</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>210. [Stewart's Ladies Wear store renovation, ca. 1920s]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>211. [Trenton Channel Powerhouse construction, ca. 1924]</unittitle><physdesc><extent>8 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>212. [Briggs Manufacturing Co. factory site, ca. 1920]</unittitle><physdesc><extent>4 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>213. [St. Paul Gas Light Co. construction, ca. 1911]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>214. [Unidentified building construction at 474 Montclair Ave, Detroit, May 15, 1911]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>215. McLouth Steel Corp.-stainless expansion, February 13, 1954</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>216. [Panorama of construction of artificial gas plant, ca. 1920s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>217. [Penobscot Building construction, ca. 1928]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">16</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 16</unittitle></did>
+<c02 level="file"><did><unittitle><emph render="bold">Business &amp; Commerce -- Ford Motor Company</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>218. [Ford Motor Co., River Rouge industries, ca. 1925]</unittitle><physdesc><extent>2 panoramic photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>219. [Ford Motor Company News Bureau photos, ca. 1946]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>220. [Miscellaneous factory and production views]</unittitle><physdesc><extent>15 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Views -- Street</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>221. [Dearborn Coach Co., Dearborn street view, ca. 1935]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>222. [Winter storm damage, December 5, 1898]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>223. [Woodward Avenue views, ca. 1870s]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>224. [Miscellaneous street views]</unittitle><physdesc><extent>23 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Views -- Residential</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>225. [Ulysses S. Grant headquarters, Detroit, ca. 1870]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>226. Grosse Pointe and Grosse Pointe Farms residential architecture]</unittitle><physdesc><extent>4 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>227. [Residence and garden, ca. 1912-16]</unittitle><physdesc><extent>9 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>228. [Miscellaneous Wayne County residential architecture]</unittitle><physdesc><extent>4 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>229. [Detroit residential architecture]</unittitle><physdesc><extent>33 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Views -- Aerial</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>230. [Detroit and bridge view]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>231. [Eastwood park-aerial photo, ca. 1940s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>232. [Miscellaneous aerial photos-Detroit]</unittitle><physdesc><extent>5 photographs</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">17</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 17</unittitle><dao actuate="onrequest" show="new" href="dao-wcl-grfx38"><daodesc><p>[view selected images]</p></daodesc></dao></did>
+<c02 level="file"><did><unittitle><emph render="bold">Architecture</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>233. "Former home of William H. Yawkey" [related to estate lawsuit and investigation]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>234. Sprinkler Tank-6164 Cass Avenue [ca. 1945]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>235. [George Degens International Exposition House, Springwells, Mich., 1889]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>236. [Detroit public buildings-City Hall and Library, ca. 1880s]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>237. [Spanish American War Memorial]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>238. [Russell House Hotel, ca. 1870s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>239. [Dearborn residential and public architecture]</unittitle><physdesc><extent>24 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>240. [Miscellaneous Wayne County architecture]</unittitle><physdesc><extent>36 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>241. [1889 Detroit International Exposition main building]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>242. Tiger Stadium, June 20, 1984</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Labor &amp; Unemployment</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>243. Basement of Detroit City Hall, ca. 1930</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>244. [Copy print of Peter Brooks photo of unemployed man holding sign asking for work not charity, 1930]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>245. [Woolworth Five and Ten female employees on strike, ca. 1937]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>246. [United Auto Workers strikers, musicians, ca. 1940s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>247. [Street view of Inkster, Mich., also people lined up outside of a soup kitchen, ca. 1930s]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>248. [Journeymen Bakers International Union strikers, 1902]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>248.1. [Wives of United Automobile Workers on strike, 1939]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Athletes &amp; Athletics</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>249. Cass Tech High School girls sports team [ca. 1930]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>250. [Detroit Turners, mens volleyball team, ca. 1939]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>251. [Young women in swimming gear at Detroit Yacht Club posing with Olympic champion Arne Borg from Sweden, ca. 1930]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>252. [Young women's figure skating team, ca. 1920s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>253. [Unidentified shirtless man flexing large muscles, ca. 1910]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>254. [Detroit Urban Railway baseball team and streetcar, ca. 1903-04]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>255. [Young women's field hockey team, ca. 1930]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>256. Detroit Red Wings 1938-39</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>257. [Contact sheet with images of African-Americans including Muhammad Ali [Cassius Clay], ca. 1960s]</unittitle><physdesc><extent>12 photographs on a single sheet</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>258. Jr. [Basketball] Team Barbour Int. School 1927</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>259. [Well's Roller Hockey Club, ca. 1943]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>260. [Unidentified Dearborn football player in practice gear, ca. 1940s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>261. [Detroit Tigers group photograph, ca. 1910s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>262. [Participants in bowling leagues, 1932-41]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>263. [Wyandotte football teams]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>264. [Detroit Tigers training room, ca. 1930s]</unittitle><physdesc><extent>6 photographs, 2 negatives</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>265. [Michigan Alkali F. C. soccer team, ca. 1923]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>266. [Wyandotte baseball teams]</unittitle><physdesc><extent>4 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>267. [Detroit Post Office baseball teams, undated and ca. 1933]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>268. [Hugh Thompson, cross country runner, ca. 1940s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>269. [Polo match action shots, ca. 1922]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>270. [Who's Your Tailor?-basketball team, ca. 1917-18]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>271. Rose Morgan 2nd heat [horse race, ca. 1929]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>272. [Miscellaneous athletic teams]</unittitle><physdesc><extent>6 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>273. [Portrait of curling team, ca. 1943]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">18</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 18</unittitle><dao actuate="onrequest" show="new" href="dao-wcl-grfx39"><daodesc><p>[view selected images]</p></daodesc></dao></did>
+<c02 level="file"><did><unittitle><emph render="bold">Classrooms &amp; Schools</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>274. Michigan Barber College, Detroit, March 10, 1950 [African-American group]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>275. Detroit Commercial College [student group, ca. 1921]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>276. The Seniorette [yearbook, Northville High School ca. 1911]</unittitle><physdesc><extent>1 booklet</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>277. [Redford High School R.O.T.C., girls with band drum, ca. 1939]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>278. [Exterior of school, District no. 2, Dearborn Township, ca. 1920s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>279. [Lincoln Park High School, " January Class of 1936" composite portrait in album owned by Stephen Modos with personal snapshots and autographs of classmates]</unittitle><physdesc><extent>10 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>280. [Miscellaneous school group portraits]</unittitle><physdesc><extent>23 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Places of Worship &amp; Religious Activities</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>281. [Bar Mitzvah luncheon, January 18, 1964]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>282. [20th century studio portraits of Catholic priests]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>283. [Miscellaneous churches]</unittitle><physdesc><extent>7 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>284. [African-American A.M.E. church members dressed as African royalty, ca. 1920s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>285. River Rouge and Delray A.M.E.A.C.E. League [African-American Group, ca. 1930]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>286. Reuniunea Femeilor SF. Treime [Romanian women's meeting at Holy Trinity Church, ca. 1920s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>287. [Miscellaneous church and religious school groups]</unittitle><physdesc><extent>26 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>288. [Composite of exterior of New Mt. Zion Baptist Church with portrait of African-American Rev. J. S. Williams, ca. 1928]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>289. [Exterior of St. Aloysius Parish School, ca. 1920s]</unittitle><physdesc><extent>1 photograph</extent></physdesc></did></c02></c01>
+<c01 level="series"><did><container type="box" label="Box">19</container><unittitle>David V. Tinder collection of Michigan photography, County File, Wayne County, Box 19</unittitle><dao actuate="onrequest" show="new" href="dao-wcl-grfx40"><daodesc><p>[view selected images]</p></daodesc></dao></did>
+<c02 level="file"><did><unittitle><emph render="bold">Parks</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>290. [Detroit park views, July 4, 1906]</unittitle><physdesc><extent>8 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>291. [Belle Isle and Water Works Park, ca. 1911]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>292. [Electric Park and Eastwood Park, ca. 1910s-1920s]</unittitle><physdesc><extent>32 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>293. [Miscellaneous Detroit park views, ca. 1900-1920]</unittitle><physdesc><extent>14 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>294. [Water Works Park, ca. 1890s-1950s]</unittitle><physdesc><extent>6 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Parks -- Belle Isle</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>295. [Parade on Belle Isle, ca. 1910]</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>296. Fellowcraft Club, Belle Isle, June 2, 1924</unittitle><physdesc><extent>2 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>297. [Belle Isle views ca. 1880s-1929]</unittitle><physdesc><extent>42 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle>298. [Belle Isle Park features, ca. 1910s]</unittitle><physdesc><extent>3 photographs</extent></physdesc></did></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Funerals &amp; Postmortem Photography</emph></unittitle></did></c02>
+<c02 level="file"><did><unittitle>299. [Post mortem-funeral displays, ca. 1910s-1930s]</unittitle><physdesc><extent>14 photographs</extent></physdesc></did></c02>
+</c01></dsc>
+      <controlaccess>
+         <p>
+            <extptr href="accnote" show="embed" actuate="onload"/>
+         </p>
+         <controlaccess>
+            <head>Subjects:</head>
+            <subject encodinganalog="650" source="local">David V. Tinder Collection of Michigan Photography.</subject>
+            <subject encodinganalog="650" source="local">Photographs shelf.</subject>
+         </controlaccess>
+         <controlaccess>
+            <head>Subjects - Visual Materials:</head>
+            <subject encodinganalog="650" source="lctgm">Actors--Michigan--1900-1910.</subject>
+            <subject encodinganalog="650" source="lctgm">Actresses--Michigan--1890-1910.</subject>
+            <subject encodinganalog="650" source="lcsh">African American businesspeople--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">African American children--Portraits--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">African American choirs--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">African American churches--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">African American freemasons--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">African American judges--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">African American musicians--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">African Americans--Societies, etc.--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">African American students--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">African American Sunday schools--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Agricultural laborers--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Airports--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Aircraft--Michigan--1930-1940.</subject>
+            <subject encodinganalog="650" source="lcsh">Aircraft industry--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Air shows--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Amateur theater--Michigan.</subject>
+            <corpname encodinganalog="610" source="lcnaf">American Red Cross.</corpname>
+            <subject encodinganalog="650" source="lcsh">Amusement parks--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Animals on television--Michigan.</subject>
+            <corpname encodinganalog="610" source="lcnaf">Ancient Arabic Order of the Nobles of the Mystic Shrine for North America.</corpname>
+            <subject encodinganalog="650" source="lcsh">Asbestos--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Automobile factories--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Automobile industry workers--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Automobile rallies--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Automobiles--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Automobiles--Design and construction--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Balls (Parties)--Michigan--1910-1920.</subject>
+            <subject encodinganalog="650" source="lcsh">Bands (Music)--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Banquets--Michigan--1920-1930.</subject>
+            <subject encodinganalog="650" source="lcsh">Barbers--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Barbershops--Michigan--1910-1920.</subject>
+            <subject encodinganalog="650" source="lcsh">Bar mitzvah--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Bars (Drinking establishments)--Michigan.</subject>
+            <corpname encodinganalog="610" source="lcnaf">BASF Wyandotte Corporation.</corpname>
+            <subject encodinganalog="650" source="lcsh">Baseball players--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Basketball courts--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Basketball players--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Beauty shops--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Beekeepers--Michigan.</subject>
+            <geogname encodinganalog="651" source="lcsh">Belle Isle Park (Detroit, Mich.)</geogname>
+            <subject encodinganalog="650" source="lctgm">Bicycles &amp; tricycles--Michigan--1890-1930.</subject>
+            <subject encodinganalog="650" source="lcsh">Bicycle stores--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Blacksmiths--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Blizzards--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Boats and boating--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Boycotts--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Breweries--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Breweries--Employees--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Brick trade--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Bridges--Michigan--Detroit.</subject>
+            <subject encodinganalog="650" source="lcsh">Broom and brush industry--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Building construction--Michigan--1910-1930.</subject>
+            <subject encodinganalog="650" source="lctgm">Buses--Michigan--1930-1940.</subject>
+            <subject encodinganalog="650" source="lcsh">Business organizations--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Business Schools--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Button industry--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Cafeterias--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Camping--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Canoes and canoeing--Michigan.</subject>
+            <corpname encodinganalog="610" source="lcnaf">Cartercar Co.</corpname>
+            <subject encodinganalog="650" source="lctgm">Carts &amp; wagons--Michigan--1890-1910</subject>
+            <subject encodinganalog="650" source="lcsh">Casinos--Michigan.</subject>
+            <corpname encodinganalog="610" source="lcnaf">Catholic Church--Clergy--Michigan.</corpname>
+            <subject encodinganalog="650" source="lcsh">Catholic schools--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Cemeteries--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Chauffeurs--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Chemical industry--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Children's costumes--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Children's parties--Michigan--1890-1900.</subject>
+            <subject encodinganalog="650" source="lcsh">Children--Michigan--Portraits.</subject>
+            <subject encodinganalog="650" source="lcsh">Children's choirs--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Church buildings--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Cigar industry--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Circus animals--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Circus performers--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">City councils--Michigan--Hamtramck (Mich.)</subject>
+            <subject encodinganalog="650" source="lcsh">City halls--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Commercial photography--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Concert programs--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Confirmation--Catholic Church--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Construction workers--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Coopers and Cooperage--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Couples--Michigan--Portraits.</subject>
+            <subject encodinganalog="650" source="lcsh">Creameries--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Cross-country runners--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Curling--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Dairying--Michigan.</subject>
+            <geogname encodinganalog="651" source="lcsh">Dearborn (Mich.)</geogname>
+            <subject encodinganalog="650" source="lcsh">Delivery of goods--Michigan.</subject>
+            <corpname encodinganalog="610" source="lcnaf">Detroit College of Medicine.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">Detroit Institute of Arts.</corpname>
+            <geogname encodinganalog="651" source="lcsh">Detroit (Mich.)</geogname>
+            <corpname encodinganalog="610" source="lcnaf">Detroit Museum of Art.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">Detroit Opera House.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">Detroit Red Wings (Hockey team)</corpname>
+            <corpname encodinganalog="610" source="lcnaf">Detroit Symphony Orchestra.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">Detroit, Toledo and Ironton Railroad.</corpname>
+            <subject encodinganalog="650" source="lctgm">Diving--Michigan--1890-1900.</subject>
+            <subject encodinganalog="650" source="lcsh">Docks--Michigan.</subject>
+            <corpname encodinganalog="610" source="lcnaf">Dodge Brothers.</corpname>
+            <subject encodinganalog="650" source="lcsh">Dredges--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Drugstores--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Dwellings--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Engines--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Entertainers--Michigan--1900-1910.</subject>
+            <subject encodinganalog="650" source="lcsh">Ethnic costume--Romania.</subject>
+            <subject encodinganalog="650" source="lcsh">Ethnic groups--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Exhibitions--Michigan--1880-1890.</subject>
+            <subject encodinganalog="650" source="lcsh">Explosions--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Factories--Employees--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Factories--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Families--Michigan--Portraits.</subject>
+            <subject encodinganalog="650" source="lcsh">Fire fighters--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Florists--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Flour mills--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Flower arrangements--Michigan--1920-1940.</subject>
+            <subject encodinganalog="650" source="lctgm">Football players--Michigan--1900-1910.</subject>
+            <corpname encodinganalog="610" source="lcnaf">Ford Motor Company.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">Ford Motor Company--Employees.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">Ford Motor Company. Rouge River Plant.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">Ford Rotunda (Dearborn, Mich.)</corpname>
+            <subject encodinganalog="650" source="lcsh">Fraternal organizations--Michigan</subject>
+            <subject encodinganalog="650" source="lctgm">Funeral rites &amp; ceremonies--Michigan--1910-1930</subject>
+            <subject encodinganalog="650" source="lctgm">Gardens--Michigan--1900-1910.</subject>
+            <subject encodinganalog="650" source="lcsh">Gas power plants--Michigan.</subject>
+            <corpname encodinganalog="610" source="lcnaf">General Motors Corporation.</corpname>
+            <subject encodinganalog="650" source="lcsh">Graduation (School)</subject>
+            <persname encodinganalog="600" source="lcnaf">Grant, Ulysses S. (Ulysses Simpson), 1822-1885--Homes and haunts.</persname>
+            <subject encodinganalog="650" source="lcsh">Grocery trade--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Hardware stores--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Hat trade--Michigan.</subject>
+            <corpname encodinganalog="610" source="lcnaf">Henry Ford Museum and Greenfield Village.</corpname>
+            <subject encodinganalog="650" source="lcsh">High school students--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Horse-drawn rail cars--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Horse racing--Michigan--1920-1930</subject>
+            <subject encodinganalog="650" source="lcsh">Hospitals--Michigan--Detroit.</subject>
+            <subject encodinganalog="650" source="lctgm">Hotels--Michigan--1870-1890.</subject>
+            <corpname encodinganalog="610" source="lcnaf">Hudson's (Department store)</corpname>
+            <subject encodinganalog="650" source="lcsh">Ice industry--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Insurance companies--Michigan.</subject>
+            <corpname encodinganalog="610" source="lcnaf">International Union, United Automobile Workers of America (CIO)</corpname>
+            <subject encodinganalog="650" source="lcsh">Inventors--Michigan</subject>
+            <subject encodinganalog="650" source="lcsh">Jazz musicians--Michigan</subject>
+				<corpname encodinganalog="610" source="lcnaf">Journeymen Bakers National Union of the United States.</corpname>
+            <persname encodinganalog="600" source="lcnaf">Kennedy, John F. (John Fitzgerald), 1917-1963.</persname>
+            <persname encodinganalog="600" source="lcnaf">Kennedy, Robert F., 1925-1968.</persname>
+            <subject encodinganalog="650" source="lcsh">Kitchen utensils--Michigan.</subject>
+            <corpname encodinganalog="610" source="lcnaf">Knights of Pythias.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">Knights Templar (Masonic order)</corpname>
+            <subject encodinganalog="650" source="lcsh">Laboratories--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Lakes--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Libraries--Michigan--Detroit.</subject>
+            <subject encodinganalog="650" source="lcsh">Lighthouses--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Locomotives--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Luggage industry--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Mausoleums--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Mechanical musical instruments--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Men--Michigan--Portraits.</subject>
+            <subject encodinganalog="650" source="lcsh">Men--Societies  and clubs--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Metalworking industries--Michigan.</subject>
+            <corpname encodinganalog="610" source="lcnaf">Michigan Central Railroad Company.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">Michigan. National Guard.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">Michigan Stove Company.</corpname>
+            <subject encodinganalog="650" source="lcsh">Military bands--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Motion pictures--Michigan--1930-1940.</subject>
+            <subject encodinganalog="650" source="lcsh">Motorboat racing--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Music stores--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Musicians--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Nightclubs--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Nursing schools--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Occupational training--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Offices--Michigan--1910-1930.</subject>
+            <subject encodinganalog="650" source="lcsh">Old age homes--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Opticians--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Paddle steamers--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Parade floats--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Parades--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Parks--Michigan--Detroit.</subject>
+            <subject encodinganalog="650" source="lcsh">Photography--Societies, etc--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Picnics--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Playgrounds--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Police--Michigan--Detroit.</subject>
+            <subject encodinganalog="650" source="lcsh">Police stations--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Political parades &amp; rallies--Michigan--1900-1920.</subject>
+            <subject encodinganalog="650" source="lcsh">Portraits, group--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Postmortem photography--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Power-plants--Design and construction--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Priests--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Prisons--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Public architecture--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Radio broadcasting--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Railroad stations--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Railroad tunnels--Design and construction--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Railroad tunnels--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Railroads--Employees--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Railroads--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Residential architecture--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Restaurants--Michigan--1920-1930.</subject>
+            <persname encodinganalog="600" source="lcnaf">Robeson, Paul, 1898-1976.</persname>
+            <subject encodinganalog="650" source="lcsh">Sailors--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">School children--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">School buildings--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">School plays--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">School yearbooks--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Ships--Launching--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Ships--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Shoes--Repairing--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Skyscrapers--Michigan--Detroit.</subject>
+            <subject encodinganalog="650" source="lctgm">Soccer players--Michigan--1920-1930</subject>
+            <subject encodinganalog="650" source="lcsh">Soldiers--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Souvenirs (Keepsakes)--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Spanish-American War, 1898--Veterans--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Stables--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Steamboats--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Steel foundries--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Stove industry and trade--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Street lighting--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Street-railroads--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Streets--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Strikes and lockouts--Automobile industry--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">String bands--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Storefronts--Michigan.</subject>
+            <persname encodinganalog="600" source="lcnaf">Sousa, John Philip, 1854-1932.</persname>
+            <subject encodinganalog="650" source="lcsh">Teeth--Radiography--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Television programs--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Theaters--Michigan--1910-1920.</subject>
+            <subject encodinganalog="650" source="lctgm">Threshing machines--Michigan--1900-1910.</subject>
+            <corpname encodinganalog="610" source="lcnaf">Tiger Stadium (Detroit, Mich.)</corpname>
+            <subject encodinganalog="650" source="lcsh">Tour buses--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Traffic signs &amp; signals---Michigan--1930-1950</subject>
+            <subject encodinganalog="650" source="lcsh">Train ferries--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Trucks--Michigan--1920-1940.</subject>
+            <geogname encodinganalog="651" source="lcsh">Trenton Channel (Mich.)</geogname>
+            <corpname encodinganalog="610" source="lcnaf">United States. Army--Recruiting, enlistment, etc.--Michigan.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">United States. Army. Reserve Officers' Training Corps.</corpname>
+            <subject encodinganalog="650" source="lcsh">Variety stores--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Vocational education--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Water mills--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Water towers--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Waterworks--Michigan.</subject>
+            <geogname encodinganalog="651" source="lcsh">Wayne County (Mich.)</geogname>
+            <subject encodinganalog="650" source="lcsh">Weddings--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Women automobile industry workers--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Women field hockey players--Michigan.</subject>
+            <subject encodinganalog="650" source="lcsh">Women figure skaters--Michigan.</subject>
+            <subject encodinganalog="650" source="lctgm">Women--Employment--Michigan--1910-1940.</subject>
+            <subject encodinganalog="650" source="lcsh">Women--Michigan--Portraits.</subject>
+            <subject encodinganalog="650" source="lcsh">Women--Societies and clubs--Michigan.</subject>
+            <geogname encodinganalog="651" source="lcsh">Woodward Avenue (Mich.)</geogname>
+            <subject encodinganalog="650" source="lcsh">World War 1914-1918--Michigan.</subject>
+            <corpname encodinganalog="610" source="lcnaf">YMCA of the USA.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">Young Women's Christian Association.</corpname>
+         </controlaccess>
+         <controlaccess>
+            <head>Contributors: </head>
+            <note><p>Please be aware that this Contributors List is a partial index of the photographers and photographic studios represented in the collection. A complete list can be  found as a pdf link in the Additional Descriptive Data section of the finding aid</p></note>
+            <corpname encodinganalog="710" source="lcnaf">Agdan Photographic.</corpname>
+				<corpname encodinganalog="710" source="lcnaf">Alliance Commercial Photo Co.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">Alvord &amp; Co.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">American Commercial Photo Co.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">Arthur Studio.</corpname>
+				<persname encodinganalog="700" source="lcnaf">Arthur, Edward J.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Babas Studio.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">Baker Art Studio.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">Baker Studio.</corpname>
+				<persname encodinganalog="700" source="lcnaf">Baker, Chas. R.</persname>
+            <persname encodinganalog="700" source="lcnaf">Ball, Lyman L.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Ballaun Studio.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Baron, Herman.</persname>
+            <persname encodinganalog="700" source="lcnaf">Blanchard, Issac H.</persname>
+            <persname encodinganalog="700" source="lcnaf">Bleibel, Gustav.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Bonish Studio.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Bowles, Esther A., Mrs.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Brown &amp; Co.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Burose, Herman.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Charles Hopp &amp; Co.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Cheff, Edmund Archael.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Club Photos Inc.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">Commercial Photo Service Co.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">Cousins Art Studio.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Craine, Benjamin H.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Davison Photo Studio.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">Deluxe Theatrical Studio.</corpname>
+				<corpname encodinganalog="710" source="lcnaf">Detroit Edison Co.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">Detroit News Staff.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">Fotografia Italiana (G. Lanni &amp; Co.)</corpname>
+            <corpname encodinganalog="710" source="lcnaf">General Motors Photographic Section.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">Harbican Studio.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Hayes, Clarence Messenger.</persname>
+            <persname encodinganalog="700" source="lcnaf">Hediger, James D.</persname>
+            <persname encodinganalog="700" source="lcnaf">Hillmer, Davis B.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Hoffman Studio.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Hoffman, Clarence L.</persname>
+				<corpname encodinganalog="710" source="lcnaf">Holcombe &amp; Metzen.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">Holgate Studio.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Howie, George William.</persname>
+            <persname encodinganalog="700" source="lcnaf">Hughes, John Wesley.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Huntington &amp; Clark.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Jackson, Harvey C.</persname>
+            <persname encodinganalog="700" source="lcnaf">James, Langford P.</persname>
+            <persname encodinganalog="700" source="lcnaf">Jones, J. F.</persname>
+            <persname encodinganalog="700" source="lcnaf">Lazarnick, Nathan.</persname>
+            <persname encodinganalog="700" source="lcnaf">Litynski, Walter E.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Litynski-Jakubowski Co.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">MacGregor and Company.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">Manning Bros.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Mazur, Anthony</persname>
+            <persname encodinganalog="700" source="lcnaf">McMichael, A.G.</persname>
+            <persname encodinganalog="700" source="lcnaf">Merz, Charles J.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Metropolitan Art Studio.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Mirecki, Albert J.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Modernistic Photo Studio.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">New Chene Studio.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">P. Pieronek Studio.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Phelps, C.A. (New Castle, IN)</persname>
+            <persname encodinganalog="700" source="lcnaf">Pipp, Frank H.</persname>
+            <persname encodinganalog="700" source="lcnaf">Poli, Faustino G.</persname>
+            <persname encodinganalog="700" source="lcnaf">Pollard, C.H.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Rembrandt Studios.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Rentschler, Andrew.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Rentschler's Studio.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Rochowiak, Stanley A.</persname>
+            <persname encodinganalog="700" source="lcnaf">Rotch, Otto.</persname>
+            <persname encodinganalog="700" source="lcnaf">Salter, Al.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Smart Set Studio.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">Smith Brothers Commerical Photographers.</corpname>
+				<persname encodinganalog="700" source="lcnaf">Sowinski, Joseph.</persname>
+            <persname encodinganalog="700" source="lcnaf">Spellman, Delmar Driscoe.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Spencer &amp; Wyckoff.</corpname>
+            <corpname encodinganalog="710" source="lcnaf">Spooner &amp; Wells, Inc.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Stone, Frank H.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Tiffany Photographic Studio.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Tomlinson, Frank N.</persname>
+            <persname encodinganalog="700" source="lcnaf">Wiederhold, John A.</persname>
+            <persname encodinganalog="700" source="lcnaf">Wright, Fred G.</persname>
+            <corpname encodinganalog="710" source="lcnaf">Ziawinski Bros.</corpname>
+            <persname encodinganalog="700" source="lcnaf">Ziawinski, Felix.</persname>
+            <persname encodinganalog="700" source="lcnaf">Ziawinski, Joseph.</persname>
+         </controlaccess>
+         <controlaccess>
+            <head>Genre Terms:</head>
+            <genreform encodinganalog="655" source="gmgpc">Clippings.</genreform>
+            <genreform encodinganalog="655" source="gmgpc">Cyanotypes.</genreform>
+            <genreform encodinganalog="655" source="gmgpc">Documents.</genreform>
+            <genreform encodinganalog="655" source="gmgpc">Ephemera.</genreform>
+				<genreform encodinganalog="655" source="gmgpc">Pamphlets.</genreform>
+            <genreform encodinganalog="655" source="gmgpc">Photocopies.</genreform>
+            <genreform encodinganalog="655" source="gmgpc">Photographic prints.</genreform>
+            <genreform encodinganalog="655" source="gmgpc">Photomechanical prints.</genreform>				
+            <genreform encodinganalog="655" source="gmgpc">Postage stamps.</genreform>
+         </controlaccess>
+      </controlaccess>
+      <descgrp type="add">
+		
+      
+         <p><title show="replace" actuate="onrequest" href="http://www.clements.umich.edu/eadadd/tinder_waynecounty-contributorlist.pdf">Photographer Index</title> A complete list of photographers represented in the Wayne County series of the Tinder collection.</p><relatedmaterial>
+            <p>
+               <title href="umich-wcl-G-tind-0001" actuate="onrequest" show="replace">David V. Tinder Collection of Michigan Photography.</title>
+            </p>
+         <p>For visual iconography of Detroit up to the age of photography, see Brian Leigh Dunnigan, <title href="http://mirlyn.lib.umich.edu/Record/004671391" actuate="onrequest" render="italic">Frontier Metropolis.</title> Wayne State University Press, 2001.</p>
+			<p>Other similar resources include the photograph collections at the Burton Historical Collection, Detroit Public Library, the Detroit Historical Society Museum, the Walter P. Reuther Library, Wayne State University, the Benson Ford Research Center, and the Bentley Historical Library, University of Michigan, Ann Arbor.</p>
+			<p>The Detroit Historical Society has on their website a useful timeline of Detroit history.</p></relatedmaterial>
+         <bibliography>
+            <p>Tinder, David V. <title render="italic" href="http://clements.umich.edu/files/tinder_directory.pdf" actuate="onrequest" show="replace">Directory of Early Michigan Photographers.</title> This reference work contains biographical information about virtually every known commercial and significant amateur photographer in the state of Michigan from the first known appearances in the 1840s into the early twentieth century.</p>
+            
+         </bibliography>
+      </descgrp>
+   </archdesc>
+</ead>

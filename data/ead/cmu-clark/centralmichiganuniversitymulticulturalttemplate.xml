@@ -1,0 +1,1881 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+	<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+		<eadid countrycode="us" mainagencycode="MiMtpT-C" publicid="us//::mi-HC//TXT us::ehll::centralmichiganuniversitymulticultural.xml//EN" encodinganalog="identifier">ehll--centralmichiganuniversitymulticultural</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="title">Finding Aid for 
+Central Michigan University. Multicultural Education Center Collection</titleproper>
+				<author encodinganalog="creator">Collection processed and finding aid created by 
+A. Plude, J. Bentley, Marian Matyn</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="publisher">Clarke Historical Library</publisher>
+				<date encodinganalog="date">
+2011, 2013, 2019
+</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Encoded finding aid created by 
+Marian Matyn, 
+<date>2013, 2019</date>
+			</creation>
+			<langusage>The finding aid is written in  <language langcode="eng">English</language>
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<publisher>Clarke Historical Library<lb/>Central Michigan University</publisher>
+			<titleproper>Finding aid for<lb/>
+Central Michigan University. Multicultural Education Center Collection</titleproper>
+			<author>Finding aid created by<lb/> 
+A. Plude, J. Bentley, Marian Matyn
+</author>
+		</titlepage>
+	</frontmatter>
+	<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21">
+		<did>
+			<origination>
+				<corpname source="lcnaf" encodinganalog="110">Central Michigan University. Multicultural Education Center.</corpname>
+			</origination>
+			<unittitle encodinganalog="245">
+Collection,
+<unitdate type="inclusive" encodinganalog="245$f">
+1987, 2011, and undated
+</unitdate>
+			</unittitle>
+			<physdesc>
+				<extent encodinganalog="300">
+6.75 cubic feet (in 12 boxes)
+</extent>
+			</physdesc>
+			<unitid encodinganalog="099" repositorycode="MiMtpT-C" countrycode="us" type="call number">
+MSS.
+</unitid>
+			<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language>
+			</langmaterial>
+			<abstract>
+The collection documents the center's history with reports, newspaper clippings, photographic materials, and VHS videos. 
+</abstract>
+			<repository>
+				<corpname encodinganalog="852">
+					<subarea>Clarke Historical Library</subarea>, Central Michigan University</corpname>
+				<extptr href="CHLadd" show="embed" actuate="onload"/>
+			</repository>
+		</did>
+		<descgrp type="admin">
+			<acqinfo encodinganalog="541">
+				<p>
+Acc#72964, 73681
+</p>
+			</acqinfo>
+			<accessrestrict encodinganalog="506">
+				<p>
+Central Michigan University. Multicultural Education Center Collection is open for research.
+</p>
+			</accessrestrict>
+			<userestrict encodinganalog="540">
+				<p>
+Copyright is unknown.  
+</p>
+			</userestrict>
+			<prefercite encodinganalog="524">
+				<p>
+Central Michigan University. Multicultural Education Center Collection, Folder # , Box #, Clarke Historical Library, Central Michigan University
+</p>
+			</prefercite>
+		</descgrp>
+		<bioghist encodinganalog="545">
+			<p>Organizational History:</p>
+<p>The Central Michigan University Multicultural Education Center was established in 1987. It is one of several units on campus which falls under the aegis of The Office of Institutional Diversity, the others being Gear Up, Gay and Lesbian Programs, Minority Student Services, Native American Programs, and Upward Bound.</p> 
+<p>In 2011 the main goal of the CMU Multicultural Education Center was to help build an inclusive and respectful CMU community in a variety of ways. The Center provides a meeting place in general for students, for Registered Student Organizations (RSOs), and for various campus events including Soup and Substance, speak UP, Speak Out. The center functions as a resource center of videos, DVDs, and books, and recognizes all major religious and cultural holidays. It offers various exhibits throughout the year. The Center also provides professional development and workshop opportunities for CMU staff. (This information is from the collection.)</p> 
+<p>In August 2011, the name of the office changed to Office of Diversity Education. It was previously called the Multicultural Programming Center until 1999/2000. In 2012 it became the CMU. Multicultural Education Center.</p>
+		</bioghist>
+		<arrangement encodinganalog="351">
+			<p>Arrangement is alphabetical and then chronological, except Box 12 which is chronological.</p>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+		<p>The collection is organized by format into the following series: papers, mostly newspaper clippings (1 cubic ft.), photographic materials, mostly of exhibits (.5 cubic ft.), and VHS videos on a wide variety of topics (2 cubic ft.). Each series is then organized alphabetically and chronologically.</p>
+		<p>The papers consist mostly of newspaper clippings (copies), 1980s-2010, and undated as well as programmatic materials, minority equality reports, copies or original artwork, and the Center’s webpage (copies), 2011.</p>
+		<p>Photographic materials consists mostly of colored photographs as well as some negatives and contact prints, mostly documenting Center art exhibits or KCP (King  / Chavez / Parks) Days or Workshops at CMU for minority students, 1993, 2008, and undated.</p>
+		<p>The VHS videos, 1987, 2006, and undated, document visiting speakers, panel discussions, soup and substance and breakfast discussions, and other events covering a wide variety of multicultural topics including Native Americans, Disabilities Act, Affirmative Action, African Americans, Ojibwa traditions, feminism, Speak, Speak Out, diversity, etc. A few are user copies of CMU media productions, CMU Minute and Editor’s Notepad. Native American topics are particularly well documented. There are also six videos covering parts 7-24 of Dealing with Diversity, 1993.</p>
+		<p>The Addition to the collection, 1981-2010, and undated, 2.75 cubic ft. (in 6 boxes) consists of the same formats and information as the original collection. Boxes 1-3 are alphabetical subject files with photographs. Boxes 4-5 are of special interest as they include correspondence, reports, and other materials relating to the Chippewa nickname used by CMU. Box 6 includes several videos and a cassette tape.</p>
+		<p>The July 2019 Addition includes Box 12 (.5 cu.ft.), 10 VHS color videotapes, 1984-1993: The Legal (Pre-Employment) Interview, 1984, an acted interview with illegal questions, copyright 1984 by CMU Office of Affirmative Action, 5 minutes 58 seconds. Handicappers Rights, 1988, Marshall Rose and the Mount Pleasant Committee on the Handicapped lead a small, inaugural discussion on accessibility, dignity and quality of life in an unidentified CMU class room, 1.5 hours. Cultural Diversity at CMU, [1988] which includes discussion of the CMU mascot, speakers Pres. Jakubauskas, Dr. Nancy Belck, Dr. Rebecca Torres-Riviera, Dr. Ulana Klymyshyn, produced by CMU Library Instructional Resources, 6 minutes 49 seconds. Sexual Issues in the University, 1989, Marshall Rose, the CMU Affirmative Action officer, leads a panel discussion of Dr. Megan Goodwin, Dr. Angela Haddad, and Dr. James Jones on the topic, 1 hour, 3 minutes, 29 seconds. Marshall Rose on Whites in Black History, 1989, a very informative, thoughtful, presentation, about 1 hour, tape is in very bad shape. Have We Finally Arrived at Educational Equity Forum, 1990, includes Dr. Rita Kissen Dr. Robert Levy, Dr. Barbara Kirk discussing race, ethnicity, how to train teachers, 1 hour 6 minutes 36 seconds, this video is in very bad shape. Dr. Martin Luther King, Jr. Freedom March and Commemorative Program, 1991, march of CMU students and staff from Foust to Warriner, 2 banners of note-Eta Sigma Gamma supports the dream and Barnes Hall Taking the dream into the 90s, two unidentified African American male speakers and Leticia Gary (?) in front of Warriner, 11 minutes, 29 seconds. Affirmative Action Annual Think Take, Tape 1, 1991, sponsored by Kappa Alpha Psi by two African American poets, Dr. Kenneth Zakee, and Askia M. Toure, and a presentation by Miss Lefisa (sp?) in the Theatre on the Side, 2 hours 3 minutes 36 seconds. Affirmative Action Annual Think Take, Tape 2, 1991, continues Tape 1, 24 minutes, 25 seconds. Dr. Lloyd Elm, Lincoln Address, 1993, Onadago Tribe member and Native American educator presentation in UC at unidentified conference, 37 minutes, 4 seconds. </p>
+		<p>Due to shelving issues, the Addition boxes are shelved separately from the main collection.</p>
+		</scopecontent>
+		<controlaccess>
+			<p>
+				<extptr href="accnote" show="embed" actuate="onload"/>
+			</p>
+			<controlaccess>
+				<head>Subjects:</head>
+				<corpname encodinganalog="610" source="lcnaf">Central Michigan University. Multicultural Education Center.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">Central Michigan University. Office of Institutional Diversity.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">Central Michigan University--History.</corpname>
+				<subject encodinganalog="650" source="lcnaf">Multicultural education.</subject>
+				<subject encodinganalog="650" source="lcnaf">Art--Exhibitions--Michigan.</subject>
+				<subject encodinganalog="650" source="lcnaf">Art--Exhibitions--Mount Pleasant.</subject>
+				<subject encodinganalog="650" source="lcnaf">Affirmative action programs.</subject>
+				<subject encodinganalog="650" source="lcnaf">Indians of North America--History.</subject>
+				<subject encodinganalog="650" source="lcnaf">Minority college students.</subject>
+				<subject encodinganalog="650" source="lcnaf">College dropouts--Prevention.</subject>
+				<geogname encodinganalog="650" source="lcnaf">Mount Pleasant (Mich.)--History.</geogname>
+				</controlaccess>
+		</controlaccess>
+		<dsc type="combined">
+			<c01 level="series">
+				<did>
+					<unittitle>Central Michigan University. Multicultural Education Center Collection</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Brochures,<unitdate type="inclusive">1988/1989, 2001</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Correspondence,<unitdate type="inclusive">2007</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Fliers,<unitdate type="inclusive">1992-2002</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Graduation / Retention Improvement Program (GRIP),<unitdate type="inclusive">1991-1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Guest Book,<unitdate type="inclusive">1989-2000</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Newspaper Clippings (copies), Press Releases,<unitdate type="inclusive">1980s</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Newspaper Clippings (copies, folder 1 of 2),<unitdate type="inclusive">1992</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Newspaper Clippings (copies, folder 2 of 2),<unitdate type="inclusive">1992</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Newspaper Clippings (copies),<unitdate type="inclusive">1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Newspaper Clippings (copies),<unitdate type="inclusive">1994-1995</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Newspaper Clippings (copies),<unitdate type="inclusive">1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Newspaper Clippings (copies),<unitdate type="inclusive">1997</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Newspaper Clippings (copies),<unitdate type="inclusive">1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Newspaper Clippings (copies),<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Newspaper Clippings (copies),<unitdate type="inclusive">2000</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Newspaper Clippings (copies),<unitdate type="inclusive">2001</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Newspaper Clippings (copies),<unitdate type="inclusive">2002</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Newspaper Clippings (copies),<unitdate type="inclusive">2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Newspaper Clippings (copies),<unitdate type="inclusive">2004-2006</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Newspaper Clippings (copies),<unitdate type="inclusive">2007</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Newspaper Clippings (copies),<unitdate type="inclusive">2008</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Newspaper Clippings (copies),<unitdate type="inclusive">2009</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Newspaper Clippings (copies),<unitdate type="inclusive">2010</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>Newspaper Clippings (copies),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>Office of Minority Equality, Michigan Department of Education, Reports,<unitdate type="inclusive">1987-1991</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>Office of Minority Equality, Michigan Department of Education, Reports,<unitdate type="inclusive">1992-1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>Original Artworks,<unitdate type="inclusive">2001, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>Photographs and Negatives, Native American Event,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">17</container>
+						<unittitle>Photographs, Jazz,<unitdate type="inclusive">1995</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">18</container>
+						<unittitle>Photographs, KCP (King / Chavez / Parks) College Day,<unitdate type="inclusive">1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">18</container>
+						<unittitle>Photographs, KCP College Day,<unitdate type="inclusive">1994-1995</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Photographs, KCP Workshops,<unitdate type="inclusive">1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Photographs, KCP Workshops,<unitdate type="inclusive">1997</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Photographs, Negatives, Contact Prints, KCP Workshops,<unitdate type="inclusive">1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Photographs, KCP Workshops,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Photographs, New School Play,<unitdate type="inclusive">1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Photographs of Latino Art and Artists,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Photographs of Native American Exhibits,<unitdate type="inclusive">1999, 2001, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Photographs and Negatives, Powwow in Rose Arena,<unitdate type="inclusive">2001</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Photographs, Powwows in Finch Fieldhouse,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Photographs, Powwows in Finch Fieldhouse,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Photographs, President Plachta Retirement Party,<unitdate type="inclusive">2000</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>Photographs, Soup and Substance,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>Photographs, Students, Ulana Klymyshyn; Quilts,<unitdate type="inclusive">2000, 2008, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>Photographs, Web pages,<unitdate type="inclusive">2011</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>VHS Videos, #3 Ward Churchill at Central Michigan University “A Little Matter of Genocide…” (2 copies),<unitdate type="inclusive">November 12, 2002</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>VHS Videos, #4 Ghandi, Arun: at Central Michigan University, “A Non Violence,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>VHS Videos, #15 Cheryl Gilkes: Afro American Women and the Sociology of W.E. B. DuBois,<unitdate type="inclusive">October 17, 1988</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>VHS Videos, #22 Eddie Benton-Banai, Anishinaabe in Y2K,” 7:30pm,<unitdate type="inclusive">November 2, 1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>VHS Videos, #23 Bell Curve Panel Presentation,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>VHS Videos, #23 The Bell Curve Panel Discussion,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>VHS Videos, #27 Breakfast with…Bell, Derrick, Activism, Community and the Permanence of Racism,<unitdate type="inclusive">April 15, 1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>VHS Videos, #28 Breakfast with…Kincaid, Jeanne, Americans with Disabilities Act,<unitdate type="inclusive">March 13, 1997</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>VHS Videos, #29 Breakfast with…Maestas, Ricardo, Building Communities,<unitdate type="inclusive">March, 21, 1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>VHS Videos, #30 Breakfast with…Pallone, Dave, Behind the Mask,<unitdate type="inclusive">February 24, 1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>VHS Videos, #31 Breakfast with…Wilkins, Roger, Affirming Affirmative Action, 1:01,<unitdate type="inclusive">December 6, 1995</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>VHS Videos, #32 Breakfast with…Anishnaabe Elders Discussing Current Events (2 copies),<unitdate type="inclusive">November 19, 1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>VHS Videos, #33 Breakfast with… Benton-Banai, Eddie, Meeting the Needs of Native American Students,<unitdate type="inclusive">undated [1999?]</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>VHS Videos, #34 Breakfast with…Cajete, Greg, “Philosophical Foundations of Indigenous Education”,<unitdate type="inclusive">January 30, 2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>VHS Videos, #36 Breakfast with…Churchill, Ward, “The Tragedy and the Travesty: The Subversion of Indigenous Sovereignty in North America”,<unitdate type="inclusive">November 12, 2002</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>VHS Videos, #37 Breakfast with…Renee Wasson Dillard,<unitdate type="inclusive">February 13, 2001</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">17</container>
+						<unittitle>VHS Videos, #38 Breakfast with…Elm, Lloyd, Our Greatest Resource: Indian Traditions, 44:00,<unitdate type="inclusive">November 16, 1995</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">18</container>
+						<unittitle>VHS Videos, #39 Breakfast with…Paula Ettelbrick, MASTER,<unitdate type="inclusive">September 24, 1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">19</container>
+						<unittitle>VHS Videos, #40 Breakfast with…Fu, Victoria, In Search of Connection: Developing a Pedagogy of Caring, 1:06,<unitdate type="inclusive">April 12, 1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">20</container>
+						<unittitle>VHS Videos, #41 Breakfast with…Gray, John, Creating Organizations that Value Diversity: Articulating a Pluralistic Vision,<unitdate type="inclusive">October 13, 1995</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">21</container>
+						<unittitle>VHS Videos, #42 Breakfast with…Ginsberg, Margery, Culturally Responsive Teaching, 48:00,<unitdate type="inclusive">February 29, 1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">22</container>
+						<unittitle>VHS Videos, #43 Breakfast with…Washington, Jamie, Beyond Tolerance: Multicultural Organizational Development,<unitdate type="inclusive">April 24, 1997</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">23</container>
+						<unittitle>VHS Videos, #46 CMU Minute: “About the Multicultural Center and Its Purpose,<unitdate type="inclusive">1990</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">24</container>
+						<unittitle>VHS Videos, #47 CMU Minute: CMU Powwow,<unitdate type="inclusive">1992</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">25</container>
+						<unittitle>VHS Videos, #53 Dealing with Diversity parts 7, 8, and 9 11:00-14:00,<unitdate type="inclusive">May 18, 1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">26</container>
+						<unittitle>VHS Videos, #54 Dealing with Diversity parts 10, 11, and 12, 14:00-17:00,<unitdate type="inclusive">May 18, 1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">27</container>
+						<unittitle>VHS Videos, #55 Dealing with Diversity parts 13, 14, and 15, 11:00-14:00,<unitdate type="inclusive">May 19, 1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">28</container>
+						<unittitle>VHS Videos, #56 Dealing with Diversity parts 16, 17, and 18, 14:00-17:00,<unitdate type="inclusive">May 19, 1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">29</container>
+						<unittitle>VHS Videos, #57 Dealing with Diversity parts 19, 20, and 21, 11:00-14:00,<unitdate type="inclusive">May 20, 1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">30</container>
+						<unittitle>VHS Videos, #58 Dealing with Diversity parts 22, 23, and 24, 14:00-17:00,<unitdate type="inclusive">May 20, 1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">31</container>
+						<unittitle>VHS Videos, #61 Editor’s Notepad-Harvey Arden, Air Date,<unitdate type="inclusive">October 13, 2000</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">32</container>
+						<unittitle>VHS Videos, #62 Kirwan, William, “Educational Excellence through Diversity,” MASTER,<unitdate type="inclusive">September 12, 2000</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">33</container>
+						<unittitle>VHS Videos, #63 Song, Prof. Huang Ron:  Eight Developmental Stages of Block Building in Young Children,<unitdate type="inclusive">May 11, 1992</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">34</container>
+						<unittitle>VHS Videos, #68 Frank Cloutier (Tribal spokesman), On Editor’s Notepad [copy],<unitdate type="inclusive">April 1, 2000</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">35</container>
+						<unittitle>VHS Videos, #73 (Keynote Address) Cajete, Dr. Greg “Indigenous Ways of Knowing: Practical Applications”,<unitdate type="inclusive">January 30, 2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">36</container>
+						<unittitle>VHS Videos, #74 Central Michigan University, King / Chavez  / Parks (KCP) Ojibwe Traditions Workshop (2 copies),<unitdate type="inclusive">1995</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">37</container>
+						<unittitle>VHS Videos, #75 Central Michigan University, KCP (King / Chavez / Parks) Ojibwe Traditions Workshop (1 copy),<unitdate type="inclusive">1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>VHS Videos, #75 Central Michigan University, KCP (King / Chavez / Parks) Ojibwe Traditions Workshop (1 copy),<unitdate type="inclusive">1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>VHS Videos, #81 Herbert Martin,<unitdate type="inclusive">March 17, 2004</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>VHS Videos, #83 Multicultural Recruitment Video,<unitdate type="inclusive">Spring 2000</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>VHS Videos, #86 “Muslims in America,” segment (30 minutes) Begins approximately 5 minutes into video,<unitdate type="inclusive">August 27, 1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>VHS Videos, #87 Giddings, Paula “National Association of Colored Women: Betwix and Between Booker T. and W.E.B. DuBois”,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>VHS Videos, #91 Native American Month, Pub. SIP Video 2:15,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>VHS Videos, #92 Ward Churchill, Go Chips: Fanning the Flames of Institutional Racism, 1:25,<unitdate type="inclusive">November 11, 2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>VHS Videos, #93 Native American Promo (PBS),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>VHS Videos, #94 Native American Community Leadership Meeting,<unitdate type="inclusive">September 3, 1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>VHS Videos, #95 Dub for: Central Michigan University, Topic: Native Americans Part One,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>VHS Videos, #96 Dub for: Central Michigan University, Topic: Native Americans Part Two,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>VHS Videos, #98 New School,<unitdate type="inclusive">August 30, 1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>VHS Videos, #99 Ojibwe Traditions Banquet (2 copies),<unitdate type="inclusive">1987</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>VHS Videos, #100 Ojibwe Traditions Workshop,<unitdate type="inclusive">June 1988</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>VHS Videos, #101 Ojibwe Traditions Workshop (2 copies),<unitdate type="inclusive">June 1989</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>VHS Videos, #102 Ojibwe Traditions Workshop,<unitdate type="inclusive">1990</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">17</container>
+						<unittitle>VHS Videos, #103 Ojibwe Traditions Workshop, Central Michigan University,<unitdate type="inclusive">June 1991</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">18</container>
+						<unittitle>VHS Videos, #104 Ojibwe Traditions Workshop,<unitdate type="inclusive">July 24-30, 1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">19</container>
+						<unittitle>VHS Videos, #105 Ojibwe Traditions Workshop,<unitdate type="inclusive">1994</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">20</container>
+						<unittitle>VHS Videos, #108 Powwow Preview, Edited, 27:00,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">21</container>
+						<unittitle>VHS Videos, #114 Yvonne Woodward, Roots KCP,<unitdate type="inclusive">1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">22</container>
+						<unittitle>VHS Videos, #116 Gloria Steinem, Central Michigan University,<unitdate type="inclusive">October 30, 2000</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">23</container>
+						<unittitle>VHS Videos, #120 Falcusan, Jeff, "The Chippewa Nickname at C.M.U.",<unitdate type="inclusive">November 19, 1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">24</container>
+						<unittitle>VHS Videos, #136 Ward Churchill - Editor's Notepad (2 copies),<unitdate type="inclusive">November 11, 2002</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">25</container>
+						<unittitle>VHS Videos, #139 Speak Up, Speak Out,<unitdate type="inclusive">January 25, 2006</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Addition Acc# 73681, Box 1, C.A.C.,<unitdate type="inclusive">1991</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Addition Acc# 73681, Box 1, CCLO Orientation,<unitdate type="inclusive">2006</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Addition Acc# 73681, Box 1, Campus Climate Conference,<unitdate type="inclusive">1997</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Addition Acc# 73681, Box 1, Catalog of Diversity Recommendations,<unitdate type="inclusive">1981-1992</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Addition Acc# 73681, Box 1, Chippewa Educational Committee,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Addition Acc# 73681, Box 1, Coalition in Defense of Equal Protection at CMU,<unitdate type="inclusive">1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Addition Acc# 73681, Box 1, Cultural Awareness Coalition,<unitdate type="inclusive">1989, 1991</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Addition Acc# 73681, Box 1, Cultural Diversity Administration Council,<unitdate type="inclusive">1995</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Addition Acc# 73681, Box 1, Cultural Diversity at CMU,<unitdate type="inclusive">1991-1992</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Addition Acc# 73681, Box 1, Diversity, Affirmative Action, and Hatchling Program at CMU,<unitdate type="inclusive">1989, 1994</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Addition Acc# 73681, Box 1, Diversity Brochures,<unitdate type="inclusive">1994, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>Addition Acc# 73681, Box 1, Diversity Forum,<unitdate type="inclusive">2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>Addition Acc# 73681, Box 1, Diversity Forum,<unitdate type="inclusive">2004</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>Addition Acc# 73681, Box 1, Diversity Forum,<unitdate type="inclusive">2005</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>Addition Acc# 73681, Box 1, Diversity Forum,<unitdate type="inclusive">2007</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>Addition Acc# 73681, Box 1, Diversity Incentive Grants and Awards,<unitdate type="inclusive">2007</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">17</container>
+						<unittitle>Addition Acc# 73681, Box 1, Diversity, Student Service Team,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">18</container>
+						<unittitle>Addition Acc# 73681, Box 1, Equity Conference,<unitdate type="inclusive">2002-2010</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">19</container>
+						<unittitle>Addition Acc# 73681, Box 1, General Education to Include Non-Academic Activities Outside the Classroom,<unitdate type="inclusive">1992</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">20</container>
+						<unittitle>Addition Acc# 73681, Box 1, Jackson Committee,<unitdate type="inclusive">1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">21</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day,<unitdate type="inclusive">1987</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">22</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day,<unitdate type="inclusive">1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">23</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day,<unitdate type="inclusive">1997</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">24</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day,<unitdate type="inclusive">1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">25</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">26</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day Photographs,<unitdate type="inclusive">1989</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">27</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day Photographs,<unitdate type="inclusive">1990</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">28</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day Photographs,<unitdate type="inclusive">1991</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">29</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day Photographs,<unitdate type="inclusive">1992</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">30</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day Photographs,<unitdate type="inclusive">1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">31</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day Photographs,<unitdate type="inclusive">1994</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">32</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day Photographs,<unitdate type="inclusive">1995</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">33</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day Visiting Professor,<unitdate type="inclusive">1988</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">34</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day Visiting Professor,<unitdate type="inclusive">1994</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">35</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day Visiting Professor,<unitdate type="inclusive">1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">36</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day Visiting Professor,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">37</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day Visiting Professor,<unitdate type="inclusive">2001</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">38</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day Visiting Professor,<unitdate type="inclusive">2002</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">39</container>
+						<unittitle>Addition Acc# 73681, Box 1, KCP College Day Visiting Professor,<unitdate type="inclusive">2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Addition Acc# 73681, Box 2, Minority Enrollment Goals,<unitdate type="inclusive">1990</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Addition Acc# 73681, Box 2, Minority Equity Plan,<unitdate type="inclusive">1997</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Addition Acc# 73681, Box 2, Minority Equity Plan,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Addition Acc# 73681, Box 2, Multicultural Advisory Council,<unitdate type="inclusive">1988-1989</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Addition Acc# 73681, Box 2, Multicultural Colloquia,<unitdate type="inclusive">2001-2002</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Addition Acc# 73681, Box 2, Multicultural Education Center Staff Training,<unitdate type="inclusive">2007</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Addition Acc# 73681, Box 2, NAACP,<unitdate type="inclusive">1991</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Addition Acc# 73681, Box 2, NAACP: CMU Chapter,<unitdate type="inclusive">2006</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Addition Acc# 73681, Box 2, National Rainbow Coalition,<unitdate type="inclusive">1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Addition Acc# 73681, Box 2, Office of Minority Affairs,<unitdate type="inclusive">1984</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Addition Acc# 73681, Box 2, One Day,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>Addition Acc# 73681, Box 2, Personal and Institutional Factors Influencing CMU Students’ Attitudes About Native American Issues,<unitdate type="inclusive">2005</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>Addition Acc# 73681, Box 2, Planning Goal 4: Global Education and Cultural Diversity at CMU,<unitdate type="inclusive">1989</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>Addition Acc# 73681, Box 2, POWER Workshop,<unitdate type="inclusive">2007</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>Addition Acc# 73681, Box 2, President’s Task Force on Minority Students Concerns,<unitdate type="inclusive">1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>Addition Acc# 73681, Box 2, Previous Proposals, Multicultural Center,<unitdate type="inclusive">1986</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">17</container>
+						<unittitle>Addition Acc# 73681, Box 2, Proposal: American Indian Program,<unitdate type="inclusive">1992</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">18</container>
+						<unittitle>Addition Acc# 73681, Box 2, Proposal: Multicultural Center at CMU,<unitdate type="inclusive">1987</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">19</container>
+						<unittitle>Addition Acc# 73681, Box 2, Proposal: Restructuring of University to Enhance Diversity and Equity,<unitdate type="inclusive">1991</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">20</container>
+						<unittitle>Addition Acc# 73681, Box 2, Provost’s Seminar Series,<unitdate type="inclusive">2000</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">21</container>
+						<unittitle>Addition Acc# 73681, Box 2, Racism Hearings at CMU,<unitdate type="inclusive">1992</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">22</container>
+						<unittitle>Addition Acc# 73681, Box 2, Report: A Visit at CMU,<unitdate type="inclusive">1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">23</container>
+						<unittitle>Addition Acc# 73681, Box 2, Report: Diversity Issues and Awareness Council,<unitdate type="inclusive">1994</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">24</container>
+						<unittitle>Addition Acc# 73681, Box 2, Report: Internationalizing at CMU,<unitdate type="inclusive">1989</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">25</container>
+						<unittitle>Addition Acc# 73681, Box 2, Report: Internationalizing at CMU,<unitdate type="inclusive">1992</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">26</container>
+						<unittitle>Addition Acc# 73681, Box 2, Report: Military Science Committee,<unitdate type="inclusive">1991</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">27</container>
+						<unittitle>Addition Acc# 73681, Box 2, Report: Multicultural Diversity Task Force,<unitdate type="inclusive">1988</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Addition Acc# 73681, Box 3, Report: Provost’s Task Force on the Women’s Center,<unitdate type="inclusive">1988</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Addition Acc# 73681, Box 3, Report: Public Hearings on Racism,<unitdate type="inclusive">1992</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Addition Acc# 73681, Box 3, Report: Sexual Harassment, Experiences of CMU Employees,<unitdate type="inclusive">1983</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Addition Acc# 73681, Box 3, Report: Study of Attitudes and Experiences of Undergraduates at CMU’s Mt. Pleasant Campus,<unitdate type="inclusive">1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Addition Acc# 73681, Box 3, Soup and Substance Fan: “The History Behind ‘Big Hats’ in the African American Tradition,<unitdate type="inclusive">2010</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Addition Acc# 73681, Box 3, Special Topics Course: “The Africans”,<unitdate type="inclusive">1988</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Addition Acc# 73681, Box 3, Unwritten Rules of Campus Communication,<unitdate type="inclusive">1989</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Addition Acc# 73681, Box 3, Winter Activities,<unitdate type="inclusive">1986</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Addition Acc# 73681, Box 3, Women’s Commission,<unitdate type="inclusive">1990</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Addition Acc# 73681, Box 3, Women’s Institute,<unitdate type="inclusive">1988</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">9</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Addition Acc# 73681, Box 4, Affirmative Direction Newsletters,<unitdate type="inclusive">1991-1992</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">9</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Addition Acc# 73681, Box 4, American Indian Action Group Meeting: Agenda, Minutes, Goals, Native American Students, 	Report,<unitdate type="inclusive">1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">9</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Addition Acc# 73681, Box 4, Anishnaabe Culture and History: Beyond Stereotypes,<unitdate type="inclusive">2001</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">9</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Addition Acc# 73681, Box 4, Campus Climate Survey: American Indian Mascot Study, Memorandums,<unitdate type="inclusive">1990-1991</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">9</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Addition Acc# 73681, Box 4, Center for Applied Research and Rural Studies, Chippewa Nickname,<unitdate type="inclusive">2005</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">9</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Addition Acc# 73681, Box 4, “Chippewa” Nickname,<unitdate type="inclusive">2000</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">9</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Addition Acc# 73681, Box 4, Correspondence: Native American Symbols, Chippewa as Mascot,<unitdate type="inclusive">1989-2005</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">9</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Addition Acc# 73681, Box 4, Honors Program Senior Research Project: “Examining the Chippewa Nickname at CMU”,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">9</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Addition Acc# 73681, Box 4, Michigan Civil Rights Commission Report on the Use of Nicknames, Logos, and Mascots 	Depicting Native  American People,<unitdate type="inclusive">1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">9</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Addition Acc# 73681, Box 4, Miscellaneous: Chippewa as Symbol,<unitdate type="inclusive">1990, 2000-2001</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">9</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Addition Acc# 73681, Box 4, Multicultural and Diversity Education Council,<unitdate type="inclusive">1990-2005</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">9</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>Addition Acc# 73681, Box 4, News Clippings (copies) Native American Symbols as Mascots (copies),<unitdate type="inclusive">1988-2005</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">9</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>Addition Acc# 73681, Box 4, Presidential Advisory Committee on Anishnaabe Education Through Art,<unitdate type="inclusive">2001</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">10</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Addition Acc# 73681, Box 5, Report: Chippewas as University Symbol,<unitdate type="inclusive">1992</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">10</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Addition Acc# 73681, Box 5, Report: Department of Religion, Nickname Issue,<unitdate type="inclusive">1988</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">10</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Addition Acc# 73681, Box 5, Report: Department of Religion, Nickname Issue,<unitdate type="inclusive">1988</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">10</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Addition Acc# 73681, Box 5, Report: Presidential Advisory Committee on “Chippewas” as Symbol,<unitdate type="inclusive">1988</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">10</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Addition Acc# 73681, Box 5, Report: Public Agenda, “A Qualitative Study Exploring How Indians and Non-Indians Think 	About Each Other,<unitdate type="inclusive">2007</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">10</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Addition Acc# 73681, Box 5, Report: Symbol Advisory Committee,<unitdate type="inclusive">1990</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">10</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Addition Acc# 73681, Box 5, Report to the President: Chippewa Nickname,<unitdate type="inclusive">2000</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">10</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Addition Acc# 73681, Box 5, Report to the President: Student Opinion Survey, Chippewa Nickname,<unitdate type="inclusive">2000</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">10</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Addition Acc# 73681, Box 5, Saginaw Chippewa Indian Tribe, Tribal Council on the Use of Chippewa Symbol, Booklets,<unitdate type="inclusive">1988-2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">10</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Addition Acc# 73681, Box 5, Statement on the Chippewa Nickname,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">10</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Addition Acc# 73681, Box 5, Steering Committee: Chippewa Nickname Issue,<unitdate type="inclusive">2004-2005</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">10</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>Addition Acc# 73681, Box 5, Student Government Association, Academic Senate, Chippewa Nickname Issue,<unitdate type="inclusive">1989</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">11</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Addition Acc# 73681, Box 6, VHS Videos: Campus Forums on Diversity, #1 Accommodating Diverse Backgrounds in Class, Student Panel,<unitdate type="inclusive">2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">11</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Addition Acc# 73681, Box 6, VHS Videos: Campus Forums on Diversity, #2 Accommodating Diverse Backgrounds in Class, Student Panel (continued),<unitdate type="inclusive">2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">11</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Addition Acc# 73681, Box 6, VHS Videos: Campus Forums on Diversity, #3 Nes Mnumzana,<unitdate type="inclusive">2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">11</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Addition Acc# 73681, Box 6, VHS Videos: Campus Forums on Diversity, #4 Mike Petoski and Student Inter (tape 1 of 2) [Note: no tape 2 is in the collection],<unitdate type="inclusive">2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">11</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Addition Acc# 73681, Box 6, Cassette Tape: Shirley Brauker,<unitdate type="inclusive">1989</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">12</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Addition Acc# 76658, Box 1, VHS Videos: The Legal (Pre-Employment) Interview, 1984; Handicappers Rights, 1988,<unitdate type="inclusive">1984, 1988</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">12</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Addition Acc# 76658, Box 1, VHS Videos: Cultural Diversity at CMU, [1988]; Sexual Issues in the University, 1989,<unitdate type="inclusive">[1988]-1989</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">12</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Addition Acc# 76658, Box 1, VHS Videos: Marshall Rose on Whites in Black History, 1989; Have We Finally Arrived at Educational Equity Forum, 1990,<unitdate type="inclusive">1989-1990</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">12</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Addition Acc# 76658, Box 1, VHS Videos: Dr. Martin Luther King, Jr. Freedom March and Commemorative Program, 1991; Affirmative Action Annual Think Take, Tape 1, 1991,<unitdate type="inclusive">1991</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">12</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Addition Acc# 76658, Box 1, VHS Videos: Affirmative Action Annual Think Take, Tape 2, 1991; Dr. Lloyd Elm, Lincoln Address, 1993,<unitdate type="inclusive">1991, 1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>
+

@@ -1,0 +1,1909 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"
+    repositoryencoding="iso15511">
+    <eadid>umich-scl-rosenberg</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Rosenberg Family Correspondence</titleproper>
+        <titleproper>Guide to the Rosenberg Family Correspondence <num>rosenberg</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Testing import and export</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2019-02-26 08:19:52
+          -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Testing import and export</corpname>
+      </repository>
+      <unittitle>Rosenberg Family Correspondence</unittitle>
+      <origination label="creator">
+        <persname rules="dacs" source="local">Rosenberg, Alfred</persname>
+      </origination>
+      <origination audience="internal" label="creator">
+        <persname rules="dacs" source="local">Rosenberg, Alise</persname>
+      </origination>
+      <origination label="creator">
+        <persname rules="dacs" source="local">Rosenberg, Victor</persname>
+      </origination>
+      <origination audience="internal" label="creator">
+        <persname rules="dacs" source="local">Rosenberg, Eugen</persname>
+      </origination>
+      <origination label="creator">
+        <persname rules="dacs" source="local">Rosenberg, Julius</persname>
+      </origination>
+      <origination label="creator">
+        <persname rules="dacs" source="local">Rosenberg, Johanna</persname>
+      </origination>
+      <origination label="creator">
+        <persname rules="dacs" source="local">Rosenberg, Nathan</persname>
+      </origination>
+      <origination label="creator">
+        <persname rules="dacs" source="local">Rosenberg, Emmy</persname>
+      </origination>
+      <unitid>rosenberg</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+        <extent altrender="carrier">2 manuscript boxes</extent>
+      </physdesc>
+      <unitdate type="inclusive">1938-2010</unitdate>
+      <unitdate normal="1938/1946" type="bulk">1938-1946</unitdate>
+      <abstract id="aspace_2a0dde5c38142197e5d859fb9828da6a">The 105 letters in this collection
+        document the experience of a German Jewish family in the years immediately before, during,
+        and shortly after World War II. Nathan and Johannna Rosenberg of Breisach, Germany, had
+        three sons: Julius (1900-1942), Eugen (1901-1964), and Alfred (1911-2005). Eugen left for
+        Palestine in 1935. Alfred, with his wife and her parents immigrated to the United States in
+        August 1938. Most of the letters were written to Alfred by his brothers, his parents, and
+        other relatives between 1938 and 1946. Most of the letters are from Julius, Emmy, Nathan,
+        and Johanna; some of these they wrote from the labor camp in Gurs to which many Jews in
+        Breisach were deported in October 1940. Contains typewritten transcriptions (German) and
+        English translations for most letters. </abstract>
+      <langmaterial id="aspace_77c750bd3c26564e1deb53bec3998f30">The collection is mostly in
+          German. There are also materials in English,
+          Hebrew, Yiddish, and
+        French.</langmaterial>
+    </did>
+    <bioghist id="aspace_b9b165d2b2efe0a13fbc74346eaa576c">
+      <head>Biographical / Historical</head>
+      <p>These letters were written by various members of the Rosenberg family, particularly parents
+        Johanna and Nathan; son Julius, b. 1900 (living in Breisach, Germany, and often writing with
+        his fiancee Emmy); son Eugen, b. 1901 (living in Palestine with his wife Lea and a young
+        son); son Alfred, b. 1911 (living in Brooklyn and later Pennsylvania with his wife, Alise,
+        and her parents). The letters were received and collected by Alfred Rosenberg and donated by
+        his son, Victor Rosenberg. In 1940 Julius, Emmy, Nathan, Johanna, and other extended family
+        members from Breisach were deported to a labor camp in Gurs, France. Johanna died while
+        interned there in 1941. The camp was deported to Auschwitz in August 1942, where Julius was
+        murdered. Further information about Emmy, including her family name, is unknown. Nathan
+        survived the war at a hospice in southern France and died there in December 1945.</p>
+    </bioghist>
+    <accessrestrict id="aspace_f475cb1b71d9fcf080743053b13557eb">
+      <head>Conditions Governing Access</head>
+      <p>The collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_eb1e6c0a7a7ea4b491ac1b01c29e65a2">
+      <head>Conditions Governing Use</head>
+      <p>Copyright has not been transferred ot the Regents of the University of Michigan. Permission
+        to publish must be obtained from the copyright holder(s).</p>
+    </userestrict>
+    <acqinfo id="aspace_da29810e3956a43ed23745ff575cce47">
+      <head>Immediate Source of Acquisition</head>
+      <p>Gift of Victor Rosenberg, 2009.</p>
+    </acqinfo>
+    <prefercite id="aspace_f67d4f2351fa95983e1f63f36352065b">
+      <head>Preferred Citation</head>
+      <p>Rosenberg Family Correspondence, University of Michigan Library (Special Collections
+        Research Center)</p>
+    </prefercite>
+    <scopecontent id="aspace_e761d5dc4ed4f39e857696033b03f999">
+      <head>Scope and Contents</head>
+      <p>This collection contains one linear foot of material and includes 105 letters between
+        Rosenberg family members, friends, and acquaintances. It documents the firsthand experiences
+        of a German Jewish family before, during, and after the Holocaust, and also includes the
+        experiences of family members who emigrated from Germany in the years immediately before the
+        Second World War. The letters were received and collected by Alfred Rosenberg, and as a
+        result most are addressed to him and Alise Rosenberg and few are written by them.</p>
+    </scopecontent>
+    <dsc>
+      <c01 id="aspace_0b1d8616a67507509628b3b94415ae59" level="file">
+        <did>
+          <unittitle>"The Power of a Family Archive" by Victor Rosenberg</unittitle>
+          <unitdate normal="2010-02-09/2010-02-09">February 9, 2010</unitdate>
+          <container id="aspace_168f95eaf0eb2be35c23190f9744cfef" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_96dd650076f168ae806a253723cdeff7"
+            parent="aspace_168f95eaf0eb2be35c23190f9744cfef" type="Folder">1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_a49e216dca44bd51633d215cf307d046" level="file">
+        <did>
+          <unittitle>Letter from Johanna and Nathan Rosenberg, and Rose Recipient to Alfred and
+            Alise Rosenberg and Wiehler family</unittitle>
+          <unitdate normal="1938-08-22/1938-08-22">August 22, 1938</unitdate>
+          <container id="aspace_c7b007a9f0e8b2dd1763d983d6c756fb" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_81b17bffe434a71e62307978deb68c82"
+            parent="aspace_c7b007a9f0e8b2dd1763d983d6c756fb" type="Folder">2</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0001.001"
+            xlink:show="new" xlink:title="Letter: 1938 August 22" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1938 August 22</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_f0ab597838c399329f30e2b61dfc426a" level="file">
+        <did>
+          <unittitle>Letter from Nathan and Johanna Rosenberg and Aunt Rosa to Alfred and Alise
+            Rosenberg</unittitle>
+          <unitdate certainty="approx" normal="1938-09/1938-09">September 1938</unitdate>
+          <container id="aspace_b042740aa9aa488b93a3dc0524053807" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_6a149920bc45be99216bc57abb733168"
+            parent="aspace_b042740aa9aa488b93a3dc0524053807" type="Folder">3</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0002.001"
+            xlink:show="new" xlink:title="Letter: 1938 September ??" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1938 September ??</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_d0d419fe5d7c64ed95e13a94c862e730" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg to Alfred and Alise Rosenberg and Jakob
+            [Wiehler?]</unittitle>
+          <unitdate normal="1938-09-16/1938-09-16">September 16. 1938</unitdate>
+          <container id="aspace_83428b4391577db5d6462d41a7ec28ef" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_10077c8360fdd17c7d43bdd30a71fdc7"
+            parent="aspace_83428b4391577db5d6462d41a7ec28ef" type="Folder">4</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0003.001"
+            xlink:show="new" xlink:title="Letter: 1938 September 16" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1938 September 16</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_bdf3aa0656ad23946e709f934fba5594" level="file">
+        <did>
+          <unittitle>Letter from Nathan Rosenberg to Eugen Rosen</unittitle>
+          <unitdate normal="1938-09-28/1938-09-28">September 28, 1938</unitdate>
+          <container id="aspace_13b5a0f4b283a3a45cfa11bfd50bc7a4" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_c454b065198db49d4c4d209e5d489e1b"
+            parent="aspace_13b5a0f4b283a3a45cfa11bfd50bc7a4" type="Folder">5</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0004.001"
+            xlink:show="new" xlink:title="Letter: 1938 September 28" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1938 September 28</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_9ad3a937b646e817a7a406d975623338" level="file">
+        <did>
+          <unittitle>Letter from Nathan and Johanna Rosenberg and Rosel to Alfred and Alise
+            Rosenberg</unittitle>
+          <unitdate certainty="approx" normal="1938-10/1938-10">October 1938</unitdate>
+          <container id="aspace_4129d242624ec9a80f5c259e7b8110ec" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_93ac518b22947e9a685b0ee49b1ebd8f"
+            parent="aspace_4129d242624ec9a80f5c259e7b8110ec" type="Folder">6</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0005.001"
+            xlink:show="new" xlink:title="Letter: 1938 October ??" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1938 October ??</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_e9023e2a96dc6dcafe5fe7d02ab64d72" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg to Alfred and Alise Rosenberg</unittitle>
+          <unitdate normal="1938-10-14/1938-10-14">October 14, 1938</unitdate>
+          <container id="aspace_a0412a47a5fd35d88417ccce62c504da" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_def18acc7dff9a61c7f92215ca79b825"
+            parent="aspace_a0412a47a5fd35d88417ccce62c504da" type="Folder">7</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0006.001"
+            xlink:show="new" xlink:title="Letter: 1938 October 14" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1938 October 14</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_539a060836152477803d7164764d29d6" level="file">
+        <did>
+          <unittitle>Letter from Eugen Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1938-10-23/1938-10-23">October 23, 1938</unitdate>
+          <container id="aspace_444ea4c00c379c318aac33d56fa770e9" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_1277b72570c5f872beafc7d3eca111ee"
+            parent="aspace_444ea4c00c379c318aac33d56fa770e9" type="Folder">8</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0007.001"
+            xlink:show="new" xlink:title="Letter: 1938 October 23" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1938 October 23</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_31254c0defa5e22c0446b67f42ba1d44" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1938-11-17/1938-11-17">November 17, 1938</unitdate>
+          <container id="aspace_d2b7771042c6e262b9c9595e208bdb9b" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_f5fbd1f8b2ebd276f75465b82e94947e"
+            parent="aspace_d2b7771042c6e262b9c9595e208bdb9b" type="Folder">9</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0008.001"
+            xlink:show="new" xlink:title="Letter: 1938 November 17" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1938 November 17</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_e1dd82acec964179f180d37a618818b5" level="file">
+        <did>
+          <unittitle>Letter from Eugen Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1938-12-26/1938-12-26">December 26, 1938</unitdate>
+          <container id="aspace_78465b9dbaeb2059636ed930a11f6c23" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_c07130af8fd7c6eda3cdddb5c8343146"
+            parent="aspace_78465b9dbaeb2059636ed930a11f6c23" type="Folder">10</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0009.001"
+            xlink:show="new" xlink:title="Letter: 1938 December 26" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1938 December 26</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_17b24c1db230d5936f94617b40e4b4a8" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg, Johanna Rosenberg, and Rosel to Alfred
+            Rosenberg</unittitle>
+          <unitdate normal="1938-12-30/1938-12-30">December 30, 1938</unitdate>
+          <container id="aspace_9075805d1b32eaae763a30cfcc69edb3" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_61c26cbbc218072649327ce60b456089"
+            parent="aspace_9075805d1b32eaae763a30cfcc69edb3" type="Folder">11</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0010.001"
+            xlink:show="new" xlink:title="Letter: 1938 December 30" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1938 December 30</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_bbfe42c5d90ad90403252653375d6c6f" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg and Johanna Rosenberg to Alfred
+            Rosenberg</unittitle>
+          <unitdate normal="1939-02-20/1939-02-20">February 20, 1939</unitdate>
+          <container id="aspace_45565302c5ebc6b813e473dafce558e0" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_7b4c715863c5a6c953bb865287eca45a"
+            parent="aspace_45565302c5ebc6b813e473dafce558e0" type="Folder">12</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0011.001"
+            xlink:show="new" xlink:title="Letter: 1939 February 20" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 February 20</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_b921462edcbdde855b5c1163ea25fc4e" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1939-03-07/1939-03-07">March 7, 1939</unitdate>
+          <container id="aspace_70ff61abb41d044862e7526dab4fb6b0" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_a219b4ecb00e23c807b4d5db6035440d"
+            parent="aspace_70ff61abb41d044862e7526dab4fb6b0" type="Folder">13</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0012.001"
+            xlink:show="new" xlink:title="Letter: 1939 March 07" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 March 07</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_85bc9e43770f30a31aa77ab81c8ce578" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg and Nathan and Johanna Rosenberg to Alfred
+            Rosenberg</unittitle>
+          <unitdate normal="1939-03-26/1939-03-26">March 26, 1939</unitdate>
+          <container id="aspace_6b4d7cffcec190d928a51b1952966e80" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_ad6061c3b28ac09f532caaf47777693a"
+            parent="aspace_6b4d7cffcec190d928a51b1952966e80" type="Folder">14</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0013.001"
+            xlink:show="new" xlink:title="Letter: 1939 March 26" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 March 26</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_34eda2bba9cd612666aa92c7d671de4c" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg and Nathan and Johanna Rosenberg to Alfred
+            Rosenberg</unittitle>
+          <unitdate normal="1939-04-21/1939-04-21">April 21, 1939</unitdate>
+          <container id="aspace_7e7f55d4f6b63a893d0f810a9b1b867a" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_9a9936157c69ede8d96285c02ca3aa87"
+            parent="aspace_7e7f55d4f6b63a893d0f810a9b1b867a" type="Folder">15</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0014.001"
+            xlink:show="new" xlink:title="Letter: 1939 April 21" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 April 21</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_edd0d316750d9c3fdc077cff738423ec" level="file">
+        <did>
+          <unittitle>Letter from Eugen Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1939-05/1939-05">May 1939</unitdate>
+          <container id="aspace_a469d88df26ddbf63e9ebae8ecc0a887" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_76cc68c0d5671a531196ec8f7380d329"
+            parent="aspace_a469d88df26ddbf63e9ebae8ecc0a887" type="Folder">16</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0015.001"
+            xlink:show="new" xlink:title="Letter: 1939 May ??" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 May ??</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_808db6d60b1e6666224c8995625d2808" level="file">
+        <did>
+          <unittitle>Letter from Eugen Rosenberg to Julius Rosenberg</unittitle>
+          <unitdate normal="1939-05-01/1939-05-01">May 1, 1939</unitdate>
+          <container id="aspace_27356ca8ee5aad200a00ef69e9f970cc" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_c03791fcb55601d1415248fafa347f56"
+            parent="aspace_27356ca8ee5aad200a00ef69e9f970cc" type="Folder">17</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0016.001"
+            xlink:show="new" xlink:title="Letter: 1939 May 01" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 May 01</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_a93345e7a253c5d5ac7067a873e11422" level="file">
+        <did>
+          <unittitle>Letter from Nathan and Johanna Rosenberg and Julius Rosenberg</unittitle>
+          <unitdate normal="1939-05-12/1939-05-12">May 12, 1939</unitdate>
+          <container id="aspace_0a5e7b165c55298c36bfdef7e106dedc" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_f0f6365c22ab806e25197576406c7f4f"
+            parent="aspace_0a5e7b165c55298c36bfdef7e106dedc" type="Folder">18</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0017.001"
+            xlink:show="new" xlink:title="Letter: 1939 May 12" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 May 12</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_abdc2f2a7fc1a51c81caf568dcf33c74" level="file">
+        <did>
+          <unittitle>Letter from Eugen Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1939-05-30/1939-05-30">May 30, 1939</unitdate>
+          <container id="aspace_309579d5cb8a8f9a0b6f329daa8aba15" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_622447143bc83f783ecf38fdbda67e35"
+            parent="aspace_309579d5cb8a8f9a0b6f329daa8aba15" type="Folder">19</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0018.001"
+            xlink:show="new" xlink:title="Letter: 1939 May 30" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 May 30</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_676be12e184c0c0fc994a0ad23e531af" level="file">
+        <did>
+          <unittitle>Letter from Henri Raphael and Johanna Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1939-05-31/1939-05-31">May 31, 1939</unitdate>
+          <container id="aspace_abf0e731147395ee15e19985da8731ea" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_6b135440b419752b891bf110fbfc2009"
+            parent="aspace_abf0e731147395ee15e19985da8731ea" type="Folder">20</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0019.001"
+            xlink:show="new" xlink:title="Letter: 1939 May 31 a" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 May 31 a</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_6ec5af9be829e983f86c286c6ffce69a" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg and Nathan and Johanna Rosenberg to Alfred and
+            Alise Rosenberg</unittitle>
+          <unitdate normal="1939-05-31/1939-05-31">May 31, 1939</unitdate>
+          <container id="aspace_573775f83a2050f020ebad4aab6ff108" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_d4b1410b2e1a20ca282c39aa41a28ac3"
+            parent="aspace_573775f83a2050f020ebad4aab6ff108" type="Folder">21</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0020.001"
+            xlink:show="new" xlink:title="Letter: 1939 May 31 b" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 May 31 b</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_eb5fe820d7367dea02b617c1d399201d" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg and Lea Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1939-06-08/1939-06-08">June 8, 1939</unitdate>
+          <container id="aspace_174dc7518f4e1097fbce2c62f612b9f7" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_ea574fab07de3065994e868ec26dd3c5"
+            parent="aspace_174dc7518f4e1097fbce2c62f612b9f7" type="Folder">22</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0021.001"
+            xlink:show="new" xlink:title="Letter: 1939 June 08" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 June 08</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_acf249c953f63f9226bb41b0b57ee486" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg, Emmy, Johanna Rosenberg, and Rosel to Alfred
+            Rosenberg [?]</unittitle>
+          <unitdate normal="1939-06-28/1939-06-28">June 28, 1939</unitdate>
+          <container id="aspace_6e9e3a1034e8b017452f9d76c6f7d87f" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_73ff1bedd46f5e7936dfef190379e068"
+            parent="aspace_6e9e3a1034e8b017452f9d76c6f7d87f" type="Folder">23</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0022.001"
+            xlink:show="new" xlink:title="Letter: 1939 June 28" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 June 28</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_2c060a221e42b8576cf2c6f800403f1c" level="file">
+        <did>
+          <unittitle>Letter from Eugen Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1939-07-20/1939-07-20">July 20, 1939</unitdate>
+          <container id="aspace_5646f89b78d3f591b5f18cefcf688033" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_ea08a4e385941f2dccf0ddd36632d247"
+            parent="aspace_5646f89b78d3f591b5f18cefcf688033" type="Folder">24</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0023.001"
+            xlink:show="new" xlink:title="Letter: 1939 July 20" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 July 20</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_fa46e4a481e3295c013a5ace0d6bc1bf" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg and Emmy to Alfred Rosenberg</unittitle>
+          <unitdate normal="1939-08-22/1939-08-22">August 22, 1939</unitdate>
+          <container id="aspace_00b042ce38031bfe04238c2279d96352" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_7ca521cf08d08db47290b8c153521874"
+            parent="aspace_00b042ce38031bfe04238c2279d96352" type="Folder">25</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0024.001"
+            xlink:show="new" xlink:title="Letter: 1939 August 22" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 August 22</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_f22346406442138ae88e9fa3a49e0c71" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg and Nathan and Johanna Rosenberg to Alfred
+            Rosenberg</unittitle>
+          <unitdate normal="1939-09-03/1939-09-03">September 3, 1939</unitdate>
+          <container id="aspace_8116a9ff4fbe7cd547b1bc36d9f47caf" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_2ac74ab3abeffb7c148791b8b158792e"
+            parent="aspace_8116a9ff4fbe7cd547b1bc36d9f47caf" type="Folder">26</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0025.001"
+            xlink:show="new" xlink:title="Letter: 1939 September 03" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 September 03</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_b10c22480f34545cbb2fea1e3b7d31f8" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg and Emmy to Alfred Rosenberg</unittitle>
+          <unitdate normal="1939-09-13/1939-09-13">September 13, 1939</unitdate>
+          <container id="aspace_8fb06d4e3a985b5a0a20631614233c6e" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_1be870e441752d2a2e44a1cda45471a4"
+            parent="aspace_8fb06d4e3a985b5a0a20631614233c6e" type="Folder">27</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0026.001"
+            xlink:show="new" xlink:title="Letter: 1939 September 13" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 September 13</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_1db33e2c4ac7d11a5c564ebada835a49" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg and Emmy to Alfred Rosenberg</unittitle>
+          <unitdate normal="1939-10-01/1939-10-01">October 1, 1939</unitdate>
+          <container id="aspace_3e893638723a865677d00cb25e7ee45f" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_72f1f44e6bd8cd1ca9b8da037aed292e"
+            parent="aspace_3e893638723a865677d00cb25e7ee45f" type="Folder">28</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0027.001"
+            xlink:show="new" xlink:title="Letter: 1939 October 01 a" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 October 01 a</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_73b0857ef2e7ac0bf17be603a4f34bd0" level="file">
+        <did>
+          <unittitle>Letter from Nathan and Johanna Rosenberg to Veis Bloch c/o Gustav
+            Dreyfu&amp;#223</unittitle>
+          <unitdate normal="1939-10-01/1939-10-01">October 1, 1939</unitdate>
+          <container id="aspace_8976fb762ca91e6aa1b3301494d48378" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_e5341de38747a1d5ce52807445630551"
+            parent="aspace_8976fb762ca91e6aa1b3301494d48378" type="Folder">29</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0028.001"
+            xlink:show="new" xlink:title="Letter: 1939 October 01 b" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 October 01 b</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_05bb6f0491a262b3601c242a444cc13a" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1939-10-08/1939-10-08">October 8, 1939</unitdate>
+          <container id="aspace_ccb382a6d1e04ae934d7b5b9499754dd" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_1fc75b357ad95de9059dcb7a77d877b1"
+            parent="aspace_ccb382a6d1e04ae934d7b5b9499754dd" type="Folder">30</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0029.001"
+            xlink:show="new" xlink:title="Letter: 1939 October 08" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 October 08</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_8f913c7a1de39bd9d2a60c1a3a64d1a1" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1939-10-13/1939-10-13">October 13, 1939</unitdate>
+          <container id="aspace_89fcfd249b0808ba39f3c869333c3a19" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_e2c4adfa4c3340e54fe35f5f8615be76"
+            parent="aspace_89fcfd249b0808ba39f3c869333c3a19" type="Folder">31</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0030.001"
+            xlink:show="new" xlink:title="Letter: 1939 October 13" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 October 13</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_e2220e93f7f753eaad450efc62d06e71" level="file">
+        <did>
+          <unittitle>Letter from Nathan and Johanna Rosenberg to Alfred and Alise Rosenberg and the
+            Wiehler Family [?]</unittitle>
+          <unitdate normal="1939-10-22/1939-10-22">October 22, 1939</unitdate>
+          <container id="aspace_fdd88ca58ac9b6c9475981a0ee792635" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_dc4f572a6915559d9bbbf1cd280388cc"
+            parent="aspace_fdd88ca58ac9b6c9475981a0ee792635" type="Folder">32</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0031.001"
+            xlink:show="new" xlink:title="Letter: 1939 October 22" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 October 22</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_776081fd69f316bfab80094733dfcca1" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg and Emmy to Alfred Rosenberg</unittitle>
+          <unitdate normal="1939-10-26/1939-10-26">October 26, 1939</unitdate>
+          <container id="aspace_705f61b14d66d834d825bf91728ac3e0" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_4ef6b2a54ef1cfaef491d851ef65b15a"
+            parent="aspace_705f61b14d66d834d825bf91728ac3e0" type="Folder">33</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0032.001"
+            xlink:show="new" xlink:title="Letter: 1939 October 26" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 October 26</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_4e704fb63471e5e524552f030338a831" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1939-11-02/1939-11-02">November 2, 1939</unitdate>
+          <container id="aspace_a8f4b6fe77842b599ee4b2f0523c828c" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_2fdcc44f3223f7d23f87c827e08a9ad1"
+            parent="aspace_a8f4b6fe77842b599ee4b2f0523c828c" type="Folder">34</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0033.001"
+            xlink:show="new" xlink:title="Letter: 1939 November 02" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 November 02</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_9b77809f561c4f9fd13b29f49d602584" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1939-11-13/1939-11-13">November 13, 1939</unitdate>
+          <container id="aspace_d73ee9c584a786858164dd1f342a5f54" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_2a4d909f6ac59e87ec69d7daa0242e75"
+            parent="aspace_d73ee9c584a786858164dd1f342a5f54" type="Folder">35</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0034.001"
+            xlink:show="new" xlink:title="Letter: 1939 November 13" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 November 13</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_79b9d9811357319ae61e87f32c0355d3" level="file">
+        <did>
+          <unittitle>Letter from Nathan and Johanna Rosenberg and Aunt Rosa to Alfred and Alise
+            Rosenberg</unittitle>
+          <unitdate normal="1939-11-20/1939-11-20">November 20, 1939</unitdate>
+          <container id="aspace_446253629c60822c26b668190de4fa67" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_d389db5cc3e1f164816ef666a296a556"
+            parent="aspace_446253629c60822c26b668190de4fa67" type="Folder">36</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0035.001"
+            xlink:show="new" xlink:title="Letter: 1939 November 20" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 November 20</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_d49538cae02efd1fbbd99f9a11410c0a" level="file">
+        <did>
+          <unittitle>Letter from Nathan Rosenberg to Gustav and Mrs. Dreyfu&amp;#223</unittitle>
+          <unitdate normal="1939-11-26/1939-11-26">November 26, 1939</unitdate>
+          <container id="aspace_bf855e3904e07a522b46b3d9838709e0" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_ca16b83f24acca2ad8a8a5a40c3f76c3"
+            parent="aspace_bf855e3904e07a522b46b3d9838709e0" type="Folder">37</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0036.001"
+            xlink:show="new" xlink:title="Letter: 1939 November 26" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1939 November 26</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_875d6fe6fd0443b2fd03a764414ef5fb" level="file">
+        <did>
+          <unittitle>Letter from Eugen Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1940-01-11/1940-01-11">January 11, 1940</unitdate>
+          <container id="aspace_dfaedf76f9dd26e6d25586be84f3f000" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_7e1cb5f6bd128effaff16b0386738357"
+            parent="aspace_dfaedf76f9dd26e6d25586be84f3f000" type="Folder">38</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0037.001"
+            xlink:show="new" xlink:title="Letter: 1940 January 11" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1940 January 11</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_930d553c3041eca22570615cb5de6342" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1940-01-30/1940-01-30">January 30, 1940</unitdate>
+          <container id="aspace_5544e39e16706d2434cb54623adf520c" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_fe13b390484e86b6d894e3ab48652e1a"
+            parent="aspace_5544e39e16706d2434cb54623adf520c" type="Folder">39</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0038.001"
+            xlink:show="new" xlink:title="Letter: 1940 January 30" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1940 January 30</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_9d730f0b88e7f6ecc6c6b96dcaa34d23" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1940-03-13/1940-03-13">March 13, 1940</unitdate>
+          <container id="aspace_251ee81668bf956cc69426bdcb42baee" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_0ed68015c35d1db66e9cbf454d304831"
+            parent="aspace_251ee81668bf956cc69426bdcb42baee" type="Folder">40</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0039.001"
+            xlink:show="new" xlink:title="Letter: 1940 March 13" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1940 March 13</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_c7ea0e8134a5ee38a975a4d3f0a0a20c" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg and Emmy to Alfred Rosenberg</unittitle>
+          <unitdate normal="1940-03-24/1940-03-24">March 24, 1940</unitdate>
+          <container id="aspace_fbbb1e78d6b836cb6620d32794a45369" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_6f81ff7ddae20634908c9943ffa25506"
+            parent="aspace_fbbb1e78d6b836cb6620d32794a45369" type="Folder">41</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0040.001"
+            xlink:show="new" xlink:title="Letter: 1940 March 24" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1940 March 24</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_6b800fdddda1c09a82116485e21ac8c7" level="file">
+        <did>
+          <unittitle>Letter from Nathan and Johanna Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1940-04-21/1940-04-21">April 21, 1940</unitdate>
+          <container id="aspace_fd155590020e4814865e70f895783613" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_0da4dd1971db3a1b6d2a8d905c08845f"
+            parent="aspace_fd155590020e4814865e70f895783613" type="Folder">42</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0041.001"
+            xlink:show="new" xlink:title="Letter: 1940 April 21" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1940 April 21</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_2fa028484113636207465a131640d52d" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1940-05-03/1940-05-03">May 3, 1940</unitdate>
+          <container id="aspace_29bd644ee0e4ad89680d4bed1639c027" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_056f979e978032c79227a1df2a4ef1f4"
+            parent="aspace_29bd644ee0e4ad89680d4bed1639c027" type="Folder">43</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0042.001"
+            xlink:show="new" xlink:title="Letter: 1940 May 03" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1940 May 03</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_055882719f060f0eec2c54c241cddc0f" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg and Emmy to Alfred Rosenberg</unittitle>
+          <unitdate normal="1940-05-26/1940-05-26">May 26, 1940</unitdate>
+          <container id="aspace_f5ee30230430dd6cebe73a183e9c28e9" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_b084702c1dea6442a547f0dab2aaa673"
+            parent="aspace_f5ee30230430dd6cebe73a183e9c28e9" type="Folder">44</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0043.001"
+            xlink:show="new" xlink:title="Letter: 1940 May 26" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1940 May 26</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_faa6696d1c9c7ad72001940773b90650" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1940-06-03/1940-06-03">June 3, 1940</unitdate>
+          <container id="aspace_fc1076208207c42f02422739ce028c05" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_e358ae04da30ad3ff2dc6abb23cfa321"
+            parent="aspace_fc1076208207c42f02422739ce028c05" type="Folder">45</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0044.001"
+            xlink:show="new" xlink:title="Letter: 1940 June 03" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1940 June 03</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_f478392d54e4d6aabad826b70201012a" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg and Emmy to Alfred Rosenberg</unittitle>
+          <unitdate normal="1940-07-14/1940-07-14">July 14, 1940</unitdate>
+          <container id="aspace_f0aeb586bddb7a08564b639ec3a00af8" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_caad636b40bd1310c92753422327a9d4"
+            parent="aspace_f0aeb586bddb7a08564b639ec3a00af8" type="Folder">46</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0045.001"
+            xlink:show="new" xlink:title="Letter: 1940 July 14" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1940 July 14</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_bc71489248a69e1e830e2e2115c46244" level="file">
+        <did>
+          <unittitle>Letter from Eugen Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1940-07-30/1940-07-30">July 30, 1940</unitdate>
+          <container id="aspace_90b94ae42a75eac9a10f718071d9b410" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_6e035102311fcdbaad662e68f046e978"
+            parent="aspace_90b94ae42a75eac9a10f718071d9b410" type="Folder">47</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0046.001"
+            xlink:show="new" xlink:title="Letter: 1940 July 30" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1940 July 30</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_e2433220db14698a1f7ba551f19ef471" level="file">
+        <did>
+          <unittitle>Letter from Nathan Rosenberger (Uncle Nathan) to Alfred Rosenberg</unittitle>
+          <unitdate normal="1940-08-07/1940-08-07">August 7, 1940</unitdate>
+          <container id="aspace_f36e055dbdb6f22e66f22bdf00068f44" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_e57430535ea1a064d99a2144af031cc7"
+            parent="aspace_f36e055dbdb6f22e66f22bdf00068f44" type="Folder">48</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0047.001"
+            xlink:show="new" xlink:title="Letter: 1940 August 07" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1940 August 07</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_5544a00a99c602e613aca9b3eb7fbb1e" level="file">
+        <did>
+          <unittitle>Letter from Nathan and Johanna Rosenberg and Julius Rosenberg to Alfred and
+            Alise Rosenberg</unittitle>
+          <unitdate normal="1940-09-15/1940-09-15">September 15, 1940</unitdate>
+          <container id="aspace_0ff536e77330e8f56eb5f39074ad83cc" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_869fafe44aaa394201a1c7a0e00d1e10"
+            parent="aspace_0ff536e77330e8f56eb5f39074ad83cc" type="Folder">49</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0048.001"
+            xlink:show="new" xlink:title="Letter: 1940 September 15" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1940 September 15</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_551471b4a43fcc0101d2764efc7bf1c4" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg, Emmy, Nathan and Johanna Rosenberg, and Rosel to
+            Alfred and Alise Rosenberg</unittitle>
+          <unitdate normal="1940-10-10/1940-10-10">October 10, 1940</unitdate>
+          <container id="aspace_05262e5ad362656b5a5d345624b59366" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_62f74226c100cc4465bd69c1638e745a"
+            parent="aspace_05262e5ad362656b5a5d345624b59366" type="Folder">50</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0049.001"
+            xlink:show="new" xlink:title="Letter: 1940 October 10" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1940 October 10</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_6ec9d9ba38b2ae303acd64e760de758e" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg, Emmy, Nathan and Johanna Rosenberg to Alfred
+            Rosenberg [?]</unittitle>
+          <unitdate normal="1940-10-29/1940-10-29">October 29, 1940</unitdate>
+          <container id="aspace_6d001cf4f396558074b5911dfa97c8fa" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_12b77a738d42dd7d6825064583e68662"
+            parent="aspace_6d001cf4f396558074b5911dfa97c8fa" type="Folder">51</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0050.001"
+            xlink:show="new" xlink:title="Letter: 1940 October 29" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1940 October 29</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_c16542cca39d982d5a4f5e3e242ecd44" level="file">
+        <did>
+          <unittitle>Letter from Eugen Rosenberg to Alfred and Alise Rosenberg</unittitle>
+          <unitdate normal="1940-11-26/1940-11-26">November 26, 1940</unitdate>
+          <container id="aspace_b11390a7620ebc307d0e21b35176f334" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_ceca3e980478554ed698b99cc04b2d14"
+            parent="aspace_b11390a7620ebc307d0e21b35176f334" type="Folder">52</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0051.001"
+            xlink:show="new" xlink:title="Letter: 1940 November 26" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1940 November 26</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_ea35a99122619757a476ae8a733defab" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg to Alfred Rosenberg [?]</unittitle>
+          <unitdate normal="1940-12-30/1940-12-30">December 30, 1940</unitdate>
+          <container id="aspace_178bf6d65732f192bc872a4454fc708a" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_948f2bd237c6e3aef040808729ae4bb1"
+            parent="aspace_178bf6d65732f192bc872a4454fc708a" type="Folder">53</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0052.001"
+            xlink:show="new" xlink:title="Letter: 1940 December 30" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1940 December 30</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_0b04345235fe3239284ba5abb9aa3fe3" level="file">
+        <did>
+          <unittitle>Letter from Nathan and Johanna Rosenberg and Julius Rosenberg to Alfred and
+            Alise Rosenberg</unittitle>
+          <unitdate normal="1941-04-09/1941-04-09">April 9, 1941</unitdate>
+          <container id="aspace_650cf0fc0808bb7cdedd29df4d3e7446" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_66120aabb32ac2b4f39408d19d72355a"
+            parent="aspace_650cf0fc0808bb7cdedd29df4d3e7446" type="Folder">54</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0054.001"
+            xlink:show="new" xlink:title="Letter: 1941 April 09" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1941 April 09</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_56c5df8d2639ca4c147788f403ae0b1c" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg to unknown (in Zurich)</unittitle>
+          <unitdate normal="1941-04-15/1941-04-15">April 15, 1941</unitdate>
+          <container id="aspace_9f2e2111787c278cfa6028492c7d1ac2" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_a3173670ec26d2828ee751feb59831bf"
+            parent="aspace_9f2e2111787c278cfa6028492c7d1ac2" type="Folder">55</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0055.001"
+            xlink:show="new" xlink:title="Letter: 1941 April 15" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1941 April 15</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_6d86175efc3755547b5a0ee1ed7fd9ca" level="file">
+        <did>
+          <unittitle>Letter from Jette Rosenberger to unknown</unittitle>
+          <unitdate normal="1941-04-20/1941-04-20">April 20, 1941</unitdate>
+          <container id="aspace_21bf9c8b77a35ae4a21f9a0a721e5d1e" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_f41004f2663200b8992c7bb9e561832f"
+            parent="aspace_21bf9c8b77a35ae4a21f9a0a721e5d1e" type="Folder">56</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0056.001"
+            xlink:show="new" xlink:title="Letter: 1941 April 20" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1941 April 20</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_39f920359d1c7a00a93f7c9e93bea8c1" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg to Alfred Rosenberg [?]</unittitle>
+          <unitdate normal="1941-05-06/1941-05-06">May 6, 1941</unitdate>
+          <container id="aspace_3f38c3271a86cfa99931e2ca9e4f54ce" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_784406e8428e330bd5ec1ada3123127e"
+            parent="aspace_3f38c3271a86cfa99931e2ca9e4f54ce" type="Folder">57</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0057.001"
+            xlink:show="new" xlink:title="Letter: 1941 May 06" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1941 May 06</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_294b0344574e76f28566ba9e6e1e5e3f" level="file">
+        <did>
+          <unittitle>Letter from Johanna Rosenberg, Jette Rosenberger, and Julius Rosenberg to
+            Alfred and Alise Rosenberg</unittitle>
+          <unitdate normal="1941-05-20/1941-05-20">May 20, 1941</unitdate>
+          <container id="aspace_85d1e17218e41a56f287fb4f0d12c38e" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_59243099ad9c090e3f96e248de460d4d"
+            parent="aspace_85d1e17218e41a56f287fb4f0d12c38e" type="Folder">58</container>
+        </did>
+      </c01>
+      <c01 id="aspace_fdf8626fae3c42b31916d4a39c30c52d" level="file">
+        <did>
+          <unittitle>Letter from Emmy and Johanna Rosenberg to Alfred and Alise
+            Rosenberg</unittitle>
+          <unitdate normal="1941-05-20/1941-05-20">May 20, 1941</unitdate>
+          <container id="aspace_da41a28eb7a3aa6069e12e2b79549ffd" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_2d9081f793464a1bb641a2a71f29748e"
+            parent="aspace_da41a28eb7a3aa6069e12e2b79549ffd" type="Folder">59</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0058.001"
+            xlink:show="new" xlink:title="Letter: 1941 May 20" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1941 May 20</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_253859df4fa73bf7a717eaa7ac9cc8b0" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg, Emmy, Nathan Rosenberg to Alfred and Alise
+            Rosenberg</unittitle>
+          <unitdate normal="1941-06-21/1941-06-21">June 21, 1941</unitdate>
+          <container id="aspace_958d215f558db93196162d807467c390" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_dd8ef6c334abe75709bd6ad95923fc9a"
+            parent="aspace_958d215f558db93196162d807467c390" type="Folder">60</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0059.001"
+            xlink:show="new" xlink:title="Letter: 1941 June 21" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1941 June 21</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_5aaeca231bc534c947b9658891a19c55" level="file">
+        <did>
+          <unittitle>Letter from Nathan and Johanna Rosenberg, Julius Rosenberg to Alfred and Alise
+            Rosenberg, Jakob [Wiehler?]</unittitle>
+          <unitdate normal="1941-07-18/1941-07-18">July 18, 1941</unitdate>
+          <container id="aspace_f6f94f4d83314b8cdb6bed5d0df90625" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_936d455596c67e59353720a3b7f18761"
+            parent="aspace_f6f94f4d83314b8cdb6bed5d0df90625" type="Folder">61</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0060.001"
+            xlink:show="new" xlink:title="Letter: 1941 July 18" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1941 July 18</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_af41a56104566d607c9ec6fcaec646ea" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg, Jette Rosenberger to Alfred and Alise Rosenberg,
+            Jakob [Wiehler?]</unittitle>
+          <unitdate normal="1941-07-29/1941-07-29">July 29, 1941</unitdate>
+          <container id="aspace_2d37aa0b4f6477a69548e6aa1d2dcbc2" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_18fad80a1a2df5a35769458298c47a89"
+            parent="aspace_2d37aa0b4f6477a69548e6aa1d2dcbc2" type="Folder">62</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0061.001"
+            xlink:show="new" xlink:title="Letter: 1941 July 29" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1941 July 29</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_e293bb8d3dba37521cb0c08a527d97f9" level="file">
+        <did>
+          <unittitle>Letter from Jette Rosenberger, Johanna Rosenberg to Alfred Rosenberg
+            (?)</unittitle>
+          <unitdate certainty="approx" normal="1941-08/1941-08">August 1941</unitdate>
+          <container id="aspace_1fe76a1024c2dab9083b58b8cbf37b5b" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_5d485f97109b874c81cca135766d06f5"
+            parent="aspace_1fe76a1024c2dab9083b58b8cbf37b5b" type="Folder">63</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0062.001"
+            xlink:show="new" xlink:title="Letter: 1941 August ??" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1941 August ??</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_eeed907232c26823b03a3e5fb59b19f4" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1941-08-25/1941-08-25">August 25, 1941</unitdate>
+          <container id="aspace_c6b22e16b0a66f20fc20e22c083bc559" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_a05faf3dcf91d72e0a98594797eeff82"
+            parent="aspace_c6b22e16b0a66f20fc20e22c083bc559" type="Folder">64</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0063.001"
+            xlink:show="new" xlink:title="Letter: 1941 August 25" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1941 August 25</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_d6abf8cfcce19819aedc704eb21ff829" level="file">
+        <did>
+          <unittitle>Letter from Julius Rosenberg, Nathan and Johanna Rosenberg, Jette and Louis
+            Rosenberger to Alfred and Alise Rosenberg, Jakob, Frau and Herr Bloch</unittitle>
+          <unitdate normal="1941-10-03/1941-10-03">October 3, 1941</unitdate>
+          <container id="aspace_308bef2714bc3be0cb578b07100364e6" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_97bb0b037cd7161dcef63c0cad41ec6e"
+            parent="aspace_308bef2714bc3be0cb578b07100364e6" type="Folder">65</container>
+        </did>
+      </c01>
+      <c01 id="aspace_a846b08e70313619c7eb0ec026c3dfd9" level="file">
+        <did>
+          <unittitle>Letter from Gustav and Rosi [Dreyfu&amp;#223?] to Alfred Rosenberg</unittitle>
+          <unitdate normal="1941-11-09/1941-11-09">November 9, 1941</unitdate>
+          <container id="aspace_bf8a6e7e29fe652e34b7949e9252c725" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_4a030200048580c120509aff3207afe1"
+            parent="aspace_bf8a6e7e29fe652e34b7949e9252c725" type="Folder">66</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0065.001"
+            xlink:show="new" xlink:title="Letter: 1941 November 09" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1941 November 09</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_c59f43016842916d43201404a8e46ea0" level="file">
+        <did>
+          <unittitle>Telegram from "Gustav Dreifus" (Gustav Dreyfu&amp;#223;) to Alfred
+            Rosenberg</unittitle>
+          <unitdate normal="1941-11-22/1941-11-22">November 22, 1941</unitdate>
+          <container id="aspace_232446b8dc0daa30259f62c1d147ade7" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_49fa6d51a6b541a2ad88224111919688"
+            parent="aspace_232446b8dc0daa30259f62c1d147ade7" type="Folder">67</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0066.001"
+            xlink:show="new" xlink:title="Letter: 1941 November 30" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1941 November 30</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_e26234991673ae12962417afd3152d21" level="file">
+        <did>
+          <unittitle>Letter from Nathan Rosenberg and Julius Rosenberg to Gustav
+            Dreyfu&amp;#223</unittitle>
+          <unitdate normal="1942-03-26/1942-03-26">March 26, 1942</unitdate>
+          <container id="aspace_3c02290bd85f4c20a166a99e0e1fbaf8" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_e0eff245c9a97efe60aec223fa162341"
+            parent="aspace_3c02290bd85f4c20a166a99e0e1fbaf8" type="Folder">68</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0067.001"
+            xlink:show="new" xlink:title="Letter: 1942 March 26" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1942 March 26</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_1f20cc22376aeb48d6c8c1e20a9723bf" level="file">
+        <did>
+          <unittitle>Letter from Nathan Rosenberg to unknown</unittitle>
+          <unitdate normal="1942-08-13/1942-08-13">August 13, 1942</unitdate>
+          <container id="aspace_fc3797daf5d04a71c1df6eee3f7c5d37" label="Mixed Materials" type="Box"
+            >1</container>
+          <container id="aspace_cac7b530795777b9dafec6f0c8349885"
+            parent="aspace_fc3797daf5d04a71c1df6eee3f7c5d37" type="Folder">69</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0068.001"
+            xlink:show="new" xlink:title="Letter: 1942 August 13" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1942 August 13</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_0801ba172d820e659ee8fc56e7d13c9f" level="file">
+        <did>
+          <unittitle>Letter from Gustav Dreyfu&amp;#223; to Nathan Rosenberg</unittitle>
+          <unitdate normal="1944-12-19/1944-12-19">December 19, 1944</unitdate>
+          <container id="aspace_157b4aa601e02ec5c750db4d243134c9" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_1f7d671118c73326f621ac8fe2dc999c"
+            parent="aspace_157b4aa601e02ec5c750db4d243134c9" type="Folder">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0069.001"
+            xlink:show="new" xlink:title="Letter: 1944 December 19" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1944 December 19</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_ac3fd83d898e9dfd584f478ebb9c08c1" level="file">
+        <did>
+          <unittitle>Letter from Alfred and Alise Rosenberg, Frau Bloch to Nathan
+            Rosenberg</unittitle>
+          <unitdate certainty="approx" normal="1945/1945">1945</unitdate>
+          <container id="aspace_972db460d5ab2f6079c7072f64f7e9b8" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_588a1fa8720125a4df66634b635344e3"
+            parent="aspace_972db460d5ab2f6079c7072f64f7e9b8" type="Folder">2</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0070.001"
+            xlink:show="new" xlink:title="Letter: 1945 unknown a" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 unknown a</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_599c2d272f11541da78fbed1704a32b7" level="file">
+        <did>
+          <unittitle>Letter from Alfred and Alise Rosenberg, Frau Bloch to Nathan
+            Rosenberg</unittitle>
+          <unitdate certainty="approx" normal="1945/1945">1945</unitdate>
+          <container id="aspace_209b18654de4931854b28208cf649804" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_a6a2714033bdcb65f19f8e9c3e4744cc"
+            parent="aspace_209b18654de4931854b28208cf649804" type="Folder">3</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0071.001"
+            xlink:show="new" xlink:title="Letter: 1945 unknown b" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 unknown b</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_cf02cf6be6e5c9fe26054b1565f60bff" level="file">
+        <did>
+          <unittitle>Money order from Egon Blozheimer to [?] Rosenberg</unittitle>
+          <unitdate normal="1945-01-10/1945-01-10">January 10, 1945</unitdate>
+          <container id="aspace_ee68e1893525a04ce22d9b0154dd5d50" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_883a8a92090d468e5899d0883e6295ef"
+            parent="aspace_ee68e1893525a04ce22d9b0154dd5d50" type="Folder">4</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0072.001"
+            xlink:show="new" xlink:title="Letter: 1945 January 10" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 January 10</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_3228ce11f90017a9106a38f047c6e816" level="file">
+        <did>
+          <unittitle>Letter from Alfred Rosenberg to Nathan Rosenberg</unittitle>
+          <unitdate normal="1945-03-01/1945-03-01">March 1, 1945</unitdate>
+          <container id="aspace_b0152ee247c50ebc58cc83ba63cf6f5e" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_07c50b4b372e0b338b766805325ce7c2"
+            parent="aspace_b0152ee247c50ebc58cc83ba63cf6f5e" type="Folder">5</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0073.001"
+            xlink:show="new" xlink:title="Letter: 1945 March 01" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 March 01</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_6b22033896bb1a55521c41faa3672ca7" level="file">
+        <did>
+          <unittitle>Telegram from Nathan Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1945-03-04/1945-03-04">March 4, 1945</unitdate>
+          <container id="aspace_f8587f0e201c19d73b791dc44451da43" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_19eb5030f8b35c827cc1ad25d1d307da"
+            parent="aspace_f8587f0e201c19d73b791dc44451da43" type="Folder">6</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0074.001"
+            xlink:show="new" xlink:title="Letter: 1945 March 04" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 March 04</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_26ea0e98bd027f08d272187d6adf337a" level="file">
+        <did>
+          <unittitle>Letter from Jules Gros to Alfred Rosenberg</unittitle>
+          <unitdate normal="1945-04-22/1945-04-22">April 22, 1945</unitdate>
+          <container id="aspace_2a844db90ff9caeed7594ab458e642c0" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_05997a21c2b73a3f12fa651b4ce9ac04"
+            parent="aspace_2a844db90ff9caeed7594ab458e642c0" type="Folder">7</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0075.001"
+            xlink:show="new" xlink:title="Letter: 1945 April 22" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 April 22</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_28a958e1792a8d55a812191a12d2cce6" level="file">
+        <did>
+          <unittitle>Letter from Louis Meinstein to Jules Gros</unittitle>
+          <unitdate normal="1945-04-30/1945-04-30">April 30, 1945</unitdate>
+          <container id="aspace_287512539e24fd5b93f91e81005b69f7" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_fb422d40560e5eb29fbf21701a669091"
+            parent="aspace_287512539e24fd5b93f91e81005b69f7" type="Folder">8</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0076.001"
+            xlink:show="new" xlink:title="Letter: 1945 April 30 a" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 April 30 a</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_7fc5e5e352f4e78d676e7baffdb95b08" level="file">
+        <did>
+          <unittitle>Letter from Louis and Jette Rosenberger to Nathan Rosenberg and Metzger
+            siblings</unittitle>
+          <unitdate normal="1945-04-30/1945-04-30">April 30, 1945</unitdate>
+          <container id="aspace_a1c2da4d96fb4cae2d45ddc2144e3414" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_d7c504e14a63b782249aef91f66a603e"
+            parent="aspace_a1c2da4d96fb4cae2d45ddc2144e3414" type="Folder">9</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0077.001"
+            xlink:show="new" xlink:title="Letter: 1945 April 30 b" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 April 30 b</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_1a607c7344c4831a588488e9642a26b9" level="file">
+        <did>
+          <unittitle>Letter from Alfred Rosenberg to Jules Gros and Nathan Rosenberg</unittitle>
+          <unitdate normal="1945-06-13/1945-06-13">June 13, 1945</unitdate>
+          <container id="aspace_f292c1c0cc4112a933937d21ef127e79" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_69bce1449e86a6717b984a1ec443e7ad"
+            parent="aspace_f292c1c0cc4112a933937d21ef127e79" type="Folder">10</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0078.001"
+            xlink:show="new" xlink:title="Letter: 1945 June 13" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 June 13</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_38a63ef8e19f16d54cea21d91b026164" level="file">
+        <did>
+          <unittitle>Letter from Jette Rosenberger to Alfred Rosenberger [sic]</unittitle>
+          <unitdate normal="1945-07-03/1945-07-03">July 3, 1945</unitdate>
+          <container id="aspace_47cea3ed1be7f6d77fae6947fb566b18" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_d584bf118fafd4ff837631353c788b2e"
+            parent="aspace_47cea3ed1be7f6d77fae6947fb566b18" type="Folder">11</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0079.001"
+            xlink:show="new" xlink:title="Letter: 1945 July 03" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 July 03</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_a1c2366de961911f5a02be254ff55a79" level="file">
+        <did>
+          <unittitle>Letter from Alfred and Alise Rosenberg to Nathan Rosenberg</unittitle>
+          <unitdate normal="1945-07-11/1945-07-11">July 11, 1945</unitdate>
+          <container id="aspace_ead7f31d3525bd240d2928bd1db72e98" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_cb1a701cfbd0ac95c8216337d3c35850"
+            parent="aspace_ead7f31d3525bd240d2928bd1db72e98" type="Folder">12</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0080.001"
+            xlink:show="new" xlink:title="Letter: 1945 July 11" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 July 11</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_0b3a9d8b4872ac2eeba0e4bc9e7bcc23" level="file">
+        <did>
+          <unittitle>Letter from Nathan Rosenberg and Jules Gros</unittitle>
+          <unitdate normal="1945-07-13/1945-07-13">July 13, 1945</unitdate>
+          <container id="aspace_ce56c83ba18c0e8f6aa695442e849b15" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_1c8de28bd6ee19fe9a215d337502b29e"
+            parent="aspace_ce56c83ba18c0e8f6aa695442e849b15" type="Folder">13</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0081.001"
+            xlink:show="new" xlink:title="Letter: 1945 July 13" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 July 13</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_73fdea91911443ac6fbbc6c6b2830ff3" level="file">
+        <did>
+          <unittitle>Letter from Gustav Dreyfu&amp;#223; to Nathan Rosenberg</unittitle>
+          <unitdate normal="1945-08-16/1945-08-16">August 16, 1945</unitdate>
+          <container id="aspace_b8ca2c1899d90b5a1bc07ec51c1613b0" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_c20686502f649b38a346b6ce57f03a48"
+            parent="aspace_b8ca2c1899d90b5a1bc07ec51c1613b0" type="Folder">14</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0082.001"
+            xlink:show="new" xlink:title="Letter: 1945 August 16" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 August 16</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_718ea4da422064021925ff57fae1dd3e" level="file">
+        <did>
+          <unittitle>Letter from Nathan Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1945-09-03/1945-09-03">September 3, 1945</unitdate>
+          <container id="aspace_1397c37d06c737d48fc9954a60427091" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_04d6ea06fb5e2957b4a79b5f5245ea0e"
+            parent="aspace_1397c37d06c737d48fc9954a60427091" type="Folder">15</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0083.001"
+            xlink:show="new" xlink:title="Letter: 1945 September 03" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 September 03</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_e3a99dd81825ebb9ea5efed2e8e970b4" level="file">
+        <did>
+          <unittitle>Letter from Jules Gros to "Herr Rosenberger" (Alfred Rosenberg?)</unittitle>
+          <unitdate normal="1945-09-04/1945-09-04">September 4, 1945</unitdate>
+          <container id="aspace_ed092cef45c87decc96aa68805c6ff1e" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_f14f93436b90ce5ae06de9d78a194b5f"
+            parent="aspace_ed092cef45c87decc96aa68805c6ff1e" type="Folder">16</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0084.001"
+            xlink:show="new" xlink:title="Letter: 1945 September 04" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 September 04</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_08ebac4274afa86dd86a0b64a9569787" level="file">
+        <did>
+          <unittitle>Letter from Nathan Rosenberg to Alfred Rosenberg [?]</unittitle>
+          <unitdate normal="1945-09-06/1945-09-06">September 6, 1945</unitdate>
+          <container id="aspace_8f49864a8fba146005207df7b06383d7" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_b8f1cb4d9e816a037413f7ae3760f580"
+            parent="aspace_8f49864a8fba146005207df7b06383d7" type="Folder">17</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0085.001"
+            xlink:show="new" xlink:title="Letter: 1945 September 06" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 September 06</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_519002e53dfa3d62ac98d0c1a32c07da" level="file">
+        <did>
+          <unittitle>Letter from Alfred and Alise Rosenberg to Nathan Rosenberg</unittitle>
+          <unitdate normal="1945-09-26/1945-09-26">September 26, 1945</unitdate>
+          <container id="aspace_7af7a662a773916425ea4cb465235d09" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_b7c8a97c025f03b18afe29983e4f5a53"
+            parent="aspace_7af7a662a773916425ea4cb465235d09" type="Folder">18</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0086.001"
+            xlink:show="new" xlink:title="Letter: 1945 September 26" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 September 26</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_3b590d94493072a20b9a5d2612c1d758" level="file">
+        <did>
+          <unittitle>Letter from Nathan Rosenberg and Emmanuel Loeb to Alfred and Alise Rosenberg
+            and Frau Bloch</unittitle>
+          <unitdate normal="1945-10-14/1945-10-14">October 14, 1945</unitdate>
+          <container id="aspace_c01748581a2cd205be408c1513167c89" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_c38598fc7251601397b72c3da34edb20"
+            parent="aspace_c01748581a2cd205be408c1513167c89" type="Folder">19</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0087.001"
+            xlink:show="new" xlink:title="Letter: 1945 October 14" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 October 14</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_bc7d683aa3a2e5d5fcd2b677212e6763" level="file">
+        <did>
+          <unittitle>Letter from Alfred Rosenberg to Nathan Rosenberg</unittitle>
+          <unitdate normal="1945-10-18/1945-10-18">October 18, 1945</unitdate>
+          <container id="aspace_c1c9b324a50e73f4929d4008075892b2" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_befd0c7632cafe2d6a754ebb5266ff7f"
+            parent="aspace_c1c9b324a50e73f4929d4008075892b2" type="Folder">20</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0088.001"
+            xlink:show="new" xlink:title="Letter: 1945 October 18" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 October 18</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_29c2f4d10fba74b910cf233c312f73d0" level="file">
+        <did>
+          <unittitle>Letter from Gustav Dreyfu&amp;#223; to Nathan Rosenberg</unittitle>
+          <unitdate normal="1945-11-12/1945-11-12">November 12, 1945</unitdate>
+          <container id="aspace_c97234a10b4316ba06ed77b6ff817760" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_584fd521266b808fb9d11265815d0840"
+            parent="aspace_c97234a10b4316ba06ed77b6ff817760" type="Folder">21</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0089.001"
+            xlink:show="new" xlink:title="Letter: 1945 November 12" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 November 12</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_52fc82b9db0985a07b8d97346b7dc57f" level="file">
+        <did>
+          <unittitle>Letter from Madame Glichenstein to Nathan Rosenberg</unittitle>
+          <unitdate normal="1945-11-22/1945-11-22">November 22, 1945</unitdate>
+          <container id="aspace_c2051fc32e4a49f08f848b096062f1b4" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_3090edc1640e5ad9337bb3d8e8ddd343"
+            parent="aspace_c2051fc32e4a49f08f848b096062f1b4" type="Folder">22</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0090.001"
+            xlink:show="new" xlink:title="Letter: 1945 November 22" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 November 22</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_1e87fc26b87aec6be9ff31755e0517b0" level="file">
+        <did>
+          <unittitle>Letter from Leopold Baer to Alfred Rosenberg</unittitle>
+          <unitdate normal="1945-12-22/1945-12-22">December 22, 1945</unitdate>
+          <container id="aspace_319640692552396721395865ea578481" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_f50d8fa015766375b0e545dcadd720b0"
+            parent="aspace_319640692552396721395865ea578481" type="Folder">23</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0091.001"
+            xlink:show="new" xlink:title="Letter: 1945 December 22" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 December 22</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_5fb9db67457aec1fa8e3b6718e14f0f9" level="file">
+        <did>
+          <unittitle>Letter from Leopold Baer to Alfred Rosenberg [?]</unittitle>
+          <unitdate normal="1945-12-24/1945-12-24">December 24, 1945</unitdate>
+          <container id="aspace_ddc614c38e02e42deea6d1a60bb18434" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_6d7ff9e44f71d08c48347249b6e879f9"
+            parent="aspace_ddc614c38e02e42deea6d1a60bb18434" type="Folder">24</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0092.001"
+            xlink:show="new" xlink:title="Letter: 1945 December 24" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1945 December 24</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_b6f6e475393212d413404523f823f029" level="file">
+        <did>
+          <unittitle>Letter from Louis Rosenberger to Alfred Rosenberg [?]</unittitle>
+          <unitdate certainty="approx" normal="1946/1946">1946</unitdate>
+          <container id="aspace_6a94501a14a281b704cc644f3fc12793" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_ad2010bcd842d74b3c6e81ecce882ec6"
+            parent="aspace_6a94501a14a281b704cc644f3fc12793" type="Folder">25</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0093.001"
+            xlink:show="new" xlink:title="Letter: 1946 unknown" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1946 unknown</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_ea4648ac605b50440fa3055107a4819b" level="file">
+        <did>
+          <unittitle>Letter from Mr. and Mrs. Siegfried E. Dreifuss to Alfred and Alise
+            Rosenberg</unittitle>
+          <unitdate normal="1946-01-06/1946-01-06">January 6, 1946</unitdate>
+          <container id="aspace_847495916609011f252a50a8e51c1ac2" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_01e4acb9c0ce0fb7179dd5b1b99db28a"
+            parent="aspace_847495916609011f252a50a8e51c1ac2" type="Folder">26</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0094.001"
+            xlink:show="new" xlink:title="Letter: 1946 January 06" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1946 January 06</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_b06545ddc3b3f1720e3d898a12ae8d25" level="file">
+        <did>
+          <unittitle>Letter from Emmanuel Loeb to Alfred Rosenberg [?]</unittitle>
+          <unitdate normal="1946-02-10/1946-02-10">February 10, 1946</unitdate>
+          <container id="aspace_276bdd7cc6541b17e45c13d3abca9b30" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_2726faa3709d9dfc2af309417e583eca"
+            parent="aspace_276bdd7cc6541b17e45c13d3abca9b30" type="Folder">27</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0095.001"
+            xlink:show="new" xlink:title="Letter: 1946 February 10" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1946 February 10</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_d492a7d5097dac95ba8c69988a5a2485" level="file">
+        <did>
+          <unittitle>Letter from Eugen Rosenberg to Alfred Rosenberg</unittitle>
+          <unitdate normal="1946-02-11/1946-02-11">February 11, 1946</unitdate>
+          <container id="aspace_2b57987913142816ac669b48c050603a" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_fe85a307067cebf7a18aaf315ab38ae0"
+            parent="aspace_2b57987913142816ac669b48c050603a" type="Folder">28</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0096.001"
+            xlink:show="new" xlink:title="Letter: 1946 February 11" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1946 February 11</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_ac94621ab408b6e65222e3b9e1308eaa" level="file">
+        <did>
+          <unittitle>Letter from Jette Rosenberger to Alfred Rosenberg</unittitle>
+          <unitdate normal="1946-03-07/1946-03-07">March 7, 1946</unitdate>
+          <container id="aspace_56e4dbaf9663c872b749691ddd2fd979" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_83b88a8aacd5ce6d51ae0ec5caa2d250"
+            parent="aspace_56e4dbaf9663c872b749691ddd2fd979" type="Folder">29</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0097.001"
+            xlink:show="new" xlink:title="Letter: 1946 March 07" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1946 March 07</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_03f35af3bbc0a469c66ad303deaf557f" level="file">
+        <did>
+          <unittitle>Letter from Emanuel Loeb to Alfred Rosenberg [?]</unittitle>
+          <unitdate normal="1946-04-19/1946-04-19">April 19, 1946</unitdate>
+          <container id="aspace_36f3f83b72b67383db0c73e721987777" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_7126f6a7d4fa01e2d88a8c77692103b0"
+            parent="aspace_36f3f83b72b67383db0c73e721987777" type="Folder">30</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0098.001"
+            xlink:show="new" xlink:title="Letter: 1946 April 19" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1946 April 19</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_f1ac903e4d5eb608a327eed0e645d409" level="file">
+        <did>
+          <unittitle>Letter from Jette Rosenberger to Alfred Rosenberg</unittitle>
+          <unitdate normal="1946-05-07/1946-05-07">May 7, 1946</unitdate>
+          <container id="aspace_9b5529ce558f72d15e7085fb8a12ef52" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_2432b75565d708cb4825185c127d7f3f"
+            parent="aspace_9b5529ce558f72d15e7085fb8a12ef52" type="Folder">31</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0099.001"
+            xlink:show="new" xlink:title="Letter: 1946 May 07" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1946 May 07</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_e05344f2d42d53a65cde9cf83c7662c5" level="file">
+        <did>
+          <unittitle>Letter from Leopold Baer to Alfred Rosenberg [?]</unittitle>
+          <unitdate normal="1946-05-21/1946-05-21">May 21, 1946</unitdate>
+          <container id="aspace_73c4bdebf6ce07342e8fb4e2637e2431" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_c72e4de0542af7bc5141b3c4c46284d9"
+            parent="aspace_73c4bdebf6ce07342e8fb4e2637e2431" type="Folder">32</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0100.001"
+            xlink:show="new" xlink:title="Letter: 1946 May 21" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1946 May 21</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_0a3066666a0840df9f6e9fd3b2045d5e" level="file">
+        <did>
+          <unittitle>Letter from Jette Rosenberger to Alfred Rosenberg [?]</unittitle>
+          <unitdate normal="1946-06-23/1946-06-23">June 23, 1946</unitdate>
+          <container id="aspace_ef8d0f43fc0ec2fd755afde1b05b4496" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_61956767aada462a14e2d4dee58f4f13"
+            parent="aspace_ef8d0f43fc0ec2fd755afde1b05b4496" type="Folder">33</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0101.001"
+            xlink:show="new" xlink:title="Letter: 1946 June 23" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1946 June 23</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_96d5b236515b376dc8be8ac037107b7c" level="file">
+        <did>
+          <unittitle>Letter from Siegfried Loeb and Emanuel Loeb to Alfred Rosenberg [?]</unittitle>
+          <unitdate normal="1946-08-17/1946-08-17">August 17, 1946</unitdate>
+          <container id="aspace_34005306b4249368b968f3ecb36d3a6e" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_588221bfa627973e97c64e79ecad1970"
+            parent="aspace_34005306b4249368b968f3ecb36d3a6e" type="Folder">34</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0102.001"
+            xlink:show="new" xlink:title="Letter: 1946 August 17" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1946 August 17</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_67e4f54f3376ce2a5f575a8ab6e6ac1a" level="file">
+        <did>
+          <unittitle>Letter from Rita Rosenberger, Nathan Rosenberger, Ren&amp;#233;, Aunt Martha to
+            Alfred Rosenberg</unittitle>
+          <unitdate normal="1946-08-22/1946-08-22">August 22, 1946</unitdate>
+          <container id="aspace_cd66833e6220cd8aa3b8b80f45af9406" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_808a4764be6e426a168fdc5e42606b10"
+            parent="aspace_cd66833e6220cd8aa3b8b80f45af9406" type="Folder">35</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0103.001"
+            xlink:show="new" xlink:title="Letter: 1946 August 22 a" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1946 August 22 a</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_a835296ae538f81630ac52de024854fd" level="file">
+        <did>
+          <unittitle>Letter from Aunt Marie, Fanny to Alfred Rosenberg [?]</unittitle>
+          <unitdate normal="1946-08-22/1946-08-22">August 22, 1946</unitdate>
+          <container id="aspace_fedae9b604058e2672e12fb4030b45dd" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_866a617f6d1ee8b67552ddda9083a343"
+            parent="aspace_fedae9b604058e2672e12fb4030b45dd" type="Folder">36</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0104.001"
+            xlink:show="new" xlink:title="Letter: 1946 August 22 b" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1946 August 22 b</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_cb1bfe9451dfc2a5b2124553c7ed5c60" level="file">
+        <did>
+          <unittitle>Letter from Jette Rosenberger to Alfred Rosenberg [?]</unittitle>
+          <unitdate normal="1946-09-12/1946-09-12">September 12, 1946</unitdate>
+          <container id="aspace_84cfea76db2d4538ad7766ae3b727d6a" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_b54fe77ec06897578a9e6638585d84aa"
+            parent="aspace_84cfea76db2d4538ad7766ae3b727d6a" type="Folder">37</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0105.001"
+            xlink:show="new" xlink:title="Letter: 1946 September 12" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1946 September 12</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_24c7f1e73d2e94dbd3fe9168686ed3dc" level="file">
+        <did>
+          <unittitle>Envelopes from Germany and Switzerland censored during World War II to Erna
+            Baum/the Baum siblings</unittitle>
+          <unitdate normal="1945-12-05/1945-12-05">December 5, 1945</unitdate>
+          <container id="aspace_29a8175cea85f66ff1af76cf132fb95d" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_77180e7c75c7525b399263be70c8f689"
+            parent="aspace_29a8175cea85f66ff1af76cf132fb95d" type="Folder">38</container>
+        </did>
+      </c01>
+      <c01 id="aspace_5d3a0e9560c96e90f019a704026caf84" level="file">
+        <did>
+          <unittitle>Envelopes from Germany and Switzerland censored during World War II to Jack
+            Bloch</unittitle>
+          <unitdate normal="1941/1942" type="inclusive">1941-1942</unitdate>
+          <container id="aspace_e9b1efc2242154a7b77bbd137a8d113e" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_bb28e6119fb0ab08684c613b257de8c8"
+            parent="aspace_e9b1efc2242154a7b77bbd137a8d113e" type="Folder">39</container>
+        </did>
+      </c01>
+      <c01 id="aspace_898463e7803009ad0ee98dd847d0f04d" level="file">
+        <did>
+          <unittitle>Envelopes from Germany and Switzerland censored during World War II to Alfred
+            Rosenberg</unittitle>
+          <unitdate normal="1941/1942" type="inclusive">1941-1942</unitdate>
+          <container id="aspace_4afd69f1ec6e2b8de3e217bd48fd6400" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_3284e9ccc9089a26a3b163a19d7256dc"
+            parent="aspace_4afd69f1ec6e2b8de3e217bd48fd6400" type="Folder">40</container>
+        </did>
+      </c01>
+      <c01 id="aspace_bb446d4f0db600fbdcef320de34ae7eb" level="file">
+        <did>
+          <unittitle>Clippings Fall 1938</unittitle>
+          <unitdate normal="1938/1938">1938</unitdate>
+          <container id="aspace_364e4b45153ec9aecbee2e3675b2c414" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_065393f8fb2edca18f9a5f5ffdb947c5"
+            parent="aspace_364e4b45153ec9aecbee2e3675b2c414" type="Folder">41</container>
+        </did>
+      </c01>
+      <c01 id="aspace_dd09eabdddc58dbee251861db1388f8d" level="file">
+        <did>
+          <unittitle>Clippings Jan. 26, 1941</unittitle>
+          <unitdate normal="1941-01-26/1941-01-26">January 26, 1941</unitdate>
+          <container id="aspace_2b7fbac9fee37ffb54dbb0edf89f931e" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_9d5fdf4536f27b6d45bf5330dadd0bc5"
+            parent="aspace_2b7fbac9fee37ffb54dbb0edf89f931e" type="Folder">42</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://name.umdl.umich.edu/8461826.0094.001"
+            xlink:show="new" xlink:title="Letter: 1946 January 06" xlink:type="simple">
+            <daodesc>
+              <p>Letter: 1946 January 06</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c01>
+      <c01 id="aspace_9b98746a0a9bf0782bade145be86a692" level="file">
+        <did>
+          <unittitle>Money Orders</unittitle>
+          <unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate>
+          <container id="aspace_0dc06196694e96d942bd672cad018c1f" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_f334a49636933ef60156299c23d9da69"
+            parent="aspace_0dc06196694e96d942bd672cad018c1f" type="Folder">43</container>
+        </did>
+      </c01>
+      <c01 id="aspace_18b25be604d79403b77b081baed1143a" level="file">
+        <did>
+          <unittitle>Miscellaneous</unittitle>
+          <unitdate normal="1945/1945">1945</unitdate>
+          <container id="aspace_4e3ee2867e8e5f3f069d234393b54056" label="Mixed Materials" type="Box"
+            >2</container>
+          <container id="aspace_fbd03b5f4384f7a9e6fbd4861de82603"
+            parent="aspace_4e3ee2867e8e5f3f069d234393b54056" type="Folder">44</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
