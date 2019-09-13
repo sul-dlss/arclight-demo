@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+   <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core" scriptencoding="iso15924" countryencoding="iso3166-1">
+      <eadid countrycode="us" mainagencycode="MiU-C" publicid="us//::miu-c//TXT us::miu-c::macarthur_final.xml//EN" encodinganalog="Identifier">umich-wcl-M-2370mac</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="Title">Finding Aid for Douglas MacArthur collection</titleproper>
+            <author encodinganalog="Creator">Collection processed and finding aid created by Cheney J. Schopieray, 2003; 2008</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="Publisher">William L. Clements Library, University of Michigan</publisher>
+            <date encodinganalog="Date" normal="2008">2008</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Encoded finding aid created by Cheney J. Schopieray, <date>February 2008</date>
+         </creation>
+         <langusage encodinganalog="Language">The finding aid is written in  <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>2008-02-20</date>
+            <item> Original encoding from Word 2000 file using Word macros and Xmetal.</item>
+         </change>
+         <change>
+            <date>2009</date>
+            <item>Numerous additions to the box and folder listing, numerical changes in the scope and content and extent-related fields.</item>
+         </change>
+         <change>
+            <date>2010-06-17</date>
+            <item> Addition of M-4608.3 acquisition.</item>
+         </change>
+         <change>
+            <date>2010-11-08</date>
+            <item>Revise Box and folder listing dates, addition of recent acquisitions (including most of the published works).</item>
+         </change>
+         <change>
+            <date>2012-05-23</date>
+            <item>Revise Box and folder listing dates, addition of M-4793.4.</item>
+         </change>
+         <change>
+            <date>2013-10-25</date>
+            <item>Revise Box and folder listing dates, addition of M-5008.1 and M-5009.2.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <frontmatter>
+      <titlepage>
+         <publisher>Manuscripts Division<lb/>William L. Clements Library<lb/>University of Michigan</publisher>
+         <titleproper>Finding aid for<lb/>Douglas MacArthur Collection, 1885-1983</titleproper>
+         <sponsor>Duane Norman Diedrich Collection</sponsor>
+         <author>Finding aid created by<lb/> Cheney J. Schopieray, 2003</author>
+      </titlepage>
+   </frontmatter>
+   <archdesc level="collection" audience="external" type="inventory" relatedencoding="MARC21">
+      <did>
+         <origination>
+            <persname source="lcnaf" encodinganalog="100">Diedrich, D. N. (Duane Norman)</persname>
+         </origination>
+         <unittitle encodinganalog="245" type="main">Douglas MacArthur collection <unitdate type="inclusive" encodinganalog="245$f">1885-1983</unitdate>
+            <unitdate type="bulk" encodinganalog="245$g">1917-1919</unitdate>
+         </unittitle>
+         <unittitle type="sort">MacArthur, Douglas collection</unittitle>
+         <physdesc>
+            <extent encodinganalog="300">885 items</extent>
+         </physdesc>
+         <unitid type="identifier">wclmss001314</unitid>
+         <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language>
+         </langmaterial>
+         <abstract>The Douglas MacArthur collection is made up of military documents related to General Douglas MacArthur and the 42nd (Rainbow) Division during the first World War, and miscellaneous letters, documents, photographs, published works, and one diary illuminating various aspects of the General's public career and personal life.</abstract>
+         <repository>
+            <corpname encodinganalog="852">
+               <subarea>William L. Clements Library</subarea>, University of Michigan</corpname>
+            <extptr href="bhladd" show="embed" actuate="onload"/>
+         </repository>
+      </did>
+      <descgrp type="admin">
+         <acqinfo encodinganalog="541">
+            <p> Donated by D. N. Diedrich, 1987-2013. <num type="accession"> M-2370 et al</num>.</p>
+         </acqinfo>
+         <accessrestrict encodinganalog="506">
+            <p>The collection is open to research.</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>Copyright status is unknown.</p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <p>Douglas MacArthur Collection, Duane Norman Diedrich Collection, William L. Clements Library, University of Michigan.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist encodinganalog="545">
+         <head>Biography</head>
+         <p>
+            <emph render="underline">
+               <emph render="underline">Douglas MacArthur</emph>
+            </emph>
+         </p>
+         <p>Douglas MacArthur was born on January 26, 1880, the youngest child of (Capt.) Arthur MacArthur (1845-1912) and Mary Pinkney Hardy (1852-1935). His siblings were Arthur (1876-1923), and Malcolm (1878-1883), who died before his seventh birthday. </p>
+         <p>Douglas MacArthur graduated from West Texas Military Academy in 1897 as valedictorian and two years later entered West Point.  In 1903 he graduated as First Captain, West Point's highest honor.  In September 1903, he joined the 3rd Battalion Engineers in San Francisco, and almost immediately was sent to Manila, Philippines. The next year he was promoted to First Lieutenant, and in 1906 returned to the United States.  After being made Captain of Engineers at Leavenworth in 1911, MacArthur was assigned to Vera Cruz to report information to the War Department.  While serving as military aide to the Secretary of War in 1916, he conceived the idea of expanding the existing National Guard through volunteer enlistment and turned into combat divisions - an idea that would be used for the formation of the 42nd Division. </p>
+         <p>In 1917, MacArthur was appointed Colonel and Chief of Staff of the 42nd (Rainbow) Division.  As Commander of the 84th Infantry Brigade, he led his troops during the vitally important Argonne Campaign in the last months of the war.  In 1919, the 42nd Division returned to the United States, and MacArthur accepted an appointment as Superintendent of West Point.  While there, he became permanent Brigadier General.  MacArthur married Louise Cromwell Brooks in 1922, the year he was posted to command the Philippine Division, but they divorced seven years later. In November 1929, MacArthur was promoted to General and chosen as the man to replace General Summerall as the Chief of Staff, U.S. Army.  In 1937, MacArthur married a second time - to Jean Marie Faircloth, and they had a son, Arthur, a year later. </p>
+         <p>In December 1941, the Japanese Army attacked and defeated MacArthur's Philippine Army on the Bataan Peninsula.  The following March, MacArthur was ordered from the Philippines to command the Allied troops with Thomas Blamey.  For six months, MacArthur concentrated on the defense of New Guinea, which led to an ambitious counter-attack in January and February 1943.  On the day the Japanese surrendered, MacArthur was appointed Supreme Commander of Allied Powers. </p>
+         <p>MacArthur remained in occupied Japan until 1950, orchestrating the reformation of the post-war country.  On the 29th of June, 1950, MacArthur went to South Korea with American forces to assess the situation after North Korea's invasion of South Korea.  This assessment led to Truman's commitment of U.S. troops to a ground war in Korea.  The North Koreans abandoned Seoul on September 28, 1950, after MacArthur's successful military plan to attack through Inchon.  As a result of the success of this campaign, China decided to enter the Korean War.  MacArthur was ordered by the Joint Chiefs of Staff and the Secretary of Defense, in conjunction with a U.N. resolution, to proceed north of the 38th parallel.  Chinese troops attacked, leading to the withdrawal of MacArthur's troops back south of the 38th.  By this time, MacArthur had disobeyed the military order to employ only Korean forces in the frontier provinces.  On the 24th of March, MacArthur issued a lengthy communiqué complaining about the restrictions on his forces and taunted the enemy for their lack of industrial power and inability to maintain even moderate air and naval power. This pronouncement and his previous insubordination caused President Truman to relieve MacArthur of his command. </p>
+         <p>In April 1951, General Douglas MacArthur returned to San Francisco to thousands of cheering citizens.  On April 19 he presented his case regarding his relief of command to a joint session of congress.  During his remaining years, MacArthur traveled throughout the United States to make speeches, in which he often denounced communists and socialists, and spoke of corrupt administration and heavy taxation. At the age of 84, on April 5, 1964, Douglas MacArthur died in a hospital in Washington.</p>
+         <p>
+            <emph render="underline">
+               <emph render="underline">The 42nd (Rainbow) Division</emph>
+            </emph>
+         </p>
+         <p>The Rainbow Division was created in 1917 as a composite division of members of the Regular Army and the National Guard solely for use in the war in Europe.  The 42nd arrived in Europe in 1917 as the war was entering a new phase: Russia had dropped out of the war, America was joining the war, and Germany was racing to provide tremendous reinforcement before the American forces arrived. </p>
+         <p>In February 1918 the 42nd Division, part of the First U.S. Army Corps, was ordered to the Luneville area for a month of training with French units from the 7th French Army Corps.  While there, the Rainbow Division distinguished itself as "a first class combat Division." </p>
+         <p>The first assignment for the 42nd was to relieve the 128th French Infantry Division from the Baccarat Sector.  In the war, this was the first time an American Division held a Sector on its own.  The Division successfully held the Baccarat Sector until relief orders were sent on June 16, 1918.  Two weeks later, the 42nd Division went to the front at the Battle of Champagne alongside the 21st French Army Corps.  After an attack by the Germans on the fifteenth of July, the 42nd assisted in the Champagne defense until the end of the battle (July 18).  The Sixth French Army Corps was given the Rainbow Division to pursue the supposedly retreating enemy at the Battle of the Ourcq from July 25-July 27, 1918. From July 28-August 1st, the Allies captured strongpoints of the German position.  August 2-August 3rd, the 42nd Division assisted in pursuing the enemy until relieved by the 4th Regular Division. </p>
+         <p>After the Battle of the Ourcq, Douglas MacArthur was given command of the 84th Infantry Brigade (William Hughes, Jr., replaced him as Chief of Staff, 42nd Division).  In September, the Rainbow Division, then under the 4th American Army Corps, was ordered to attack the center of the south side of the San Mihiel Salient and was assigned to the defense of the Essey-Pannes Sector until September 30, when it was relieved by the 89th Division. </p>
+         <p>On October 11-12, 1918, the Rainbow Division relieved the 1st Division on the Verdun front.  In order to break the 2nd German line of defense, the hill called The Cote de Chatillon had to be taken.  From October 13-16, Brigadier General Douglas MacArthur commanded the 84th Infantry Division to the successful capture of Hill 288 (a strongly fortified point on the Kreimhilde Stellung), the Tuilerie Ferme, and the Cote de Chatillon (beyond the enemy's strong line of resistance). </p>
+         <p>The next attack took place November 1, 1918.  The 42nd Division provided machine gun fire for the advancement of the 2nd and 89th Divisions.  After this victory, and as a result of divisional rivalry (and a difference in opinion as to the exact nature of a memorandum), the 42nd and the 1st Divisions (of the First American Army Corps and the 5th American Army Corps respectively) 'raced' for the glory of partaking in the (potential) final engagement of the war, in Sedan.  On November 6-7, the Rainbow, the 4th French Army, and the 1st and 77th American Divisions, fought south of the Meuse (south of Sedan).  The fighting ended when the enemy requested an armistice on November 9, 1918.  The 42nd Division backed off and was able to claim that the Americans who got closest to Sedan were members of the 166th Infantry of the 83rd Infantry Brigade.  The armistice was signed two days later. </p>
+         <p>The 42nd Division remained in France and occupied Germany until May 1, 1919, when the last unit arrived home. Less than two weeks later, the last Brigade was demobilized. </p>
+      </bioghist>
+      <arrangement encodinganalog="351">
+         <list>
+            <head>The Douglas MacArthur collection has been organized into four series.  Within these series, the papers are separated into distinct sub-series groups.</head>
+            <item>Series I: Correspondence and diaries<list>
+                  <item>Sub-series I: Letters and diary to Florence Adams (Box 1)</item>
+                  <item>Sub-series II: Letters from Douglas MacArthur to Louise Cromwell (Brooks) MacArthur (Box 1)</item>
+                  <item>Sub-series III: Letters from Douglas MacArthur to Hamilton Fish, Jr. (Box 1)</item>
+                  <item>Sub-series IV: Miscellaneous letters and documents pertaining to Douglas MacArthur (Box 1)</item>
+               </list>
+            </item>
+            <item>Series II: Papers related to the 42nd (Rainbow) Division<list>
+                  <item>Sub-series I: Military documents to the 42nd Division from external military units (Boxes 1-2)</item>
+                  <item>Sub-series II: Military documents from the 42nd Division to various military units (Boxes 2-4)</item>
+                  <item>Sub-series III: Internal military documents from and to various military units in the 42nd Division. (Box 5)</item>
+                  <item>Sub-series IV: Kenneth A. Sutherland Notebook. (Box 6)</item>
+               </list>
+            </item>
+            <item>Series III: Photographs and miscellaneous papers pertaining to Douglas MacArthur<list>
+                  <item>Sub-series I: Aerial photographs and negatives, 91st Reconnaissance Squadron. (Box 7)</item>
+                  <item>Sub-series II: Miscellaneous photographs and papers. (Box 8)</item>
+               </list>
+            </item>
+            <item>Series IV:  Published works.</item>
+         </list>
+      </arrangement>
+      <scopecontent encodinganalog="520">
+         <p>The MacArthur collection contains 885 letters, documents, photographs, and published works dating from March 23, 1885, to July 5, 1983. The bulk of the material (710 items) consists of military documents and manuscript notes from September 8, 1917 to January 27, 1919.  </p>
+         <p>The military materials include general orders, field orders, field messages, memoranda, intelligence, and communications, related to the U.S. 42nd Division (The Rainbow Division), A.E.F., founded in 1917.  The majority of the collection falls during the period of time from late 1917 to early August 1918, when Douglas MacArthur was Chief of Staff for the 42nd Division.  Documents from military units that fought alongside the 42nd Division (both French and American), the U.S. Chemical Warfare, and the Intelligence Divisions -- as well as various German, French, and American communications -- are included.  Organizational documents, such as training schedules, and march tables, are also present.  A considerable number, if not all, of these materials must have been approved or viewed by MacArthur, and many of the items in this collection bear his initials or the initials of his information assistant, William Hughes, Jr.  From early August 1918 until the armistice was signed on November 11, 1918, MacArthur acted as the commanding officer for the 84th Infantry Brigade, and several military orders bear his name. </p>
+         <p>Seventy-six letters in the collection (located in Box 1) are either from Douglas MacArthur or pertain in some way to him.  Six of these items, dated 1904, pertain to MacArthur and Florence Adams, whom he met in the Philippines, including a 46-page diary MacArthur wrote to Adams while he was on board a ship from Manila to the United States.  Five letters, dated 1921 and 1925, are written by MacArthur to Louise Brooks who became Mrs. Douglas MacArthur in 1922.  These letters contain both romantic content as well as personal reflections on the events in MacArthur's life at the time.  Also included are nine letters from MacArthur to Hamilton Fish, Jr., dated 1921-1934.  The remainder of the correspondence is a miscellaneous collection of letters written by Douglas MacArthur, Jean MacArthur, Dwight D. Eisenhower, Harry S. Truman, and others.</p>
+         <p>The Douglas MacArthur collection also contains a notebook kept by Kenneth A. Sutherland, veteran of the 42nd Division, which contains a selection of items related to the Division's post-war activities and reunions; 40 aerial photographs and negatives taken by the 91st Reconnaissance Squadron, October 10, 1918; several photographs of Douglas MacArthur; thirteen published works by or about the General; and other miscellaneous materials.</p>
+      </scopecontent>
+      <controlaccess>
+         <p>
+            <extptr href="accnote" show="embed" actuate="onload"/>
+         </p>
+         <controlaccess>
+            <head>Subjects:</head>
+            <subject encodinganalog="650" source="lcsh">Aisne, Battle of the, France, 1918.</subject>
+            <subject encodinganalog="650" source="lcsh">Argonne, Battle of the, 1918.</subject>
+            <persname encodinganalog="600" source="lcnaf">Brooks, Louise Cromwell.</persname>
+            <subject encodinganalog="650" source="lcsh">Chateau-Thierry, Battle of, 1918.</subject>
+            <subject encodinganalog="650" source="lcsh">Chemical Warfare.</subject>
+            <subject encodinganalog="650" source="lcsh">Chemical Warfare--Safety Measures.</subject>
+            <subject encodinganalog="650" source="lcsh">Chemical Weapons.</subject>
+            <subject encodinganalog="650" source="lcsh">Communications, Military.</subject>
+            <persname encodinganalog="600" source="lcnaf">Fish, Hamilton, 1849-1936.</persname>
+            <subject encodinganalog="650" source="lcsh">Gases, Asphyxiating and Poisonous--War Use.</subject>
+            <subject encodinganalog="650" source="lcsh">Marne, 2nd Battle of the, France, 1918.</subject>
+            <subject encodinganalog="650" source="lcsh">Military Assistance, French.</subject>
+            <subject encodinganalog="650" source="lcsh">Military Intelligence.</subject>
+            <subject encodinganalog="650" source="lcsh">Military Reconnaissance.</subject>
+            <subject encodinganalog="650" source="lcsh">Saint-Mihiel (France), Battle of, 1918.</subject>
+            <subject encodinganalog="650" source="lcsh">Signals and Signaling.</subject>
+            <subject encodinganalog="650" source="lcsh">United States. Army.</subject>
+            <corpname encodinganalog="610" source="lcnaf">United States. Army--Artillery.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">United States. Army--Artillery--Drill and Tactics.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">United States. Army--Communication Systems.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">United States. Army--Drill and Tactics.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">United States. Army--Equipment.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">United States. Army--Field Service.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">United States. Army--History.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">United States. Army--Information Services.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">United States. Army--Medals, Badges, Decorations, etc.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">United States. Army--Organization.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">United States. Army--Records and Correspondence.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">United States. Army--Safety Measures.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">United States. Army--Sanitary Affairs.</corpname>
+            <corpname encodinganalog="610" source="lcnaf">United States. Army. Infantry Division, 42nd.</corpname>
+            <subject encodinganalog="650" source="lcsh">United States--History--1913-1921.</subject>
+            <subject encodinganalog="650" source="lcsh">World War, 1914-1918.</subject>
+            <subject encodinganalog="650" source="lcsh">World War, 1914-1918--Aerial Operations.</subject>
+            <subject encodinganalog="650" source="lcsh">World War, 1914-1918--Campaigns-France.</subject>
+         </controlaccess>
+         <controlaccess>
+            <head>Contributors: </head>
+            <persname encodinganalog="700" source="lcnaf">Adams, Florence.</persname>
+            <persname encodinganalog="700" source="lcnaf">Eisenhower, Dwight D. (Dwight David), 1890-1969.</persname>
+            <persname encodinganalog="700" source="lcnaf">Granara, J. Ralph.</persname>
+            <persname encodinganalog="700" source="lcnaf">Hughes, William.</persname>
+            <persname encodinganalog="700" source="lcnaf">Hunt, Haroldson L.</persname>
+            <persname encodinganalog="700" source="lcnaf">Kean, Robert Winthrop.</persname>
+            <persname encodinganalog="700" source="lcnaf">Luhrs, H. Ernst.</persname>
+            <persname encodinganalog="700" source="lcnaf">MacArthur, Arthur, 1845-1912.</persname>
+            <persname encodinganalog="700" source="lcnaf">MacArthur, Douglas, 1880-1964.</persname>
+            <persname encodinganalog="700" source="lcnaf">MacArthur, Jean Faircloth.</persname>
+            <persname encodinganalog="700" source="lcnaf">Mark, Clark.</persname>
+            <persname encodinganalog="700" source="lcnaf">Menoher, Charles Thomas, 1862-1930 </persname>
+            <persname encodinganalog="700" source="lcnaf">Rhodes, Weldon E.</persname>
+            <persname encodinganalog="700" source="lcnaf">Sutherland, Kenneth A.</persname>
+            <persname encodinganalog="700" source="lcnaf">Truman, Harry S., 1884-1972.</persname>
+            <corpname encodinganalog="710" source="lcnaf">United States. Army. Infantry Division, 42nd.</corpname>
+         </controlaccess>
+         <controlaccess>
+            <head>Genre Terms:</head>
+            <genreform encodinganalog="655" source="lcsh">Books.</genreform>
+            <genreform encodinganalog="655" source="lcsh">Diaries.</genreform>
+            <genreform encodinganalog="655" source="lcsh">Diaries.</genreform>
+            <genreform encodinganalog="655" source="lcsh">Letters (correspondence)</genreform>
+            <genreform encodinganalog="655" source="lcsh">Newspapers.</genreform>
+            <genreform encodinganalog="655" source="lcsh">Orders (military records)</genreform>
+            <genreform encodinganalog="655" source="lcsh">Photographs.</genreform>
+         </controlaccess>
+      </controlaccess>
+      <dsc type="combined">
+         <c01 level="series">
+            <did>
+               <container type="box" label="Box">1</container>
+               <unittitle>Correspondence and Diaries</unittitle>
+            </did>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Letters and diary to Florence Adams.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>6 items pertaining to Florence Adams including a lengthy diary written by Douglas MacArthur on his return trip from the Philippines in 1904.</p>
+               </scopecontent>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1904 October 15</unitdate>. Printed Receipt to Lt. D. MacArthur, with ANS by MacArthur on back.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1904 October</unitdate>. Douglas MacArthur ALS to Florence Adams.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1904 October</unitdate>. Douglas MacArthur ALS to Florence Adams.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1904 September-1904 October 16</unitdate>.   Florence Adams account of days spent with MacArthur.</unittitle>
+                     <physdesc>
+                        <extent>4 pp.</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive"> 1904 October 17-1904 November 25</unitdate>.  Douglas MacArthur diary written for Florence Adams.</unittitle>
+                     <physdesc>
+                        <extent>46pp.</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">Undated</unitdate> [<unitdate type="inclusive">1905 January</unitdate>?].  Douglas MacArthur ALS to Florence Adams.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Letters from Douglas MacArthur to Louise Cromwell (Brooks) MacArthur.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>5 letters from Douglas MacArthur to Louise Cromwell Brooks (later Mrs. Louise MacArthur) including romantic letters and a reflection on his father after visiting Kenesaw Mountain where he fought during the Civil War.</p>
+               </scopecontent>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1921 October 15</unitdate> (post). Douglas MacArthur ALS to Louise C. Brooks.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1921 October 23</unitdate> (post). Douglas MacArthur ALS  to Louise C. Brooks.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1921 November 18</unitdate> (post).  Douglas MacArthur ALS to Louise C. Brooks post .</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1925 May 28</unitdate> (post).  Douglas MacArthur ALS to Mrs. Louise MacArthur post .</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1925 May 30</unitdate> (post).  Douglas MacArthur ALS to Mrs. Louise MacArthur post .</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Letters from Douglas MacArthur to Hamilton Fish, Jr.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>9 Letters from Douglas MacArthur to Hamilton Fish Jr. during the period of time when MacArthur was Superintendent of West Point, and Chief of Staff, U.S. Army.</p>
+               </scopecontent>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1921 June 28</unitdate>. Douglas MacArthur TLS to Hamilton Fish, Jr.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1921 December 2</unitdate>.  Douglas MacArthurTLS to Hamilton Fish, Jr.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1931 June 9</unitdate>. Douglas MacArthur TLS to Hamilton Fish, Jr.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1931 June 30</unitdate>. Douglas MacArthur TLS to Hamilton Fish, Jr.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1932 August 24</unitdate>. Douglas MacArthur TLS to Hamilton Fish, Jr.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1932 August 25</unitdate>. Douglas MacArthur TLS to Hamilton Fish, Jr.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1933 January 6</unitdate>. Douglas MacArthur TLS to Hamilton Fish, Jr.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1933 June 29</unitdate>. Douglas MacArthur TLS to Hamilton Fish, Jr.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1934 February 1</unitdate>. Douglas MacArthur TLS to Hamilton Fish, Jr.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Miscellaneous letters and documents by or pertaining to Douglas MacArthur.</unittitle>
+               </did>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1885 March 23</unitdate>. Arthur MacArthur ALS to Mrs. Talmage.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1893 July 7</unitdate>. Arthur MacArthur TLS to W.G. Purdy.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1893 July 27</unitdate>.  Arthur MacArthur TLS to Thomas S. Wright.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1898 February 5</unitdate>.  Douglas MacArthur ALS to Frances [S. Rockwell]; Milwaukee, Wis[consin].</unittitle>
+                  </did>
+                  <note>
+                     <p>This letter is accompanied by an 8x10" photograph of the General, inscribed and signed "To Francis [sic.] With life-long friendship.  Douglas MacArthur Tokyo 1949."</p>
+                  </note>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1898 February 28</unitdate>.  Douglas MacArthur to Frances S. Rockwell; Milwaukee, [Wisconsin].</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1902 July 31</unitdate>. Arthur MacArthur TLS to Allen H. Wright.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1909 June 16</unitdate>. Arthur MacArthur ALS to Mr. Varney.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1909 June 17</unitdate>. [G.] Middlebrook TLS to Arthur MacArthur.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">[1913] March 28</unitdate>. Douglas MacArthur ALS to H.S. Rooksby.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1918 August 13</unitdate>. Charles Menoher document, to 42nd Division.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1920 December 6</unitdate>. Douglas MacArthur TLS to Marion Leroy Burton.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1920 December 14</unitdate>. Asst. of Marion Burton TLS (copy) to Douglas MacArthur.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1921 March 19</unitdate>. Douglas MacArthur TLS to W.L. Calver.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1921 April 30</unitdate>. Douglas MacArthur TLS to Wilt Robinson.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1927 October 28</unitdate>. Douglas MacArthur TLS to Murray Hulbert.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1930 November 25</unitdate>. Douglas MacArthur TLS to Wm. A. Wolf; Washington, D.C.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1931 February 14</unitdate>. Douglas MacArthur TLS to Dr. S.C.G. Watkins.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1931 August 12</unitdate>. Douglas MacArthur TLS to Gen. Cornelius Vanderbilt.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1932 February 22</unitdate>. Douglas MacArthur typed document, General Orders No. 3.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1932 February 22</unitdate>. Douglas MacArthur typed document, Circular No. 6.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1933 May 1</unitdate>. Douglas MacArthur TLS to Basil O'Connor.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1933 September 8</unitdate>. Douglas MacArthur TLS to Ernest Lundeen.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1936 February 4</unitdate>. Douglas MacArthur TLS to Capt. Harold D. Kehm.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1942 December 22</unitdate>. Douglas MacArthur postal telegraph to "the men and women of LC Smith &amp; Corona Typewriters Inc."</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">[1944] April 20</unitdate>. Dwight Eisenhower ALS to Mamie Eisenhower.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1945 October 14</unitdate>. Douglas MacArthur TLS to Mrs. Lena L. Smith.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1947 May 2</unitdate> (transmitted).  Douglas MacArthur telegram draft.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1947 July 16</unitdate> .  Douglas MacArthur TLS to Colonel Walter Wolf; Tokyo, Japan.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1948 August 11</unitdate>. Douglas MacArthur TLS to George W. DeWitt; Tokyo, Japan.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1948 December 6</unitdate>. Douglas MacArthur TLS to George J. Schoeneman.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1950 August 16</unitdate>. Harry S. Truman TLS to Douglas MacArthur.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1950 September 24</unitdate>. Jean MacArthur ALS to Dr. Poling.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1950 September 24</unitdate>. Douglas MacArthur DS, to William R. Landin.  Membership certificate in MacArthur's Honor Guard.</unittitle>
+                  </did>
+                  <note>
+                     <p>located in Oversize manuscripts</p>
+                  </note>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>[<unitdate type="inclusive">1951 April 4</unitdate>]. Douglas MacArthur ANS to [Laurence E.] Bunker.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1951 April 18</unitdate>. Harry S. Truman TLS to Cornelius Vanderbilt, Jr.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1951 April 18</unitdate>. Harry S. Truman TLS to Cyrus S. Ching.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1951 April 20</unitdate>.  Robert W[inthrop] Kean TLS to Stephen Siteman.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1951 May 15</unitdate>.  Ike [Dwight D.] Eisenhower TLS to Douglas MacArthur.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1951 July 2</unitdate>. H. Ernst Luhrs TLS (with an additional copy) to Douglas MacArthur.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1952 June 18</unitdate>. H[aroldson] L. Hunt TLS to Francis Case.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1952 July 10</unitdate>. Harry S. Truman TLS to Russ Stewart.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1953 January 22</unitdate>. Douglas MacArthur TLS to Bascom N. Timmons.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1953 July 16</unitdate>. Jean MacArthur TLS to Mrs. Goodwin.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1953 August 8</unitdate>. Jean MacArthur TLS to Mrs. Goodwin; enclosing one family photograph.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">[1953] September 5</unitdate>.  Arthur MacArthur ALS to Mrs. Goodwin.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1955 July 31</unitdate>.  J. Ralph Granara ALS to Douglas MacArthur; enclosing: MacArthur, Douglas MacArthur ALS to J. Ralph Granera,  [<unitdate type="inclusive">1955</unitdate>].</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1956 January 26</unitdate>.  Douglas MacArthur TLS to Brig. Gen. L.A. Diller.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1956 February 20</unitdate>.  Douglas MacArthur TLS to John Marquez.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1957 August 5</unitdate>.  Harry S. Truman TLS to John Norman.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1958 July 2</unitdate>.  Douglas MacArthur TLS to Marshall Lachner.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1961 April 14</unitdate>.  Douglas MacArthur ALS to John J. McSweeney.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1962 July 31</unitdate>.  Printed Document Signed: Sperry Rand Corporation, Annual Meeting of Stockholders.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1966 January 5</unitdate>.  Dwight Eisenhower TLS to Edgar Garbisch.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1969 September 26</unitdate>.  Jean MacArthur TLS to "Ed."</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1983 April 29</unitdate>.  Weldon E. Rhodes ALS to Frank.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1983 July 5</unitdate>.  Clark Mark TLS to Joseph Fawls.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">[ ] March, 21</unitdate>.  Douglas MacArthur ALS to General Bundy.  </unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Papers pertaining to the 42nd (Rainbow) Division</unittitle>
+            </did>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Military documents to the 42nd Division from external military units.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>137 documents and memos directed to units of the 42nd Division from various military units within and outside the 42nd Division.  Arranged by unit.</p>
+               </scopecontent>
+               <c03 level="item">
+                  <did>
+                     <unittitle>General Headquarters, A.E.F.,   <unitdate type="inclusive">1918 April 8</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>1 Document</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>Headquarters IV Army Corps, A.E.F.,  <unitdate type="inclusive">1918 August 20-1918 September 26</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>10 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>Headquarters V Army Corps,  <unitdate type="inclusive">1918 October 9-1918 October 31</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>17 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>P.C. 64th Brigade,   <unitdate type="inclusive">1918 October 12-1918 October 13</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>3 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>U.S. Army 89th Division,   <unitdate type="inclusive">1918 September 9-1918 September 30</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>3 TD Cys</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <container type="box" label="Box">2</container>
+                     <unittitle>French 4th Army Corps,  <unitdate type="inclusive">1918 June 26</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>4 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>French 5th Army Corps,  <unitdate type="inclusive">1918 May 30-1918 July 2</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>44 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>French 6th Army Corps,  <unitdate type="inclusive">1918 June 1-1918 August 8</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>10 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>French 7th Army Corps,  <unitdate type="inclusive">1918 April 9-1918 April 22</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>3 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>Miscellaneous French Documents,  <unitdate type="inclusive">1918 June 26-1918 September 24</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>8 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>German Communique, <unitdate type="inclusive">1918 August 7-1918 October 31</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>7 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>French Communique, <unitdate type="inclusive">1918 August 10-1918 October 31</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>12 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>American Communique, <unitdate type="inclusive">1918 October 28-1918 October 31</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>6 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>Chemical Warfare Service,  <unitdate type="inclusive">1918 August 14-1918 October 16</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>9 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Military documents from the 42nd Division to various military units.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>293 military documents from the 42nd Division, A.E.F., Chiefs of Staff and General Staff Douglas MacArthur, William Hughes, Jr., R.H. Williams, Craig Malin, and H.A. Drum to various military units, September 8, 1917-January 27, 1919.</p>
+               </scopecontent>
+               <c03 level="item">
+                  <did>
+                     <unittitle>Headquarters 42nd Division [Douglas MacArthur].</unittitle>
+                     <physdesc>
+                        <extent>53 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <container type="box" label="Box">3</container>
+                     <unittitle>Headquarters 42nd Division [William Hughes, Jr.].</unittitle>
+                     <physdesc>
+                        <extent>12 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>Headquarters 42nd Division [R.H. Williams].</unittitle>
+                     <physdesc>
+                        <extent>6 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>Headquarters 42nd Division [Craig Malin].</unittitle>
+                     <physdesc>
+                        <extent>5 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>Headquarters 42nd Division [H.A. Drum].</unittitle>
+                     <physdesc>
+                        <extent>1 Document</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Headquarters 42nd Division [William Hughes, Jr.].</unittitle>
+                     <physdesc>
+                        <extent>73 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Headquarters 42nd Division [Douglas MacArthur].</unittitle>
+                     <physdesc>
+                        <extent>2 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Headquarters 42nd Division [R.H. Williams].</unittitle>
+                     <physdesc>
+                        <extent>1 Document</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <container type="box" label="Box">4</container>
+                     <unittitle>Headquarters 42nd Division [Hughes, William, Jr.]  <unitdate type="inclusive">1919 September 14-1919 January 27</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>120 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <container type="box" label="Box">5</container>
+                  <unittitle>Internal military documents from and to various military units in the 42nd Division.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>280 internal documents and memos from and to various military units in the 42nd Division, A.E.F.,  November 18, 1917-April 1, 1919.  Arranged by unit.</p>
+               </scopecontent>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Headquarters 42nd Division,  <unitdate type="inclusive">1917  November 18-1918 November 28</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>35 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Miscellaneous Documents 42nd Division,   <unitdate type="inclusive">1917 November 24-1918 March 25</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>6 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Miscellaneous Documents 42nd Division,   <unitdate type="inclusive">1918 May 23-1918 October 28</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>16 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Miscellaneous Documents 42nd Division,   <unitdate type="inclusive">Undated</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>33 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Miscellaneous Annexes and Appendices,   <unitdate type="inclusive">Undated</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>13 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Headquarters 67th Field Artillery Brigade,   <unitdate type="inclusive">1918 March 24-1918 September 25</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>11 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Headquarters 83rd Infantry Brigade,   <unitdate type="inclusive">1918 March 31-1918 October 18</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>33 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Headquarters 84th Infantry Brigade,   <unitdate type="inclusive">1918 March 31-1919 April 1</unitdate>.</unittitle>
+                     <physdesc>86 Documents</physdesc>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Headquarters 167th Infantry,   <unitdate type="inclusive">1918 April 2-1918 October 19</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>22 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Headquarters 168th Infantry,   <unitdate type="inclusive">1918 April 7-1918 October 21</unitdate>.</unittitle>
+                     <physdesc>
+                        <extent>24 Documents</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <container type="box" label="Box">6</container>
+                  <unittitle>Kenneth A. Sutherland Notebook.  </unittitle>
+               </did>
+               <scopecontent>
+                  <p>35 letters, documents, publications, and ephemera related to reunions of the 42nd Division, 1918-1937.  Includes two letters by Douglas MacArthur, 1931-1932.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <container type="box" label="Box">7</container>
+               <unittitle>Photographs and miscellaneous papers pertaining to Douglas MacArthur</unittitle>
+            </did>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Aerial photographs and negatives, 91st Reconnaissance Squadron, <unitdate type="inclusive">1918 October 10</unitdate>.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>40 aerial photographs and negatives, taken by the 91st Recon. Squadron, [France].</p>
+               </scopecontent>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <container type="box" label="Box">8</container>
+                  <unittitle>Miscellaneous photographs and papers.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>11 miscellaneous photographs and additional papers related to Douglas MacArthur.</p>
+               </scopecontent>
+               <c03 level="item">
+                  <did>
+                     <unittitle>[Undated, WWI era].  Photograph: full length posed photo of Douglas MacArthur holding a swagger stick.  Signed "To a beloved comrade-in-arms of the Rainbow"</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle> [<unitdate type="inclusive">1917-1919</unitdate>].  Photograph Identification card of Brig. Gen. Douglas MacArthur, Chief of Staff 42nd Division.</unittitle>
+                     <physdesc>
+                        <extent>1 item</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1932 March 14</unitdate>.  Photograph: full length portrait of Douglas MacArthur in uniform.   Signed "With cordial regard."</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>[<unitdate type="inclusive">1944 October 20</unitdate>].  Photograph: General Douglas MacArthur walking ashore at the Leyte Landing, Signed.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>[<unitdate type="inclusive">1945 January 9</unitdate>].  Photograph: International News (wire service) photo; Luzon, Philippines.  Depicting the General walking ashore.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1945 February 25</unitdate>.  Photograph: International News (wire service) photo; Luzon, Philippines.  Depicting the General standing with aides on the Bataan peninsula.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1945 August 14</unitdate>.  <emph render="underline">The Abiline Reporter</emph>, vol. 65, no. 58; Abiline, Texas.  . Front page article "Peace! Key Men in Drive to Victory Over Japan" includes pictures of Chester Nimitz and Douglas MacArthur.</unittitle>
+                     <note>
+                        <p>located in Oversize manuscripts</p>
+                     </note>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1949</unitdate>.  Photograph: Portrait of the General, inscribed and signed "To Francis With life-long friendship.  Douglas MacArthur Tokyo 1949."</unittitle>
+                  </did>
+                  <note>
+                     <p>located in "Miscellaneous letters and documents pertaining to Douglas MacArthur" series, with Douglas MacArthur ALS to Frances [S. Rockwell]; 1898 February 5</p>
+                  </note>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1951 April 19</unitdate>.  Photograph: General Douglas MacArthur Addresses Members of Congress, U.S. Army Photograph SC361740-S.  .  Signed by Douglas MacArthur and Vice President Alben W. Barkley.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1951 December 3</unitdate>.  Printed advertisement/RSVP: Poor Richard's 47th Annual Banquet.  .</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1964 April 6</unitdate>.  <emph render="underline">New York Times</emph>, vol. CXIII, no. 39,789.</unittitle>
+                     <abstract>Regarding the death of Douglas MacArthur.</abstract>
+                     <note>
+                        <p>located in Oversize manuscripts</p>
+                     </note>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">1971 January 26</unitdate>.  Printed Douglas MacArthur envelope and postal cancellation, first day of issue.  Post .  Signed by Jean MacArthur.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="item">
+                  <did>
+                     <unittitle>
+                        <unitdate type="inclusive">Undated</unitdate>.  Document (copy).  List of Units making up the Rainbow Division.  Submitted by a member of Battalion E, 149th U.S.F.A.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Published works</unittitle>
+            </did>
+            <c02 level="item">
+               <did>
+               <container label="Volume" type="volume">1</container>					
+                  <unittitle>James, D[orris] Clayton.  <title render="italic">The Years of MacArthur</title> .  Boston: Houghton Mifflin, v. 1, <unitdate type="inclusive">1970</unitdate> v. 2, <unitdate type="inclusive">1975</unitdate> v. 3, 1985.</unittitle>
+               </did>
+            </c02>
+            <c02 level="item">
+               <did>
+               <container label="Volume" type="volume">2</container>					
+                  <unittitle>Lowitt, Richard, and Harry S. Truman.  <title render="italic">The Truman-MacArthur Controversy</title> .  Chicago: Rand McNally, 1967.</unittitle>
+               </did>
+            </c02>
+            <c02 level="item">
+               <did>
+               <container label="Volume" type="volume">3</container>					
+                  <unittitle>MacArthur, Douglas.  <title render="italic">Duty, Honor, Country: a Pictorial Autobiography</title> .  New York: McGraw-Hill, 1965.</unittitle>
+               </did>
+            </c02>
+            <c02 level="item">
+               <did>
+               <container label="Volume" type="volume">4</container>					
+                  <unittitle>MacArthur, Douglas.  <title render="italic">Military Demolitions</title> .  [Fort Leavenworth, Kan., Staff college press], 1909.  Signed on cover by Douglas MacArthur and presented in a custom blue clamshell box.</unittitle>
+               </did>
+            </c02>
+            <c02 level="item">
+               <did>
+               <container label="Volume" type="volume">5</container>					
+                  <unittitle>MacArthur, Douglas.<title render="italic" href="http://mirlyn.lib.umich.edu/Record/005667726" actuate="onrequest" show="replace">Reminiscences</title> .  New York, McGraw-Hill, 1964.</unittitle>
+               </did>
+            </c02>
+            <c02 level="item">
+               <did>
+               <container label="Volume" type="volume">6</container>					
+                  <unittitle>MacArthur, Douglas, and Norman Vincent Peale.  <title render="italic">Revitalizing a Nation: a Statement of Beliefs, Opinions, And Policies Embodied In the Public Pronouncements of Douglas MacArthur</title> .  Chicago: Heritage Foundation; distributed by Garden City Books, Garden City, N.Y, 1952.  Signed on title page by Douglas MacArthur.  Enclosed:  Printed program for "Reception and Luncheon for General of the Army Douglas MacArthur," Michigan State College, Kellogg Center, East Lansing, Michigan,  May 15, 1952.  Enclosed:  Manuscript notes on MacArthur's speech, taken by Duane N. Diedrich, at the Kellogg Center.  Enclosed:  typed explanatory note by the regarding the volume and enclosures,  dated August 21, 2010.</unittitle>
+               </did>
+            </c02>
+            <c02 level="item">
+               <did>
+               <container label="Volume" type="volume">7</container>					
+                  <unittitle>MacArthur, Douglas, and Vorin E. Whan.  <title render="italic">A Soldier Speaks: Public Papers and Speeches of General of the Army, Douglas MacArthur</title> .  New York: Praeger, 1965.</unittitle>
+               </did>
+            </c02>
+            <c02 level="item">
+               <did>
+               <container label="Volume" type="volume">8</container>					
+                  <unittitle>Pearlman, Michael D.  <title render="italic">Truman &amp; MacArthur: Policy, Politics, and the Hunger for Honor and Renown</title>.  Bloomington:  Indiana University Press, 2008.</unittitle>
+               </did>
+            </c02>
+            <c02 level="item">
+               <did>
+               <container label="Volume" type="volume">9</container>					
+                  <unittitle>Rasor, Eugene L.  <title render="italic">General Douglas MacArthur, 1880-1964: Historiography and Annotated Bibliography</title>.  Westport, Conn.:  Greenwood Press, 1994.</unittitle>
+               </did>
+            </c02>
+            <c02 level="item">
+               <did>
+               <container label="Volume" type="volume">10</container>					
+                  <unittitle>
+                     <title render="italic">Representative Speeches of General of the Army Douglas MacArthur</title> . Washington: U.S.G.P.O., 1964.</unittitle>
+               </did>
+            </c02>
+            <c02 level="item">
+               <did>
+               <container label="Volume" type="volume">11</container>					
+                  <unittitle>Spanier, John W.  <title render="italic">The Truman-MacArthur Controversy and the Korean War</title> .  Cambridge, Mass.: Belknap Press, 1959.</unittitle>
+               </did>
+            </c02>
+            <c02 level="item">
+               <did>
+               <container label="Volume" type="volume">12</container>					
+                  <unittitle>Whitney, Courtney.  <title render="italic" href="http://mirlyn.lib.umich.edu/Record/004615316" actuate="onrequest" show="replace">Macarthur:  His Rendezvous with History</title> .  New York, Knopf, 1956.</unittitle>
+               </did>
+            </c02>
+            <c02 level="item">
+               <did>
+               <container label="Volume" type="volume">13</container>					
+                  <unittitle>Composite volume containing copies of:</unittitle>
+               </did>
+               <c03 level="file">
+                  <did>
+                     <unittitle>1.  MacArthur, Douglas, and Norman Vincent Peale.  <title render="italic">Revitalizing a Nation: a Statement of Beliefs, Opinions, and Policies Embodied in the Public Pronouncements of Douglas MacArthur</title>.  Chicago: Heritage Foundation; distributed by Garden City Books, Garden City, N.Y, 1952.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>2.  <title render="italic">Military Situation in the Far East</title>.  Washington: U.S.G.P.O., <unitdate type="inclusive">1951</unitdate> part I (pages 1-724).</unittitle>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>3.  <title render="italic">Address of the General of the Army Douglas MacArthur at a Joint Meeting of the Two Houses in the Hall of the House of Representatives,  April 19, 1951</title>.  Washington: U.S.G.P.O., 1951.</unittitle>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>4.  <title render="italic">Individual Views of Certain Members of the Joint Committee on Armed Services and Foreign Relations of the United States Senate Relating to the Hearings Held on the Dismissal of General MacArthur and the Military Situation in the Far East  May 3-June 27, 1951</title>.  Washington: U.S.G.P.O., 1951.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+      <descgrp type="add">
+         <relatedmaterial>
+            <p>
+               <title render="italic">The MacArthur papers</title>, MacArthur Memorial Library and Archives. Norfolk, Virginia.</p>
+            <p>
+               <title render="italic" href="http://quod.lib.umich.edu/cgi/f/findaid/findaid-idx?c=clementsmss;view=reslist;subview=standard;didno=umich-wcl-M-4265hou" actuate="onrequest" show="replace">Bleecker Houston papers</title>, William L. Clements Library, The University of Michigan, Ann Arbor.</p>
+            <p>
+               <title render="italic">Erwin Nieswand papers</title>, William L. Clements Library, The University of Michigan, Ann Arbor.</p>
+         </relatedmaterial>
+         <bibliography>
+            <p>Cheseldine, Raymond M. <title render="italic">Ohio in the Rainbow; Official Story of the 166th Infantry, 42nd Division, in the World War</title>.	Columbus, Ohio: F.J. Heer, 1924.</p>
+            <p>Cooke, James J. <title render="italic">The Rainbow Division in the Great War, 1917-1919</title>. 	Westport, Conn.: Praeger, 1994.</p>
+            <p>Reilly, Henry Joseph. <title render="italic">Americans All: The Rainbow at War; Official History of the 42nd Rainbow Division in the World War</title>. 	Columbus, Ohio: F.J. Heer, 1936.</p>
+            <p>Schaller, Michael. <title render="italic">MacArthur, Douglas</title>. 	American National Biography Online, Feb. 2000.</p>
+            <p>Whitney, Courtney. <title render="italic" href="http://mirlyn.lib.umich.edu/Record/004615316" actuate="onrequest" show="replace">MacArthur: His Rendezvous with History</title>. New York, Knopf, 1956.</p>
+         </bibliography>
+      </descgrp>
+   </archdesc>
+</ead>

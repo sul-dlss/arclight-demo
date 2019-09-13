@@ -1,0 +1,2610 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+	<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+		<eadid countrycode="us" mainagencycode="MiMtpT-C" publicid="us//::mi-HC//TXT us::ehll::wilsondoncollectiontwo.xml//EN" encodinganalog="identifier">ehll--wilsondoncollectiontwo</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="title">Finding Aid for 
+wilsondoncollectiontwo</titleproper>
+				<author encodinganalog="creator">Collection processed and finding aid created by 
+M. Prindiville, M. Matyn</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="publisher">Clarke Historical Library</publisher>
+				<date encodinganalog="date">
+2014; 2019
+</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Encoded finding aid created by 
+Marian Matyn, 
+<date>2014; 2019</date>
+			</creation>
+			<langusage>The finding aid is written in  <language langcode="eng">English</language>
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<publisher>Clarke Historical Library<lb/>Central Michigan University</publisher>
+			<titleproper>Finding aid for<lb/>
+Don Wilson Collection</titleproper>
+			<author>Finding aid created by<lb/> 
+M. Prindiville, Marian Matyn
+</author>
+		</titlepage>
+	</frontmatter>
+	<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21">
+		<did>
+			<origination>
+				<persname source="lcnaf" encodinganalog="100">Wilson, Don.</persname>
+			</origination>
+			<unittitle encodinganalog="245">
+Don Wilson Collection
+<unitdate type="inclusive" encodinganalog="245$f">
+1885-2015, and undated  
+</unitdate>
+			</unittitle>
+			<physdesc>
+				<extent encodinganalog="300">
+11.5 cubic ft. (in 11 boxes, 3 slide boxes, 2 note card boxes of slides, 21 Oversized folder)</extent>
+			</physdesc>
+			<unitid encodinganalog="099" repositorycode="MiMtpT-C" countrycode="us" type="call number">
+MSS.
+</unitid>
+			<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language>
+			</langmaterial>
+			<abstract>The collection mostly documents Michigan railroads, focusing on the Ann Arbor Railroad Company (AARR), related lines, and its ferries in many formats. Also included are some organizational records of the Ann Arbor Railroad Technical and Historical Association (AARTHA).</abstract>
+			<repository>
+				<corpname encodinganalog="852">
+					<subarea>Clarke Historical Library</subarea>, Central Michigan University</corpname>
+				<extptr href="CHLadd" show="embed" actuate="onload"/>
+			</repository>
+		</did>
+		<descgrp type="admin">
+			<acqinfo encodinganalog="541">
+				<p>
+Acc # 74460, 74499, 75617 
+</p>
+			</acqinfo>
+			<accessrestrict encodinganalog="506">
+				<p>
+Don Wilson Collection is open for research.</p>
+			</accessrestrict>
+			<userestrict encodinganalog="540">
+				<p>
+Copyright is unknown.  
+</p>
+			</userestrict>
+			<prefercite encodinganalog="524">
+				<p>
+Don Wilson Collection, Folder #, Box #, Clarke Historical Library, Central Michigan University
+</p>
+			</prefercite>
+		</descgrp>
+		<bioghist encodinganalog="545">
+			<p>Biography:</p>
+<p>Don Wilson (1937-2013) was a member of the Ann Arbor Railroad Technical and Historical Association (AARTHA). He was a veteran of the U.S. Army having served in Viet Nam and Thailand. He taught school for 30 years and coached several sports teams. He was also a member of the Chesaning-Brady Fire Department for 42 years. A copy of his obituary is found at the front of Box 1. The Clarke Historical Library houses several of his railroad and/or ferries collections.</p>
+		</bioghist>
+		<arrangement encodinganalog="351">
+			<p>The collection is organized by size and format, and then in alphabetical and chronological order.</p>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+<p>Collection, collected over time by Don Wilson, some of which he was given by other rail fans. The collection mostly documents Michigan railroads, focusing on the Ann Arbor Railroad Company (AARR), related lines, its reorganization, abandonment, and its ferries. Some ferry information is general such as Twin Screw Specs (Box 5), and there is information specific to the M.V. [Motor Vessel] Viking (originally Ann Arbor No. 7) and the City of Milwaukee. Formats include slides, photographs, negatives, photograph printing plates, blueprints, scrapbooks, photograph albums, speeches, notes, newspaper clippings and magazine articles, maps, digital scans and positive prints from those scans, a CD, and miscellaneous, related publications. Also included are some organizational records of the AARTHA.  Other railroads documented to various degrees in the collection include: Central Michigan Railroad (CM); Detroit, Caro and Sandusky Railroad (DC and S); Detroit, Toledo, and Ironton Railroad; Grand Trunk Railway (GT); Green Bay and Western Railroad; H and E Railroad [probably the Huron and Eastern]; Manistique and Lake Superior Railroad; Michigan Interstate Railway Company; Michigan Northern Railway Company; Mid-Michigan Railroad; New York Central Railroad (NYC) and St. Louis Railroad (SLRR); New York Central State Railroad (NYCS); Norfolk and Western Railway Company; Northwestern Pacific Railroad; Penn Central Railroad; Southern Pacific Transportation Company; Tuscola, Saginaw Bay Railroad (TSBRR); Toledo, Owosso, and Flint Railroad (TOandFRR); Wabash Railroad, and Wisconsin Central Railroad.</p>
+<p>Items of special interest to researchers may include: manifests of the M.V. Viking, February-August 1976, and AARTHA bylaws, meeting minutes, newsletter information, member lists, and other information (Box 1); reorganization information (see Vincent M. Malanaphy folders (Boxes 2, 4), Michigan Interstate Railway Co. and MI Rail System Rationalization Plan information (Box 4), AARR photographs (Boxes 2-3), Pamona Derailment Negatives, undated (Box 5).</p>
+<p>Photographs, negatives, and history of a plethora of railroad related topics are found throughout the collection. There are three slide boxes and two note card boxes full of slides on railroads (Slide Boxes 1-5).</p>
+<p>Blueprints include line, lever circuit controllers, and station design plans, styling and painting design, system maps, tracks and structures, equipment, station and train car blueprints, and property drawings.</p>
+<p>The 2016 addition, Boxes 14-16 and Folder #21 (legal-size), 1.5 cubic feet from Don’s friend Don Maddock was organized by Maddock into the series of Abandonment Petitions and Michigan Interstate Era. Included are paper documents, scans and positive prints of some of Wilson’s negatives, a few other topical files, a CD, and three color photographs. The addition largely documents the reorganization and end of the AARR. Sale papers for the City of Milwaukee are included. Most of the 2019 addition papers are copies. Note: 2016 addition negatives are housed in print file negative preservers, not archival negative sleeves.</p>
+<p>Researchers may be interested in knowing that there are several collections and many publications by and about the Ann Arbor Railroad in the Clarke, as well as other collections and published sources documenting other railroad companies.</p>
+<p>Processing Note: The collection is organized by size and format, and then in alphabetical and chronological order. A few publications, two general railroad films, and a tote bag were returned to the members of the AARTHA. Some publications (24), both monographs and parts of serials, were cataloged separately and added to the Clarke’s collections. Some of the items are quite acidic or fragile, most of which were photocopied and the originals were withdrawn from the collection (.25 cubic ft. total). In a few cases, where entire folders were composed of very fragile tissue paper records or acidic records, the decision was made to leave the materials as they were without copying them. Numerous abbreviations were used by Mr. Wilson within the collection, which were replicated by the processors. Michigan was often abbreviated MI by Mr. Wilson and is used in this finding aid. See the Scope and Contents Note for abbreviations used for names of railroad companies.</p>
+		</scopecontent>
+		<controlaccess>
+			<p>
+				<extptr href="accnote" show="embed" actuate="onload"/>
+			</p>
+			<controlaccess>
+				<head>Subjects:</head>
+				<corpname encodinganalog="610" source="lcnaf">Ann Arbor Railroad Company--History.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">Ann Arbor Railroad Company--Planning.</corpname>
+				<corpname encodinganalog="710" source="lcnaf">Ann Arbor Railroad Technical and Historical Association.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">Detroit, Toledo, and Ironton Railroad--History.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">Tuscola and Saginaw Bay Railway Company.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">American Bureau of Shipping.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">Grand Trunk Corporation.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">Penn Central Transportation Company.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">New York Central Railroad Company.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">Manistique and Lake Superior Railroad Company.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">Wisconsin Central Railroad Company (1954-1960)</corpname>
+				<corpname encodinganalog="610" source="lcnaf">Wabash Railroad.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">Michigan Interstate Railroad Company.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">Ann Arbor No. 7 (Car ferry)</corpname>
+				<corpname encodinganalog="610" source="lcnaf">City of Milwaukee (Car ferry)</corpname>
+				<corpname encodinganalog="610" source="lcnaf">ConRail.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">Michigan Northern Railway Company.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">Norfolk and Western Rialway Company.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">United States. Bankruptcy Court (Michigan : Eastern District)</corpname>
+				<corpname encodinganalog="610" source="lcnaf">Michigan. Dept. of Transportation.</corpname>
+				<corpname encodinganalog="610" source="lcnaf">Michigan. Dept. of Licensing and Regulatory Affairs.</corpname>
+				<subject encodinganalog="650" source="lcnaf">Ferries--Michigan.</subject>				
+				<subject encodinganalog="650" source="lcnaf">Ferries--Michigan, Lake.</subject>	
+				<subject encodinganalog="650" source="lcnaf">Ferries--Great Lakes (North America)</subject>	
+				<subject encodinganalog="650" source="lcnaf">Railroads--Michigan--History.</subject>
+				<subject encodinganalog="650" source="lcnaf">Railroads--Michigan--Planning.</subject>
+				<subject encodinganalog="650" source="lcnaf">Railroads--Abandonment--Michigan.</subject>
+				<subject encodinganalog="650" source="lcnaf">Railroads--History.</subject>
+				<subject encodinganalog="650" source="lcnaf">Railroads--United States--History.</subject>
+				<subject encodinganalog="650" source="lcnaf">Railroads--Employees.</subject>
+				<subject encodinganalog="650" source="lcnaf">Railroads--North America--Maps.</subject>
+				<subject encodinganalog="650" source="lcnaf">Blueprints.</subject>
+				<subject encodinganalog="650" source="lcnaf">Scrapbooks--Michigan.</subject>
+				<geogname encodinganalog="651" source="lcnaf">Benzie County (Mich.)--History.</geogname>
+				<geogname encodinganalog="651" source="lcnaf">Saint Louis (Mich.)--History.</geogname>
+				<geogname encodinganalog="651" source="lcnaf">Whitmore Lake Region (Mich.)--History.</geogname>
+				<geogname encodinganalog="651" source="lcnaf">Chesaning (Mich.)--History.</geogname>
+				<geogname encodinganalog="651" source="lcnaf">Toledo (Ohio)--History.</geogname>
+			</controlaccess></controlaccess>
+		<dsc type="combined">
+			<c01 level="series">
+				<did>
+					<unittitle>Don Wilson Collection.</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Don Wilson Obituary,<unitdate type="inclusive">2013</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>18 Month Progress Report on A.A.R.R. System [Bad Copy],<unitdate type="inclusive">1979</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>A.A.R.R., A. and B. R. Ry., E. and S.-E.R.R., M. and N.-E.R.R. Stations,<unitdate type="inclusive">July 1899, June 1904</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>A.A.R.R., Agreement Covering Locomotive Engineers, Firemen-Helpers, Hostlers, and Outside Hostler-Helpers,<unitdate type="inclusive">September 1956</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>A.A.R.R., Agreement with D.G.R. and W. Railway Co.,<unitdate type="inclusive">February 1897</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>A.A.R.R., Articles from “The Inside Track”,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>A.A.R.R., Boat Workers,<unitdate type="inclusive">1948, 1960, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>A.A.R.R., Carferry History (1 of 2),<unitdate type="inclusive">1915, 1979</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>A.A.R.R., Carferry History (2 of 2),<unitdate type="inclusive">1949</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>A.A.R.R., Certification Cards and Paperwork,<unitdate type="inclusive">1973-1974</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>A.A.R.R., Circulars and Bulletins [VERY ACIDIC],<unitdate type="inclusive">1947</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>A.A.R.R., Clearance Cards (1 of 2),<unitdate type="inclusive">1976, 1982</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>A.A.R.R., Clearance Cards (2 of 2),<unitdate type="inclusive">1909, 1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>A.A.R.R., Conductors’ Train Reports,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>A.A.R.R., Drawings,<unitdate type="inclusive">1914, 1989</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>A.A.R.R., D.S.S. and A. Railway,<unitdate type="inclusive">1943</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>A.A.R.R., History, “A.A.R.R., Fifty Years Ago”,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">17</container>
+						<unittitle>A.A.R.R., Line Abandon Blueprint, Ithaca to Alma,<unitdate type="inclusive">April 1897</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">18</container>
+						<unittitle>A.A.R.R., Local and Joint Commodity Freight Tariff),<unitdate type="inclusive">1930, 1951</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">19</container>
+						<unittitle>A.A.R.R., Local Time Tables, Effective June 1st (Copy),<unitdate type="inclusive">1934</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">20</container>
+						<unittitle>A.A.R.R., Miscellaneous,<unitdate type="inclusive">1895, 1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">21</container>
+						<unittitle>A.A.R.R., M.L.S.R.R., Locomotive Equipment,<unitdate type="inclusive">January 1930</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">22</container>
+						<unittitle>A.A.R.R., M.L.S.R.R., Locomotive Equipment,<unitdate type="inclusive">January 1936</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">23</container>
+						<unittitle>A.A.R.R., M.L.S.R.R., Locomotive Equipment,<unitdate type="inclusive">January 1963</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">24</container>
+						<unittitle>A.A.R.R., Map (Copies),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">25</container>
+						<unittitle>A.A.R.R., “M.V. Viking,” Manifests,<unitdate type="inclusive">February 1976</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">26</container>
+						<unittitle>A.A.R.R., “M.V. Viking,” Manifests,,<unitdate type="inclusive">March 1976</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">27</container>
+						<unittitle>A.A.R.R., “M.V. Viking,” Manifests,,<unitdate type="inclusive">April 1976</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">28</container>
+						<unittitle>A.A.R.R., “M.V. Viking,” Manifests,,<unitdate type="inclusive">May 1976</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">29</container>
+						<unittitle>A.A.R.R., “M.V. Viking,” Manifests,,<unitdate type="inclusive">June 1976</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">30</container>
+						<unittitle>A.A.R.R., “M.V. Viking,” Manifests,,<unitdate type="inclusive">July-August 1976</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">31</container>
+						<unittitle>A.A.R.R., News Release,<unitdate type="inclusive">1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">32</container>
+						<unittitle>A.A.R.R., Office of Superintendent,<unitdate type="inclusive">1960, 1982</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">33</container>
+						<unittitle>A.A.R.R., Operating Manual, revised 1999,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">34</container>
+						<unittitle>A.A.R.R., Operating Proposal to MI Dept. of State Highways and Transportation,<unitdate type="inclusive">1976</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">35</container>
+						<unittitle>A.A.R.R., Owosso Circulars,<unitdate type="inclusive">1939-1940</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">36</container>
+						<unittitle>A.A.R.R., Paycheck Endorsements,<unitdate type="inclusive">1958-1959</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">37</container>
+						<unittitle>A.A.R.R., Photographs,<unitdate type="inclusive">1938, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">38</container>
+						<unittitle>A.A.R.R., Pole Inspection Charts, Blueprints,<unitdate type="inclusive">1955</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">39</container>
+						<unittitle>Wilson, A.A.R.R., Preferred Stock,<unitdate type="inclusive">1893</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">40</container>
+						<unittitle>A.A.R.R., Switch and Yard Check Lists,<unitdate type="inclusive">1915, 1981, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">41</container>
+						<unittitle>A.A.R.R., System Maps, Drawn 1970, updated 1975,<unitdate type="inclusive">1975</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>A.A.R.R. Technical and Historical Association (AARRTHA),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>A.A.R.R. Technical and Historical Association, Board Meeting,<unitdate type="inclusive">1986</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>A.A.R.R. Technical and Historical Association, Board of Directors, Meeting Minutes,<unitdate type="inclusive">1992, 1995</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>A.A.R.R. Technical and Historical Association, By-Laws,<unitdate type="inclusive">1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>A.A.R.R. Technical and Historical Association, Calendar Index Update,<unitdate type="inclusive">2002</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>A.A.R.R. Technical and Historical Association, Income Records,<unitdate type="inclusive">1994-1995</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>A.A.R.R. Technical and Historical Association, Insurance Information,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>A.A.R.R. Technical and Historical Association, Newsletter Expenses,<unitdate type="inclusive">1988, 1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>A.A.R.R. Technical and Historical Association, Publications Committee,<unitdate type="inclusive">2002</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>A.A.R.R. Technical and Historical Association, Release Forms,<unitdate type="inclusive">1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>A.A.R.R., Seniority Lists,<unitdate type="inclusive">1936-1937</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>A.A.R.R., Time Table #107, Taking Effect April 30th (Reprint),<unitdate type="inclusive">1939</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>A.A.R.R., T.N.H. Assoc. Membership List,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>A.A.R.R., Track Diagram (Copy),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>A.A.R.R.,  Train Location Reports,<unitdate type="inclusive">1961</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>A.A.R.R., Train Orders,<unitdate type="inclusive">1936, 1949</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">17</container>
+						<unittitle>A.A.R.R., Train Orders, “Old and New”,<unitdate type="inclusive">1978-1979</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">18</container>
+						<unittitle>A.A.R.R., Train Orders, [VERY ACIDIC],<unitdate type="inclusive">August 1958</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">19</container>
+						<unittitle>A.A.R.R., Train Schematic (Copies),<unitdate type="inclusive">1926-1927</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">20</container>
+						<unittitle>A.A.R.R., Unassigned Empty Car Codes,<unitdate type="inclusive">1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">21</container>
+						<unittitle>A.A.R.R., Vincent M. Malanaphy, Chairman and President,<unitdate type="inclusive">1981, 1983</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">22</container>
+						<unittitle>A.A.R.R., W. Clark Durant, III, Trustee,<unitdate type="inclusive">1983</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">23</container>
+						<unittitle>Afternoon Yard Reports,<unitdate type="inclusive">1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">24</container>
+						<unittitle>American Bureau of Shipping, Status of Surveys and Outstanding Recommendations,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">25</container>
+						<unittitle>[The] Ann Arbor Railroad Company,<unitdate type="inclusive">1920, 1939</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">26</container>
+						<unittitle>B and B Notes,<unitdate type="inclusive">1972, 1975</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">27</container>
+						<unittitle>Blue Album, Photographs,<unitdate type="inclusive">1986</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">28</container>
+						<unittitle>Book #1, A.A.R.R., Photographs Collection (1 of 4),<unitdate type="inclusive">1895, 1938</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">29</container>
+						<unittitle>Book #1, A.A.R.R., Photographs Collection (2 of 4),<unitdate type="inclusive">1940, 1960s</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">30</container>
+						<unittitle>Book #1, A.A.R.R., Photographs Collection (3 of 4),<unitdate type="inclusive">1963, 1970s</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">31</container>
+						<unittitle>Book #1, A.A.R.R., Photographs Collection (4 of 4),<unitdate type="inclusive">1974, 1976</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">32</container>
+						<unittitle>Book #2, Photographs (1 of 3),<unitdate type="inclusive">1977, 1979</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">33</container>
+						<unittitle>Book #2, Photographs (2 of 3),<unitdate type="inclusive">1979, 1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">34</container>
+						<unittitle>Book #2, Photographs (3 of 3),<unitdate type="inclusive">1976, 1982</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">35</container>
+						<unittitle>Book #3, A.A.R.R., Photographs (1 of 3),<unitdate type="inclusive">1890-1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">36</container>
+						<unittitle>Book #3, A.A.R.R., Photographs (2 of 3),<unitdate type="inclusive">1890-1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">37</container>
+						<unittitle>Book #3, A.A.R.R., Photographs (3 of 3),<unitdate type="inclusive">1890-1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Book #4, A.A.R.R., Photographs (1 of 3),<unitdate type="inclusive">1890-1983</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Book #4, A.A.R.R., Photographs (2 of 3),<unitdate type="inclusive">1890-1983</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Book #4, A.A.R.R., Photographs (3 of 3),<unitdate type="inclusive">1890-1983</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Book #5, A.A.R.R., Photographs (1 of 2),<unitdate type="inclusive">1968-1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Book #5, A.A.R.R., Photographs (2 of 2),<unitdate type="inclusive">1968-1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Book #6, A.A.R.R., Photographs (1 of 2),<unitdate type="inclusive">1885-1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Book #6, A.A.R.R., Photographs (2 of 2),<unitdate type="inclusive">1885-1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Book #7, A.A.R.R., Photographs (1 of 3),<unitdate type="inclusive">1900-1987</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Book #7, A.A.R.R., Photographs (2 of 3),<unitdate type="inclusive">1900-1987</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Book #7, A.A.R.R., Photographs (3 of 3),<unitdate type="inclusive">1900-1987</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Book #8, A.A.R.R., Photographs (1 of 3),<unitdate type="inclusive">1887-1978</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>Book #8, A.A.R.R., Photographs (2 of 3),<unitdate type="inclusive">1887-1978</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>Book #8, A.A.R.R., Photographs (3 of 3),<unitdate type="inclusive">1887-1978</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>Book #9, A.A.R.R., Photographs (1 of 3),<unitdate type="inclusive">1893-1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>Book #9, A.A.R.R., Photographs (2 of 3),<unitdate type="inclusive">1893-1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>Book #9, A.A.R.R., Photographs (3 of 3),<unitdate type="inclusive">1893-1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Caboose and Diesel Electric Locomotive Blueprints (Copies),<unitdate type="inclusive">1964-1965</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Chart of Brief Forms,<unitdate type="inclusive">December 1958</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Consolidated Rail Corporation,<unitdate type="inclusive">1976, 1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Consolidated Rail Corporation, Freight Waybill,<unitdate type="inclusive">1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Correspondence, General,<unitdate type="inclusive">1928, 1983, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Correspondence File (Copies of Letters),<unitdate type="inclusive">1986</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Correspondence on Saving A.A.R.R. (1 of 3),<unitdate type="inclusive">1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Correspondence on Saving A.A.R.R. (2 of 3),<unitdate type="inclusive">1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Correspondence on Saving A.A.R.R. (3 of 3),<unitdate type="inclusive">1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Correspondence, V.M. Malanaphy,<unitdate type="inclusive">1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Daily Time Report Record, Wabash Railway – A.A.R.R.,<unitdate type="inclusive">1937-1938</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>D.C. and S., Railway Company, Manifests,<unitdate type="inclusive">1947</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>Dick Cook Photographs of the A.A.R.R., Compiled 2000,<unitdate type="inclusive">2000</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>D.T.I. Railroad Co., Clearance Cards,<unitdate type="inclusive">1968, 1972, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>D.T.I. Railroad Co., Inventory,<unitdate type="inclusive">1980-1981, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>D.T.I. Railroad Co.,Yard List,<unitdate type="inclusive">1980-1981, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">17</container>
+						<unittitle>“Former Ann Arbor Railroad Engineer kept Train Orders from His First Run in Nov. 1972”,<unitdate type="inclusive">1972</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">18</container>
+						<unittitle>FRA Track Safety Standards,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">19</container>
+						<unittitle>Freight Receipts,<unitdate type="inclusive">1910, 1912</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">20</container>
+						<unittitle>General Duties of the Yard Clerk,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">21</container>
+						<unittitle>Green Bay and Western R.R., Scrapbook,<unitdate type="inclusive">1978</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">22</container>
+						<unittitle>G.T. Railway System, Clearance,<unitdate type="inclusive">1976, 1982, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">23</container>
+						<unittitle>“The History of the Ann Arbor Railroad”,<unitdate type="inclusive">May 1989</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">24</container>
+						<unittitle>“The History of the Ann Arbor Railroad”, Research,<unitdate type="inclusive">1948- 1949, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">25</container>
+						<unittitle>Images, Printing Plates,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">26</container>
+						<unittitle>Information on the Milwaukee Area,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">27</container>
+						<unittitle>Instructions for Installing Replacement Bearing Insert (1 of 2),<unitdate type="inclusive">1948</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">28</container>
+						<unittitle>Instructions for Installing Replacement Bearing Insert (2 of 2),<unitdate type="inclusive">1948</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">29</container>
+						<unittitle>Lawyer Correspondence, Provizer, Eisenberg, Lichtenstein, and Pearlman, P.C.,<unitdate type="inclusive">1982</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">30</container>
+						<unittitle>“Loose,” Photographs,<unitdate type="inclusive">1970, 1982, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">31</container>
+						<unittitle>“Loose,” Slides,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">32</container>
+						<unittitle>Mariners Pathfinder, “Viking”,<unitdate type="inclusive">1972-1982</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">33</container>
+						<unittitle>McLouth Steel Corp., Packing List,<unitdate type="inclusive">1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">34</container>
+						<unittitle>MI Interstate Railway Co., A.A.R.R., Agent Instructions Manual,<unitdate type="inclusive">1978-1979</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">35</container>
+						<unittitle>MI Interstate Railway Co., Income Statement,<unitdate type="inclusive">May 31, 1983</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">36</container>
+						<unittitle>MI Rail Action Association, News Bulletin,<unitdate type="inclusive">November 1978</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">37</container>
+						<unittitle>MI Rail System Rationalization Plan, Tier II, A.A.R.R. Report, MDOT,<unitdate type="inclusive">1982</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">38</container>
+						<unittitle>MI Railroads and Names by Richard Miner, Jr.,<unitdate type="inclusive">October 1995</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">39</container>
+						<unittitle>Miscellaneous Articles (1 of 3),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">40</container>
+						<unittitle>Miscellaneous Articles (2 of 3),<unitdate type="inclusive">1958, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">41</container>
+						<unittitle>Miscellaneous Articles (3 of 3),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">42</container>
+						<unittitle>Miscellaneous Business Correspondence,<unitdate type="inclusive">1913, 1982, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">43</container>
+						<unittitle>Miscellaneous Information,<unitdate type="inclusive">1957, 1984, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">44</container>
+						<unittitle>Miscellaneous Photographs (1 of 3),<unitdate type="inclusive">1967, 1981, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">45</container>
+						<unittitle>Miscellaneous Photographs (2 of 3),<unitdate type="inclusive">1967, 1981, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">46</container>
+						<unittitle>Miscellaneous Photographs (3 of 3),<unitdate type="inclusive">1967, 1981, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Miscellaneous Railroad Publications (1 of 2),<unitdate type="inclusive">1967, 1981, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Miscellaneous Railroad Publications (2 of 2),<unitdate type="inclusive">1973, 2001, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Miscellaneous Railroad Scrapbook,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Mid-MI R.R. Inc., History and Lists of Slides,<unitdate type="inclusive">after 1991</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Negatives,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Newspaper Clippings (copies), Photographs and Articles on Railroads in MI,<unitdate type="inclusive">1986, 1994, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Northwestern Pacific Railroad, Freight Waybill,<unitdate type="inclusive">August 1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>N.Y.C. and S.L.R.R. Co., Percentages,<unitdate type="inclusive">1904, 1911, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>N.Y.C.S., Correspondence and Notifications,<unitdate type="inclusive">1960, 1966</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Operating Instructions, 240RL Locomotive Brake Equipment, Westinghouse,<unitdate type="inclusive">February 1950</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Pamona Derailment Negatives,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>Penn Central Co., Correspondence,<unitdate type="inclusive">1969</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>Photographic Negatives,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>Photographs (1 of 2),<unitdate type="inclusive">1950, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>Photographs (2 of 2),<unitdate type="inclusive">1910, 1984, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>Photographs, Saginaw Branch,<unitdate type="inclusive">1980, 1982, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">17</container>
+						<unittitle>Photographs, to Harry Harder,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">18</container>
+						<unittitle>Photographs,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">19</container>
+						<unittitle>Pocket Guide to Railroad Radio Frequencies,<unitdate type="inclusive">1987</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">20</container>
+						<unittitle>Position Paper of MI Interstate Railway Co. on Integrated Tug-Barge Proposal,<unitdate type="inclusive">1979</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">21</container>
+						<unittitle>Railroad Court Documents,<unitdate type="inclusive">1979</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">22</container>
+						<unittitle>Railroad Manuals,<unitdate type="inclusive">1968-1969, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">23</container>
+						<unittitle>Rails Newsletters,<unitdate type="inclusive">March 1990-January 1991</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">24</container>
+						<unittitle>Red Album, Loose Photographs, unidentified,<unitdate type="inclusive">1967-1987</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">25</container>
+						<unittitle>Red Photograph Album, Railroad Photographs,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">26</container>
+						<unittitle>R.R. Property Purchased,<unitdate type="inclusive">1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">27</container>
+						<unittitle>Simplex 3 Column Book,<unitdate type="inclusive">1978</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">28</container>
+						<unittitle>Southern Pacific Trans. Co., Freight Waybill,<unitdate type="inclusive">1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">29</container>
+						<unittitle>Specifications for Twin Screw Steel Carferry for A.A.R.R. (1 of 3),<unitdate type="inclusive">1947</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">30</container>
+						<unittitle>Specifications for Twin Screw Steel Carferry for A.A.R.R. (2 of 3),<unitdate type="inclusive">1947</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">31</container>
+						<unittitle>Specifications for Twin Screw Steel Carferry for A.A.R.R. (3 of 3),<unitdate type="inclusive">1947</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">32</container>
+						<unittitle>Thomas Taber Files,<unitdate type="inclusive">2004</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">33</container>
+						<unittitle>Train Equipment and Station Blueprints,<unitdate type="inclusive">June 1914, April 1951</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">34</container>
+						<unittitle>Train Lines (Copies),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">35</container>
+						<unittitle>Train Photogauvre, on board,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">36</container>
+						<unittitle>Time Keeping Instructions for Daily Time Sheets,<unitdate type="inclusive">September 1979</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>T.S.B.R.R., A.A. Div. (1 of 3),<unitdate type="inclusive">1983-1985</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>T.S.B.R.R., A.A. Div. (2 of 3),<unitdate type="inclusive">1983-1985</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>T.S.B.R.R., A.A. Div. (3 of 3),<unitdate type="inclusive">1983-1985</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>T.S.B.R.R., A.A. Div., Book 10 (1 of 3),<unitdate type="inclusive">August 1984</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>T.S.B.R.R., A.A. Div., Book 10 (2 of 3),<unitdate type="inclusive">August 1984</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>T.S.B.R.R., A.A. Div., Book 10 (3 of 3),<unitdate type="inclusive">August 1984</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>T.S.B.R.R., Binder,<unitdate type="inclusive">1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>T.S.B.R.R., Binder of Photographs (1 of 2),<unitdate type="inclusive">1977, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>T.S.B.R.R., Binder of Photographs (2 of 2),<unitdate type="inclusive">1977, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>T.S.B.R.R., System Maps, MI Interstate System Maps,<unitdate type="inclusive">1985</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Twin Cities Railfan’s Guide, Minneapolis – St. Paul, Minnesota,<unitdate type="inclusive">1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>Wabash R.R. Co., Booklet,<unitdate type="inclusive">July 1956</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>Western Union Telegrams,<unitdate type="inclusive">1950, 1953, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>Where to Watch Trains,<unitdate type="inclusive">1976</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>WI-Central LTD History and List of Slides for Presentation,<unitdate type="inclusive">after 1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>WI-Central R.R., Scrapbooks,<unitdate type="inclusive">1990, 1995</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>(Legal-Size): Ann Arbor Observer, A.A.R.R. Articles,<unitdate type="inclusive">December 1997</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>(Legal-Size): Ann Arbor Observer, A.A.R.R. Articles,<unitdate type="inclusive">March 2000</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>(Legal-Size): Ann Arbor Observer, A.A.R.R. Articles,<unitdate type="inclusive">April 2000</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>(Legal-Size): A.A. Carferry Construction, Ideas, Thoughts, Action, Joint Meet,<unitdate type="inclusive">1991</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>(Legal-Size): A.A.R.R. Correspondence (Copies),<unitdate type="inclusive">1979-1980, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>(Legal-Size): Ann Arbor R.R., Freight Car Equipment,<unitdate type="inclusive">January 1959</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>(Legal-Size): A.A.R.R., Station Records of Train Movements,<unitdate type="inclusive">1982</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>(Legal-Size): A.A.R.R., Technical and Historical Association, Income Records,<unitdate type="inclusive">1994</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>(Legal-Size): A.A.R.R., Technical and Historical Association, Show Work Order Number on Labor and Material Reports,<unitdate type="inclusive">1970-1971</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>(Legal-Size): A.A. Track Chart, by L.W. Olson (Copy),<unitdate type="inclusive">1975</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>(Legal-Size): Benzie County, Michigan, Map and Pamphlet,<unitdate type="inclusive">1958</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>(Legal-Size): Dept. of Transportation Federal Railroad Administration, Locomotive Inspection and Repair Record,<unitdate type="inclusive">1974</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>(Legal-Size): Documents, James Pullen R.R. Collection,<unitdate type="inclusive">1944, 1956, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>(Legal-Size): D.T.I. Railroad, Blue-Line Prints, Engineering Dept., Dearborn, MI,<unitdate type="inclusive">1954, 1977</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>(Legal-Size): Grand Rapids article on Discovery of Three Shipwrecks,<unitdate type="inclusive">2005</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>(Legal-Size): Manistique and Lake Superior R.R., Freight Car Equipment,<unitdate type="inclusive">January 1959</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>(Legal-Size): MI Interstate Railway Co., v. MDOT, the MI Interstate Railway Co., Employee Stock Option Plan and Trust,<unitdate type="inclusive">1982</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>(Legal-Size): N.Y.C. System, Instructions Governing Out-of-Face Rail End System,<unitdate type="inclusive">1964, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>(Legal-Size): Part Prints (Copies), Adopted March 1981,<unitdate type="inclusive">March 1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">17</container>
+						<unittitle>(Legal-Size): T.O. and F., Seniority Roster-Trainmen and Yardmen,<unitdate type="inclusive">1980, 1982</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">18</container>
+						<unittitle>(Legal-Size): Wabash R.R. Co., A.A.R.R., Engine Registers, Form 1003,<unitdate type="inclusive">1957-1959</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">19</container>
+						<unittitle>(Legal-Size): Waybill Listing,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">9</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>(Slide Box 1): Ann Arbor slides (13 small slide boxes),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">9</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>(Slide Box 1): A.A. MI R.R. slides (7 small slide boxes),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">10</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>(Slide Box 2): A.A. MI R.R. slides (6 small slide boxes),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">10</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>(Slide Box 2): A.A.R.R. slides (1 small slide box),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">10</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>(Slide Box 2): Fire Dept. slides (1 small slide box),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">10</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>(Slide Box 2): Other R.R. slides (12 small slide boxes),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">11</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>(Slide Box 3): Other R.R. slides (7 small slide boxes),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">11</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>(Slide Box 3): Mostly Unidentified R.R. (12 small slide boxes),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">12</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>(Slide Box 4): C.M. slides (3 small slide boxes),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">12</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>(Slide Box 4): H. and E.R.R. slides (3 small slide boxes),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">12</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>(Slide Box 4): M.M.R.R. slides (7 small slide boxes),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">12</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>(Slide Box 4): Tuscola and Saginaw Bay slides (7 small slide boxes),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">12</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>(Slide Box 4): W.C.R.R. slides (9 small slide boxes),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">13</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>(Slide Box 5): T.S.B. slides (6 small slide boxes),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">13</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>(Slide Box 5): T.S.B.Y. slides (5 small slide boxes),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">13</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>(Slide Box 5): T.S.B. Branch slides (4 small slide boxes),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">13</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>(Slide Box 5): T.S.B.R.R. (21 small slide boxes),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Oversized Folder: Ross and White Company Patents, Blueprint (Copies),<unitdate type="inclusive">April 1948, June 1948</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Oversized Folder: Miscellaneous Materials,<unitdate type="inclusive">January 1918, April 1965, September 1985, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Oversized Folder: Detroit, Toledo, Ironton Railroad Co., Ann Arbor Railroad Co., System Map,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folder: Michigan Department of Transportation, Plans of Proposed Railroad Rehabilitation,<unitdate type="inclusive">May 1986</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Oversized Folder: Ann Arbor Railroad, Plan of Proposed Station at Whitmore Lake, MI,<unitdate type="inclusive">June 1913</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folder: Blueprints, Refrigerator Cars, Station Plans,<unitdate type="inclusive">February 1921, February 1934</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Oversized Folder: Ann Arbor Railroad and Steamship Lines Newsletter (Copy), Taking Effect January 18, 1914,<unitdate type="inclusive">January 18, 1914</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Oversized Folder: Automatic Signals Blue-Line Prints, Ohio,<unitdate type="inclusive">June 1963</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Oversized Folder: Ann Arbor Railroad, Lever Circuit Controllers, Redrawn Blue-Line Print,<unitdate type="inclusive">August 14, 1973</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Oversized Folder: Styling and Painting Design, Electro-Motive Division (Electrostatic copy of) Sepia Print,<unitdate type="inclusive">February 1964</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Oversized Folder: Ann Arbor Railroad, Toledo, Ohio, Lucas County, Station Maps of Tracks and Structures (Copies),<unitdate type="inclusive">February 1964</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">12</container>
+						<unittitle>Oversized Folder: Blue-Line Prints (Copies), Miscellaneous,<unitdate type="inclusive">July 1951, March 1963, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">13</container>
+						<unittitle>Oversized Folder: Village of Chesaning, Blue-Line Print, Rowe Engineering,<unitdate type="inclusive">July 1951, March 1963, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">14</container>
+						<unittitle>Oversized Folder: MI Railroad and Property, Blue-Line Prints,<unitdate type="inclusive">1943, 1964, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">15</container>
+						<unittitle>Oversized Folder: Equipment, Station, and Train Car, Blueprints (Some Copies Included, 1 of 2),<unitdate type="inclusive">1913, 1950, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">16</container>
+						<unittitle>Oversized Folder: Equipment, Station, and Train Car, Blueprints (Some Copies Included, 2 of 2),<unitdate type="inclusive">1924, 1950, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">17</container>
+						<unittitle>Oversized Folder: Ann Arbor Railroad Co., Station Map of Tracks and Structures, Blueprints,<unitdate type="inclusive">1928, 1942, 1945</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">18</container>
+						<unittitle>Oversized Folder: A.A.R.R. Co., Cadillac, MI, Joint Tracks Connecting with A.A.R.R.-P.R.R. Belt Track, Blueprint,<unitdate type="inclusive">February 1927</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">19</container>
+						<unittitle>Oversized Folder: Blueprints, Detroit, Toledo, Ironton Railroad Co., Ann Arbor Railroad Co.,<unitdate type="inclusive">1964, 1980, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">20</container>
+						<unittitle>Oversized Folder: St. Louis, MI, Property Blueprint,<unitdate type="inclusive">1964, 1980, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">14</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>2016 Addition: Abandonment Petitions, Ann Arbor Car Ferry Scholes (copies),<unitdate type="inclusive">1970-1971</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">14</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>2016 Addition: Abandonment Petitions, Car Ferry Facts, Proposals (copies),<unitdate type="inclusive">1972-1973, 1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">14</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>2016 Addition: Abandonment Petitions, Correspondence (copies),<unitdate type="inclusive">1972-1977</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">14</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>2016 Addition: Abandonment Petitions, Economics of Railroad Abandonment, by Abandonment Petitions, by James R. Nelson,<unitdate type="inclusive">[after 1972]</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">14</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>2016 Addition: Abandonment Petitions, Interstate Commerce Commission (ICC) Docket Exhibits,<unitdate type="inclusive">1973</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">14</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>2016 Addition: Abandonment Petitions, Meeting Minutes and Reports of Meetings (copies),<unitdate type="inclusive">1972</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">14</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>2016 Addition: Abandonment Petitions, Michigan Public Service Commission (MPSC) relocation of grade 	crossing of Ann Arbor Railroad (A2R2), Wexford County (copy),<unitdate type="inclusive">1971</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">14</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>2016 Addition: Abandonment Petitions, Nine Month Progress Report on A2R2 System by V. M. Malanaphy (copy),<unitdate type="inclusive">July 1978]</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">14</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>2016 Addition: Abandonment Petitions, Statement of C.E. Nelson, Appendices A-F (copy),<unitdate type="inclusive">[1972]</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">14</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>2016 Addition: Abandonment Petitions, Abandonment Petitions, Track and Signal Layout, Alexis to Galena Street, Toledo, Ohio (copy),<unitdate type="inclusive">1968</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">14</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>2016 Addition: Accident Reports, 1929, 1961 (scattered); Dundee to Owosso Track Conditions Inspection Report (copy),<unitdate type="inclusive">1975</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">14</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>2016 Addition: Ann Arbor Railroad and related, Bulletins, Circulars Orders, Time Schedules (some copies),<unitdate type="inclusive">1907-1972 (scattered)</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">21</container>
+						<unittitle>Oversized Folder: Ross and White Company Patents, Blueprint (Copies),<unitdate type="inclusive">April 1948, June 1948</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>2016 Addition: Clippings (copies), Ann Arbor, Michigan, 1965-1997, undated; and 3 photographs, 1974,<unitdate type="inclusive">1965-1997, undated; 1974</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>2016 Addition: Clippings Scanned (copies),<unitdate type="inclusive">1970-1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>2016 Addition: Clippings Scanned (copies),<unitdate type="inclusive">1980-1985, 1988, 1995-1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>2016 Addition: Diesel Locomotive Engine Schematics (copies),<unitdate type="inclusive">1955, 1962</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>2016 Addition: DVD of Scanned Collection Contents,<unitdate type="inclusive">2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>2016 Addition: Federal Maritime Financial Regulations (copies),<unitdate type="inclusive">1971</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>2016 Addition: Gerritsen, Arndt, A2R2 negatives, positive prints #4,<unitdate type="inclusive">May 16, 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>2016 Addition: Gerritsen, Arndt, A2R2 negatives, positive prints #1,<unitdate type="inclusive">May 17, 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>2016 Addition: Historic Photographs, negatives, positive prints,<unitdate type="inclusive"> May 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>2016 Addition: Locomotive Inspection and Repair Records, 1972-1973; and Reports, 1969-1972 (Scattered),<unitdate type="inclusive">1972-1973; 1969-1972 (Scattered)</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>2016 Addition: Michigan Interstate Changeover Ceremony, negatives, positive prints,<unitdate type="inclusive">May 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, Ann Arbor Railroad System and related railways Income Statements (copies),<unitdate type="inclusive">1979-1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, Ann Arbor Railroad System News Releases (copies),<unitdate type="inclusive">1978-1985</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, Carload Volumes Per Station (copies),<unitdate type="inclusive">1976-1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, Conrail- Ann Arbor Division Maintenance Program and Track Chart (copy),<unitdate type="inclusive">1977</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, Correspondence (copies),<unitdate type="inclusive">1979, 1981-1982, 1985</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">15</container>
+						<container type="Folder" label="F">17</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, Dun and Bradstreet Report,<unitdate type="inclusive">1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, Lake Michigan Rail Freight Study Report for Michigan Dept. of Transportation by Transportation and Distribution Associates, Inc. (copy),<unitdate type="inclusive">1983</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, List of Industries on the Ann Arbor by Station, Circular,<unitdate type="inclusive">1967</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, Railway Company Position Paper on Integrated Tug-Barge Proposal (copy),<unitdate type="inclusive">1979</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, Michigan Northern Railway Company Income Statement (copy),<unitdate type="inclusive">1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, Michigan State Transportation Committee Minutes (copies),<unitdate type="inclusive">February 1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, Norfolk and Western Railway Company Operations Bulletin (copy),<unitdate type="inclusive">1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, Northwest Rail Study (copy),<unitdate type="inclusive">1980</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, Sand Tariff 1739-A (copy),<unitdate type="inclusive">1972</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, Toledo, Ohio, Site Plan, Ottowa Yard (copy),<unitdate type="inclusive">1978</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, Tuscola and Saginaw Bay Railway Five Year Plan (copy),<unitdate type="inclusive">1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, U.S. Bankruptcy Court Hearing Notice (copy),<unitdate type="inclusive">1983</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>2016 Addition: Michigan Interstate Era, V. M. Malanaphy Grant Application (copy),<unitdate type="inclusive">1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>2016 Addition: Wilson negatives, positive prints #1,<unitdate type="inclusive">May 10, 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>2016 Addition: Wilson negatives, positive prints #1,<unitdate type="inclusive">May 10, 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>2016 Addition: Wilson negatives, positive prints #1,<unitdate type="inclusive">May 10, 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>2016 Addition: Wilson negatives, positive prints #1,<unitdate type="inclusive">May 10, 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>2016 Addition: Wilson negatives, positive prints #1-3,<unitdate type="inclusive">May 12, 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>2016 Addition: Wilson negatives, positive prints #1-3,<unitdate type="inclusive">May 13, 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>2016 Addition: Wilson negatives, positive prints #1,<unitdate type="inclusive">May 14, 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">17</container>
+						<unittitle>2016 Addition: Wilson negatives, positive prints #1-7,<unitdate type="inclusive">May 15, 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">18</container>
+						<unittitle>2016 Addition: Wilson negatives, positive prints #1-2,<unitdate type="inclusive">May 16, 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">19</container>
+						<unittitle>2016 Addition: Wilson negatives, positive prints #2-3,<unitdate type="inclusive">May 17, 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">20</container>
+						<unittitle>2016 Addition: Wilson negatives, positive prints #1 each for May 18, 21-22, 2015,<unitdate type="inclusive">May 18, 21-22, 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">21</container>
+						<unittitle>2016 Addition: Wilson negatives, positive prints #1-2, May 25, 2015, and #1, May 25, 2015<unitdate type="inclusive">May 25-26, 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">22</container>
+						<unittitle>2016 Addition: Wilson St. Charles Turn, 1978, negatives, positive prints,<unitdate type="inclusive">May 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">16</container>
+						<container type="Folder" label="F">23</container>
+						<unittitle>2016 Addition: Wilson Transportation Day, Owosso, 1978, negatives, positive prints,<unitdate type="inclusive">May 2015</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Folder" label="F">21</container>
+						<unittitle>Legal-size Folder: Abandonment Petitions, Finance Docket No. 263373, 1972; Ann Arbor Application to Abandon Thompsonville line (copy), 1972; Sale of SS City of Milwaukee, 1979,<unitdate type="inclusive">1972; 1979</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>
+
+
+
+

@@ -1,0 +1,2532 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+	<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" dateencoding="iso8601" relatedencoding="Dublin Core">
+		<eadid countrycode="us" mainagencycode="MiMtpT-C" publicid="us//::mi-HC//TXT us::ehll::HemingwayErnest.xml//EN" encodinganalog="identifier">ehll--HemingwayErnest</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="title">Finding Aid for 
+Ernest Hemingway Collection
+</titleproper>
+				<author encodinganalog="creator">Collection processed and finding aid created by 
+Marian Matyn</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="publisher">Clarke Historical Library</publisher>
+				<date encodinganalog="date">
+2003, 2009, ongoing
+</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Encoded finding aid created by 
+Marian Matyn, 
+<date>2012, ongoing</date>
+			</creation>
+			<langusage>The finding aid is written in  <language langcode="eng">English</language>
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<publisher>Clarke Historical Library<lb/>Central Michigan University</publisher>
+			<titleproper>Finding aid for<lb/>
+Ernest Hemingway Collection
+</titleproper>
+			<author>Finding aid created by<lb/> 
+Marian Matyn
+</author>
+		</titlepage>
+	</frontmatter>
+	<archdesc level="recordgrp" audience="external" type="inventory" relatedencoding="marc21">
+		<did>
+			<origination>
+				<persname source="lcnaf" encodinganalog="100">Hemingway, Ernest, 1899-1961.</persname>
+			</origination>
+			<unittitle encodinganalog="245">
+Ernest Hemingway Collection,
+<unitdate type="inclusive" encodinganalog="245$f">
+1901, 2014, and undated
+</unitdate>
+			</unittitle>
+			<physdesc>
+				<extent encodinganalog="300">
+6 cubic feet (in 7 boxes, 8 Oversized folders, 4 reels in 4 boxes, and 52 framed items)
+</extent>
+			</physdesc>
+			<unitid encodinganalog="099" repositorycode="MiMtpT-C" countrycode="us" type="call number">
+MSS.
+</unitid>
+			<langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language>
+			</langmaterial>
+			<abstract>
+This artificial collection includes articles by or about Hemingway, movie posters and photographs, manuscript letters, printed and miscellaneous materials about Ernest Hemingway and his books, diaries of Ernest's uncle, George R. Hemingway, and the organizational records of the Michigan Hemingway Society. 
+</abstract>
+			<repository>
+				<corpname encodinganalog="852">
+					<subarea>Clarke Historical Library</subarea>, Central Michigan University</corpname>
+				<extptr href="CHLadd" show="embed" actuate="onload"/>
+			</repository>
+		</did>
+		<descgrp type="admin">
+			<acqinfo encodinganalog="541">
+				<p>
+Acc# many
+</p>
+			</acqinfo>
+			<accessrestrict encodinganalog="506">
+				<p>
+Ernest Hemingway Collection is open for research.
+</p>
+			</accessrestrict>
+			<userestrict encodinganalog="540">
+				<p>
+Some published materials in the collection are still under copyright. Some of the photographs are copies from the John F. Kennedy Presidential Library. Copyright and intellectual rights for Hemingway collections are complex. Regarding these photographic copies please refer to the John F. Kennedy Presidential Library online finding at https://www.jfklibrary.org/sites/default/files/archives/EHPP/EHPP-FA.xml.
+</p>
+			</userestrict>
+			<prefercite encodinganalog="524">
+				<p>
+Ernest Hemingway Collection, 1901, 2006, and undated, Folder # , Box #, Clarke Historical Library, Central Michigan University
+</p>
+			</prefercite>
+		</descgrp>
+		<bioghist encodinganalog="545">
+			<p>Biography:</p>
+<p>Ernest Hemingway was born July 21, 1899 in Oak Park, Illinois, the son of Clarence E. Hemingway, a doctor, and Grace Hall-Hemingway, a musician and voice teacher. He had four sisters and a brother. Every summer, the family summered at the family cottage, named Windemere, on Walloon Lake near Petoskey, Michigan.</p>
+<p>After Ernest graduated from high school in June 1917, he joined the Missouri Home Guard. Before it was called to active duty, he served as a volunteer ambulance driver for the American Red Cross. On July 8, 1918 Hemingway was wounded by an Austrian trench mortar. He spent the subsequent summer and fall recovering from his leg wounds in the Milan Red Cross hospital. In Europe, Hemingway met nurse Agnes Von Kurowsky. He thought they were engaged when he returned to the U.S. on January 21, 1919, but she broke off whatever relationship they had had in March 1919.</p>
+<p>In January 1920, the city editor of the Toronto Star agreed to buy Hemingway’s stories on a piece by piece basis as they suited the paper. The paper regularly printed his features on dental schools, prizefights, free shaves, trout fishing, rum-running and, later, on Chicago gangsters. He returned to Chicago in May 1920.</p> 
+<p>In September 1921, Hemingway married Hadley Richardson at Horton Bay, Michigan. They had planned to live in Italy, but were advised by Sherwood Anderson that a would-be-writer should live in Paris. In January 1922, the couple moved into an apartment in Paris’ Latin Quarter.</p>
+<p>The Hemingways later returned to Toronto, where Ernest found that the new editor of the Star did not like him.  His first assignment upon his return was to cover a prison escape. He used one prisoner as the basis for his male, loner, anti-social characters, which later appeared in a number of his stories.</p> 
+<p>Hemingway’s first son, John Hadley Nicanor, was born in Toronto in October  1923.</p> 
+<p>Furious with his editor, Hemingway returned to Paris in January 1924, living near Ezra Pound. His mentors and friends in Paris included Pound, Sylvia Beach, and Gertrude Stein. Through these three writers, he got to know every expatriate American writer and new artists in Paris. Hemingway developed an appreciation for the insider, the man who knew the language, food and customs of foreign countries.</p>
+<p>Between 1924 and 1929, Hemingway rose from obscurity to being one of the best-known American writers of his generation.  His publications in those years included In our time (1925), his breakthrough novel, (The) Sun also rises (1926), Men without women (1927), and (A) Farewell to arms (1929). He spent his summers in Spain following bullfights and his winters skiing in Switzerland, with Paris as his base.</p> 
+<p>Hadley divorced Ernest in April 1927. She received lifelong rights to the income from (The) Sun also rises. Hemingway then married Pauline Pfeiffer, with whom he had had an affair for over a year, in May 1927.</p> 
+<p>Ernest and Pauline returned to the U.S. for the cesarean birth of their son, Patrick, who was born in 1928. Also in 1928, Ernest’s father, Clarence Hemingway, committed suicide.</p>
+<p>Pauline and Ernest enjoyed Key West fishing and Wyoming dude ranches. After a year of living in and out of Paris, they moved back to Key West in 1930.</p> 
+<p>In 1930, the sale of the film rights to (A) Farewell to arms brought Hemingway $24,000. Besides that, they lived on Pauline’s trust fund and Ernest’s income from writing. Her wealthy uncle, Augustus Pfeiffer, paid for their home in Key West and their African safari. Pauline and Ernest’s second son, Gregory, was born in 1931. Hemingway also was paid for his book, Death in the afternoon (1932).</p>
+<p>During the 1930s, Hemingway wrote Winner takes nothing (1933), Green hills of Africa (1935), several short stories, and a series of personal essays called “Letters” for Esquire magazine. In September 1937 he reported on the Spanish Civil War in Madrid.  In October 1937, Hemingway was featured on the cover of Time magazine and wrote To have and have not. Hemingway also wrote a narrative to the film (The) Spanish earth and wrote his only play, (The) Fifth column (1938).</p> 
+<p>By February 1939, his marriage to Pauline was essentially over. He had an affair with Martha Gellhorn since 1937. Hemingway moved to Havana and began For whom the bell tolls. On December 24, 1939, Ernest and Martha moved to La Finca Vigia, a house with property outside of Havana. There, he finished For whom the bell tolls, which was released to ecstatic reviews on October 21, 1940. Four days later Paramount Pictures offered Hemingway $100,000 for the film rights. In early November 1940, Pauline’s divorce suit against Ernest on the grounds of desertion was granted. He married Martha Gellhorn a few weeks later.</p>
+<p>During World War II, Hemingway suffered with the beginning of severe depression and had a long block in his writing ability. Except for writing an introduction of Men at war (1942) he wrote nothing until 1944. In April 1944 he began work as a war correspondent for Collier’s, displacing Martha. By late May 1944 Hemingway’s marriage to Martha was basically over and he met Mary Welsh Monks, soon to be his fourth wife.</p>
+<p>Between June and December 1944, Hemingway deliberately put himself in dangerous positions. He went aboard a landing craft on D-Day, June 6. He twice flew on Royal Air Force missions intercepting German rockets and led a group of French irregulars and unattached GIs towards the liberation of Paris and the Ritz Bar. Two of his essays were published in Collier’s.</p>
+<p>In 1945 Hemingway returned to New York and Cuba. Mary joined him in May. In September he sued Martha for divorce on the grounds of desertion. In November the sale of two of his stories for movie rights brought him $112,000.</p>
+<p>Hemingway married Mary Welsh Monks in Havana in March 1946. In 1947, he was diagnosed with high blood pressure. From that time forward, Hemingway fought hypertension, diabetes, depression, paranoia, and perhaps hemochromatosis. He also began work on a trilogy, Islands, Garden of Eden, and (A) Moveable feast.</p>
+<p>From September 1948 through April 1949, the Hemingways lived in northern Italy. There, he became infatuated with an eighteen-year-old beauty, Adriana Ivancich. Mary tolerated it. In late April the Hemingways returned to Cuba. He wrote Across the river and into the trees (1950), about a dying American colonel and a teenage Venetian beauty. It received overwhelmingly negative reviews. By late 1950 Ivancich and her mother were visiting Finca. Mary wanted out of the marriage, but stayed in it.</p>
+<p>In 1951 Hemingway complete the first draft of (The) Old man and the sea and the Islands manuscript.</p>
+<p>Grace Hall-Hemingway died in June 1951 and Pauline Hemingway in October 1951. The combination of these deaths was difficult for Hemingway to handle.</p>
+<p>Life paid him $40,000 for serial rights and sold five million copies of its September 1, 1952 issue containing (The) Old man and the sea. Scribners sold out 40,000 first run copies of the novella. In April 1953, a film crew arrived in Havana to film the epic. In May, Hemingway was awarded the Pulitzer Prize for fiction for the book.</p>
+<p>In June, Ernest and Mary left Havana for Europe and Africa. After surviving a nearly fatal plane crash, the Hemingways recuperated in Venice. In June 1954, they returned to Havana. In October, Hemingway learned that he had been awarded the Nobel Prize for Literature, but due to ill health, he could not travel to Stockholm.</p>
+<p>From 1955 to 1961 Hemingway suffered increasing bad health, and paranoia-ridden depression. He wrote steadily on his trilogy. In January 1959, the Batista government fell to the Castro revolution. The Hemingways, on vacation in the U.S., bought a house in Ketchum, Idaho, from which he could watch the revolution on television.</p>
+<p>In 1959, Ernest returned to Spain to cover the bullfights. His mood shifts frightened his wife and bewildered his friends. His health worsened. In November 1960 Hemingway entered Mayo Clinic to be treated for hypertension, an enlarged liver, paranoia, and severe depression. He received shock treatments. By late April 1961 Hemingway had twice attempted suicide.</p>
+<p>On July 2, 1961 he blew his head off. Hemingway was survived by his wife, two of his ex-wives, and his three sons. (This information is from American National Biography Online).</p>
+		</bioghist>
+		<arrangement encodinganalog="351">
+			<p>The collection is divided into three series: materials by and about Ernest Hemingway, the diaries of his uncle, George R. Hemingway, and the organizational records of the Michigan Hemingway Society.</p>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+			<p>Materials by and about Ernest Hemingway in the collection include numerous periodicals with Articles by or about Hemingway, his books, and movies based on his books; numerous Movie Posters; other Posters of Hemingway, his homes, books, or exhibits about him; Photographs (copies), mostly from movies based on his books and some from the John F. Kennedy Presidential Library; the (Film) ‘Adventures of a Young Man’, undated (4 reels): Manuscript Correspondence, four Letters written by Hemingway, one to Jim Gamble written on April 18 and 27, 1919, one dated Oct. 28, 1919 to Ernest's father, Dr. Clarence Hemingway (framed), one dated Nov. 12, 1919 to his mother, Mrs. Grace H. Hemingway (framed), and one dated 2 Feb. 1960 to his son, J. H. N. Hemingway, as well as copies of two letters written by Hemingway to Owen Wister dated March 1 and 11, 1929 (the originals are in the Library of Congress). Brochures; Advertisements; Exhibit Brochures; Postcards; Auction Catalogs; Sheet Music; Miscellaneous materials. Biographical Information (copies) and ramed Items for exhibits, including posters, photographs, and other materials.</p> 
+			<p>Of particular interest is the first letter (original six p., and a copy) written by Hemingway on April 18 and 27, 1919 to his friend Jim Gamble, the Proctor and Gamble heir, detailing his desire to write even though submissions for publication were rejected, his dashed hopes for marriage, his hunger for recognition, his love of northern Michigan and trout fishing, and notes about people whose company he enjoyed while staying at Windemere Cottage, near Petoskey, Michigan. During this time, Hemingway was recovering from war wounds and a broken heart. The letter is typed with his signature. Included with the letter are copies of two Hemingway letters to Owen Wister, March 1 (6 p.) and 11 (5 p.), 1929, copied from the Library of Congress, and a letter to Henry M. Watts from Theodore Voorhees, December 11, 1979, concerning the copied letters. (Note: This letter is housed separately from the rest of the collection.)</p>
+			<p>The second manuscript letter is written by Ernest to “Dear Dad”, dated October 28. This letter is accompanied by a certificate of authenticity by Ernest Hemingway Mainland dated June 25, 2007. The letter is typed with a signature and handwritten P.S. There are notations on the bottom of the letter “Rec’d 10/31/[1]919 and ans.[wered] 11/1/[1]919 CH [Clarence Hemingway]. The letter is two pages on one sheet of paper, which is folded in half, p. 1 is on top and p. 2 is underneath and upside down compared to p. 1. In the letter, Ernest notes he had a hard trip up the Missouri to Petoskey, when he traveled to Boyne City to visit Wesley, and that with his “typer” he is leaving Thursday for Petoskey. Ernest also notes that he is working on the “Woppian Way” and has read several books. (Note: This letter is housed separately from the rest of the collection.)</p>
+			<p>The third letter (original two p. and envelope) written by Hemingway on November 11, 1919, mailed the following day, to his mother, Mrs. Grace H. Hemingway in Oak Park, Illinois, from Petoskey, Michigan. In this letter, Ernest notes how he has been very ill with a bad sore throat, notes Armistice Day, his prayers for the dead, complains of President Wilson robbing the “wops” and mentions Fiume. [Fiume was given to Yugoslavia from Italy.]He notes it is a lovely day, the linotypers are on strike so eastern magazines are not accepting articles, that he sent an article to the Post, that he is reading and working a lot, mentions the Bumps, and sends love to his family. (Note: This letter is housed separately from the rest of the collection.)</p>
+			<p>The fourth letter from Ernest at Finca Vigia, Cuba, is addressed to his son “Dear Bum,” J. H. N. Hemingway in San Francisco, dated 8 February 1960. It is the only handwritten letter and is accompanied by the envelope, which is also handwritten. In the letter Ernest thanks Bun for his letter, and asks him to check on Christmas gifts, which have not yet arrived, and several addresses. Ernest notes he is very busy working on a piece about bull fights and Death in the Afternoon. He also notes that Mary’s arm is improving with massage and therapy.</p>
+			<p>Diaries (12), 1938, 1951, of George R. Hemingway, Ernest’s uncle, are also included in the collection. George worked as a representative of the Charlevoix Country Nursery and lived, with his wife, Anna, in East Jordan, Michigan. (This information is from the collection.)</p>
+			<p>The organizational records, 1990-present, of the Michigan Hemingway Society, including Articles of Incorporations, By-laws, goals and objectives, celebration and conference materials, meeting minutes, financial statements, and other related materials, complete the collection.</p>
+			<p>While the majority of the collection is in English, some of the movie posters are in French, Italian, Spanish, Danish, Polish, and other languages. The collection is ongoing.</p>
+			<p>A later addition (Acc# 73683) is three folders donated by Pat Davis. These include 2012 copies of six photographs or postcards of Horton Bay, mainly buildings and scenic views, Correspondence to Wesley about Ernest and Marcelline being in school, 1905, and  to Mrs. Dilworth, announcing Ernest’s engagement, 1921, and sheet music, Song of Welcome, by Grace Hall-Hemingway, 1905. Also included is an announcement card that Dr. Clarence E. Hemingway moved his office to 221 Grove Avenue, 1905.The last folder includes newspaper clippings (copies) of Pat Davis, Dilworth House, and how life when Hemingway was there.</p>
+			<p>User Note: The collection has a decidedly musty to lightly moldy smell and patrons with allergies or breathing problems should use the collection with care.</p>
+<p>Processing Note: Most of the numerous books that came to the Clarke with the collection have been cataloged. Those few books for which no catalog record could be found have been added to this manuscript collection. Later Oversized additions will be added at the end of the collection.</p>
+
+		</scopecontent>
+		<controlaccess>
+			<p>
+				<extptr href="accnote" show="embed" actuate="onload"/>
+			</p>
+			<controlaccess>
+			<head>Subjects:</head>
+				<corpname encodinganalog="610" source="lcnaf">Michigan Hemingway Society.</corpname>
+				<persname encodinganalog="600" source="lcnaf">Hemingway, Ernest, 1899-1961--Biography.</persname>
+				<persname encodinganalog="600" source="lcnaf">Hemingway, Ernest, 1899-1961--Correspondence.</persname>
+				<persname encodinganalog="600" source="lcnaf">Hemingway, Ernest, 1899-1961--Criticism and Interpretation.</persname>
+				<persname encodinganalog="600" source="lcnaf">Hemingway, Ernest, 1899-1961--Exhibitions.</persname>
+				<persname encodinganalog="600" source="lcnaf">Hemingway, Ernest, 1899-1961--Farewell to arms.</persname>
+				<persname encodinganalog="600" source="lcnaf">Hemingway, Ernest, 1899-1961--For whom the bell tolls.</persname>
+				<persname encodinganalog="600" source="lcnaf">Hemingway, Ernest, 1899-1961--Homes and haunts--Cuba--Havana--Pictorial works.</persname>
+				<persname encodinganalog="600" source="lcnaf">Hemingway, Ernest, 1899-1961--Homes and haunts--Florida--Key West--Pictorial works.</persname>
+				<persname encodinganalog="600" source="lcnaf">Hemingway, Ernest, 1899-1961--Moveable feast.</persname>
+				<persname encodinganalog="600" source="lcnaf">Hemingway, Ernest, 1899-1961--Old man and the sea.</persname>
+				<persname encodinganalog="600" source="lcnaf">Hemingway, Ernest, 1899-1961--Pictorial works.</persname>
+				<persname encodinganalog="600" source="lcnaf">Hemingway, Ernest, 1899-1961--Portraits--Exhibitions.</persname>
+				<persname encodinganalog="600" source="lcnaf">Hemingway, Ernest, 1899-1961--Sun also rises.</persname>
+				<persname encodinganalog="600" source="lcnaf">Hemingway, Ernest, 1899-1961--Correspondence.</persname>
+				<persname encodinganalog="700" source="lcnaf">Hemingway, Ernest, 1899-1961.</persname>
+				<subject encodinganalog="650" source="lcsh">Authors, American--20th century.</subject>
+				<subject encodinganalog="650" source="lcsh">War and society--United States--History--20th century.</subject>
+				<subject encodinganalog="650" source="lcsh">World War, 1914-1918--Veterans.</subject>
+				<geogname encodinganalog="651" source="lcsh">Petoskey (Mich.)--History.</geogname>
+				<famname encodinganalog="600" source="lcnaf">Hemingway family.</famname>
+				<corpname encodinganalog="710" source="lcnaf">Michigan Hemingway Society.</corpname>
+				<persname encodinganalog="700" source="lcnaf">Hemingway, Ernest, 1899-1961.</persname>
+			</controlaccess>
+			</controlaccess>
+		<dsc type="combined">
+			<c01 level="series">
+				<did>
+					<unittitle>Ernest Hemingway Collection</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Biographical Information,<unitdate type="inclusive">2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Advertisements for, 	At the Hemingways,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Advertisements for, (The) Complete stories of Ernest Hemingway, the Finca Vigia edition,<unitdate type="inclusive">1988</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Advertisements for, (The) Dangerous summer,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Advertisements for, Ernest Hemingway Collection, Thomasville Furniture Industries, Inc.,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Advertisements for, Ernest Hemingway Reading (album),<unitdate type="inclusive">1986</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Advertisements for, Harry’s Bar and American Grill,<unitdate type="inclusive">1984</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Advertisements for, Hemingway (a biography), by Kenneth S. Lynn,<unitdate type="inclusive">1987</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Advertisements for, Hemingway at auction, 1930-1973,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Advertisements for, Hemingway in northern Michigan,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Advertisements for, Hemingway jacket, in Willis and Geiger catalog,<unitdate type="inclusive">1997</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>Advertisements for, Hemingway, up in Michigan perspectives, and Hemingway, seven decades of 
+criticism,<unitdate type="inclusive">1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>Advertisements for, Hemingway’s Adventures of a young man,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>Advertisements for, Paramount Press Book and Advertising Manual,<unitdate type="inclusive">1976</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>Advertisements for, Remembering Ernest Hemingway,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>Advertising for, Richler, Mordecai. (The) Garden of Eden; Diehl, Digby. Behind the scenes in 
+		(The) Garden of Eden,<unitdate type="inclusive">1986</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">17</container>
+						<unittitle>Advertising for, True Gen: an intimate portrait of Hemingway by those who knew him, 
+by Denis Brian,<unitdate type="inclusive">1988</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">18</container>
+						<unittitle>Advertisements for, Up in Michigan (videotape),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">19</container>
+						<unittitle>Advertisements for, Videos about Ernest Hemingway,<unitdate type="inclusive">1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">20</container>
+						<unittitle>Advertisements for, Windemere Cottage (real estate ads),<unitdate type="inclusive">1988, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">21</container>
+						<unittitle>Articles by Hemingway, (An) African betrayal, in Sports Illustrated,<unitdate type="inclusive">May 1986</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">22</container>
+						<unittitle>Articles by Hemingway, (An) African betrayal, in Literary Cavalcade,<unitdate type="inclusive">October 1986</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">23</container>
+						<unittitle>Articles by Hemingway, After the storm,<unitdate type="inclusive">1932</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">24</container>
+						<unittitle>Articles by Hemingway, (The) Circus, in Barnum Bros. and Barnum and Bailey Circus Magazine and Program,<unitdate type="inclusive">1953</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">25</container>
+						<unittitle>Articles by Hemingway, For whom the bell tolls, in Coronet,<unitdate type="inclusive">September 1943</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">26</container>
+						<unittitle>Articles by Hemingway, Green hills of Africa, in Argosy, the Complete Man's Magazine,<unitdate type="inclusive">June 1954</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">27</container>
+						<unittitle>Articles by Hemingway, Green hills of Africa, Part VII..., in Scribner's, v. XCVIII, no. 5,<unitdate type="inclusive">November 1935</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				 <c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">28</container>
+						<unittitle>Articles by Hemingway, Great blue river, in True, the Man's Magazine,<unitdate type="inclusive">April 1955</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">29</container>
+						<unittitle>Articles by Hemingway, Homage to Switzerland, in Scribner’s, v. XCIII, no. 4,<unitdate type="inclusive">April 1933</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">30</container>
+						<unittitle>Articles by Hemingway, Indian camp, in Transatlantic Review, (Literary Supplement III),<unitdate type="inclusive">April 1924</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">31</container>
+						<unittitle>Articles by Hemingway, (The) Short happy life of Francis Macomber, in Cosmopolitan, v. 123, No. 1,<unitdate type="inclusive">October 1947</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">32</container>
+						<unittitle>Articles by Hemingway, Who is Sydney Franklin?, in True, the Man’s Magazine,<unitdate type="inclusive">June 1960</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">33</container>
+						<unittitle>Articles, Other: Horton Creek Preserve established,<unitdate type="inclusive">2001</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">34</container>
+						<unittitle>Articles re: (about) Hemingway, Baker, Carlos. Hemingway: living, loving, dying (Part 1),<unitdate type="inclusive">1969</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">35</container>
+						<unittitle>Articles re: (about) Hemingway, Baker, Carlos. Hemingway: living, loving, dying (Part 2,<unitdate type="inclusive">1969</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">36</container>
+						<unittitle>Articles re: (about) Hemingway, Bawer. Bruce. Hemingway before Paris,<unitdate type="inclusive">1985</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">37</container>
+						<unittitle>Articles re: (about) Hemingway, Benson, Jackson J. and Simon, Linda. Hemingway the hunter and Steinbeck the 	farmer,<unitdate type="inclusive">1985</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">38</container>
+						<unittitle>Articles re: (about) Hemingway, Birkerts, Sven. Papa,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">39</container>
+						<unittitle>Articles re: (about) Hemingway, Boal, Sam. (The) Old man and the truth, a brilliant look at Ernest Hemingway,<unitdate type="inclusive">1959</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">40</container>
+						<unittitle>Articles re: (about) Hemingway, Braum, Bob. Historic houses: Ernest Hemingway, memories of literary creativity in Key West,<unitdate type="inclusive">1981</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">41</container>
+						<unittitle>Articles re: (about) Hemingway, Burke, Jackson. Hemingway hard-boiled hero!,<unitdate type="inclusive">1955 </unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">42</container>
+						<unittitle>Articles re: (about) Hemingway, Buske, Morris. Dad, are we there yet?,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">43</container>
+						<unittitle>Articles re: (about) Hemingway, Chippi, Erica. Hemingway was here…,<unitdate type="inclusive">2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">44</container>
+						<unittitle>Articles re: (about) Hemingway, Doherty, Jim. Hemingway’s river,<unitdate type="inclusive">1984</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">45</container>
+						<unittitle>Articles re: (about) Hemingway, Drye, Willie. House of Hemingway,<unitdate type="inclusive">1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">46</container>
+						<unittitle>Articles re: (about) Hemingway, Ernest Hemingway: rogue of distinction,<unitdate type="inclusive">1958</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">47</container>
+						<unittitle>Articles re: (about) Hemingway, (Esky column) Ernest Hemingway would have turned 100…,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">48</container>
+						<unittitle>Articles re: (about) Hemingway, Ernest Hemingway’s True at first light; Greer, Herb. True at dusk; Gerard, Philip. Facing eternity alone,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">49</container>
+						<unittitle>Articles re: (about) Hemingway, Gazette (Elk Rapids, Michigan), v. 4, no. 10, (several articles),<unitdate type="inclusive">October 15, 1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">50</container>
+						<unittitle>Articles re: (about) Hemingway, Giovannini, Joseph. Hemingway in Cuba: the author’s Moveable feast at the Finca Vigia,<unitdate type="inclusive">1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">51</container>
+						<unittitle>Articles re: (about) Hemingway, Grauer, Neil A. Remembering Papa,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">52</container>
+						<unittitle>Articles re: (about) Hemingway, Happy 100, Hemingway,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">53</container>
+						<unittitle>Articles re: (about) Hemingway, Happy 100th, Papa!,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">54</container>
+						<unittitle>Articles re: (about) Hemingway, Hayes, Lisa. Friends with Ernest,<unitdate type="inclusive">2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">55</container>
+						<unittitle>Articles re: (about) Hemingway, Heidelberg, Paul. Yesterday,<unitdate type="inclusive">1985</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">56</container>
+						<unittitle>Articles re: (about) Hemingway, Hemingway, Edward. (The) Grandson knocks back four daiquiris at El Floridita,<unitdate type="inclusive">2001</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">57</container>
+						<unittitle>Articles re: (about) Hemingway, Hemingway, Mary, “My husband Ernest Hemingway”,<unitdate type="inclusive">1966</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">58</container>
+						<unittitle>Articles re: (about) Hemingway, Hemingway, Mary, To Parajiso with Papa and ‘Pila’,<unitdate type="inclusive">[after 1961]</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">59</container>
+						<unittitle>Articles re: (about) Hemingway, Jobst, Jack. Gone fishin’,<unitdate type="inclusive">1995</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">60</container>
+						<unittitle>Articles re: (about) Hemingway, Jobst, Jack. Hemingway in Seney,<unitdate type="inclusive">1990</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">61</container>
+						<unittitle>Articles re: (about) Hemingway, Kazin, Alfred. Hemingway and Fitzgerald: the cost of being American,<unitdate type="inclusive">1984</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">62</container>
+						<unittitle>Articles re: (about) Hemingway, Lenfestey, Jim. Fox River revisited,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">63</container>
+						<unittitle>Articles re: (about) Hemingway, Lyons, Nick. Hemingway’s many hearted Fox River,<unitdate type="inclusive">1997</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">64</container>
+						<unittitle>Articles re: (about) Hemingway, M., T. Hemingway’s road: some trips are greater than others,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">65</container>
+						<unittitle>Articles re: (about) Hemingway, Mallin, Jay. Hemingway: America’s No. 1 he-man,<unitdate type="inclusive">1956</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">66</container>
+						<unittitle>Articles re: (about) Hemingway, Martin, Rebecca. On the road to discovering Hemingway; Reisig, Greg. Horton Bay: a Hemingway time capsule; Wilson, Michael. Hemingway Society,<unitdate type="inclusive">1993</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">67</container>
+						<unittitle>Articles re: (about) Hemingway, McConnell, Frank. Hemingway: stalking Papa’s ghost,<unitdate type="inclusive">1986</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">68</container>
+						<unittitle>Articles re: (about) Hemingway, McDonell, Terry. Looking for Hemingway,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">69</container>
+						<unittitle>Articles re: (about) Hemingway, Mudd, Kevin. Collecting UK editions of Ernest Hemingway,<unitdate type="inclusive">1992</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">70</container>
+						<unittitle>Articles re: (about) Hemingway, Oates, Joyce Carol. Was Hemingway a man’s man?...,<unitdate type="inclusive">1984</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">71</container>
+						<unittitle>Articles re: (about) Hemingway, O’Brien, Bill. Ernest Hemingway: sportsman,<unitdate type="inclusive">1951</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">72</container>
+						<unittitle>Articles re: (about) Hemingway, Oh to be poor in Paris,<unitdate type="inclusive">1966</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">73</container>
+						<unittitle>Articles re: (about) Hemingway, Parker, Ken. Hemingway haunts: tour of his colorful north,<unitdate type="inclusive">1983</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">74</container>
+						<unittitle>Articles re: (about) Hemingway, Paterson, Kenneth H. Hemingway’s Cuba,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">75</container>
+						<unittitle>Articles re: (about) Hemingway, Plummer, William. Papa comes in from the critical cold at Hemingway revival in balmy Key West,<unitdate type="inclusive">1985</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">76</container>
+						<unittitle>Articles re: (about) Hemingway, Prescott, Helen. Hemingway’s Michigan,<unitdate type="inclusive">1985</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">77</container>
+						<unittitle>Articles re: (about) Hemingway, Roberts, MacLean. (An) afternoon with Papa Hemingway,<unitdate type="inclusive">1957</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">78</container>
+						<unittitle>Articles re: (about) Hemingway, Ross, Lillian. Hemingway told me things, notes on ten years of correspondence,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">79</container>
+						<unittitle>Articles re: (about) Hemingway, Rybovich, John. Clash of the Titans,<unitdate type="inclusive">circa 1982</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">80</container>
+						<unittitle>Articles re: (about) Hemingway, Scalzo, Jim. Hemingway’s Cuba,<unitdate type="inclusive">1997</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">81</container>
+						<unittitle>Articles re: (about) Hemingway, Simon, Jane. Wisps of Hemingway,<unitdate type="inclusive">2002</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">82</container>
+						<unittitle>Articles re: (about) Hemingway, Steele, Lori Hall. Hemingway’s Windemere,<unitdate type="inclusive">1997</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">83</container>
+						<unittitle>Articles re: (about) Hemingway, Stevens, Stuart. (A) fine line: Hemingway’s works reveal the likeness of skiing then and now,<unitdate type="inclusive">1986</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">84</container>
+						<unittitle>Articles re: (about) Hemingway, Swift, E.M. In the country he loved,<unitdate type="inclusive">198?</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">85</container>
+						<unittitle>Articles re: (about) Hemingway, Swoyer, Megan. On Hemingway’s trail,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">86</container>
+						<unittitle>Articles re: (about) Hemingway, West, Ben. (The) Secret life of Ernest Hemingway,<unitdate type="inclusive">1956</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">87</container>
+						<unittitle>Articles re: (about) Hemingway, Whitfield, Ellis. Hemingway: el hombre (in Spanish),<unitdate type="inclusive">1953</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">88</container>
+						<unittitle>Articles re: (about) Hemingway, Who the hell is Ernest Hemingway?,<unitdate type="inclusive">1956</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">89</container>
+						<unittitle>Articles re: (about) Hemingway, Write from your heart,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">90</container>
+						<unittitle>Auction Catalogs, Christie’s-Ernest Hemingway, including recently discovered manuscript,<unitdate type="inclusive">May 19, 2000</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">91</container>
+						<unittitle>Auction Catalogs, R. M. Smythe-Ernest Hemingway, “Out of the Lyon’s Den”,<unitdate type="inclusive">1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">1</container>
+						<container type="Folder" label="F">92</container>
+						<unittitle>Auction Catalogs, Sotheby’s [catalog]- Hemingway, Ernest, letter to Marcelline, and other items,<unitdate type="inclusive">July 1937, December 10, 2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Book-of-the-Month Club, Correspondence re: For whom the bell tolls,<unitdate type="inclusive">January 6, 1941</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Book Reviews of, For whom the bell tolls,<unitdate type="inclusive">1940</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Book Reviews of, (The) Garden of Eden,<unitdate type="inclusive">1986</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Books re: Hemingway, El author y su obra Hemingway,<unitdate type="inclusive">1973</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Brochures, Key West, Florida,<unitdate type="inclusive">1984, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Brochures, Oak Park, Illinois,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Diaries, of George R. Hemingway,<unitdate type="inclusive">1938</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+		<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Diaries, of George R. Hemingway,<unitdate type="inclusive">1941</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Diaries, of George R. Hemingway,<unitdate type="inclusive">1942, 1944</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Diaries, of George R. Hemingway,<unitdate type="inclusive">1945</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Diaries, of George R. Hemingway,<unitdate type="inclusive">1946-1947</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>Diaries, of George R. Hemingway,<unitdate type="inclusive">1948-1949</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>Diaries, of George R. Hemingway,<unitdate type="inclusive">1950-1951</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>Diaries, of George R. Hemingway,<unitdate type="inclusive">1952 (mostly empty)</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>Donor Correspondence,<unitdate type="inclusive">July 10, 19, 1985; August 3, 1998; October, December 2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>Dust Jacket (facsimilie) for (The) Torrents of spring,<unitdate type="inclusive">1928</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">17</container>
+						<unittitle>Exhibit Brochures, Celebrate the Hemingway centennial at the Kennedy Library; Kennedy Library Newsletter,<unitdate type="inclusive">April 8-11, 1999; 1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">18</container>
+						<unittitle>Exhibit Brochures, Exhibition of landscapes by Grace Hall Hemingway, Little Traverse History Museum,<unitdate type="inclusive">July 21-September 16, 2001</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">19</container>
+						<unittitle>Exhibit Brochures, Picturing Hemingway: a writer in his time, National Portrait Gallery,<unitdate type="inclusive">June 8-November 7, 1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">20</container>
+						<unittitle>Exhibit Photographs, Reception for Hemingway in Michigan, Clarke Historical Library, Central Michigan University,<unitdate type="inclusive">October 17, 2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">21</container>
+						<unittitle>Galley Proof, Hemingway in Cuba, by Hilary Hemingway and Charles Brennen,<unitdate type="inclusive">2002</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">22</container>
+						<unittitle>Hemingway Society, National Conference at Traverse City, Michigan, Brochures, Materials,<unitdate type="inclusive">September-October 1983</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">23</container>
+						<unittitle>Ketchum, Spencer, Editorial Projects on Ernest and Sunny Hemingway, related clippings and correspondence; letter from Ernest Mainland and Photograph of Sunny Hemingway Mainland,<unitdate type="inclusive">1987-2003; 1995</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">24</container>
+						<unittitle>Little Traverse Historical Society, Hemingway and Windemere Tour, Tickets and Brochure,<unitdate type="inclusive">1995</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">25</container>
+						<unittitle>Manuscripts, Correspondence, Letter from Ernest to “Dear Dad”, October 28, 1919, with certificate of Authenticity signed by Ernest Hemingway Mainland, June 25, 2007. (This letter is housed separately from the rest of the collection.),<unitdate type="inclusive">October 28, 1919; June 25, 2007</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">26</container>
+						<unittitle>Manuscripts, Correspondence, Letter from Ernest to “Dear Mother,” November 11, 1919, envelope November 12, 1919 (This letter is housed separately from the rest of the collection.),<unitdate type="inclusive">November 11-12, 1919</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">27</container>
+						<unittitle>Manuscripts, Correspondence, Letter from Ernest to his friend Jim Gamble, April 18 and 27, 1919. (This letter is housed separately from the rest of the collection.),<unitdate type="inclusive">April 18, 27, 1919</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">27</container>
+						<unittitle>Manuscripts, Correspondence, Letter from Ernest to his son J. H. N. Hemingway, August 2, 1960 (and envelope),<unitdate type="inclusive">August 2, 1960</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">28</container>
+						<unittitle>Michigan Hemingway Society, Articles of Incorporation; By-laws; Goals and Objectives,<unitdate type="inclusive">1993, 1995, 2007; 2000; undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">29</container>
+						<unittitle>Michigan Hemingway Society, Birth Centennial Celebration, Brochures, Public Relations Materials,<unitdate type="inclusive">July 22-25, 1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">30</container>
+						<unittitle>Michigan Hemingway Society, Birth Centennial Celebration, Tote Bag, Cards,<unitdate type="inclusive">July 22-25, 1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">31</container>
+						<unittitle>Michigan Hemingway Society, Board Archives (CDs of Email, Minutes, By-laws, Miscellaneous) (moved to Box 7 due to growth rate of folder),<unitdate type="inclusive">2003-2006, 2008-2011</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">32</container>
+						<unittitle>Michigan Hemingway Society, Correspondence, Meeting Minutes, etc.,<unitdate type="inclusive">1990-1998</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">33</container>
+						<unittitle>Michigan Hemingway Society, Correspondence, Meeting Minutes, etc.,<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">34</container>
+						<unittitle>Michigan Hemingway Society, Correspondence, Meeting Minutes, etc.,<unitdate type="inclusive">2000-2003 (Scattered)</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">35</container>
+						<unittitle>Michigan Hemingway Society, Financial Statements,<unitdate type="inclusive">1996-2006</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">36</container>
+						<unittitle>Michigan Hemingway Society, Hemingway Conference, Packet; Brochure,<unitdate type="inclusive">2003; 2005</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">37</container>
+						<unittitle>Michigan Hemingway Society, Photographs [Conference, Horton Bay and Petoskey, Michigan, tours],<unitdate type="inclusive">1994</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">38</container>
+						<unittitle>Michigan Hemingway Society, Photographs and Negatives [Conference],<unitdate type="inclusive">1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">39</container>
+						<unittitle>Michigan Hemingway Society, Photographs and Negatives [Conference],<unitdate type="inclusive">1997</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">40</container>
+						<unittitle>Michigan Hemingway Society, Photographs and Negatives [Conference],<unitdate type="inclusive">1998, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">41</container>
+						<unittitle>Michigan Hemingway Society, Photographs [Conference, Horton Bay, Michigan],<unitdate type="inclusive">1999</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">42</container>
+						<unittitle>Movie Press Kit for '(The) Old man and the sea',<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">43</container>
+						<unittitle>Movie Programs (7, in Swedish),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">44</container>
+						<unittitle>Movie Promotion Material, for ‘For whom the bell tolls’, 1943, Copies from Hemingway Family Scrapbooks?,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">45</container>
+						<unittitle>Movie Promotion Material, for ‘For whom the bell tolls’, 1943, Copies from the John F. Kennedy Library (3),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">46</container>
+						<unittitle>Movie Promotion Material, for ‘For whom the bell tolls’, 1943, Copy from Book World, 1969, of Ernest, Marcelline, Ursula, and Sunny with Owen S. White in 1911, with Madelaine Hemingway Miller’s signature (very acidic),<unitdate type="inclusive">1969</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">47</container>
+						<unittitle>Movie Promotion Material, from the movies of, ‘Adventures of a young man’,<unitdate type="inclusive">1962</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">48</container>
+						<unittitle>Movie Promotion Material, from the movies of, ‘Breaking point’,<unitdate type="inclusive">1950</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">49</container>
+						<unittitle>Movie Promotion Material, from the movies of, ‘(A) Farewell to arms’,<unitdate type="inclusive">[1932]</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">50</container>
+						<unittitle>Movie Promotion Material, from the movies of, ‘For whom the bell tolls’,<unitdate type="inclusive">[1943]</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+                <c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">51</container>
+						<unittitle>Movie Promotion Material, from the movies of, ‘In Love and war’,<unitdate type="inclusive">1996</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				 <c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">52</container>
+						<unittitle>Movie Promotion Material, from the movies of, ‘(The) Killers’,<unitdate type="inclusive">1964</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">53</container>
+						<unittitle>Movie Promotion Material, from the movies of, ‘(The) Macomber affair’,<unitdate type="inclusive">1946</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">2</container>
+						<container type="Folder" label="F">54</container>
+						<unittitle>Movie Promotion Material, from the movies of, ‘(The) Old man and the sea’,<unitdate type="inclusive">[1958]</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Movie Promotion Material, of Stars, Premier of '(The) Snows of Kilimanjaro',<unitdate type="inclusive">circa 1952</unitdate>
+						</unittitle>
+					</did>
+				</c02><c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Movie Promotion Material, from the movies of, ‘To have and have not’,<unitdate type="inclusive">[1944]</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Movie Promotion Material, from the movies of, ‘Under my skin’,<unitdate type="inclusive">1950</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Movie Promotion Material, Of Capital of the World (a bull-fight ballet),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Photographs of Ernest Hemingway,<unitdate type="inclusive">1927, 1937, circa 1930s, 1953, circa 1956</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Photographs of Horton Bay (22), and Digitized Photographs (2 items) and Map (Ohle Photographs),<unitdate type="inclusive">circa 19-20th centuries, undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Photographs, [Miscellaneous],<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Play, Lovely Walloona, conflict at the Hemingways, by Morris Buske,<unitdate type="inclusive">1992</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Play Program, (A) Summer with Hemingway’s twin, by Lucia deView,<unitdate type="inclusive">2001</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Playbills, (The) Fifth column; Papa,<unitdate type="inclusive">1940; 1988</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Postcards, Hemingway-Pfieffer Museum and Educational Center; Oak Park, Illinois, home; School, Seney, Michigan,<unitdate type="inclusive">1999; undated; 1912</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>Postage Stamps (20-25 cent stamps); 1st day issue, Cancelled; 3 cent stamps (Cuban),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>Screenplay of E. H.’s Adventures of a young man, by A. E. Hotchner, First Draft,<unitdate type="inclusive">May 29, 1961</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>Sheet Music, (A) Farewell to arms, by Allie Wrubel and Abner Silver,<unitdate type="inclusive">1933</unitdate>
+						</unittitle>
+					</did>
+				</c02>				
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>Term Paper, Larson, Marion Kraft. Yes, I knew Ernest Hemingway,<unitdate type="inclusive">1972</unitdate>
+						</unittitle>
+					</did>
+				</c02>		
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>Theatre Program, includes "(The) Killers",<unitdate type="inclusive">1964</unitdate>
+						</unittitle>
+					</did>
+				</c02>	
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">17</container>
+						<unittitle>Tourism Literature, This week in Paris,<unitdate type="inclusive">November 9-16, 1928</unitdate>
+						</unittitle>
+					</did>
+				</c02>	
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">3</container>
+						<container type="Folder" label="F">18</container>
+						<unittitle>Video, 2003, of ‘Adventures of a young man’ (1962 movie),<unitdate type="inclusive">2003</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Newspaper Clippings (copies) [on top due to size],<unitdate type="inclusive">1960s</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Newspaper Clippings (copies) [on top due to size],<unitdate type="inclusive">1970s</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Newspaper Clippings (copies) [on top due to size],<unitdate type="inclusive">1980s</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Newspaper Clippings (copies) [on top due to size],<unitdate type="inclusive">1990s</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Newspaper Clippings (copies) [on top due to size],<unitdate type="inclusive">2001-2002</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Newspaper Clippings (copies) [on top due to size],<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Ledger-size magazines with Articles by Hemingway, “Bimini”, Esquire,<unitdate type="inclusive">October 1970</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Ledger-size magazines with Articles by Hemingway, “(The) Cardinal picks a winner”, Ken, v. 1, no. 3,<unitdate type="inclusive">May 5th, 1938</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+                <c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Ledger-size magazines with Articles by Hemingway, (The) Dangerous summer, (Part 1 of 3, introduction, and editor’s note, 3 copies), Life,<unitdate type="inclusive">September 5th, 1960</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Ledger-size magazines with Articles by Hemingway, (The) Dangerous summer, (Part 2 of 3, 2 copies), Life,<unitdate type="inclusive">September 12, 1960</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Ledger-size magazines with Articles by Hemingway, (The) Dangerous summer, (Part 3 of 3, 2 copies), Life,<unitdate type="inclusive">September 19, 1960</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">12</container>
+						<unittitle>Ledger-size magazines with Articles by Hemingway, “Dying badly”, Ken, v. 1, no. 2,<unitdate type="inclusive">September 21, 1938</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">13</container>
+						<unittitle>Ledger-size magazines with Articles by Hemingway, (The) Garden of Eden; and article re: Burgess, Anthony. (The) Joys of a new marriage, Life,<unitdate type="inclusive">June 1986</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">14</container>
+						<unittitle>Ledger-size magazines with Articles by Hemingway, (The) Great blue river, Holiday, v. 6, no.1,<unitdate type="inclusive">July 1949</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">15</container>
+						<unittitle>Ledger-size magazines with Articles by Hemingway, H. M.’s loyal state department, Ken, v. 1, no. 6,<unitdate type="inclusive">June 16, 1938</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">16</container>
+						<unittitle>Ledger-size magazines with Articles by Hemingway, “Horns of the bull”, Esquire,<unitdate type="inclusive">June 1936</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">17</container>
+						<unittitle>Ledger-size magazines with Articles by Hemingway, “I disavow any responsibility” Part II (concluding the Christmas gift), Life,<unitdate type="inclusive">May 4, 1954</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">18</container>
+						<unittitle>Ledger-size magazines with Articles by Hemingway, (The) Killers, Life,<unitdate type="inclusive">September 2, 1946</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">19</container>
+						<unittitle>Ledger-size magazines with Articles by Hemingway, “London fights the robots”, Colliers,<unitdate type="inclusive">August 19, 1944</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">20</container>
+						<unittitle>Ledger-size magazines with Articles by Hemingway, “Notes of dangerous game: the third Tangayika letter”, Esquire,<unitdate type="inclusive">July 1934</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">21</container>
+						<unittitle>Ledger-size magazines with Articles by Hemingway, (The) Old man and the sea, (2 copies), Life,<unitdate type="inclusive">September 1, 1952</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">22</container>
+						<unittitle>Ledger-size magazines with Articles by Hemingway, Safari, 1954; and Behind the scenes, (2 copies), Look,<unitdate type="inclusive">January 26, 1954</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">23</container>
+						<unittitle>Ledger-size magazines with Articles re: (about) Hemingway, Atkins, John. Hemingway and the --American novel; --Motion picture; --Great outdoors; --Old man and the sea; From the wisdom of Ernest Hemingway, (2 copies),<unitdate type="inclusive">1958</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">24</container>
+						<unittitle>Ledger-size magazines with Articles re: (about) Hemingway, Campoamor, Fernando. El viejoy y el mar, ((The) Old man and the sea, in Spanish),<unitdate type="inclusive">1957</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">25</container>
+						<unittitle>Ledger-size magazines with Articles re: (about) Hemingway, Cowley, Malcolm. A Portrait of Mister Papa,<unitdate type="inclusive">1949</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">26</container>
+						<unittitle>Ledger-size magazines with Articles re: (about) Hemingway, Downes, Robert. (A) Hemingway encounter,<unitdate type="inclusive">April 2004</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">27</container>
+						<unittitle>Ledger-size magazines with Articles re: (about) Hemingway, Gatti, Armand. Hemingway: le viel homme et aeon coeuer (in French),<unitdate type="inclusive">1959</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">28</container>
+						<unittitle>Ledger-size magazines with Articles re: (about) Hemingway, Hemingway, Mary. (A) Personal story,<unitdate type="inclusive">1961</unitdate>
+						</unittitle>
+					</did>
+					</c02>					
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">29</container>
+						<unittitle>Ledger-size magazines with Articles re: (about) Hemingway, Hemingway, Mary. (A) Sentimental safari; and Hunt, George P., How we got to know the Hemingways,<unitdate type="inclusive">1963</unitdate>
+						</unittitle>
+					</did>
+					</c02>					
+				<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">30</container>
+						<unittitle>Ledger-size magazines with Articles re: (about) Hemingway, Hemingway (Photographic essay); MacLesh, Archibald. His mirror was danger; and editor’s note, (3 copies),<unitdate type="inclusive">1961</unitdate>
+						</unittitle>
+					</did>
+					</c02>	
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">31</container>
+						<unittitle>Ledger-size magazines with Articles re: (about) Hemingway, Hemingway’s old man and his movie epic,<unitdate type="inclusive">1958</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">32</container>
+						<unittitle>Ledger-size magazines with Articles re: (about) Hemingway, His new book: “A Moveable feast”; Hunt, George P. How Hemingway wrote “A Moveable feast”,<unitdate type="inclusive">1964</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">33</container>
+						<unittitle>Ledger-size magazines with Articles re: (about) Hemingway, Hotchner, A. E. Papa Hemingway, (Part 1 of 3),<unitdate type="inclusive">1966</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">34</container>
+						<unittitle>Ledger-size magazines with Articles re: (about) Hemingway, Hotchner, A. E. Papa Hemingway, (Part 2 of 3),<unitdate type="inclusive">1966</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">35</container>
+						<unittitle>Ledger-size magazines with Articles re: (about) Hemingway, Hotchner, A. E. Papa Hemingway, (Part 3 of 3),<unitdate type="inclusive">1966</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">36</container>
+						<unittitle>Ledger-size magazines with Articles re: (about) Hemingway, Lockhart, Lloyd. Dropping in on Hemingway; (The) Old man lands biggest catch,<unitdate type="inclusive">1958; 1954</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">37</container>
+						<unittitle>Ledger-size magazines with Articles re: (about) Hemingway, (Private Lives column),<unitdate type="inclusive">1937</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">38</container>
+						<unittitle>Ledger-size magazines with Articles re: (about) Hemingway, (A) Visit with Hemingway,<unitdate type="inclusive">1956</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">4</container>
+						<container type="Folder" label="F">39</container>
+						<unittitle>Sheet Music, Lovely Walloona, words and music by Grace Hall-Hemingway (3 copies),<unitdate type="inclusive">1901</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Photographs (2008 copies) from the John F. Kennedy Presidential Library, Ernest Hemingway, As an Adult (37),<unitdate type="inclusive">2008</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Photographs (2008 copies) from the John F. Kennedy Presidential Library, Ernest Hemingway, And Friends (14),<unitdate type="inclusive">2008</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Photographs (2008 copies) from the John F. Kennedy Presidential Library, Ernest Hemingway, In Uniform (3),<unitdate type="inclusive">2008</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Photographs (2008 copies) from the John F. Kennedy Presidential Library, Ernest Hemingway, As a Young Boy (8),<unitdate type="inclusive">2008</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Photographs (2008 copies) from the John F. Kennedy Presidential Library, Hadley Hemingway (5),<unitdate type="inclusive">2008</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Photographs (2008 copies) from the John F. Kennedy Presidential Library, Hemingway Family (14),<unitdate type="inclusive">2008</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Photographs (2008 copies) from the John F. Kennedy Presidential Library, Hemingway Homes, Cabins, and Related Buildings (24),<unitdate type="inclusive">2008</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Photographs (2008 copies) from the John F. Kennedy Presidential Library, Hemingway Miscellaneous, Automobiles, Streams, Road, etc. (13),<unitdate type="inclusive">2008</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Pat Davis, Correspondence and Sheet music, Grace Hall-Hemingway, Clarence Hemingway,<unitdate type="inclusive">1905, 1921</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Pat Davis, Newspaper Clippings (copies), Hemingway, Dilworth House, Pat,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">5</container>
+						<container type="Folder" label="F">11</container>
+						<unittitle>Pat Davis, Photographs, 6 (copies), Horton Bay, Michigan,<unitdate type="inclusive">2012</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Michigan Hemingway Society, Archives, Documents and Correspondence, (CD), File Names,<unitdate type="inclusive">2012</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Michigan Hemingway Society, Archives, Documents and Correspondence, Printouts, Pre-1994-2005,<unitdate type="inclusive">2012</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Michigan Hemingway Society, Archives, Documents and Correspondence, Printouts, 2005 (folder 1 of 3),<unitdate type="inclusive">2012</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Michigan Hemingway Society, Archives, Documents and Correspondence, Printouts, 2005 (folder 2 of 3),<unitdate type="inclusive">2012</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Michigan Hemingway Society, Archives, Documents and Correspondence, Printouts, 2005 (folder 3 of 3),<unitdate type="inclusive">2012</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Michigan Hemingway Society, Archives, Documents and Correspondence, Printouts, Index of 2012 files, Conference Int’l,<unitdate type="inclusive">2012</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Michigan Hemingway Society, Archives, Documents and Correspondence, Printouts, Index of 2012 files, Conference Int’l, 2012,<unitdate type="inclusive">2012</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Michigan Hemingway Society, Archives, Documents and Correspondence, Printouts, Pre-MHS-IHS,<unitdate type="inclusive">2012</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Michigan Hemingway Society, Archives, Documents and Correspondence, Printouts, Women DVD, MHS, 2012, Incorporation Documents, 1993-1995, 2007, 2009, Mailing Lists, 2010,<unitdate type="inclusive">2012</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">6</container>
+						<container type="Folder" label="F">10</container>
+						<unittitle>Michigan Hemingway Society, Archives, Documents and Correspondence, Printouts, Hemingway Review, Spring 2012, Ruebelman, Scrivener, Tour MHS,<unitdate type="inclusive">2012</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Articles re: (about) Hemingway, Daniello, Vincent. Aboard Pilar with Papa,<unitdate type="inclusive">2014</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Articles re: (about) Hemingway, King, Richard. Hemingway’s sharks,<unitdate type="inclusive">2014</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Articles re: (about) Hemingway, Pike, Bill. Tribute to an old man,<unitdate type="inclusive">2011</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Michigan Hemingway Society. Board Archives (Financials, Minutes, By-laws, Miscellaneous, Prints, CDs, moved from Box 2 due to growth rate of folder),<unitdate type="inclusive">2003-2004</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Michigan Hemingway Society. Board Archives (Financials, Minutes, By-laws, Miscellaneous, Prints, CDs, moved from Box 2 due to growth rate of folder),<unitdate type="inclusive">2005</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Michigan Hemingway Society. Board Archives (Financials, Minutes, By-laws, Miscellaneous, Prints, CDs, moved from Box 2 due to growth rate of folder),<unitdate type="inclusive">2006-2007</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Michigan Hemingway Society. Board Archives (Financials, Minutes, By-laws, Miscellaneous, Prints, CDs, moved from Box 2 due to growth rate of folder),<unitdate type="inclusive">2008-2009</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Michigan Hemingway Society. Board Archives (Financials, Minutes, By-laws, Miscellaneous, Prints, CDs, moved from Box 2 due to growth rate of folder),<unitdate type="inclusive">2008-2009</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Michigan Hemingway Society. Board Archives (Financials, Minutes, By-laws, Miscellaneous, Prints, CDs, moved from Box 2 due to growth rate of folder), no 2012,<unitdate type="inclusive">2010-2011</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">7</container>
+						<container type="Folder" label="F">9</container>
+						<unittitle>Michigan Hemingway Society. Board Archives (Financials, Minutes, By-laws, Miscellaneous, Prints, CDs, moved from Box 2 due to growth rate of folder),<unitdate type="inclusive">2013-</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Box" label="Box">8</container>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Film, ‘Adventures of a young man’, undated, 16 mm film (4 reels in 4 boxes),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02><c02 level="file">
+					<did>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Oversized Folders: Folder #1, Stamp, Photograph, Stage Adaption of "(A) Farewell to arms," 11x14 inches Elissa Landis, Glenn Anders,<unitdate type="inclusive">1930</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">1</container>
+						<unittitle>Oversized Folders: Folder #1, Stamp, 1st day issue of Key West, Florida, Cancelled Stamp, Matted, (Stamp 8x11 inches, with mat 12x16 inches),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Oversized Folders: Folder #2, Movie Posters, Lobby Cards, each in color and measuring 11x14 inches, ‘Adventures of a young man’, posters #1-8,<unitdate type="inclusive">1962</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Oversized Folders: Folder #2, Movie Posters, Lobby Cards, each in color and measuring 11x14 inches, ‘A Bout Portant (‘(The) Killers’ in French), posters #1-4, 6-7,<unitdate type="inclusive">1964</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Oversized Folders: Folder #2, Movie Posters, Lobby Cards, each in color and measuring 11x14 inches, ‘(A) Farewell to arms’, posters #1-8,<unitdate type="inclusive">1957</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Oversized Folders: Folder #2, Movie Posters, Lobby Cards, each in color and measuring 11x14 inches, ‘For whom the bell tolls’, poster #7,<unitdate type="inclusive">1957</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Oversized Folders: Folder #2, Movie Posters, Lobby Cards, each in color and measuring 11x14 inches, ‘(The) Gun runners’, posters #2-8,<unitdate type="inclusive">1959</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Oversized Folders: Folder #2, Movie Posters, Lobby Cards, each in color and measuring 11x14 inches, ‘(The) Snows of Kilimanjaro’, posters #2-5, 7-8,<unitdate type="inclusive">1952</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Oversized Folders: Folder #2, Movie Posters, Lobby Cards, each in color and measuring 11x14 inches ‘(The) Sun also rises’, poster #1,<unitdate type="inclusive">1957</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">2</container>
+						<unittitle>Oversized Folders: Folder #2, Movie Advertisement, "(The) Macomber affair',<unitdate type="inclusive">1946</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Oversized Folders: Folder #3, Posters not Advertising Movies, Ernest Hemingway y Cuba Posters, by Instituto Cubano del Libro, black and white, 11.5x16.5 inches, Two men on a bridge,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Oversized Folders: Folder #3, Posters not Advertising Movies, Ernest Hemingway y Cuba Posters, by Instituto Cubano del Libro, black and white, 11.5x16.5 inches, Man on a bridge (Hemingway?),<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Oversized Folders: Folder #3A, 'El Valor de ser hombre posters (2, in Spanish), both measuring 12.5x16.5 inches,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">3</container>
+						<unittitle>Oversized Folders: Folder #3A, '(The) Killers', Universal City Studios Showman Manual,<unitdate type="inclusive">1964</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Larger Posters, Movie Posters, in color, ‘Trafiquants d’armes a Cuba ((The) Gun runners)’, (printed in Belgium), Window Card, 14x20 inches,<unitdate type="inclusive">[1958]</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Larger Posters, Movie Posters, in color, ‘‘Adventures de Jeunesse’, (in French), Window Card, 17.5x22 inches,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Larger Posters, Movie Posters, in color, ‘L’adieu aux armes ((A) Farewell to arms)’, (in French, printed in Belgium), Window Card, 15x22 inches,<unitdate type="inclusive">[1957]</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Larger Posters, Movie Posters, in color, ‘Adventures of a young man’, Half Sheet, 22x28 inches,<unitdate type="inclusive">1962</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Larger Posters, Movie Posters, in color, ‘(The) Snows of Kilimanjaro’, Half Sheet, 22x28 inches,<unitdate type="inclusive">1952</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Posters Not Advertising Movies, Michigan in Hemingway: a sense of place, Michigan Hemingway Society, birth centennial celebration, Petoskey, Michigan, in shades of brown, 14x17 inches (2 copies, 1 signed)<unitdate type="inclusive">July 22-25, 1999</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Posters Not Advertising Movies, Hemingway (portrait?), by F. Paehr (sp?), in color, 16x20 inches,<unitdate type="inclusive">circa 1980</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Posters Not Advertising Movies, Hemingway up in Michigan II, Stafford Perry Hotel, Petoskey, Michigan, in shades of brown, 16.5x23 inches,<unitdate type="inclusive">October 17-20, 1991</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Posters Not Advertising Movies, To have and have not, a celebration of Hemingway’s years in Key West and Havana, black and white photograph of Hemingway and sword fish, on black background with white lettering, 17x22 inches,<unitdate type="inclusive">April 29, 1995</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Posters Not Advertising Movies, E. Hemingway, Ernest Hemingway, the Dangerous Summer, Charles Scribner’s Sons, photographed by Larry Burrows, color photograph portrait on black background, with white, red, gray and yellow lettering, 18x24 inches,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Posters Not Advertising Movies, Ernest Hemingway, Havana, Cuba, 1952, Photographed aboard the Pilar by Willis W. Sanders, color photograph portrait on boat, on white background, with brown lettering, 18”x24,<unitdate type="inclusive">1994</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Posters Not Advertising Movies, E. Hemingway, Coleccion Vigia, Museo Ernest Hemingway. San 	Francisco de Paula, La Habana, CUBA, portrait in black and white, with red and black lettering, 18x27 inches,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Posters Not Advertising Movies, Hemingway at the Kennedy, 1980, ten years after, Photograph by John Suiter, color photograph of Hemingway’s WWI wallet contents on white background with gray lettering, 19x23.5 inches,<unitdate type="inclusive">1990</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Posters Not Advertising Movies, Finca Vigia, Coleccion Vigia, Museo Ernest Hemingway, La Habana, Cuba, color photograph of house with green edge, and white and yellow lettering, 19.5x27.5 inches,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Posters Not Advertising Movies, E. Hemingway, Finca Vigia, Coleccion Vigia, Museo Ernest Hemingway. San Francisco de Paula, La Habana, CUBA, portrait in yellow and brown, with black and brown lettering, 19x26.5 inches,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Posters Not Advertising Movies, Sala de la vigia, Coleccion VIGIA, Museo Ernest Hemingway. La Habana, CUBA, color photograph of living room, with brown edge and yellow and white lettering, 19.5x27.5 inches,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Posters Not Advertising Movies, Cigar aficionado, 100 years of Hemingway, black and white portrait photograph with yellow and black lettering, 20x26 inches,<unitdate type="inclusive">August 1999</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Posters Not Advertising Movies, Hemingway, Coleccion VIGIA, Museo Ernest Hemingway. La Habana, CUBA, color photograph of glasses and paper on table, with white and yellow lettering, 20x27.5 inches,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">4</container>
+						<unittitle>Oversized Folders: Folder #4, Posters Not Advertising Movies, Ernest Hemingway (portrait by Grace Hall-Hemingway of the photograph taken by Man Ray in the 1920s), photographed by Ernest H. Mainland, 22x26 inches,<unitdate type="inclusive">1990</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Oversized Folders: Folder #5, Movie Theater Lobby Posters, in color, ‘(The) Gun runners’, Window Card, 14x22 inches,<unitdate type="inclusive">1958</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Oversized Folders: Folder #5, Movie Theater Lobby Posters, in color, ‘(The) Snows of Kilimanjaro’, in Sydney, Insert, 13x30 inches,<unitdate type="inclusive">1952</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Oversized Folders: Folder #5, Movie Theater Lobby Posters, in color, ‘Islands in the stream’, Insert, 13.5x30 inches,<unitdate type="inclusive">[1976]</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Oversized Folders: Folder #5, Movie Theater Lobby Posters, in color, ‘Islands in the stream’, Insert, 14x35 inches,<unitdate type="inclusive">1976</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Oversized Folders: Folder #5, Movie Theater Lobby Posters, in color, ‘Under my skin’, Insert, 14x36 inches,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Oversized Folders: Folder #5, Movie Theater Lobby Posters, in color, ‘(The) Sun also rises’, Insert, 14x37 inches,<unitdate type="inclusive">1957</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Oversized Folders: Folder #5, Movie Theater Lobby Posters, in color, ‘Adventures of a young man’, Insert, 14x36 inches,<unitdate type="inclusive">1962</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Oversized Folders: Folder #5, Movie Theater Lobby Posters, in color, ‘Great white hunter’, Insert, 14x36 inches,<unitdate type="inclusive">1952</unitdate>
+						</unittitle>
+					</did>
+					</c02>					
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">5</container>
+						<unittitle>Oversized Folders: Folder #5, Movie Theater Lobby Posters, in color, ‘(the) Gun runners’, Insert, 14x36 inches,<unitdate type="inclusive">1958</unitdate>
+						</unittitle>
+					</did>
+					</c02>					
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Huge Posters, Posters Not Advertising Movies, Ernest Hemingway “All you have to do is write one true sentence.’, Scribner (book advertisements on the back for Hemingway books), in color, 19x35 inches,<unitdate type="inclusive">July 1999</unitdate>
+						</unittitle>
+					</did>
+					</c02>	
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Huge Posters, Posters Not Advertising Movies, Hemingway Review: University of Idaho Press, the Ernest Hemingway Foundation Paris, France, 1923 Passport photograph of Hemingway in shades of brown, white, black, and pink, 22.5x33.5 inches,<unitdate type="inclusive">July 3-8, 1994</unitdate>
+						</unittitle>
+					</did>
+					</c02>									
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Huge Posters, Posters Not Advertising Movies, “The Old Man and the Sea” Hemingway, Fuentes, [both on the ‘Pilar’], in color, signed C. Sandowski, #749/6000, 25x37 inches,<unitdate type="inclusive">1990</unitdate>
+						</unittitle>
+					</did>
+					</c02>					
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Huge Posters, Posters Not Advertising Movies, Ernest Hemingway and Cojimar, Fotos by Raul Corrales, black and white photograph of two men, Hemingway and Fuentes, on a bridge, on a black background with white and gray 	lettering, 27x38 inches,<unitdate type="inclusive">1990</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Huge Posters, Posters Not Advertising Movies, New Ernest Hemingway Collection, rubber poster, black, white, brown portrait of EH with metal hangers, 51x26 inches,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Movie Posters, in color, ‘(The) Gun runners’, Half Sheet, 22x28 inches,<unitdate type="inclusive">1958</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Movie Posters, in color, ‘(A) Farewell to arms’, One Sheet, 27.5x39 inches,<unitdate type="inclusive">1963</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Movie Posters, in color, 'Great white hunter', One Sheet, 27x39 inches,<unitdate type="inclusive">[1952]</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Movie Posters, in color, ‘(The) Killers’, in black, white, and red, One Sheet, 27x39 inches,<unitdate type="inclusive">circa 1964</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Movie Posters, in color, ‘Por quien doblan las campanas (For whom the bell tolls’ in Spanish), 27x39 inches,<unitdate type="inclusive">[1957]</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Movie Posters, in color, ‘In love and war’, Heavy Stock Poster, 30x40 inches,<unitdate type="inclusive">1996</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Movie Posters, in color, ‘(The) Macomber affair', Heavy Stock Poster, 30x40 inches,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Movie Posters, in color, ‘Islands in the stream', One Sheet, 27x41 inches,<unitdate type="inclusive">1977</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Movie Posters, in color, ‘(The) Snows of Kilimanjaro', 27x39 inches,<unitdate type="inclusive">[1952]</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Movie Posters, in color, ‘Adventures of a young man',One Sheet, 27x41 inches,<unitdate type="inclusive">1962</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Movie Posters, in color, ‘Milosc i wojna (‘In love and war’, in Polish), One Sheet, 27x40 inches,<unitdate type="inclusive">1996</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Movie Posters, in color, ‘For whom the bell tolls’, One Sheet, 27x41 inches,<unitdate type="inclusive">1957</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Movie Posters, in color, ‘(A) Farewell to arms’, (on canvas backing), One Sheet, 29x43 inches,<unitdate type="inclusive">1950</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Movie Posters, in color, ‘In love and war, (in plastic), One Sheet, 27x40 inches,<unitdate type="inclusive">1996</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Three Sheet Movie Posters, made in two pieces, in color, ‘Adventures of a young man’, (one 27x40 inches, one 40x52 inches),<unitdate type="inclusive">1962</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Three Sheet Movie Posters, made in two pieces, in color, ‘Under my skin’, (one 26x40 inches, one 42x53 inches),<unitdate type="inclusive">circa 1949</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">6</container>
+						<unittitle>Oversized Folders: Folder #6, Advertising banner: ‘Thomasville: Ernest Hemingway: the collection of a lifetime’, a plastic-coated canvas banner advertising a furniture collection, in white, green, black, and brown, measuring 23.5x56 inches,<unitdate type="inclusive">undated</unitdate>
+						</unittitle>
+					</did>
+					</c02>
+					<c02 level="file">
+					<did>
+						<container type="Folder" label="F">7</container>
+						<unittitle>Oversized Folders: Folder #7, Plat map of Mrs. C. E. Hemingway’s property on Walloon Lake (copy) from the John F. Kennedy Presidential Library, measuring 18x24 inches,<unitdate type="inclusive">1905</unitdate>
+						</unittitle>
+					</did>
+						</c02>
+						<c02 level="file">
+					<did>
+						<container type="Folder" label="F">8</container>
+						<unittitle>Oversized Folders: Folder #8, Addition # 74763: Posters Not Advertising Movies (on top): Up North with the Hemingways exhibit, Midland County Historical Society, 11x17 inches, Oct. 31-Dec. 2, 2007; Ernest Hemingway, portrait with signature, 13 x19 inches, undated; Book covers, by Charles Scribner Sons, 1929, later republished as posters by Cleonike Damianakes/ Marci Economidis and the executors of the Damianakes estate, each 23.5x33 inches, undated; 1)	‘(A)  Farewell to Arms’, 1929, undated; 2) ‘The Sun Also Rises’, 1929, undated; Movie Posters (on bottom): Movie Theater, Lobby Card, ‘Adventures of a Young Man’, 14x22 inches, 1962; Movie Theater Lobby Poster, ‘(A) Farewell to Arms’, torn, 14x30 inches, undated [1932]
+Movie Poster, In color, `Adventures de Jeunesse’, (In French), 46x62 inches, undated [1962],<unitdate type="inclusive">2007, undated [1932], [1962]</unitdate>
+						</unittitle>
+					</did>
+					</c02>	
+				</c01>
+		</dsc>
+	</archdesc>
+</ead>
+
