@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/arclight.git
-  revision: fb12fa4f06670cd6b0fcb8a7ae73a9bd9c6c57f4
+  revision: f2ca695d90252c36219227eb0a4e0ab38772b210
   branch: master
   specs:
     arclight (0.2.0)
@@ -61,12 +61,11 @@ GEM
       execjs
     bcrypt (3.1.13)
     bindex (0.8.1)
-    blacklight (7.0.1)
+    blacklight (7.1.0)
       deprecation
       globalid
       jbuilder (~> 2.7)
       kaminari (>= 0.15)
-      nokogiri (~> 1.6)
       rails (~> 5.1)
     blacklight_range_limit (7.1.0)
       blacklight (>= 7.0)
