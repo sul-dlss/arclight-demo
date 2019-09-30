@@ -11,7 +11,8 @@ sample_unitid:
   ead:
     href: 'http://example.com/sample.xml'
     size: 123456
-
+default:
+  disabled: true
 0234 Aa 2:
   ead:
     href: 'https://github.com/sul-dlss/arclight-demo/raw/master/data/ead/umich-bhl/umich-bhl-0234.xml'
