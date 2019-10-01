@@ -26,4 +26,4 @@ default:
     size: '141.75 KB'
 rosenberg:
   ead:
-    template: 'https://quod.lib.umich.edu/s/sclead/eads/{unitid}.xml'
+    template: 'https://quod.lib.umich.edu/s/sclead/eads/%{collection_unitid}.xml'
