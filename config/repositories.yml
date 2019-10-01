@@ -202,6 +202,10 @@ umich-scrc:
   phone: ''
   contact_info: 'special.collections@umich.edu'
   thumbnail_url: 'https://pbs.twimg.com/media/EDjQV2-W4AE4Amf.jpg'
+  request_types:
+    aeon_web_ead:
+      request_url: 'https://iris.lib.umich.edu/aeon/aeon.dll'
+      request_mappings: 'Action=10&Form=31&Value=ead_url'
 
 umich-wlcl:
   name: 'University of Michigan. William L. Clements Library'

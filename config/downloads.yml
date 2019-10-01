@@ -24,3 +24,6 @@ default:
   pdf:
     href: 'http://pdf.oac.cdlib.org/pdf/hoover/2016C32.pdf'
     size: '141.75 KB'
+rosenberg:
+  ead:
+    template: 'https://quod.lib.umich.edu/s/sclead/eads/{unitid}.xml'
