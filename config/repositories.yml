@@ -223,7 +223,7 @@ umich-wlcl:
 
 cmu-clark:
   name: 'Central Michigan University Clarke Historical Library'
-  description: 'Clarke Historical Library was founded in 1954, when Dr. Norman C. Clarke, Sr. donated his collection of historical books and other materials to his alma mater, Central Michigan University. The Clarke Historical Library emphasizes the preservation and collection of documents on the history of Michigan and the Old Northwest Territory and serves as the archives of Central Michigan University.'
+  description: 'Clarke Historical Library was founded in 1954, when Dr. Norman C. Clarke, Sr. donated his collection of historical books and other materials to his alma mater, Central Michigan University. The Clarke Historical Library mainly collects and makes available to researchers both primary and secondary source collections documenting the history of Michigan, children’s literature, and Central Michigan University.'
   building: 'Park Library'
   address1: '250 East Preston Street'
   address2: ''
@@ -233,5 +233,5 @@ cmu-clark:
   country: 'USA'
   phone: ''
   contact_info: 'clarke@cmich.edu'
-  thumbnail_url: 'http://2.bp.blogspot.com/-nP5SxTe0HEE/XKOQjs_uCuI/AAAAAAAALzA/o2swTszM9BIPZftt6Knf45GWJKfI1UM9ACK4BGAYYCw/s1600/2017-334-04%2BClarke%2BLibrary%2B125%2BYears%2Bsj-400.jpg'
+  thumbnail_url: 'https://quod.lib.umich.edu/c/clarke/graphics/repo_20191001.jpg'
   
