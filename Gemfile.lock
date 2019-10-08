@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/arclight.git
-  revision: d2459eb0c0be99bdf59824116154537af7989cd9
+  revision: b5f12d0b7ad30a30ed52a19199147fd83cac636d
   branch: master
   specs:
     arclight (0.2.0)
