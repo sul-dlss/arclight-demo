@@ -53,7 +53,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 group :production do
-  gem 'mysql2'
+  gem 'mysql2', '< 0.5.3'
 end
 
 gem 'blacklight', '~> 7.0'
