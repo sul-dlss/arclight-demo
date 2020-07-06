@@ -291,7 +291,7 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.7)
-    view_component (2.11.1)
+    view_component (2.13.0)
       activesupport (>= 5.0.0, < 7.0)
     warden (1.2.8)
       rack (>= 2.0.6)
