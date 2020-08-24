@@ -8,7 +8,7 @@ rvm:
   - 2.7.1
 
 jdk:
-  - oraclejdk9
+  - openjdk11
 cache: bundler
 
 before_script:
