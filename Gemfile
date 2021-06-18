@@ -9,7 +9,7 @@ end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.1'
 # Use Puma as the app server
-gem 'puma'
+gem 'puma', '5.3.2'
 gem 'bootsnap'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
@@ -70,4 +70,3 @@ gem 'devise-guests', '~> 0.5'
 gem 'whenever'
 
 gem 'honeybadger'
-gem 'mini_racer'
