@@ -79,7 +79,7 @@ GEM
       execjs (~> 2)
     bcrypt (3.1.16)
     bindex (0.8.1)
-    blacklight (7.20.1)
+    blacklight (7.21.1)
       deprecation
       globalid
       i18n (>= 1.7.0)
@@ -273,7 +273,7 @@ GEM
       railties (>= 4.2.0, < 7.0)
       schmooze (= 0.1.6)
       sprockets (~> 3.5)
-    sprockets-rails (3.3.0)
+    sprockets-rails (3.4.0)
       actionpack (>= 5.2)
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
@@ -310,12 +310,12 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.8)
-    view_component (2.43.1)
+    view_component (2.44.0)
       activesupport (>= 5.0.0, < 8.0)
       method_source (~> 1.0)
     warden (1.2.9)
       rack (>= 2.0.9)
-    web-console (4.1.0)
+    web-console (4.2.0)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
       bindex (>= 0.4.0)
