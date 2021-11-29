@@ -79,7 +79,7 @@ GEM
       execjs (~> 2)
     bcrypt (3.1.16)
     bindex (0.8.1)
-    blacklight (7.21.1)
+    blacklight (7.21.2)
       deprecation
       globalid
       i18n (>= 1.7.0)
@@ -90,7 +90,7 @@ GEM
       view_component (~> 2.42)
     blacklight_range_limit (7.9.1)
       blacklight (~> 7.0)
-    bootsnap (1.9.1)
+    bootsnap (1.9.3)
       msgpack (~> 1.0)
     bootstrap (4.6.1)
       autoprefixer-rails (>= 9.1.0)
@@ -120,7 +120,7 @@ GEM
     ffi-compiler (1.0.1)
       ffi (>= 1.0.0)
       rake
-    globalid (0.5.2)
+    globalid (1.0.0)
       activesupport (>= 5.0)
     hashie (4.1.0)
     honeybadger (4.9.0)
@@ -273,7 +273,7 @@ GEM
       railties (>= 4.2.0, < 7.0)
       schmooze (= 0.1.6)
       sprockets (~> 3.5)
-    sprockets-rails (3.4.0)
+    sprockets-rails (3.4.1)
       actionpack (>= 5.2)
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
@@ -310,7 +310,7 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.8)
-    view_component (2.44.0)
+    view_component (2.45.0)
       activesupport (>= 5.0.0, < 8.0)
       method_source (~> 1.0)
     warden (1.2.9)
