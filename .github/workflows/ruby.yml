@@ -16,7 +16,9 @@ jobs:
       with:
         ruby-version: 2.7
     - name: Install libxml2
-      run: sudo apt-get install libxml2-utils
+      run: |
+          sudo apt-get update
+          sudo apt-get install libxml2-utils
     - name: Lint EAD
       run: find data/ead -name '*.xml' | xargs xmllint --noout --schema data/xsd/ead.xsd || (exit 0)
     - uses: actions/cache@v2
