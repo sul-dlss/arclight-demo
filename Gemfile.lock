@@ -78,9 +78,9 @@ GEM
       public_suffix (>= 2.0.2, < 5.0)
     autoprefixer-rails (10.4.2.0)
       execjs (~> 2)
-    bcrypt (3.1.16)
+    bcrypt (3.1.17)
     bindex (0.8.1)
-    blacklight (7.23.0.1)
+    blacklight (7.24.0)
       deprecation
       globalid
       i18n (>= 1.7.0)
@@ -163,7 +163,7 @@ GEM
     llhttp-ffi (0.4.0)
       ffi-compiler (~> 1.0)
       rake (~> 13.0)
-    loofah (2.14.0)
+    loofah (2.15.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.7.1)
@@ -312,7 +312,7 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.8.1)
-    view_component (2.50.0)
+    view_component (2.51.0)
       activesupport (>= 5.0.0, < 8.0)
       method_source (~> 1.0)
     warden (1.2.9)
