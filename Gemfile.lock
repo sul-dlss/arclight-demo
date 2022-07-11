@@ -85,7 +85,7 @@ GEM
       execjs (~> 2)
     bcrypt (3.1.18)
     bindex (0.8.1)
-    blacklight (7.27.0)
+    blacklight (7.27.1)
       deprecation
       globalid
       hashdiff
@@ -95,7 +95,7 @@ GEM
       ostruct (>= 0.3.2)
       rails (>= 5.1, < 7.1)
       view_component (~> 2.43)
-    blacklight_range_limit (8.2.1)
+    blacklight_range_limit (8.2.2)
       blacklight (>= 7.22.2, < 9)
     bootsnap (1.12.0)
       msgpack (~> 1.2)
@@ -149,7 +149,7 @@ GEM
       domain_name (~> 0.5)
     http-form_data (2.3.0)
     httpclient (2.8.3)
-    i18n (1.10.0)
+    i18n (1.11.0)
       concurrent-ruby (~> 1.0)
     io-console (0.5.11)
     irb (1.4.1)
