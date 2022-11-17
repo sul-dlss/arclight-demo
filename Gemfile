@@ -15,7 +15,7 @@ gem "sprockets-rails"
 # Use Puma as the app server
 # NOTE: this MUST match the puma version Elastic Beanstalk uses or
 # things break.
-gem 'puma', '5.6.2'
+gem 'puma', '6.0.0'
 
 gem 'bootsnap'
 # Use SCSS for stylesheets
@@ -61,7 +61,7 @@ group :production do
 end
 
 gem 'blacklight', '~> 7.0'
-gem 'arclight', github: 'projectblacklight/arclight', branch: 'master'
+gem 'arclight'
 gem 'blacklight_range_limit', '~> 8.1'
 gem 'bootstrap', '~> 4.0'
 gem 'popper_js'
