@@ -60,12 +60,10 @@ group :production do
   gem 'mysql2'
 end
 
-gem 'blacklight', '~> 7.0'
-gem 'arclight'
-gem 'blacklight_range_limit', '~> 8.1'
-gem 'bootstrap', '~> 4.0'
+gem 'blacklight', github: 'projectblacklight/blacklight'
+gem 'arclight', github: 'projectblacklight/arclight'
+gem 'bootstrap', '~> 5.0'
 gem 'popper_js'
-gem 'twitter-typeahead-rails', '0.11.1.pre.corejavascript'
 
 gem 'rsolr', '~> 2.0'
 gem 'devise'
