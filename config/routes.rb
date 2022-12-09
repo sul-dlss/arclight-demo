@@ -11,8 +11,6 @@ Rails.application.routes.draw do
 
   devise_for :users
   concern :exportable, Blacklight::Routes::Exportable.new
-        
-    concern :hierarchy, Arclight::Routes::Hierarchy.new
   concern :hierarchy, Arclight::Routes::Hierarchy.new
 
   resources :solr_documents, only: [:show], path: '/catalog', controller: 'catalog' do
