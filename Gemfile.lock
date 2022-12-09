@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/arclight.git
-  revision: 20aa68e749a06e504ede65abd6cf05cf70b0301f
+  revision: 9bed7268e67d16f92449d342f01ef5697da1a75e
   specs:
     arclight (1.0.0.alpha)
       blacklight (>= 7.14, < 9)
@@ -11,7 +11,7 @@ GIT
 
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: 06a5add8cf338361208878b7efbe68d19b752a8f
+  revision: 3d551e5138d6e36dfa3b6f325e8282f65d845ce4
   specs:
     blacklight (8.0.0.alpha)
       globalid
@@ -96,9 +96,11 @@ GEM
       execjs (~> 2)
     bcrypt (3.1.18)
     bindex (0.8.1)
-    bootsnap (1.13.0)
+    blacklight-locale_picker (1.0.0)
+      rails (>= 5.2.3, < 7.1)
+    bootsnap (1.15.0)
       msgpack (~> 1.2)
-    bootstrap (5.2.2)
+    bootstrap (5.2.3)
       autoprefixer-rails (>= 9.1.0)
       popper_js (>= 2.11.6, < 3)
       sassc-rails (>= 2.0.0)
@@ -106,8 +108,9 @@ GEM
     chronic (0.10.2)
     concurrent-ruby (1.1.10)
     crass (1.0.6)
-    debug (1.6.3)
-      irb (>= 1.3.6)
+    date (3.3.1)
+    debug (1.7.0)
+      irb (>= 1.5.0)
       reline (>= 0.3.1)
     deprecation (1.1.0)
       activesupport
@@ -125,7 +128,7 @@ GEM
       bundler (>= 2.2.33)
     erubi (1.11.0)
     execjs (2.8.1)
-    faraday (2.7.0)
+    faraday (2.7.1)
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
@@ -155,7 +158,7 @@ GEM
       actionpack (>= 6.0.0)
       railties (>= 6.0.0)
     io-console (0.5.11)
-    irb (1.4.3)
+    irb (1.6.0)
       reline (>= 0.3.0)
     jbuilder (2.11.5)
       actionview (>= 5.0.0)
@@ -183,8 +186,11 @@ GEM
     loofah (2.19.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
-    mail (2.7.1)
+    mail (2.8.0)
       mini_mime (>= 0.1.1)
+      net-imap
+      net-pop
+      net-smtp
     marc (1.2.0)
       rexml
       scrub_rb (>= 1.0.1, < 2)
@@ -200,27 +206,28 @@ GEM
     msgpack (1.6.0)
     multi_json (1.15.0)
     mysql2 (0.5.4)
-    net-imap (0.3.1)
+    net-imap (0.3.2)
+      date
       net-protocol
     net-pop (0.1.2)
       net-protocol
-    net-protocol (0.1.3)
+    net-protocol (0.2.1)
       timeout
     net-smtp (0.3.3)
       net-protocol
     nio4r (2.5.8)
-    nokogiri (1.13.9)
+    nokogiri (1.13.10)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
-    nokogiri (1.13.9-x86_64-linux)
+    nokogiri (1.13.10-x86_64-linux)
       racc (~> 1.4)
     orm_adapter (0.5.0)
     ostruct (0.5.5)
     popper_js (2.11.6)
-    public_suffix (5.0.0)
+    public_suffix (5.0.1)
     puma (6.0.0)
       nio4r (~> 2.0)
-    racc (1.6.0)
+    racc (1.6.1)
     rack (2.2.4)
     rack-test (2.0.2)
       rack (>= 1.3)
@@ -288,15 +295,15 @@ GEM
       actionpack (>= 5.2)
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
-    sqlite3 (1.5.3)
+    sqlite3 (1.5.4)
       mini_portile2 (~> 2.8.0)
-    sqlite3 (1.5.3-x86_64-linux)
-    stimulus-rails (1.1.1)
+    sqlite3 (1.5.4-x86_64-linux)
+    stimulus-rails (1.2.1)
       railties (>= 6.0.0)
     thor (1.2.1)
     tilt (2.0.11)
-    timeout (0.3.0)
-    traject (3.7.0)
+    timeout (0.3.1)
+    traject (3.8.1)
       concurrent-ruby (>= 0.8.0)
       dot-properties (>= 0.1.1)
       hashie (>= 3.1, < 6)
@@ -323,7 +330,7 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.8.2)
-    view_component (2.76.0)
+    view_component (2.78.0)
       activesupport (>= 5.0.0, < 8.0)
       concurrent-ruby (~> 1.0)
       method_source (~> 1.0)
@@ -349,6 +356,7 @@ PLATFORMS
 DEPENDENCIES
   arclight!
   blacklight!
+  blacklight-locale_picker
   bootsnap
   bootstrap (~> 5.0)
   debug
@@ -374,4 +382,4 @@ DEPENDENCIES
   whenever
 
 BUNDLED WITH
-   2.3.19
+   2.3.26

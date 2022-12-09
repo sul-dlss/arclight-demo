@@ -75,3 +75,4 @@ gem 'devise-guests', '~> 0.5'
 gem 'whenever'
 
 gem 'honeybadger'
+gem "blacklight-locale_picker"
