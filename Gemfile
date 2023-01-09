@@ -80,3 +80,5 @@ gem 'whenever'
 
 gem 'honeybadger'
 gem "blacklight-locale_picker"
+
+gem 'mail', '< 2.8' # https://github.com/mikel/mail/issues/1516

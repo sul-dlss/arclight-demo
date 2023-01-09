@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/projectblacklight/arclight.git
-  revision: 9bed7268e67d16f92449d342f01ef5697da1a75e
+  revision: dbdba62ad75fa8ef2663f02df2a53254d8b8ff34
   specs:
     arclight (1.0.0.alpha)
       blacklight (>= 7.14, < 9)
@@ -11,7 +11,7 @@ GIT
 
 GIT
   remote: https://github.com/projectblacklight/blacklight.git
-  revision: 3d551e5138d6e36dfa3b6f325e8282f65d845ce4
+  revision: 96de2022a3082f0421f1c132dde2a9bd3e0b440a
   specs:
     blacklight (8.0.0.alpha)
       globalid
@@ -109,7 +109,7 @@ GEM
     concurrent-ruby (1.1.10)
     crass (1.0.6)
     date (3.1.3)
-    debug (1.7.0)
+    debug (1.7.1)
       irb (>= 1.5.0)
       reline (>= 0.3.1)
     deprecation (1.1.0)
@@ -126,9 +126,9 @@ GEM
       unf (>= 0.0.5, < 1.0.0)
     dot-properties (0.1.4)
       bundler (>= 2.2.33)
-    erubi (1.11.0)
+    erubi (1.12.0)
     execjs (2.8.1)
-    faraday (2.7.1)
+    faraday (2.7.2)
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
@@ -143,7 +143,7 @@ GEM
       railties (>= 5.1, < 7.1)
     hashie (5.0.0)
     honeybadger (5.0.2)
-    http (5.1.0)
+    http (5.1.1)
       addressable (~> 2.8)
       http-cookie (~> 1.0)
       http-form_data (~> 2.2)
@@ -157,8 +157,8 @@ GEM
     importmap-rails (1.1.5)
       actionpack (>= 6.0.0)
       railties (>= 6.0.0)
-    io-console (0.5.11)
-    irb (1.6.0)
+    io-console (0.6.0)
+    irb (1.6.2)
       reline (>= 0.3.0)
     jbuilder (2.11.5)
       actionview (>= 5.0.0)
@@ -177,20 +177,17 @@ GEM
       activerecord
       kaminari-core (= 1.2.2)
     kaminari-core (1.2.2)
-    listen (3.7.1)
+    listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     llhttp-ffi (0.4.0)
       ffi-compiler (~> 1.0)
       rake (~> 13.0)
-    loofah (2.19.0)
+    loofah (2.19.1)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
-    mail (2.8.0)
+    mail (2.7.1)
       mini_mime (>= 0.1.1)
-      net-imap
-      net-pop
-      net-smtp
     marc (1.2.0)
       rexml
       scrub_rb (>= 1.0.1, < 2)
@@ -200,13 +197,13 @@ GEM
     marcel (1.0.2)
     method_source (1.0.0)
     mini_mime (1.1.2)
-    mini_portile2 (2.8.0)
+    mini_portile2 (2.8.1)
     minitar (0.9)
-    minitest (5.16.3)
+    minitest (5.17.0)
     msgpack (1.6.0)
     multi_json (1.15.0)
     mysql2 (0.5.4)
-    net-imap (0.3.2)
+    net-imap (0.3.4)
       date
       net-protocol
     net-pop (0.1.2)
@@ -227,8 +224,8 @@ GEM
     public_suffix (5.0.1)
     puma (6.0.0)
       nio4r (~> 2.0)
-    racc (1.6.1)
-    rack (2.2.4)
+    racc (1.6.2)
+    rack (2.2.5)
     rack-test (2.0.2)
       rack (>= 1.3)
     rails (7.0.4)
@@ -248,8 +245,8 @@ GEM
     rails-dom-testing (2.0.3)
       activesupport (>= 4.2.0)
       nokogiri (>= 1.6)
-    rails-html-sanitizer (1.4.3)
-      loofah (~> 2.3)
+    rails-html-sanitizer (1.4.4)
+      loofah (~> 2.19, >= 2.19.1)
     railties (7.0.4)
       actionpack (= 7.0.4)
       activesupport (= 7.0.4)
@@ -261,7 +258,7 @@ GEM
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    reline (0.3.1)
+    reline (0.3.2)
       io-console (~> 0.5)
     responders (3.0.1)
       actionpack (>= 5.0)
@@ -288,9 +285,9 @@ GEM
       minitar
       retriable
       ruby-progressbar
-    sprockets (4.1.1)
+    sprockets (4.2.0)
       concurrent-ruby (~> 1.0)
-      rack (> 1, < 3)
+      rack (>= 2.2.4, < 4)
     sprockets-rails (3.4.2)
       actionpack (>= 5.2)
       activesupport (>= 5.2)
@@ -330,8 +327,8 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.8.2)
-    view_component (2.78.0)
-      activesupport (>= 5.0.0, < 8.0)
+    view_component (2.80.0)
+      activesupport (>= 5.2.0, < 8.0)
       concurrent-ruby (~> 1.0)
       method_source (~> 1.0)
     warden (1.2.9)
@@ -366,6 +363,7 @@ DEPENDENCIES
   honeybadger
   importmap-rails
   listen (~> 3.0)
+  mail (< 2.8)
   mysql2
   popper_js
   puma (= 6.0.0)
