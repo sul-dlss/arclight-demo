@@ -17,6 +17,10 @@ gem "sprockets-rails"
 # things break.
 gem 'puma', '6.0.0'
 
+# NOTE: this MUST also match the puma version Elastic Beanstalk uses or
+# things break.
+gem 'date', '3.1.3'
+
 gem 'bootsnap'
 # Use SCSS for stylesheets
 gem 'sassc-rails'
