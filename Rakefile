@@ -20,7 +20,9 @@ namespace :demo do
   task :server, [:rails_server_args] do |_t, args|
     SolrWrapper.wrap do |solr|
       solr.with_collection do
-        system "bundle exec rails s #{args[:rails_server_args]}"
+        Bundler.with_clean_env do
+          system "bin/dev #{args[:rails_server_args]}"
+        end
       end
     end
   end
