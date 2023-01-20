@@ -22,12 +22,6 @@ gem 'puma', '6.0.0'
 gem 'date', '3.1.3'
 
 gem 'bootsnap'
-# Use SCSS for stylesheets
-gem 'sassc-rails'
-# Use Uglifier as compressor for JavaScript assets
-gem 'uglifier', '>= 1.3.0'
-# See https://github.com/rails/execjs#readme for more supported runtimes
-# gem 'therubyracer', platforms: :ruby
 
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
 gem "importmap-rails"
@@ -69,9 +63,6 @@ end
 
 gem 'blacklight', github: 'projectblacklight/blacklight'
 gem 'arclight', github: 'projectblacklight/arclight'
-gem 'bootstrap', '~> 5.0'
-gem 'popper_js'
-
 gem 'rsolr', '~> 2.0'
 gem 'devise'
 gem 'devise-guests', '~> 0.5'
@@ -82,3 +73,5 @@ gem 'honeybadger'
 gem "blacklight-locale_picker"
 
 gem 'mail', '< 2.8' # https://github.com/mikel/mail/issues/1516
+
+gem "cssbundling-rails", "~> 1.1"

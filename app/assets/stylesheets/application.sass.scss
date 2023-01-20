@@ -1,0 +1,5 @@
+// Entry point for your Sass build
+$breadcrumb-divider: quote("»");
+@import 'bootstrap/scss/bootstrap';
+@import 'blacklight-frontend/app/assets/stylesheets/blacklight/blacklight';
+@import 'arclight/app/assets/stylesheets/arclight/application';
