@@ -3,7 +3,7 @@
 To setup the server:
 
 ```
-bundle install
+bundle
 ```
 
 Then, to run the server:
