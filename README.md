@@ -1,7 +1,5 @@
 # Arclight Demo Application
 
-[![Build Status](https://travis-ci.org/sul-dlss/arclight-demo.svg?branch=master)](https://travis-ci.org/sul-dlss/arclight-demo)
-
 To setup the server:
 
 ```
