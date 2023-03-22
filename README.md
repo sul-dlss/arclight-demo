@@ -9,8 +9,9 @@ bundle
 Then, to run the server:
 
 ```
-bin/rails demo:server  # runs both Rails and Solr
+solr_wrapper           # run this in one console
 bin/rails demo:seed    # to load data from data/ead folder
+bin/dev                # Compiles sass and runs the web server
 ```
 
 ## Updating Arclight
