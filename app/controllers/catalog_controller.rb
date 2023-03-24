@@ -25,6 +25,9 @@ class CatalogController < ApplicationController
       'collection.rows': 1
     }
 
+    # Sets the indexed Solr field that will display with highlighted matches
+    config.highlight_field = 'text'
+
     # solr path which will be added to solr base url before the other solr params.
     # config.solr_path = 'select'
 
@@ -45,8 +48,8 @@ class CatalogController < ApplicationController
     }
 
     config.header_component = Arclight::HeaderComponent
-    config.add_results_document_tool(:bookmark, partial: 'bookmark_control', if: :render_bookmarks_control?)
     config.add_results_document_tool(:online, component: Arclight::OnlineStatusIndicatorComponent)
+    config.add_results_document_tool(:arclight_bookmark_control, component: Arclight::BookmarkComponent)
 
     config.add_results_collection_tool(:group_toggle)
     config.add_results_collection_tool(:sort_widget)
@@ -64,14 +67,13 @@ class CatalogController < ApplicationController
     config.index.group_component = Arclight::GroupComponent
     config.index.constraints_component = Arclight::ConstraintsComponent
     config.index.document_presenter_class = Arclight::IndexPresenter
-    config.add_results_document_tool :arclight_bookmark_control, partial: 'arclight_bookmark_control'
     config.index.search_bar_component = Arclight::SearchBarComponent
-    config.index.document_actions.delete(:bookmark)
     # config.index.thumbnail_field = 'thumbnail_path_ss'
 
     # solr field configuration for document/show views
     # config.show.title_field = 'title_display'
     config.show.document_component = Arclight::DocumentComponent
+    config.show.sidebar_component = Arclight::SidebarComponent
     config.show.breadcrumb_component = Arclight::BreadcrumbsHierarchyComponent
     config.show.embed_component = Arclight::EmbedComponent
     config.show.access_component = Arclight::AccessComponent
@@ -138,20 +140,12 @@ class CatalogController < ApplicationController
 
     config.add_facet_field 'collection', field: 'collection_ssim', limit: 10
     config.add_facet_field 'creator', field: 'creator_ssim', limit: 10
-    config.add_facet_field 'creators', field: 'creators_ssim', show: false
     config.add_facet_field 'date_range', field: 'date_range_ssim', range: true
     config.add_facet_field 'level', field: 'level_ssim', limit: 10
     config.add_facet_field 'names', field: 'names_ssim', limit: 10
     config.add_facet_field 'repository', field: 'repository_ssim', limit: 10
     config.add_facet_field 'place', field: 'geogname_ssim', limit: 10
-    config.add_facet_field 'places', field: 'places_ssim', show: false
     config.add_facet_field 'subject', field: 'access_subjects_ssim', limit: 10
-    config.add_facet_field 'component_level_isim', show: false
-
-    # Note that parent_ssim is an array of all ancestor nodes, including the parent
-    # parent_ssi is just the immediate parent; it's used in queries for context nav
-    config.add_facet_field 'parent_ssim', show: false
-    config.add_facet_field 'parent_ssi', show: false
 
     # Have BL send all facet field names to Solr, which has been the default
     # previously. Simply remove these lines if you'd rather use Solr request
