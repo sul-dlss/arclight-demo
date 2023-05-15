@@ -67,7 +67,7 @@ gem 'rsolr', '~> 2.0'
 gem 'devise'
 gem 'devise-guests', '~> 0.5'
 
-gem 'whenever'
+gem 'whenever', require: false # Work around https://github.com/javan/whenever/issues/831
 
 gem 'honeybadger'
 gem "blacklight-locale_picker"
