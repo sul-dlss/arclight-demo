@@ -60,8 +60,7 @@ group :production do
   gem 'mysql2'
 end
 
-gem 'blacklight', github: 'projectblacklight/blacklight'
-gem 'arclight', github: 'projectblacklight/arclight'
+gem 'arclight', '~> 1.1'
 gem 'rsolr', '~> 2.0'
 gem 'devise'
 gem 'devise-guests', '~> 0.5'
