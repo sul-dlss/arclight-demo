@@ -10,7 +10,7 @@ jobs:
   tests:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
@@ -21,7 +21,7 @@ jobs:
           sudo apt-get install libxml2-utils
     - name: Lint EAD
       run: find data/ead -name '*.xml' | xargs xmllint --noout --schema data/xsd/ead.xsd || (exit 0)
-    - uses: actions/cache@v3
+    - uses: actions/cache@v4
       with:
         path: vendor/bundle
         key: ${{ runner.os }}-gems-202103-${{ hashFiles('**/Gemfile.lock') }}
