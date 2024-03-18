@@ -13,3 +13,6 @@ pin "arclight", to: "arclight/arclight.js"
 # TODO: We may be able to move these to a single importmap for arclight.
 pin "arclight/oembed_controller", to: "arclight/oembed_controller.js"
 pin "arclight/truncate_controller", to: "arclight/truncate_controller.js"
+pin "@github/auto-complete-element", to: "https://cdn.skypack.dev/@github/auto-complete-element"
+pin "@popperjs/core", to: "https://ga.jspm.io/npm:@popperjs/core@2.11.6/dist/umd/popper.min.js"
+pin "bootstrap", to: "https://ga.jspm.io/npm:bootstrap@5.3.2/dist/js/bootstrap.js"

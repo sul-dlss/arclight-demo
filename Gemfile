@@ -74,3 +74,6 @@ gem "blacklight-locale_picker"
 gem 'mail', '< 2.8' # https://github.com/mikel/mail/issues/1516
 
 gem "cssbundling-rails", "~> 1.1"
+gem "bootstrap", "~> 5.3"
+gem "sassc-rails", "~> 2.1"
+gem "blacklight-locale_picker"

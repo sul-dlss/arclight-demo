@@ -10,7 +10,7 @@ anymatch@~3.1.2:
     normalize-path "^3.0.0"
     picomatch "^2.0.4"
 
-arclight@^1.0.0-pre.5:
+arclight@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/arclight/-/arclight-1.1.0.tgz#8905f986ec411063eaf09df45c7d2ed64c58ce7e"
   integrity sha512-hV/hpKuaMT7hEl2IS5X+kYB3mOX7M2CVW4TC+oQu7WYsX0a2Ofi5gm4WxEpojlxqi12YuQCgGoVo/xkjLX972g==
@@ -20,7 +20,7 @@ binary-extensions@^2.0.0:
   resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-2.3.0.tgz#f6e14a97858d327252200242d4ccfe522c445522"
   integrity sha512-Ceh+7ox5qe7LJuLHoY0feh3pHuUDHAcRUeyL2VYghZwfpkNIy/+8Ocg0a3UuSoYzavmylwuLWQOf3hl0jjMMIw==
 
-blacklight-frontend@^8.0.0-pre.1:
+blacklight-frontend@^8:
   version "8.0.1"
   resolved "https://registry.yarnpkg.com/blacklight-frontend/-/blacklight-frontend-8.0.1.tgz#20c923ea45e0d9c774ad3d23ef0bed2e31a12c71"
   integrity sha512-KVQ4txligEJb3RZx4LpGEx/YDWRWgSDP7xdJOzudFLFwZ8eJAwbwc7L5ErXvuNwdSz0o6v5vf6IIr66Hpbg5TA==
