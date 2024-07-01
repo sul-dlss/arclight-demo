@@ -75,8 +75,8 @@ GEM
       minitest (>= 5.1)
       mutex_m
       tzinfo (~> 2.0)
-    addressable (2.8.6)
-      public_suffix (>= 2.0.2, < 6.0)
+    addressable (2.8.7)
+      public_suffix (>= 2.0.2, < 7.0)
     arclight (1.4.0)
       blacklight (>= 8.0.0, < 9)
       gretel
@@ -125,7 +125,7 @@ GEM
       bundler (>= 2.2.33)
     drb (2.2.1)
     erubi (1.13.0)
-    faraday (2.9.1)
+    faraday (2.9.2)
       faraday-net_http (>= 2.0, < 3.2)
     faraday-net_http (3.1.0)
       net-http
@@ -140,7 +140,7 @@ GEM
       actionview (>= 5.1, < 7.2)
       railties (>= 5.1, < 7.2)
     hashie (5.0.0)
-    honeybadger (5.12.0)
+    honeybadger (5.13.0)
     http (5.2.0)
       addressable (~> 2.8)
       base64 (~> 0.1)
@@ -197,14 +197,14 @@ GEM
     mini_mime (1.1.5)
     mini_portile2 (2.8.7)
     minitar (0.9)
-    minitest (5.23.1)
+    minitest (5.24.1)
     msgpack (1.7.2)
     multi_json (1.15.0)
     mutex_m (0.2.0)
     mysql2 (0.5.6)
     net-http (0.4.1)
       uri
-    net-imap (0.4.13)
+    net-imap (0.4.14)
       date
       net-protocol
     net-pop (0.1.2)
@@ -223,11 +223,11 @@ GEM
     ostruct (0.6.0)
     psych (5.1.2)
       stringio
-    public_suffix (5.1.1)
+    public_suffix (6.0.0)
     puma (6.0.0)
       nio4r (~> 2.0)
     racc (1.8.0)
-    rack (3.1.3)
+    rack (3.1.4)
     rack-session (2.0.0)
       rack (>= 3.0.0)
     rack-test (2.1.0)
@@ -273,7 +273,7 @@ GEM
       actionpack (>= 5.2)
       railties (>= 5.2)
     retriable (3.1.2)
-    rexml (3.3.0)
+    rexml (3.3.1)
       strscan
     rsolr (2.6.0)
       builder (>= 2.1.2)
@@ -379,4 +379,4 @@ DEPENDENCIES
   whenever
 
 BUNDLED WITH
-   2.3.26
+   2.5.14
