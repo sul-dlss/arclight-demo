@@ -149,7 +149,7 @@ GEM
       actionview (>= 6.1)
       railties (>= 6.1)
     hashie (5.0.0)
-    honeybadger (5.24.0)
+    honeybadger (5.26.0)
       logger
     http (5.2.0)
       addressable (~> 2.8)
@@ -192,7 +192,7 @@ GEM
     llhttp-ffi (0.5.0)
       ffi-compiler (~> 1.0)
       rake (~> 13.0)
-    logger (1.6.1)
+    logger (1.6.2)
     loofah (2.23.1)
       crass (~> 1.0.2)
       nokogiri (>= 1.12.0)
@@ -214,7 +214,7 @@ GEM
     multi_json (1.15.0)
     mutex_m (0.3.0)
     mysql2 (0.5.6)
-    net-http (0.5.0)
+    net-http (0.6.0)
       uri
     net-imap (0.5.1)
       date
@@ -233,7 +233,8 @@ GEM
       racc (~> 1.4)
     orm_adapter (0.5.0)
     ostruct (0.6.1)
-    psych (5.2.0)
+    psych (5.2.1)
+      date
       stringio
     public_suffix (6.0.1)
     puma (6.0.0)
@@ -278,7 +279,7 @@ GEM
     rake (13.2.1)
     rdoc (6.8.1)
       psych (>= 4.0.0)
-    reline (0.5.11)
+    reline (0.5.12)
       io-console (~> 0.5)
     responders (3.1.1)
       actionpack (>= 5.2)
@@ -290,7 +291,7 @@ GEM
       faraday (>= 0.9, < 3, != 2.0.0)
     ruby-progressbar (1.13.0)
     scrub_rb (1.0.1)
-    securerandom (0.3.2)
+    securerandom (0.4.0)
     slop (4.10.1)
     solr_wrapper (4.1.0)
       faraday
