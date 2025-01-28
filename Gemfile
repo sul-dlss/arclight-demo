@@ -71,6 +71,4 @@ gem 'whenever', require: false # Work around https://github.com/javan/whenever/i
 gem 'honeybadger'
 gem "blacklight-locale_picker"
 
-gem 'mail', '< 2.8' # https://github.com/mikel/mail/issues/1516
-
 gem "cssbundling-rails", "~> 1.1"
