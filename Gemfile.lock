@@ -365,7 +365,7 @@ GEM
     whenever (1.0.0)
       chronic (>= 0.6.3)
     yell (2.2.2)
-    zeitwerk (2.7.1)
+    zeitwerk (2.7.2)
 
 PLATFORMS
   arm64-darwin-24
