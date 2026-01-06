@@ -2,34 +2,34 @@ name: CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   tests:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v6
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: '3.1'
-    - name: Install libxml2
-      run: |
+      - uses: actions/checkout@v6
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "4.0"
+      - name: Install libxml2
+        run: |
           sudo apt-get update
           sudo apt-get install libxml2-utils
-    - name: Lint EAD
-      run: find data/ead -name '*.xml' | xargs xmllint --noout --schema data/xsd/ead.xsd || (exit 0)
-    - uses: actions/cache@v5
-      with:
-        path: vendor/bundle
-        key: ${{ runner.os }}-gems-202103-${{ hashFiles('**/Gemfile.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-gems-202103
-    - name: Bundle install
-      run: |
-        bundle config path vendor/bundle
-        bundle install
-    - name: Run tests
-      run: bundle exec rake
+      - name: Lint EAD
+        run: find data/ead -name '*.xml' | xargs xmllint --noout --schema data/xsd/ead.xsd || (exit 0)
+      - uses: actions/cache@v5
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-202103-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-202103
+      - name: Bundle install
+        run: |
+          bundle config path vendor/bundle
+          bundle install
+      - name: Run tests
+        run: bundle exec rake
