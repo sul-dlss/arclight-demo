@@ -390,7 +390,7 @@ DEPENDENCIES
   rsolr (~> 2.0)
   solr_wrapper (>= 0.3)
   sprockets-rails
-  sqlite3 (~> 2.5)
+  sqlite3 (>= 2.1)
   stimulus-rails
   turbo-rails
   tzinfo-data
