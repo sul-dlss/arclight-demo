@@ -29,4 +29,4 @@ bundle update arclight
 See https://github.com/projectblacklight/arclight/wiki/Upgrading-your-ArcLight-application
 
 ## Deploying
-Deployment is handled via AWS CodePipeline
+Deployment is handled via AWS CodePipeline.
