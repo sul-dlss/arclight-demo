@@ -12,6 +12,9 @@ gem 'rails', '~> 8.0.4'
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
+# Use sqlite3 as the database for Active Record
+gem 'sqlite3', '~> 2.5'
+
 # Use Puma as the app server
 # NOTE: this MUST match the puma version Elastic Beanstalk uses or
 # things break.
@@ -43,8 +46,6 @@ gem "stimulus-rails"
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
   gem "debug", platforms: %i[ mri mingw x64_mingw ]
-  # Use sqlite3 as the database for Active Record
-  gem 'sqlite3', '~> 2.5'
   gem 'solr_wrapper', '>= 0.3'
 end
 
@@ -55,10 +56,6 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
-group :production do
-  gem 'mysql2'
-end
 
 gem 'blacklight', '~> 8.1'
 gem 'arclight', '~> 1.1'
