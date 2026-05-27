@@ -26,7 +26,7 @@ bundle update arclight
 
 ## Updating the application
 
-See https://github.com/sul-dlss/arclight/wiki/Upgrading-your-ArcLight-application
+See https://github.com/projectblacklight/arclight/wiki/Upgrading-your-ArcLight-application
 
 ## Deploying
 Deployment is handled via AWS CodePipeline
