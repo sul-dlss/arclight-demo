@@ -15,15 +15,6 @@ gem "sprockets-rails"
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 2.5'
 
-# Use Puma as the app server
-# NOTE: this MUST match the puma version Elastic Beanstalk uses or
-# things break.
-gem 'puma', '6.0.0'
-
-# NOTE: this MUST also match the puma version Elastic Beanstalk uses or
-# things break.
-gem 'date', '3.1.3'
-
 gem 'bootsnap'
 
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
