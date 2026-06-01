@@ -40,7 +40,6 @@ group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
   gem "debug", platforms: %i[ mri mingw x64_mingw ]
   gem 'solr_wrapper', '>= 0.3'
-  gem 'benchmark'
 end
 
 group :development do
@@ -53,6 +52,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'blacklight', '~> 8.1'
 gem 'arclight', '~> 1.1'
+gem 'benchmark'
 gem 'rsolr', '~> 2.0'
 gem 'devise'
 gem 'devise-guests', '~> 0.5'
