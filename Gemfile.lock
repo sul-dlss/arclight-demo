@@ -99,7 +99,7 @@ GEM
       zeitwerk
     blacklight-locale_picker (1.3.0)
       rails (>= 5.2.3, < 9)
-    bootsnap (1.24.5)
+    bootsnap (1.24.6)
       msgpack (~> 1.2)
     builder (3.3.0)
     chronic (0.10.2)
